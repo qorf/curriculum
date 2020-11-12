@@ -1,8 +1,11 @@
 {
     "DevelopmentEnvironmentVersion" : "Quorum Studio 2.0",
     "ExecutableName" : "Default",
-    "Main" : "/SourceCode/Main.quorum",
-    "MobileAssets" : "media",
+    "ImageSheetEnabled" : false,
+    "ImageSheetRebuildOnCompile" : false,
+    "Main" : "/SourceCode/Save.quorum",
+    "MobileAssets" : "/media",
     "ProjectName" : "DataScience",
-    "ProjectType" : "JavaType"
+    "ProjectType" : "JavaType",
+    "iosVersion" : "ios14.1"
 }

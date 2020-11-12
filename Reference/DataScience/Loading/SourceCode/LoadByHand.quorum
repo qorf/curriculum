@@ -1,0 +1,24 @@
+//We need the DataFrame class to load in files for Data Science operations.
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Compute.Statistics.Columns.NumberColumn
+use Libraries.Containers.Array
+use Libraries.Compute.Statistics.DataFrameColumn
+
+//Create a DataFrame, which is essentially a table that understands 
+//more information about the data that is being loaded.
+DataFrame frame
+
+//This creates a NumberColumn, which contains numbers
+NumberColumn column
+column:SetHeader("My Column")
+column:Add(1)
+column:Add(2)
+column:Add(3)
+column:Add(4)
+column:Add(5)
+column:Add(6)
+
+frame:AddColumn(column)
+
+//The system loaded the file, but can also output it a text value, or the console, if we want that.
+output frame:ToText()
