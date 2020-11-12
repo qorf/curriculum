@@ -1,0 +1,9 @@
+use Libraries.System.File
+use Libraries.Compute.Statistics.DataFrame
+File file
+file:SetPath("Data/Population.csv")
+
+DataFrame frame
+frame:Load(file)
+
+output frame:ToText()
