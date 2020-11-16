@@ -1,0 +1,25 @@
+//We need the DataFrame class to load in files for Data Science operations.
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Compute.Statistics.Transforms.RemoveUndefinedRowsTransform
+use Libraries.Compute.Statistics.DataFrameColumn
+use Libraries.Compute.Statistics.Calculations.Mean
+
+//Create a DataFrame, which is essentially a table that understands 
+//more information about the data that is being loaded.
+DataFrame frame
+
+//This loads the project relative to the project, so the Population.csv file in the Data folder
+//If we deploy our program, this path is relative to the binary.
+frame:Load("Data/Echocardiogram.csv")
+
+//This class transforms data by removing any rows that contain undefined
+//values. It is now always what we want, but can be useful
+RemoveUndefinedRowsTransform transform
+DataFrame clean = frame:Transform(transform)
+
+//We can save the frame or output it to the console, like we are doing here.
+//output clean:ToText()
+
+DataFrameColumn survival = frame:GetColumn(0)
+Mean mean
+survival:Calculate(mean)
