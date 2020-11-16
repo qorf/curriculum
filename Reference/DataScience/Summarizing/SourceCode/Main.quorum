@@ -1,0 +1,14 @@
+/* 
+    This is a default class named Main. It has one action, also named Main,
+    that starts the program.
+*/
+class Main
+
+    /*
+        This action, Main, starts our computer program. In Quorum, programs always
+        begin from Main.
+    */
+    action Main
+
+    end
+end

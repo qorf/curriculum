@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+   <mover>
+      <mi>x</mi>
+      <mo>¯</mo>
+   </mover>
+   <mo>=</mo>
+   <mfrac>
+      <mn>1</mn>
+      <mi>n</mi>
+   </mfrac>
+   <munderover>
+      <mo>∑</mo>
+      <mrow>
+         <mi>i</mi>
+         <mo>=</mo>
+         <mn>0</mn>
+      </mrow>
+      <mi>n</mi>
+   </munderover>
+   <msub>
+      <mo largeop="true">x</mo>
+      <mi>i</mi>
+   </msub>
+</math>
+
