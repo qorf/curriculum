@@ -3,7 +3,7 @@
     "ExecutableName" : "Default",
     "ImageSheetEnabled" : false,
     "ImageSheetRebuildOnCompile" : false,
-    "Main" : "/SourceCode/Mean.quorum",
+    "Main" : "/SourceCode/CalculateMean.quorum",
     "MobileAssets" : "/media",
     "ProjectName" : "Summarizing",
     "ProjectType" : "JavaType",
