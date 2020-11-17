@@ -10,18 +10,12 @@ use Libraries.Compute.Statistics.Columns.BooleanColumn
 use Libraries.Compute.Statistics.Columns.TextColumn
 use Libraries.Compute.Statistics.Columns.IntegerColumn
 
-//This is the calculation for the arithmetic mean
-use Libraries.Compute.Statistics.Calculations.Mean
-
 class Main
     action Main
         //Create a DataFrame, which is essentially a table that understands 
         //more information about the data that is being loaded.
         DataFrame frame = LoadEchocardiogramDataFrame()
-        DataFrameColumn col = frame:GetColumn(0)
-        Mean mean
-        col:Calculate(mean)
-        output mean:GetMean()
+        output frame:ToText()
     end
 
     /*
