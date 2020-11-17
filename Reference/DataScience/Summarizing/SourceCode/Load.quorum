@@ -10,7 +10,7 @@ use Libraries.Compute.Statistics.Columns.BooleanColumn
 use Libraries.Compute.Statistics.Columns.TextColumn
 use Libraries.Compute.Statistics.Columns.IntegerColumn
 
-class Main
+class Load
     action Main
         //Create a DataFrame, which is essentially a table that understands 
         //more information about the data that is being loaded.

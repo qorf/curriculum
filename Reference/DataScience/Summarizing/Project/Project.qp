@@ -1,8 +1,11 @@
 {
     "DevelopmentEnvironmentVersion" : "Quorum Studio 2.0",
     "ExecutableName" : "Default",
+    "ImageSheetEnabled" : false,
+    "ImageSheetRebuildOnCompile" : false,
     "Main" : "/SourceCode/Mean.quorum",
-    "MobileAssets" : "media",
+    "MobileAssets" : "/media",
     "ProjectName" : "Summarizing",
-    "ProjectType" : "JavaType"
+    "ProjectType" : "JavaType",
+    "iosVersion" : "ios14.1"
 }

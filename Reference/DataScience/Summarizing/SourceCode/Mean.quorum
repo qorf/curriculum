@@ -2,23 +2,17 @@
 use Libraries.Compute.Statistics.DataFrame
 use Libraries.Compute.Statistics.DataFrameColumn
 
-//These are all of the column types for our particular data set. 
-//We can also make our own column type, which we can load and store
-//however we wish
-use Libraries.Compute.Statistics.Columns.NumberColumn
-use Libraries.Compute.Statistics.Columns.BooleanColumn
-use Libraries.Compute.Statistics.Columns.TextColumn
-use Libraries.Compute.Statistics.Columns.IntegerColumn
-
 //This is the calculation for the arithmetic mean
 use Libraries.Compute.Statistics.Calculations.Mean
 
-class Main
+class CalculateMean
     action Main
         //Create a DataFrame, which is essentially a table that understands 
         //more information about the data that is being loaded.
         DataFrame frame = LoadEchocardiogramDataFrame()
         DataFrameColumn col = frame:GetColumn(0)
+
+        //The calculation for means automatically takes missing data into account
         Mean mean
         col:Calculate(mean)
         output mean:GetMean()
@@ -32,42 +26,8 @@ class Main
     */
     action LoadEchocardiogramDataFrame returns DataFrame
         DataFrame frame
-        //In this section, we are telling the DataFrame
-        //that we want it to load columns in a specific way
-        NumberColumn survival
-        BooleanColumn alive
-        NumberColumn age
-        BooleanColumn pericardial
-        NumberColumn shortening
-        NumberColumn epss
-        NumberColumn lvdd
-        NumberColumn wallMotionScore
-        NumberColumn wallMotionIndex
-        NumberColumn mult
-        TextColumn name
-        IntegerColumn group
-        BooleanColumn aliveAt1
-
-        //This is saying if we hit the column at a particular index
-        //to load using this column type. If no column exists 
-        //at this index, this is ignored.
-        //These column on load values are reset after a load call
-        frame:AddColumnOnLoad(0, survival)
-        frame:AddColumnOnLoad(1, alive)
-        frame:AddColumnOnLoad(2, age)
-        frame:AddColumnOnLoad(3, pericardial)
-        frame:AddColumnOnLoad(4, shortening)
-        frame:AddColumnOnLoad(5, epss)
-        frame:AddColumnOnLoad(6, lvdd)
-        frame:AddColumnOnLoad(7, wallMotionScore)
-        frame:AddColumnOnLoad(8, wallMotionIndex)
-        frame:AddColumnOnLoad(9, mult)
-        frame:AddColumnOnLoad(10, name)
-        frame:AddColumnOnLoad(11, group)
-        frame:AddColumnOnLoad(12, aliveAt1)
-
-        //This loads the project relative to the project, so the Echocardiogram.csv file in the Data folder
-        //If we deploy our program, this path is relative to the binary.
+        //In this example, we can also let Quorum to decide how to load its own columns
+        //For many operations, this is enough on its own.
         frame:Load("Data/Echocardiogram.csv")
         return frame
     end
