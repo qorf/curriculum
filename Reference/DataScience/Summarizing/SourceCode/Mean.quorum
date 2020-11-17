@@ -3,23 +3,33 @@ use Libraries.Compute.Statistics.DataFrame
 use Libraries.Compute.Statistics.Transforms.RemoveUndefinedRowsTransform
 use Libraries.Compute.Statistics.DataFrameColumn
 use Libraries.Compute.Statistics.Calculations.Mean
+use Libraries.Compute.Statistics.Columns.NumberColumn
 
-//Create a DataFrame, which is essentially a table that understands 
-//more information about the data that is being loaded.
-DataFrame frame
+class Main
+    action Main
+        //Create a DataFrame, which is essentially a table that understands 
+        //more information about the data that is being loaded.
+        DataFrame frame
+        /*
+            NumberColumn col4
+            frame:UseColumn(4, col4)
 
-//This loads the project relative to the project, so the Population.csv file in the Data folder
-//If we deploy our program, this path is relative to the binary.
-frame:Load("Data/Echocardiogram.csv")
-
-//This class transforms data by removing any rows that contain undefined
-//values. It is now always what we want, but can be useful
-RemoveUndefinedRowsTransform transform
-DataFrame clean = frame:Transform(transform)
-
-//We can save the frame or output it to the console, like we are doing here.
-//output clean:ToText()
-
-DataFrameColumn survival = frame:GetColumn(0)
-Mean mean
-survival:Calculate(mean)
+        */
+        //This loads the project relative to the project, so the Echocardiogram.csv file in the Data folder
+        //If we deploy our program, this path is relative to the binary.
+        frame:Load("Data/Echocardiogram.csv")
+        
+        //This class transforms data by removing any rows that contain undefined
+        //values. It is not always what we want, but can be useful
+        RemoveUndefinedRowsTransform transform
+        DataFrame clean = frame:Transform(transform)
+        
+        //We can save the frame or output it to the console, like we are doing here.
+        //output clean:ToText()
+        
+        DataFrameColumn survival = frame:GetColumn(0)
+        Mean mean
+        survival:Calculate(mean)
+        output mean:GetMean()
+    end
+end
