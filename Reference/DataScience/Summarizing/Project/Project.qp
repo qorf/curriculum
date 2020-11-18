@@ -3,7 +3,7 @@
     "ExecutableName" : "Default",
     "ImageSheetEnabled" : false,
     "ImageSheetRebuildOnCompile" : false,
-    "Main" : "/SourceCode/CalculateStandardDeviationsFromMean.quorum",
+    "Main" : "/SourceCode/CalculateKurtosis.quorum",
     "MobileAssets" : "/media",
     "ProjectName" : "Summarizing",
     "ProjectType" : "JavaType",
