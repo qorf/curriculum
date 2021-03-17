@@ -1,0 +1,15 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.LineChart
+
+DataFrame frame
+frame:Load("Data/GoogleTrendsChocolate.csv")
+frame:AddSelectedColumn(1)
+frame:AddSelectedFactor(0)
+
+LineChart chart = frame:LineChart()
+chart:SetXTickCount(5)
+chart:SetFontSize(40)
+chart:SetTitle("Chocolate Interest over time")
+chart:SetXAxisTitle("Time Periods")
+chart:SetYAxisTitle("Popularity Percentage")
+chart:Display(1500, 750)
