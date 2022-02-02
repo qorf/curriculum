@@ -1,0 +1,51 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.LineChart
+
+/*
+    This is an example of a Line Chart built in quorum.
+    The dataset we will be working with examines 
+    the COVID-19 vaccination rates in Nevada on Feb 2021.
+*/
+
+// create the datad frame to read in data
+DataFrame frame
+frame:Load("../Data/Science/Covid19NevadaVaccinationsJANFEB2021.csv")
+
+// grabs the average spending values and place as x axis
+frame:AddSelectedColumn(5) // fully vaccinated
+frame:AddSelectedColumn(6) // total vaccinated
+frame:AddSelectedColumn(8) // people vaccinated
+frame:AddSelectedColumn(9) // vaccines distributed
+
+// grabs the year values and place as y axis
+frame:AddSelectedFactor(0)
+
+// create chart component inherited from the line chart library
+LineChart chart = frame:LineChart()
+chart:SeparateByFactor(false)
+
+/* this will divide up the dates by multiples of 5 starting from feb 1 2021
+*/
+chart:SetXTickInterval(3)
+// makes font size bigger
+chart:SetFontSize(20)
+// creates a thicker line for graph
+chart:SetLineDensity(3)
+// changes the color palette
+chart:SetColorPaletteToPositive()
+// gets rid of the data dots on chart
+chart:HideAllPoints()
+
+// sets title for chart at the top, this should give the chart meaning
+chart:SetTitle("Covid-19 Vaccinations in Nevada in Feb. 2021")
+
+// labels the x axis
+chart:SetXAxisTitle("Date")
+// labels the y axis
+chart:SetYAxisTitle("People Vaccinated (per hundred)")
+// labels the legend
+chart:SetLegendTitle("Vaccination Ratios")
+chart:SetLegendLocation("bottom")
+
+// displays chart in a specified window size
+chart:Display()
