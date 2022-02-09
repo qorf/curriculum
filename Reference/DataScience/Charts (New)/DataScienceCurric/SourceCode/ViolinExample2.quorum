@@ -1,0 +1,47 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.ViolinPlot
+
+// create frame component
+DataFrame frame
+// read in data from chick weights csv
+frame:Load("../Data/Animals/Chick Weights.csv")
+
+// pull out specified columns from csv that we are comparing
+frame:AddSelectedFactors("feed")
+frame:AddSelectedColumns("weight (female)")
+frame:AddSelectedColumns("weight (male)")
+
+// create violin object
+// this will create two separate data charts to compare
+ViolinPlot chart = frame:ViolinPlot()
+chart:SetTitle("Chick weights by feed type")
+// let's adjust the font size so it appears nicely on the screen
+chart:SetTitleFontSize(20)
+
+//Bandwidth is a scale option that will make violin chart larger
+//Note that it is 0 by default
+chart:SetBandWidth(0)
+
+//IsISplit splits the groups of the violing plots. Needs two violin charts in a group
+chart:IsSplit(true)
+
+// label the x axis, y axis, and the legend title
+chart:SetXAxisTitle("Feed")
+chart:SetYAxisTitle("Weight (g)")
+chart:SetLegendTitle("Weight by sex")
+chart:SetLegendLocation("bottom")
+
+
+// customization features
+chart:SetColorPaletteToDisturbing()
+// define a clear interval, we separate each interval by 50
+chart:SetYTickInterval(50)
+// let's start our chart at 6 to examine a curve as a whole
+chart:SetYAxisMinimum(6)
+
+
+// display the violin plot
+chart:Display()
+
+// Save the chart image
+chart:Save("ViolinExample2.svg")
