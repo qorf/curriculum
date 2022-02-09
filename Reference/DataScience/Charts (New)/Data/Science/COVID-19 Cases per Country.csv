@@ -1,0 +1,4967 @@
+id,Date,Country,Total Confirmed Cases,Total Recovered,Total Deaths
+1,Sun 5/31,Afghanistan,15205,1328,257
+2,Sun 5/31,Albania,1137,872,33
+3,Sun 5/31,Algeria,9394,5748,653
+4,Sun 5/31,Andorra,764,694,51
+5,Sun 5/31,Angola,86,18,4
+6,Sun 5/31,Antigua and Barbuda,26,19,3
+7,Sun 5/31,Argentina,16851,5336,539
+8,Sun 5/31,Armenia,9282,3386,131
+9,Sun 5/31,Australia,7202,6618,103
+10,Sun 5/31,Austria,16731,15593,668
+11,Sun 5/31,Azerbaijan,5494,3428,63
+12,Sun 5/31,Bahamas,102,48,11
+13,Sun 5/31,Bahrain,11398,6673,19
+14,Sun 5/31,Bangladesh,47153,9781,650
+15,Sun 5/31,Barbados,92,76,7
+16,Sun 5/31,Belarus,42556,18514,235
+17,Sun 5/31,Belgium,58381,15887,9467
+18,Sun 5/31,Belize,18,16,2
+19,Sun 5/31,Benin,232,143,3
+20,Sun 5/31,Bhutan,43,6,0
+21,Sun 5/31,Bolivia,9982,968,313
+22,Sun 5/31,Bosnia and Herzegovina,2510,1862,153
+23,Sun 5/31,Botswana,35,20,1
+24,Sun 5/31,Brazil,514849,206555,29314
+25,Sun 5/31,Brunei,141,138,2
+26,Sun 5/31,Bulgaria,2513,1074,140
+27,Sun 5/31,Burkina Faso,847,720,53
+28,Sun 5/31,Burma,224,138,6
+29,Sun 5/31,Burundi,63,33,1
+30,Sun 5/31,Cabo Verde,435,193,4
+31,Sun 5/31,Cambodia,125,123,0
+32,Sun 5/31,Cameroon,5904,3568,191
+33,Sun 5/31,Canada,92479,49213,7374
+34,Sun 5/31,Central African Republic,1011,23,2
+35,Sun 5/31,Chad,778,491,65
+36,Sun 5/31,Chile,123550,42727,1054
+37,Sun 5/31,China,84146,79389,4638
+38,Sun 5/31,Colombia,29383,7032,939
+39,Sun 5/31,Comoros,106,26,2
+40,Sun 5/31,Congo (Brazzaville),611,179,20
+41,Sun 5/31,Congo (Kinshasa),3070,448,72
+42,Sun 5/31,Costa Rica,1056,669,10
+43,Sun 5/31,Cote d'Ivoire,2833,1435,33
+44,Sun 5/31,Croatia,2246,2072,103
+45,Sun 5/31,Cuba,2045,1809,83
+46,Sun 5/31,Cyprus,944,790,17
+47,Sun 5/31,Czechia,9268,6558,320
+48,Sun 5/31,Denmark,11869,10560,574
+49,Sun 5/31,Diamond Princess,712,651,13
+50,Sun 5/31,Djibouti,3354,1504,24
+51,Sun 5/31,Dominica,16,16,0
+52,Sun 5/31,Dominican Republic,17285,10559,502
+53,Sun 5/31,Ecuador,39098,19592,3358
+54,Sun 5/31,Egypt,24985,6037,959
+55,Sun 5/31,El Salvador,2517,1040,46
+56,Sun 5/31,Equatorial Guinea,1306,200,12
+57,Sun 5/31,Eritrea,39,39,0
+58,Sun 5/31,Estonia,1869,1624,68
+59,Sun 5/31,Eswatini,285,189,2
+60,Sun 5/31,Ethiopia,1172,209,11
+61,Sun 5/31,Fiji,18,15,0
+62,Sun 5/31,Finland,6859,5500,320
+63,Sun 5/31,France,189009,68473,28805
+64,Sun 5/31,Gabon,2655,722,17
+65,Sun 5/31,Gambia,25,20,1
+66,Sun 5/31,Georgia,783,605,12
+67,Sun 5/31,Germany,183410,165352,8540
+68,Sun 5/31,Ghana,8070,2947,36
+69,Sun 5/31,Greece,2917,1374,175
+70,Sun 5/31,Grenada,23,18,0
+71,Sun 5/31,Guatemala,5087,735,108
+72,Sun 5/31,Guinea,3706,2030,23
+73,Sun 5/31,Guinea-Bissau,1256,42,8
+74,Sun 5/31,Guyana,153,70,12
+75,Sun 5/31,Haiti,2124,24,44
+76,Sun 5/31,Holy See,12,2,0
+77,Sun 5/31,Honduras,5202,537,212
+78,Sun 5/31,Hungary,3876,2147,526
+79,Sun 5/31,Iceland,1806,1794,10
+80,Sun 5/31,India,190609,91852,5408
+81,Sun 5/31,Indonesia,26473,7308,1613
+82,Sun 5/31,Iran,151466,118848,7797
+83,Sun 5/31,Iraq,6439,3156,205
+84,Sun 5/31,Ireland,24990,22089,1652
+85,Sun 5/31,Israel,17071,14812,285
+86,Sun 5/31,Italy,232997,157507,33415
+87,Sun 5/31,Jamaica,586,311,9
+88,Sun 5/31,Japan,16751,14342,898
+89,Sun 5/31,Jordan,739,522,9
+90,Sun 5/31,Kazakhstan,10858,5404,40
+91,Sun 5/31,Kenya,1962,478,64
+92,Sun 5/31,"Korea, South",11503,10422,271
+93,Sun 5/31,Kosovo,1070,841,30
+94,Sun 5/31,Kuwait,27043,11386,212
+95,Sun 5/31,Kyrgyzstan,1748,1170,16
+96,Sun 5/31,Laos,19,16,0
+97,Sun 5/31,Latvia,1066,745,24
+98,Sun 5/31,Lebanon,1220,712,27
+99,Sun 5/31,Lesotho,2,1,0
+100,Sun 5/31,Liberia,288,157,27
+101,Sun 5/31,Libya,156,52,5
+102,Sun 5/31,Liechtenstein,82,81,1
+103,Sun 5/31,Lithuania,1675,1236,70
+104,Sun 5/31,Luxembourg,4018,3833,110
+105,Sun 5/31,MS Zaandam,9,0,2
+106,Sun 5/31,Madagascar,771,168,6
+107,Sun 5/31,Malawi,284,42,4
+108,Sun 5/31,Malaysia,7819,6353,115
+109,Sun 5/31,Maldives,1773,453,5
+110,Sun 5/31,Mali,1265,716,77
+111,Sun 5/31,Malta,618,534,9
+112,Sun 5/31,Marshall Islands,0,0,0
+113,Sun 5/31,Mauritania,530,27,23
+114,Sun 5/31,Mauritius,335,322,10
+115,Sun 5/31,Mexico,90664,63772,9930
+116,Sun 5/31,Moldova,8251,4581,295
+117,Sun 5/31,Monaco,99,90,4
+118,Sun 5/31,Mongolia,179,44,0
+119,Sun 5/31,Montenegro,324,315,9
+120,Sun 5/31,Morocco,7807,5459,205
+121,Sun 5/31,Mozambique,254,91,2
+122,Sun 5/31,Namibia,24,14,0
+123,Sun 5/31,Nepal,1572,220,8
+124,Sun 5/31,Netherlands,46645,178,5975
+125,Sun 5/31,New Zealand,1504,1481,22
+126,Sun 5/31,Nicaragua,759,370,35
+127,Sun 5/31,Niger,958,839,64
+128,Sun 5/31,Nigeria,10162,3007,287
+129,Sun 5/31,North Macedonia,2226,1552,133
+130,Sun 5/31,Norway,8440,7727,236
+131,Sun 5/31,Oman,11437,2682,49
+132,Sun 5/31,Pakistan,72460,26083,1543
+133,Sun 5/31,Panama,13463,9514,336
+134,Sun 5/31,Papua New Guinea,8,8,0
+135,Sun 5/31,Paraguay,986,477,11
+136,Sun 5/31,Peru,164476,67208,4506
+137,Sun 5/31,Philippines,18086,3909,957
+138,Sun 5/31,Poland,23786,11271,1064
+139,Sun 5/31,Portugal,32500,19409,1410
+140,Sun 5/31,Qatar,56910,30290,38
+141,Sun 5/31,Romania,19257,13256,1266
+142,Sun 5/31,Russia,405843,171883,4693
+143,Sun 5/31,Rwanda,370,256,1
+144,Sun 5/31,Saint Kitts and Nevis,15,15,0
+145,Sun 5/31,Saint Lucia,18,18,0
+146,Sun 5/31,Saint Vincent and the Grenadines,26,15,0
+147,Sun 5/31,San Marino,671,357,42
+148,Sun 5/31,Sao Tome and Principe,483,68,12
+149,Sun 5/31,Saudi Arabia,85261,62442,503
+150,Sun 5/31,Senegal,3645,1801,42
+151,Sun 5/31,Serbia,11412,6698,243
+152,Sun 5/31,Seychelles,11,11,0
+153,Sun 5/31,Sierra Leone,861,454,46
+154,Sun 5/31,Singapore,34884,21699,23
+155,Sun 5/31,Slovakia,1521,1366,28
+156,Sun 5/31,Slovenia,1473,1358,108
+157,Sun 5/31,Solomon Islands,0,0,0
+158,Sun 5/31,Somalia,1976,348,78
+159,Sun 5/31,South Africa,32683,16809,683
+160,Sun 5/31,South Sudan,994,6,10
+161,Sun 5/31,Spain,239479,150376,27127
+162,Sun 5/31,Sri Lanka,1633,801,10
+163,Sun 5/31,Sudan,5026,1423,286
+164,Sun 5/31,Suriname,23,9,1
+165,Sun 5/31,Sweden,38661,0,4673
+166,Sun 5/31,Switzerland,30862,28500,1920
+167,Sun 5/31,Syria,122,46,5
+168,Sun 5/31,Taiwan*,442,423,7
+169,Sun 5/31,Tajikistan,3930,2004,47
+170,Sun 5/31,Tanzania,509,183,21
+171,Sun 5/31,Thailand,3081,2963,57
+172,Sun 5/31,Timor-Leste,24,24,0
+173,Sun 5/31,Togo,442,211,13
+174,Sun 5/31,Trinidad and Tobago,117,108,8
+175,Sun 5/31,Tunisia,1077,960,48
+176,Sun 5/31,Turkey,163942,127973,4540
+177,Sun 5/31,US,1794465,444758,107674
+178,Sun 5/31,Uganda,417,72,0
+179,Sun 5/31,Ukraine,23672,9538,708
+180,Sun 5/31,United Arab Emirates,34557,17932,264
+181,Sun 5/31,United Kingdom,257539,1190,37527
+182,Sun 5/31,Uruguay,823,685,22
+183,Sun 5/31,Uzbekistan,3623,2837,15
+184,Sun 5/31,Vanuatu,0,0,0
+185,Sun 5/31,Venezuela,1510,302,14
+186,Sun 5/31,Vietnam,328,279,0
+187,Sun 5/31,West Bank and Gaza,448,372,3
+188,Sun 5/31,Western Sahara,9,6,1
+189,Sun 5/31,Yemen,323,14,80
+190,Sun 5/31,Zambia,1057,779,7
+191,Sun 5/31,Zimbabwe,178,29,4
+192,Sun 6/7,Afghanistan,20342,1875,357
+193,Sun 6/7,Albania,1246,938,34
+194,Sun 6/7,Algeria,10154,6717,707
+195,Sun 6/7,Andorra,852,744,51
+196,Sun 6/7,Angola,91,24,4
+197,Sun 6/7,Antigua and Barbuda,26,20,3
+198,Sun 6/7,Argentina,22794,6909,664
+199,Sun 6/7,Armenia,13130,4014,200
+200,Sun 6/7,Australia,7265,6706,102
+201,Sun 6/7,Austria,16902,15793,672
+202,Sun 6/7,Azerbaijan,7553,4149,88
+203,Sun 6/7,Bahamas,103,62,11
+204,Sun 6/7,Bahrain,14763,9468,26
+205,Sun 6/7,Bangladesh,65769,13903,888
+206,Sun 6/7,Barbados,92,81,7
+207,Sun 6/7,Belarus,48630,23647,269
+208,Sun 6/7,Belgium,59226,16291,9595
+209,Sun 6/7,Belize,19,16,2
+210,Sun 6/7,Benin,261,151,3
+211,Sun 6/7,Bhutan,59,11,0
+212,Sun 6/7,Bolivia,13643,2086,465
+213,Sun 6/7,Bosnia and Herzegovina,2606,1968,159
+214,Sun 6/7,Botswana,40,23,1
+215,Sun 6/7,Brazil,691758,283952,36455
+216,Sun 6/7,Brunei,141,138,2
+217,Sun 6/7,Bulgaria,2727,1548,160
+218,Sun 6/7,Burkina Faso,889,765,53
+219,Sun 6/7,Burma,242,156,6
+220,Sun 6/7,Burundi,83,45,1
+221,Sun 6/7,Cabo Verde,554,240,5
+222,Sun 6/7,Cambodia,126,123,0
+223,Sun 6/7,Cameroon,7908,4735,212
+224,Sun 6/7,Canada,97178,54675,7877
+225,Sun 6/7,Central African Republic,1634,38,5
+226,Sun 6/7,Chad,837,672,69
+227,Sun 6/7,Chile,166756,108150,1637
+228,Sun 6/7,China,84191,79434,4638
+229,Sun 6/7,Colombia,39236,14414,1259
+230,Sun 6/7,Comoros,141,67,2
+231,Sun 6/7,Congo (Brazzaville),683,210,22
+232,Sun 6/7,Congo (Kinshasa),4016,537,85
+233,Sun 6/7,Costa Rica,1318,704,10
+234,Sun 6/7,Cote d'Ivoire,3739,1818,36
+235,Sun 6/7,Croatia,2247,2126,104
+236,Sun 6/7,Cuba,2191,1862,83
+237,Sun 6/7,Cyprus,964,807,18
+238,Sun 6/7,Czechia,9628,6891,327
+239,Sun 6/7,Denmark,12148,10955,589
+240,Sun 6/7,Diamond Princess,712,651,13
+241,Sun 6/7,Djibouti,4207,1877,28
+242,Sun 6/7,Dominica,18,16,0
+243,Sun 6/7,Dominican Republic,19600,12007,538
+244,Sun 6/7,Ecuador,43120,21020,3621
+245,Sun 6/7,Egypt,34079,8961,1237
+246,Sun 6/7,El Salvador,3015,1305,53
+247,Sun 6/7,Equatorial Guinea,1306,200,12
+248,Sun 6/7,Eritrea,39,39,0
+249,Sun 6/7,Estonia,1939,1681,69
+250,Sun 6/7,Eswatini,333,225,3
+251,Sun 6/7,Ethiopia,2020,344,27
+252,Sun 6/7,Fiji,18,18,0
+253,Sun 6/7,Finland,6981,5800,323
+254,Sun 6/7,France,191234,70961,29158
+255,Sun 6/7,Gabon,3101,833,21
+256,Sun 6/7,Gambia,26,21,1
+257,Sun 6/7,Georgia,809,674,13
+258,Sun 6/7,Germany,185750,169224,8685
+259,Sun 6/7,Ghana,9638,3636,44
+260,Sun 6/7,Greece,2997,1374,180
+261,Sun 6/7,Grenada,23,22,0
+262,Sun 6/7,Guatemala,7055,1261,252
+263,Sun 6/7,Guinea,4117,2877,23
+264,Sun 6/7,Guinea-Bissau,1368,153,12
+265,Sun 6/7,Guyana,154,80,12
+266,Sun 6/7,Haiti,3334,24,51
+267,Sun 6/7,Holy See,12,12,0
+268,Sun 6/7,Honduras,6327,712,258
+269,Sun 6/7,Hungary,4008,2279,546
+270,Sun 6/7,Iceland,1807,1794,10
+271,Sun 6/7,India,257486,123848,7207
+272,Sun 6/7,Indonesia,31186,10498,1851
+273,Sun 6/7,Iran,171789,134349,8281
+274,Sun 6/7,Iraq,12366,5186,346
+275,Sun 6/7,Ireland,25201,22698,1679
+276,Sun 6/7,Israel,17863,15091,298
+277,Sun 6/7,Italy,234998,165837,33899
+278,Sun 6/7,Jamaica,598,405,10
+279,Sun 6/7,Japan,17039,14990,917
+280,Sun 6/7,Jordan,808,607,9
+281,Sun 6/7,Kazakhstan,12694,7376,56
+282,Sun 6/7,Kenya,2767,752,84
+283,Sun 6/7,"Korea, South",11814,10563,273
+284,Sun 6/7,Kosovo,1194,884,30
+285,Sun 6/7,Kuwait,31848,20205,264
+286,Sun 6/7,Kyrgyzstan,2007,1425,22
+287,Sun 6/7,Laos,19,18,0
+288,Sun 6/7,Latvia,1088,781,25
+289,Sun 6/7,Lebanon,1331,768,30
+290,Sun 6/7,Lesotho,4,2,0
+291,Sun 6/7,Liberia,359,194,30
+292,Sun 6/7,Libya,256,52,5
+293,Sun 6/7,Liechtenstein,82,81,1
+294,Sun 6/7,Lithuania,1714,1328,71
+295,Sun 6/7,Luxembourg,4039,3899,110
+296,Sun 6/7,MS Zaandam,9,0,2
+297,Sun 6/7,Madagascar,1052,233,9
+298,Sun 6/7,Malawi,438,55,4
+299,Sun 6/7,Malaysia,8322,6674,117
+300,Sun 6/7,Maldives,1903,827,8
+301,Sun 6/7,Mali,1533,873,90
+302,Sun 6/7,Malta,629,596,9
+303,Sun 6/7,Marshall Islands,0,0,0
+304,Sun 6/7,Mauritania,1049,108,55
+305,Sun 6/7,Mauritius,337,324,10
+306,Sun 6/7,Mexico,117103,83775,13699
+307,Sun 6/7,Moldova,9700,5638,341
+308,Sun 6/7,Monaco,99,93,4
+309,Sun 6/7,Mongolia,193,75,0
+310,Sun 6/7,Montenegro,324,315,9
+311,Sun 6/7,Morocco,8224,7364,208
+312,Sun 6/7,Mozambique,424,127,2
+313,Sun 6/7,Namibia,29,16,0
+314,Sun 6/7,Nepal,3448,467,13
+315,Sun 6/7,Netherlands,47780,181,6032
+316,Sun 6/7,New Zealand,1504,1482,22
+317,Sun 6/7,Nicaragua,1118,370,46
+318,Sun 6/7,Niger,973,867,65
+319,Sun 6/7,Nigeria,12486,3959,354
+320,Sun 6/7,North Macedonia,3025,1646,153
+321,Sun 6/7,Norway,8547,8138,238
+322,Sun 6/7,Oman,16882,3451,75
+323,Sun 6/7,Pakistan,103671,34355,2067
+324,Sun 6/7,Panama,16425,10218,393
+325,Sun 6/7,Papua New Guinea,8,8,0
+326,Sun 6/7,Paraguay,1135,575,11
+327,Sun 6/7,Peru,196515,86219,5465
+328,Sun 6/7,Philippines,21895,4530,1003
+329,Sun 6/7,Poland,26561,12855,1157
+330,Sun 6/7,Portugal,34693,20995,1479
+331,Sun 6/7,Qatar,68790,44338,54
+332,Sun 6/7,Romania,20479,14638,1333
+333,Sun 6/7,Russia,467073,226272,5851
+334,Sun 6/7,Rwanda,439,290,2
+335,Sun 6/7,Saint Kitts and Nevis,15,15,0
+336,Sun 6/7,Saint Lucia,19,18,0
+337,Sun 6/7,Saint Vincent and the Grenadines,27,16,0
+338,Sun 6/7,San Marino,680,428,42
+339,Sun 6/7,Sao Tome and Principe,513,68,12
+340,Sun 6/7,Saudi Arabia,101914,72817,712
+341,Sun 6/7,Senegal,4328,2588,49
+342,Sun 6/7,Serbia,11823,11348,249
+343,Sun 6/7,Seychelles,11,11,0
+344,Sun 6/7,Sierra Leone,969,608,48
+345,Sun 6/7,Singapore,37910,24886,25
+346,Sun 6/7,Slovakia,1528,1389,28
+347,Sun 6/7,Slovenia,1485,1359,109
+348,Sun 6/7,Solomon Islands,0,0,0
+349,Sun 6/7,Somalia,2334,441,83
+350,Sun 6/7,South Africa,48285,24364,998
+351,Sun 6/7,South Sudan,1317,6,14
+352,Sun 6/7,Spain,241550,150376,27136
+353,Sun 6/7,Sri Lanka,1835,941,11
+354,Sun 6/7,Sudan,6081,2014,359
+355,Sun 6/7,Suriname,122,9,1
+356,Sun 6/7,Sweden,44686,0,4921
+357,Sun 6/7,Switzerland,30965,28700,1921
+358,Sun 6/7,Syria,141,58,6
+359,Sun 6/7,Taiwan*,443,430,7
+360,Sun 6/7,Tajikistan,4529,2673,48
+361,Sun 6/7,Tanzania,509,183,21
+362,Sun 6/7,Thailand,3112,2972,58
+363,Sun 6/7,Timor-Leste,24,24,0
+364,Sun 6/7,Togo,495,248,13
+365,Sun 6/7,Trinidad and Tobago,117,108,8
+366,Sun 6/7,Tunisia,1087,982,49
+367,Sun 6/7,Turkey,170132,137969,4692
+368,Sun 6/7,US,1938614,506367,113543
+369,Sun 6/7,Uganda,616,96,0
+370,Sun 6/7,Ukraine,27599,12513,796
+371,Sun 6/7,United Arab Emirates,38808,21806,276
+372,Sun 6/7,United Kingdom,265662,1239,38702
+373,Sun 6/7,Uruguay,845,730,23
+374,Sun 6/7,Uzbekistan,4331,3354,17
+375,Sun 6/7,Vanuatu,0,0,0
+376,Sun 6/7,Venezuela,2377,487,22
+377,Sun 6/7,Vietnam,331,307,0
+378,Sun 6/7,West Bank and Gaza,472,403,3
+379,Sun 6/7,Western Sahara,9,6,1
+380,Sun 6/7,Yemen,484,23,112
+381,Sun 6/7,Zambia,1089,912,7
+382,Sun 6/7,Zimbabwe,282,34,4
+383,Sun 6/14,Afghanistan,24766,4725,471
+384,Sun 6/14,Albania,1521,1044,36
+385,Sun 6/14,Algeria,10919,7606,767
+386,Sun 6/14,Andorra,853,781,51
+387,Sun 6/14,Angola,140,61,6
+388,Sun 6/14,Antigua and Barbuda,26,20,3
+389,Sun 6/14,Argentina,31577,9564,833
+390,Sun 6/14,Armenia,16667,6214,269
+391,Sun 6/14,Australia,7335,6851,102
+392,Sun 6/14,Austria,17109,16059,677
+393,Sun 6/14,Azerbaijan,9957,5583,119
+394,Sun 6/14,Bahamas,103,68,11
+395,Sun 6/14,Bahrain,18227,12818,42
+396,Sun 6/14,Bangladesh,87520,18730,1171
+397,Sun 6/14,Barbados,96,83,7
+398,Sun 6/14,Belarus,53973,30103,308
+399,Sun 6/14,Belgium,60029,16589,9655
+400,Sun 6/14,Belize,20,16,2
+401,Sun 6/14,Benin,442,228,6
+402,Sun 6/14,Bhutan,66,21,0
+403,Sun 6/14,Bolivia,18459,3113,611
+404,Sun 6/14,Bosnia and Herzegovina,2893,2119,163
+405,Sun 6/14,Botswana,60,24,1
+406,Sun 6/14,Brazil,867624,469141,43332
+407,Sun 6/14,Brunei,141,138,2
+408,Sun 6/14,Bulgaria,3290,1730,174
+409,Sun 6/14,Burkina Faso,894,799,53
+410,Sun 6/14,Burma,261,167,6
+411,Sun 6/14,Burundi,85,45,1
+412,Sun 6/14,Cabo Verde,750,301,6
+413,Sun 6/14,Cambodia,128,125,0
+414,Sun 6/14,Cameroon,8681,4836,212
+415,Sun 6/14,Canada,100404,60668,8218
+416,Sun 6/14,Central African Republic,2057,363,7
+417,Sun 6/14,Chad,850,720,73
+418,Sun 6/14,Chile,208572,143704,3323
+419,Sun 6/14,China,84335,79482,4638
+420,Sun 6/14,Colombia,50939,19460,1667
+421,Sun 6/14,Comoros,176,114,2
+422,Sun 6/14,Congo (Brazzaville),728,221,24
+423,Sun 6/14,Congo (Kinshasa),4778,600,107
+424,Sun 6/14,Costa Rica,1715,752,12
+425,Sun 6/14,Cote d'Ivoire,5084,2505,45
+426,Sun 6/14,Croatia,2252,2134,107
+427,Sun 6/14,Cuba,2248,1948,84
+428,Sun 6/14,Cyprus,983,807,18
+429,Sun 6/14,Czechia,10024,7226,329
+430,Sun 6/14,Denmark,12393,11268,597
+431,Sun 6/14,Diamond Princess,712,651,13
+432,Sun 6/14,Djibouti,4465,2950,43
+433,Sun 6/14,Dominica,18,16,0
+434,Sun 6/14,Dominican Republic,22962,13320,592
+435,Sun 6/14,Ecuador,46751,23064,3896
+436,Sun 6/14,Egypt,44598,11931,1575
+437,Sun 6/14,El Salvador,3720,1846,74
+438,Sun 6/14,Equatorial Guinea,1306,200,12
+439,Sun 6/14,Eritrea,96,39,0
+440,Sun 6/14,Estonia,1973,1705,69
+441,Sun 6/14,Eswatini,490,249,4
+442,Sun 6/14,Ethiopia,3345,545,57
+443,Sun 6/14,Fiji,18,18,0
+444,Sun 6/14,Finland,7104,6200,326
+445,Sun 6/14,France,194479,72982,29410
+446,Sun 6/14,Gabon,3463,1024,23
+447,Sun 6/14,Gambia,28,24,1
+448,Sun 6/14,Georgia,864,703,14
+449,Sun 6/14,Germany,187518,172089,8801
+450,Sun 6/14,Ghana,11964,4258,54
+451,Sun 6/14,Greece,3121,1374,183
+452,Sun 6/14,Grenada,23,22,0
+453,Sun 6/14,Guatemala,9845,1886,384
+454,Sun 6/14,Guinea,4532,3234,25
+455,Sun 6/14,Guinea-Bissau,1460,153,15
+456,Sun 6/14,Guyana,159,99,12
+457,Sun 6/14,Haiti,4165,24,70
+458,Sun 6/14,Holy See,12,12,0
+459,Sun 6/14,Honduras,8858,967,312
+460,Sun 6/14,Hungary,4069,2482,562
+461,Sun 6/14,Iceland,1810,1796,10
+462,Sun 6/14,India,332424,169798,9520
+463,Sun 6/14,Indonesia,38277,14531,2134
+464,Sun 6/14,Iran,187427,148674,8837
+465,Sun 6/14,Iraq,20209,8121,607
+466,Sun 6/14,Ireland,25303,22698,1706
+467,Sun 6/14,Israel,19055,15375,300
+468,Sun 6/14,Italy,236989,176370,34345
+469,Sun 6/14,Jamaica,617,420,10
+470,Sun 6/14,Japan,17369,15514,927
+471,Sun 6/14,Jordan,961,682,9
+472,Sun 6/14,Kazakhstan,14496,9188,77
+473,Sun 6/14,Kenya,3594,1253,103
+474,Sun 6/14,"Korea, South",12121,10730,277
+475,Sun 6/14,Kosovo,1437,928,32
+476,Sun 6/14,Kuwait,35920,26759,296
+477,Sun 6/14,Kyrgyzstan,2285,1791,27
+478,Sun 6/14,Laos,19,19,0
+479,Sun 6/14,Latvia,1097,845,28
+480,Sun 6/14,Lebanon,1446,868,32
+481,Sun 6/14,Lesotho,4,2,0
+482,Sun 6/14,Liberia,458,219,32
+483,Sun 6/14,Libya,454,63,10
+484,Sun 6/14,Liechtenstein,82,81,1
+485,Sun 6/14,Lithuania,1768,1427,75
+486,Sun 6/14,Luxembourg,4070,3929,110
+487,Sun 6/14,MS Zaandam,9,0,2
+488,Sun 6/14,Madagascar,1272,367,10
+489,Sun 6/14,Malawi,547,69,6
+490,Sun 6/14,Malaysia,8453,7346,121
+491,Sun 6/14,Maldives,2035,1311,8
+492,Sun 6/14,Mali,1809,1088,104
+493,Sun 6/14,Malta,649,603,9
+494,Sun 6/14,Marshall Islands,0,0,0
+495,Sun 6/14,Mauritania,1783,332,87
+496,Sun 6/14,Mauritius,337,325,10
+497,Sun 6/14,Mexico,146837,107298,17141
+498,Sun 6/14,Moldova,11740,6623,406
+499,Sun 6/14,Monaco,99,93,4
+500,Sun 6/14,Mongolia,197,98,0
+501,Sun 6/14,Montenegro,325,315,9
+502,Sun 6/14,Morocco,8793,7765,212
+503,Sun 6/14,Mozambique,583,151,3
+504,Sun 6/14,Namibia,32,17,0
+505,Sun 6/14,Nepal,5760,974,19
+506,Sun 6/14,Netherlands,48990,181,6078
+507,Sun 6/14,New Zealand,1504,1482,22
+508,Sun 6/14,Nicaragua,1464,953,55
+509,Sun 6/14,Niger,980,885,66
+510,Sun 6/14,Nigeria,16085,5220,420
+511,Sun 6/14,North Macedonia,4057,1710,188
+512,Sun 6/14,Norway,8631,8138,242
+513,Sun 6/14,Oman,23481,8454,104
+514,Sun 6/14,Pakistan,144478,53721,2729
+515,Sun 6/14,Panama,21418,13766,437
+516,Sun 6/14,Papua New Guinea,8,8,0
+517,Sun 6/14,Paraguay,1289,650,11
+518,Sun 6/14,Peru,229736,115579,6688
+519,Sun 6/14,Philippines,25930,5954,1088
+520,Sun 6/14,Poland,29392,14226,1247
+521,Sun 6/14,Portugal,36690,22669,1517
+522,Sun 6/14,Qatar,79602,56898,73
+523,Sun 6/14,Romania,21999,15719,1410
+524,Sun 6/14,Russia,528267,279536,6938
+525,Sun 6/14,Rwanda,582,332,2
+526,Sun 6/14,Saint Kitts and Nevis,15,15,0
+527,Sun 6/14,Saint Lucia,19,18,0
+528,Sun 6/14,Saint Vincent and the Grenadines,27,25,0
+529,Sun 6/14,San Marino,694,520,42
+530,Sun 6/14,Sao Tome and Principe,661,177,12
+531,Sun 6/14,Saudi Arabia,127541,84720,972
+532,Sun 6/14,Senegal,5090,3344,60
+533,Sun 6/14,Serbia,12310,11511,254
+534,Sun 6/14,Seychelles,11,11,0
+535,Sun 6/14,Sierra Leone,1169,680,51
+536,Sun 6/14,Singapore,40604,29589,26
+537,Sun 6/14,Slovakia,1548,1410,28
+538,Sun 6/14,Slovenia,1495,1359,109
+539,Sun 6/14,Solomon Islands,0,0,0
+540,Sun 6/14,Somalia,2618,577,88
+541,Sun 6/14,South Africa,70038,38531,1480
+542,Sun 6/14,South Sudan,1693,49,27
+543,Sun 6/14,Spain,243928,150376,27136
+544,Sun 6/14,Sri Lanka,1889,1287,11
+545,Sun 6/14,Sudan,7220,2610,459
+546,Sun 6/14,Suriname,208,9,3
+547,Sun 6/14,Sweden,51827,0,5151
+548,Sun 6/14,Switzerland,31117,28800,1938
+549,Sun 6/14,Syria,177,74,6
+550,Sun 6/14,Taiwan*,443,431,7
+551,Sun 6/14,Tajikistan,5035,3409,50
+552,Sun 6/14,Tanzania,509,183,21
+553,Sun 6/14,Thailand,3135,2987,58
+554,Sun 6/14,Timor-Leste,24,24,0
+555,Sun 6/14,Togo,530,291,13
+556,Sun 6/14,Trinidad and Tobago,123,109,8
+557,Sun 6/14,Tunisia,1096,998,49
+558,Sun 6/14,Turkey,178239,151417,4807
+559,Sun 6/14,US,2087647,561816,118629
+560,Sun 6/14,Uganda,696,240,0
+561,Sun 6/14,Ukraine,31851,14596,899
+562,Sun 6/14,United Arab Emirates,42294,27462,289
+563,Sun 6/14,United Kingdom,272857,1283,39451
+564,Sun 6/14,Uruguay,848,788,23
+565,Sun 6/14,Uzbekistan,5080,3943,19
+566,Sun 6/14,Vanuatu,0,0,0
+567,Sun 6/14,Venezuela,2978,835,25
+568,Sun 6/14,Vietnam,334,323,0
+569,Sun 6/14,West Bank and Gaza,492,415,3
+570,Sun 6/14,Western Sahara,9,8,1
+571,Sun 6/14,Yemen,728,53,164
+572,Sun 6/14,Zambia,1358,1122,11
+573,Sun 6/14,Zimbabwe,383,54,4
+574,Sun 6/21,Afghanistan,28833,8764,581
+575,Sun 6/21,Albania,1962,1134,44
+576,Sun 6/21,Algeria,11771,8422,845
+577,Sun 6/21,Andorra,855,792,52
+578,Sun 6/21,Angola,183,77,9
+579,Sun 6/21,Antigua and Barbuda,26,22,3
+580,Sun 6/21,Argentina,42785,12728,1011
+581,Sun 6/21,Armenia,20268,9002,350
+582,Sun 6/21,Australia,7474,6903,102
+583,Sun 6/21,Austria,17341,16197,690
+584,Sun 6/21,Azerbaijan,12729,6799,154
+585,Sun 6/21,Bahamas,104,77,11
+586,Sun 6/21,Bahrain,21764,16419,63
+587,Sun 6/21,Bangladesh,112306,45077,1464
+588,Sun 6/21,Barbados,97,85,7
+589,Sun 6/21,Belarus,58505,37666,346
+590,Sun 6/21,Belgium,60550,16771,9696
+591,Sun 6/21,Belize,22,17,2
+592,Sun 6/21,Benin,765,253,13
+593,Sun 6/21,Bhutan,68,30,0
+594,Sun 6/21,Bolivia,24388,5454,773
+595,Sun 6/21,Bosnia and Herzegovina,3273,2241,169
+596,Sun 6/21,Botswana,89,25,1
+597,Sun 6/21,Brazil,1083341,588118,50591
+598,Sun 6/21,Brunei,141,138,3
+599,Sun 6/21,Bulgaria,3905,2074,199
+600,Sun 6/21,Burkina Faso,903,814,53
+601,Sun 6/21,Burma,290,200,6
+602,Sun 6/21,Burundi,144,93,1
+603,Sun 6/21,Cabo Verde,890,413,8
+604,Sun 6/21,Cambodia,129,127,0
+605,Sun 6/21,Cameroon,11892,7710,303
+606,Sun 6/21,Canada,103078,65249,8482
+607,Sun 6/21,Central African Republic,2808,472,23
+608,Sun 6/21,Chad,858,752,74
+609,Sun 6/21,Chile,242355,200569,4479
+610,Sun 6/21,China,84572,79535,4639
+611,Sun 6/21,Colombia,68652,27412,2237
+612,Sun 6/21,Comoros,247,159,5
+613,Sun 6/21,Congo (Brazzaville),883,391,27
+614,Sun 6/21,Congo (Kinshasa),5826,841,130
+615,Sun 6/21,Costa Rica,2213,1032,12
+616,Sun 6/21,Cote d'Ivoire,7492,3068,54
+617,Sun 6/21,Croatia,2317,2142,107
+618,Sun 6/21,Cuba,2312,2103,85
+619,Sun 6/21,Cyprus,986,824,19
+620,Sun 6/21,Czechia,10498,7499,336
+621,Sun 6/21,Denmark,12591,11482,600
+622,Sun 6/21,Diamond Princess,712,651,13
+623,Sun 6/21,Djibouti,4582,3859,45
+624,Sun 6/21,Dominica,18,18,0
+625,Sun 6/21,Dominican Republic,26677,15138,662
+626,Sun 6/21,Ecuador,50640,24991,4223
+627,Sun 6/21,Egypt,55233,14736,2193
+628,Sun 6/21,El Salvador,4626,2535,98
+629,Sun 6/21,Equatorial Guinea,1664,515,32
+630,Sun 6/21,Eritrea,143,39,0
+631,Sun 6/21,Estonia,1981,1764,69
+632,Sun 6/21,Eswatini,635,285,5
+633,Sun 6/21,Ethiopia,4532,1213,74
+634,Sun 6/21,Fiji,18,18,0
+635,Sun 6/21,Finland,7143,6200,326
+636,Sun 6/21,France,197636,74496,29643
+637,Sun 6/21,Gabon,4428,1750,34
+638,Sun 6/21,Gambia,37,24,2
+639,Sun 6/21,Georgia,906,755,14
+640,Sun 6/21,Germany,191272,174740,8895
+641,Sun 6/21,Ghana,14154,10473,85
+642,Sun 6/21,Greece,3266,1374,190
+643,Sun 6/21,Grenada,23,23,0
+644,Sun 6/21,Guatemala,13145,2711,531
+645,Sun 6/21,Guinea,4988,3669,27
+646,Sun 6/21,Guinea-Bissau,1541,153,17
+647,Sun 6/21,Guyana,184,103,12
+648,Sun 6/21,Haiti,5077,24,88
+649,Sun 6/21,Holy See,12,12,0
+650,Sun 6/21,Honduras,12769,1293,363
+651,Sun 6/21,Hungary,4094,2589,570
+652,Sun 6/21,Iceland,1815,1797,10
+653,Sun 6/21,India,425282,237196,13699
+654,Sun 6/21,Indonesia,45891,18404,2465
+655,Sun 6/21,Iran,204952,163591,9623
+656,Sun 6/21,Iraq,30868,13935,1100
+657,Sun 6/21,Ireland,25379,22698,1715
+658,Sun 6/21,Israel,20778,15694,306
+659,Sun 6/21,Italy,238499,182893,34634
+660,Sun 6/21,Jamaica,659,516,10
+661,Sun 6/21,Japan,17780,15948,955
+662,Sun 6/21,Jordan,1033,739,9
+663,Sun 6/21,Kazakhstan,17732,10897,120
+664,Sun 6/21,Kenya,4738,1607,123
+665,Sun 6/21,"Korea, South",12438,10881,280
+666,Sun 6/21,Kosovo,2073,1018,35
+667,Sun 6/21,Kuwait,39650,31240,326
+668,Sun 6/21,Kyrgyzstan,3356,2021,40
+669,Sun 6/21,Laos,19,19,0
+670,Sun 6/21,Latvia,1111,903,30
+671,Sun 6/21,Lebanon,1587,1068,32
+672,Sun 6/21,Lesotho,4,2,0
+673,Sun 6/21,Liberia,626,254,34
+674,Sun 6/21,Libya,571,103,10
+675,Sun 6/21,Liechtenstein,82,81,1
+676,Sun 6/21,Lithuania,1798,1475,76
+677,Sun 6/21,Luxembourg,4120,3956,110
+678,Sun 6/21,MS Zaandam,9,0,2
+679,Sun 6/21,Madagascar,1596,655,14
+680,Sun 6/21,Malawi,730,258,11
+681,Sun 6/21,Malaysia,8572,8156,121
+682,Sun 6/21,Maldives,2203,1803,8
+683,Sun 6/21,Mali,1933,1255,109
+684,Sun 6/21,Malta,665,616,9
+685,Sun 6/21,Marshall Islands,0,0,0
+686,Sun 6/21,Mauritania,2984,811,111
+687,Sun 6/21,Mauritius,337,326,10
+688,Sun 6/21,Mexico,180545,134495,21825
+689,Sun 6/21,Moldova,14200,7896,473
+690,Sun 6/21,Monaco,100,94,4
+691,Sun 6/21,Mongolia,213,153,0
+692,Sun 6/21,Montenegro,362,315,9
+693,Sun 6/21,Morocco,9977,8284,214
+694,Sun 6/21,Mozambique,733,181,5
+695,Sun 6/21,Namibia,55,19,0
+696,Sun 6/21,Nepal,9026,1772,23
+697,Sun 6/21,Netherlands,49801,186,6109
+698,Sun 6/21,New Zealand,1513,1482,22
+699,Sun 6/21,Nicaragua,1823,1238,64
+700,Sun 6/21,Niger,1036,911,67
+701,Sun 6/21,Nigeria,20244,6879,518
+702,Sun 6/21,North Macedonia,5106,1926,238
+703,Sun 6/21,Norway,8745,8138,244
+704,Sun 6/21,Oman,29471,15552,131
+705,Sun 6/21,Pakistan,181088,71458,3590
+706,Sun 6/21,Panama,26030,14359,501
+707,Sun 6/21,Papua New Guinea,8,8,0
+708,Sun 6/21,Paraguay,1379,871,13
+709,Sun 6/21,Peru,254936,141967,8045
+710,Sun 6/21,Philippines,30052,7893,1169
+711,Sun 6/21,Poland,31931,16683,1356
+712,Sun 6/21,Portugal,39133,25376,1530
+713,Sun 6/21,Qatar,87369,68319,98
+714,Sun 6/21,Romania,24045,16911,1512
+715,Sun 6/21,Russia,583879,339142,8101
+716,Sun 6/21,Rwanda,728,359,2
+717,Sun 6/21,Saint Kitts and Nevis,15,15,0
+718,Sun 6/21,Saint Lucia,19,18,0
+719,Sun 6/21,Saint Vincent and the Grenadines,29,26,0
+720,Sun 6/21,San Marino,696,610,42
+721,Sun 6/21,Sao Tome and Principe,698,203,12
+722,Sun 6/21,Saudi Arabia,157612,101130,1267
+723,Sun 6/21,Senegal,5888,3919,84
+724,Sun 6/21,Serbia,12894,11947,261
+725,Sun 6/21,Seychelles,11,11,0
+726,Sun 6/21,Sierra Leone,1327,788,55
+727,Sun 6/21,Singapore,42095,34942,26
+728,Sun 6/21,Slovakia,1587,1447,28
+729,Sun 6/21,Slovenia,1520,1376,109
+730,Sun 6/21,Solomon Islands,0,0,0
+731,Sun 6/21,Somalia,2779,782,90
+732,Sun 6/21,South Africa,97302,51608,1930
+733,Sun 6/21,South Sudan,1892,169,34
+734,Sun 6/21,Spain,246272,150376,28323
+735,Sun 6/21,Sri Lanka,1950,1498,11
+736,Sun 6/21,Sudan,8580,3325,521
+737,Sun 6/21,Suriname,314,106,8
+738,Sun 6/21,Sweden,58918,0,5341
+739,Sun 6/21,Switzerland,31292,29000,1956
+740,Sun 6/21,Syria,204,83,7
+741,Sun 6/21,Taiwan*,446,434,7
+742,Sun 6/21,Tajikistan,5457,3995,52
+743,Sun 6/21,Tanzania,509,183,21
+744,Sun 6/21,Thailand,3148,3018,58
+745,Sun 6/21,Timor-Leste,24,24,0
+746,Sun 6/21,Togo,569,375,13
+747,Sun 6/21,Trinidad and Tobago,123,109,8
+748,Sun 6/21,Tunisia,1157,1020,50
+749,Sun 6/21,Turkey,187685,160240,4950
+750,Sun 6/21,US,2274073,622133,122833
+751,Sun 6/21,Uganda,770,578,0
+752,Sun 6/21,Ukraine,37361,17078,1012
+753,Sun 6/21,United Arab Emirates,44925,32415,302
+754,Sun 6/21,United Kingdom,279264,1319,39963
+755,Sun 6/21,Uruguay,876,814,25
+756,Sun 6/21,Uzbekistan,6315,4377,19
+757,Sun 6/21,Vanuatu,0,0,0
+758,Sun 6/21,Venezuela,3917,835,33
+759,Sun 6/21,Vietnam,349,327,0
+760,Sun 6/21,West Bank and Gaza,833,439,3
+761,Sun 6/21,Western Sahara,9,8,1
+762,Sun 6/21,Yemen,941,347,256
+763,Sun 6/21,Zambia,1430,1194,11
+764,Sun 6/21,Zimbabwe,489,64,6
+765,Sun 6/28,Afghanistan,30967,12604,721
+766,Sun 6/28,Albania,2402,1384,55
+767,Sun 6/28,Algeria,13273,9371,897
+768,Sun 6/28,Andorra,855,799,52
+769,Sun 6/28,Angola,267,81,11
+770,Sun 6/28,Antigua and Barbuda,69,22,3
+771,Sun 6/28,Argentina,59933,20134,1232
+772,Sun 6/28,Armenia,24645,13116,426
+773,Sun 6/28,Australia,7764,7007,104
+774,Sun 6/28,Austria,17654,16401,702
+775,Sun 6/28,Azerbaijan,16424,9026,198
+776,Sun 6/28,Bahamas,104,87,11
+777,Sun 6/28,Bahrain,25705,20517,83
+778,Sun 6/28,Bangladesh,137787,55727,1738
+779,Sun 6/28,Barbados,97,90,7
+780,Sun 6/28,Belarus,61475,45027,383
+781,Sun 6/28,Belgium,61295,16941,9732
+782,Sun 6/28,Belize,24,18,2
+783,Sun 6/28,Benin,1149,306,16
+784,Sun 6/28,Bhutan,76,38,0
+785,Sun 6/28,Bolivia,31524,8517,1014
+786,Sun 6/28,Bosnia and Herzegovina,3935,2338,178
+787,Sun 6/28,Botswana,92,25,1
+788,Sun 6/28,Brazil,1344143,746018,57622
+789,Sun 6/28,Brunei,141,138,3
+790,Sun 6/28,Bulgaria,4691,2508,219
+791,Sun 6/28,Burkina Faso,959,830,53
+792,Sun 6/28,Burma,299,218,6
+793,Sun 6/28,Burundi,170,115,1
+794,Sun 6/28,Cabo Verde,1155,570,12
+795,Sun 6/28,Cambodia,141,130,0
+796,Sun 6/28,Cameroon,12592,10100,313
+797,Sun 6/28,Canada,105193,67689,8582
+798,Sun 6/28,Central African Republic,3429,699,45
+799,Sun 6/28,Chad,866,780,74
+800,Sun 6/28,Chile,271982,232210,5509
+801,Sun 6/28,China,84757,79609,4641
+802,Sun 6/28,Colombia,91769,38345,3178
+803,Sun 6/28,Comoros,272,161,7
+804,Sun 6/28,Congo (Brazzaville),1087,456,37
+805,Sun 6/28,Congo (Kinshasa),6827,985,157
+806,Sun 6/28,Costa Rica,3130,1366,15
+807,Sun 6/28,Cote d'Ivoire,9101,3808,66
+808,Sun 6/28,Croatia,2691,2152,107
+809,Sun 6/28,Cuba,2332,2201,86
+810,Sun 6/28,Cyprus,994,833,19
+811,Sun 6/28,Czechia,11603,7705,348
+812,Sun 6/28,Denmark,12875,11708,604
+813,Sun 6/28,Diamond Princess,712,651,13
+814,Sun 6/28,Djibouti,4643,4348,52
+815,Sun 6/28,Dominica,18,18,0
+816,Sun 6/28,Dominican Republic,31373,17142,726
+817,Sun 6/28,Ecuador,55255,27058,4429
+818,Sun 6/28,Egypt,65188,17539,2789
+819,Sun 6/28,El Salvador,5934,3557,152
+820,Sun 6/28,Equatorial Guinea,2001,515,32
+821,Sun 6/28,Eritrea,191,53,0
+822,Sun 6/28,Estonia,1987,1818,69
+823,Sun 6/28,Eswatini,781,372,11
+824,Sun 6/28,Ethiopia,5689,2132,98
+825,Sun 6/28,Fiji,18,18,0
+826,Sun 6/28,Finland,7198,6600,328
+827,Sun 6/28,France,199476,75774,29781
+828,Sun 6/28,Gabon,5209,2327,40
+829,Sun 6/28,Gambia,45,26,2
+830,Sun 6/28,Georgia,924,785,15
+831,Sun 6/28,Germany,194693,177657,8968
+832,Sun 6/28,Ghana,16742,12720,112
+833,Sun 6/28,Greece,3376,1374,191
+834,Sun 6/28,Grenada,23,23,0
+835,Sun 6/28,Guatemala,16930,3152,727
+836,Sun 6/28,Guinea,5342,4282,31
+837,Sun 6/28,Guinea-Bissau,1614,317,22
+838,Sun 6/28,Guyana,230,109,12
+839,Sun 6/28,Haiti,5777,706,100
+840,Sun 6/28,Holy See,12,12,0
+841,Sun 6/28,Honduras,18082,1875,479
+842,Sun 6/28,Hungary,4142,2685,581
+843,Sun 6/28,Iceland,1821,1797,10
+844,Sun 6/28,India,548318,321723,16475
+845,Sun 6/28,Indonesia,54010,22936,2754
+846,Sun 6/28,Iran,222669,183310,10508
+847,Sun 6/28,Iraq,45402,21122,1756
+848,Sun 6/28,Ireland,25439,23364,1735
+849,Sun 6/28,Israel,23755,17074,318
+850,Sun 6/28,Italy,240310,188891,34738
+851,Sun 6/28,Jamaica,696,552,10
+852,Sun 6/28,Japan,18366,16327,972
+853,Sun 6/28,Jordan,1121,860,9
+854,Sun 6/28,Kazakhstan,21327,12933,178
+855,Sun 6/28,Kenya,6070,1971,143
+856,Sun 6/28,"Korea, South",12757,11429,282
+857,Sun 6/28,Kosovo,2590,1394,48
+858,Sun 6/28,Kuwait,44942,35494,348
+859,Sun 6/28,Kyrgyzstan,5017,2294,50
+860,Sun 6/28,Laos,19,19,0
+861,Sun 6/28,Latvia,1116,932,30
+862,Sun 6/28,Lebanon,1740,1153,34
+863,Sun 6/28,Lesotho,27,4,0
+864,Sun 6/28,Liberia,768,298,34
+865,Sun 6/28,Libya,762,196,21
+866,Sun 6/28,Liechtenstein,82,81,1
+867,Sun 6/28,Lithuania,1815,1503,78
+868,Sun 6/28,Luxembourg,4242,3978,110
+869,Sun 6/28,MS Zaandam,9,0,2
+870,Sun 6/28,Madagascar,2078,944,18
+871,Sun 6/28,Malawi,1146,260,13
+872,Sun 6/28,Malaysia,8634,8318,121
+873,Sun 6/28,Maldives,2324,1911,8
+874,Sun 6/28,Mali,2147,1432,114
+875,Sun 6/28,Malta,670,636,9
+876,Sun 6/28,Marshall Islands,0,0,0
+877,Sun 6/28,Mauritania,4149,1419,126
+878,Sun 6/28,Mauritius,341,326,10
+879,Sun 6/28,Mexico,216852,164646,26648
+880,Sun 6/28,Moldova,16250,9081,530
+881,Sun 6/28,Monaco,103,95,4
+882,Sun 6/28,Mongolia,220,175,0
+883,Sun 6/28,Montenegro,481,315,11
+884,Sun 6/28,Morocco,12052,8740,221
+885,Sun 6/28,Mozambique,859,228,5
+886,Sun 6/28,Namibia,183,24,0
+887,Sun 6/28,Nepal,12772,3013,28
+888,Sun 6/28,Netherlands,50355,186,6124
+889,Sun 6/28,New Zealand,1528,1484,22
+890,Sun 6/28,Nicaragua,2170,1238,74
+891,Sun 6/28,Niger,1074,939,67
+892,Sun 6/28,Nigeria,24567,9007,565
+893,Sun 6/28,North Macedonia,6080,2315,286
+894,Sun 6/28,Norway,8855,8138,249
+895,Sun 6/28,Oman,38150,21200,163
+896,Sun 6/28,Pakistan,206512,95407,4167
+897,Sun 6/28,Panama,31686,15470,604
+898,Sun 6/28,Papua New Guinea,11,8,0
+899,Sun 6/28,Paraguay,2127,1065,15
+900,Sun 6/28,Peru,279419,167998,9317
+901,Sun 6/28,Philippines,35455,9686,1244
+902,Sun 6/28,Poland,33907,20548,1438
+903,Sun 6/28,Portugal,41646,27066,1564
+904,Sun 6/28,Qatar,94413,78702,110
+905,Sun 6/28,Romania,26313,18814,1612
+906,Sun 6/28,Russia,633563,398436,9060
+907,Sun 6/28,Rwanda,900,443,2
+908,Sun 6/28,Saint Kitts and Nevis,15,15,0
+909,Sun 6/28,Saint Lucia,19,19,0
+910,Sun 6/28,Saint Vincent and the Grenadines,29,29,0
+911,Sun 6/28,San Marino,698,656,42
+912,Sun 6/28,Sao Tome and Principe,713,219,13
+913,Sun 6/28,Saudi Arabia,182493,124755,1551
+914,Sun 6/28,Senegal,6586,4291,105
+915,Sun 6/28,Serbia,14046,12464,270
+916,Sun 6/28,Seychelles,70,11,0
+917,Sun 6/28,Sierra Leone,1427,943,60
+918,Sun 6/28,Singapore,43459,37508,26
+919,Sun 6/28,Slovakia,1664,1461,28
+920,Sun 6/28,Slovenia,1581,1384,111
+921,Sun 6/28,Solomon Islands,0,0,0
+922,Sun 6/28,Somalia,2894,887,90
+923,Sun 6/28,South Africa,138134,68925,2456
+924,Sun 6/28,South Sudan,1989,246,36
+925,Sun 6/28,Spain,248770,150376,28343
+926,Sun 6/28,Sri Lanka,2037,1661,11
+927,Sun 6/28,Sudan,9257,4014,572
+928,Sun 6/28,Suriname,490,199,11
+929,Sun 6/28,Sweden,66392,0,5478
+930,Sun 6/28,Switzerland,31617,29100,1962
+931,Sun 6/28,Syria,256,102,9
+932,Sun 6/28,Taiwan*,447,435,7
+933,Sun 6/28,Tajikistan,5849,4448,52
+934,Sun 6/28,Tanzania,509,183,21
+935,Sun 6/28,Thailand,3162,3053,58
+936,Sun 6/28,Timor-Leste,24,24,0
+937,Sun 6/28,Togo,642,401,14
+938,Sun 6/28,Trinidad and Tobago,126,109,8
+939,Sun 6/28,Tunisia,1169,1029,50
+940,Sun 6/28,Turkey,197239,170595,5097
+941,Sun 6/28,US,2542870,685164,126761
+942,Sun 6/28,Uganda,859,794,0
+943,Sun 6/28,Ukraine,43856,19585,1142
+944,Sun 6/28,United Arab Emirates,47797,36411,313
+945,Sun 6/28,United Kingdom,284192,1364,40404
+946,Sun 6/28,Uruguay,929,818,27
+947,Sun 6/28,Uzbekistan,7948,5329,22
+948,Sun 6/28,Vanuatu,0,0,0
+949,Sun 6/28,Venezuela,5297,1649,44
+950,Sun 6/28,Vietnam,355,330,0
+951,Sun 6/28,West Bank and Gaza,1990,447,4
+952,Sun 6/28,Western Sahara,10,8,1
+953,Sun 6/28,Yemen,1118,430,302
+954,Sun 6/28,Zambia,1557,1311,22
+955,Sun 6/28,Zimbabwe,567,142,6
+956,Sun 7/5,Afghanistan,32951,19366,864
+957,Sun 7/5,Albania,2893,1657,76
+958,Sun 7/5,Algeria,15941,11492,952
+959,Sun 7/5,Andorra,855,800,52
+960,Sun 7/5,Angola,346,108,19
+961,Sun 7/5,Antigua and Barbuda,68,23,3
+962,Sun 7/5,Argentina,77815,27597,1507
+963,Sun 7/5,Armenia,28606,16140,484
+964,Sun 7/5,Australia,8583,7420,106
+965,Sun 7/5,Austria,18280,16615,706
+966,Sun 7/5,Azerbaijan,20324,11742,250
+967,Sun 7/5,Bahamas,104,89,11
+968,Sun 7/5,Bahrain,29367,24649,97
+969,Sun 7/5,Bangladesh,162417,72625,2052
+970,Sun 7/5,Barbados,98,90,7
+971,Sun 7/5,Belarus,63554,50871,423
+972,Sun 7/5,Belgium,62016,17091,9771
+973,Sun 7/5,Belize,30,19,2
+974,Sun 7/5,Benin,1199,333,21
+975,Sun 7/5,Bhutan,80,53,0
+976,Sun 7/5,Bolivia,39297,11667,1434
+977,Sun 7/5,Bosnia and Herzegovina,4962,2550,191
+978,Sun 7/5,Botswana,277,29,1
+979,Sun 7/5,Brazil,1603055,1029045,64867
+980,Sun 7/5,Brunei,141,138,3
+981,Sun 7/5,Bulgaria,5740,2915,246
+982,Sun 7/5,Burkina Faso,987,854,53
+983,Sun 7/5,Burma,313,241,6
+984,Sun 7/5,Burundi,191,118,1
+985,Sun 7/5,Cabo Verde,1451,655,17
+986,Sun 7/5,Cambodia,141,131,0
+987,Sun 7/5,Cameroon,12592,10100,313
+988,Sun 7/5,Canada,107394,70772,8739
+989,Sun 7/5,Central African Republic,3969,914,48
+990,Sun 7/5,Chad,872,787,74
+991,Sun 7/5,Chile,295532,261039,6308
+992,Sun 7/5,China,84871,79718,4641
+993,Sun 7/5,Colombia,117110,46643,4064
+994,Sun 7/5,Comoros,311,266,7
+995,Sun 7/5,Congo (Brazzaville),1557,501,44
+996,Sun 7/5,Congo (Kinshasa),7411,3184,182
+997,Sun 7/5,Costa Rica,4996,1745,19
+998,Sun 7/5,Cote d'Ivoire,10772,5067,74
+999,Sun 7/5,Croatia,3151,2196,113
+1000,Sun 7/5,Cuba,2372,2229,86
+1001,Sun 7/5,Cyprus,1003,839,19
+1002,Sun 7/5,Czechia,12515,7864,348
+1003,Sun 7/5,Denmark,13033,12017,606
+1004,Sun 7/5,Diamond Princess,712,651,13
+1005,Sun 7/5,Djibouti,4792,4593,55
+1006,Sun 7/5,Dominica,18,18,0
+1007,Sun 7/5,Dominican Republic,37425,18943,794
+1008,Sun 7/5,Ecuador,61958,28722,4781
+1009,Sun 7/5,Egypt,75253,20726,3343
+1010,Sun 7/5,El Salvador,7777,4573,217
+1011,Sun 7/5,Equatorial Guinea,3071,842,51
+1012,Sun 7/5,Eritrea,215,56,0
+1013,Sun 7/5,Estonia,1993,1874,69
+1014,Sun 7/5,Eswatini,988,547,13
+1015,Sun 7/5,Ethiopia,5846,2430,103
+1016,Sun 7/5,Fiji,19,18,0
+1017,Sun 7/5,Finland,7253,6700,329
+1018,Sun 7/5,France,204222,77185,29896
+1019,Sun 7/5,Gabon,5620,2555,44
+1020,Sun 7/5,Gambia,57,27,2
+1021,Sun 7/5,Georgia,951,828,15
+1022,Sun 7/5,Germany,197523,181719,9023
+1023,Sun 7/5,Ghana,20085,14870,122
+1024,Sun 7/5,Greece,3519,1374,192
+1025,Sun 7/5,Grenada,23,23,0
+1026,Sun 7/5,Guatemala,23248,3382,947
+1027,Sun 7/5,Guinea,5610,4522,34
+1028,Sun 7/5,Guinea-Bissau,1765,676,25
+1029,Sun 7/5,Guyana,273,120,15
+1030,Sun 7/5,Haiti,6333,1549,113
+1031,Sun 7/5,Holy See,12,12,0
+1032,Sun 7/5,Honduras,23943,2490,639
+1033,Sun 7/5,Hungary,4183,2811,589
+1034,Sun 7/5,Iceland,1830,1800,10
+1035,Sun 7/5,India,697413,424433,19693
+1036,Sun 7/5,Indonesia,63749,29105,3171
+1037,Sun 7/5,Iran,240438,201330,11571
+1038,Sun 7/5,Iraq,60479,33017,2473
+1039,Sun 7/5,Ireland,25527,23364,1741
+1040,Sun 7/5,Israel,29958,17950,331
+1041,Sun 7/5,Italy,241611,192108,34861
+1042,Sun 7/5,Jamaica,732,584,10
+1043,Sun 7/5,Japan,19668,16870,977
+1044,Sun 7/5,Jordan,1164,942,10
+1045,Sun 7/5,Kazakhstan,48574,15860,188
+1046,Sun 7/5,Kenya,7886,2287,160
+1047,Sun 7/5,"Korea, South",13137,11848,284
+1048,Sun 7/5,Kosovo,3356,1874,66
+1049,Sun 7/5,Kuwait,49941,40463,368
+1050,Sun 7/5,Kyrgyzstan,7377,2802,88
+1051,Sun 7/5,Laos,19,19,0
+1052,Sun 7/5,Latvia,1124,1000,30
+1053,Sun 7/5,Lebanon,1873,1311,36
+1054,Sun 7/5,Lesotho,79,11,0
+1055,Sun 7/5,Liberia,874,377,37
+1056,Sun 7/5,Libya,1046,261,32
+1057,Sun 7/5,Liechtenstein,83,81,1
+1058,Sun 7/5,Lithuania,1836,1545,79
+1059,Sun 7/5,Luxembourg,4522,4016,110
+1060,Sun 7/5,MS Zaandam,9,0,2
+1061,Sun 7/5,Madagascar,2941,1108,32
+1062,Sun 7/5,Malawi,1613,317,17
+1063,Sun 7/5,Malaysia,8663,8465,121
+1064,Sun 7/5,Maldives,2468,2049,11
+1065,Sun 7/5,Mali,2330,1527,119
+1066,Sun 7/5,Malta,672,652,9
+1067,Sun 7/5,Marshall Islands,0,0,0
+1068,Sun 7/5,Mauritania,4879,1844,130
+1069,Sun 7/5,Mauritius,341,330,10
+1070,Sun 7/5,Mexico,256848,199914,30639
+1071,Sun 7/5,Moldova,17814,10718,585
+1072,Sun 7/5,Monaco,108,95,4
+1073,Sun 7/5,Mongolia,220,188,0
+1074,Sun 7/5,Montenegro,781,315,14
+1075,Sun 7/5,Morocco,14215,9725,235
+1076,Sun 7/5,Mozambique,987,256,8
+1077,Sun 7/5,Namibia,412,25,0
+1078,Sun 7/5,Nepal,15784,6547,34
+1079,Sun 7/5,Netherlands,50834,187,6146
+1080,Sun 7/5,New Zealand,1534,1490,22
+1081,Sun 7/5,Nicaragua,2519,1238,83
+1082,Sun 7/5,Niger,1088,965,68
+1083,Sun 7/5,Nigeria,28711,11665,645
+1084,Sun 7/5,North Macedonia,7046,3027,341
+1085,Sun 7/5,Norway,8930,8138,251
+1086,Sun 7/5,Oman,46178,27917,213
+1087,Sun 7/5,Pakistan,231818,131649,4762
+1088,Sun 7/5,Panama,38149,17986,747
+1089,Sun 7/5,Papua New Guinea,11,8,0
+1090,Sun 7/5,Paraguay,2427,1166,20
+1091,Sun 7/5,Peru,302718,193957,10589
+1092,Sun 7/5,Philippines,44254,11942,1297
+1093,Sun 7/5,Poland,35950,23746,1517
+1094,Sun 7/5,Portugal,43897,29017,1614
+1095,Sun 7/5,Qatar,99799,92284,128
+1096,Sun 7/5,Romania,28973,20026,1750
+1097,Sun 7/5,Russia,680283,449995,10145
+1098,Sun 7/5,Rwanda,1105,567,3
+1099,Sun 7/5,Saint Kitts and Nevis,16,15,0
+1100,Sun 7/5,Saint Lucia,22,19,0
+1101,Sun 7/5,Saint Vincent and the Grenadines,29,29,0
+1102,Sun 7/5,San Marino,698,656,42
+1103,Sun 7/5,Sao Tome and Principe,720,268,13
+1104,Sun 7/5,Saudi Arabia,209509,145236,1916
+1105,Sun 7/5,Senegal,7400,4870,133
+1106,Sun 7/5,Serbia,16131,13267,311
+1107,Sun 7/5,Seychelles,81,11,0
+1108,Sun 7/5,Sierra Leone,1542,1062,62
+1109,Sun 7/5,Singapore,44800,40441,26
+1110,Sun 7/5,Slovakia,1764,1466,28
+1111,Sun 7/5,Slovenia,1700,1384,111
+1112,Sun 7/5,Solomon Islands,0,0,0
+1113,Sun 7/5,Somalia,2997,1014,92
+1114,Sun 7/5,South Africa,196750,93315,3199
+1115,Sun 7/5,South Sudan,2021,333,38
+1116,Sun 7/5,Spain,250545,150376,28385
+1117,Sun 7/5,Sri Lanka,2076,1903,11
+1118,Sun 7/5,Sudan,9767,4673,608
+1119,Sun 7/5,Suriname,594,292,14
+1120,Sun 7/5,Sweden,70681,0,5578
+1121,Sun 7/5,Switzerland,32268,29300,1965
+1122,Sun 7/5,Syria,358,126,13
+1123,Sun 7/5,Taiwan*,449,438,7
+1124,Sun 7/5,Tajikistan,6213,4858,53
+1125,Sun 7/5,Tanzania,509,183,21
+1126,Sun 7/5,Thailand,3190,3071,58
+1127,Sun 7/5,Timor-Leste,24,24,0
+1128,Sun 7/5,Togo,680,447,15
+1129,Sun 7/5,Trinidad and Tobago,133,115,8
+1130,Sun 7/5,Tunisia,1188,1048,50
+1131,Sun 7/5,Turkey,205758,180680,5225
+1132,Sun 7/5,US,2882973,906763,130416
+1133,Sun 7/5,Uganda,939,891,0
+1134,Sun 7/5,Ukraine,49468,22131,1265
+1135,Sun 7/5,United Arab Emirates,51540,40297,323
+1136,Sun 7/5,United Kingdom,286931,1375,40717
+1137,Sun 7/5,Uruguay,956,849,28
+1138,Sun 7/5,Uzbekistan,10020,6584,34
+1139,Sun 7/5,Vanuatu,0,0,0
+1140,Sun 7/5,Venezuela,7169,2100,65
+1141,Sun 7/5,Vietnam,355,340,0
+1142,Sun 7/5,West Bank and Gaza,4277,491,16
+1143,Sun 7/5,Western Sahara,10,8,1
+1144,Sun 7/5,Yemen,1265,552,338
+1145,Sun 7/5,Zambia,1632,1348,30
+1146,Sun 7/5,Zimbabwe,716,181,8
+1147,Sun 7/12,Afghanistan,34451,21216,1010
+1148,Sun 7/12,Albania,3454,1946,93
+1149,Sun 7/12,Algeria,19195,13743,1011
+1150,Sun 7/12,Andorra,855,803,52
+1151,Sun 7/12,Angola,506,118,26
+1152,Sun 7/12,Antigua and Barbuda,74,57,3
+1153,Sun 7/12,Argentina,100166,42694,1845
+1154,Sun 7/12,Armenia,31969,19633,565
+1155,Sun 7/12,Australia,9980,7769,108
+1156,Sun 7/12,Austria,18897,16952,708
+1157,Sun 7/12,Azerbaijan,24041,15093,306
+1158,Sun 7/12,Bahamas,111,89,11
+1159,Sun 7/12,Bahrain,32941,28425,108
+1160,Sun 7/12,Bangladesh,183795,93614,2352
+1161,Sun 7/12,Barbados,103,90,7
+1162,Sun 7/12,Belarus,64932,55380,464
+1163,Sun 7/12,Belgium,62707,17196,9782
+1164,Sun 7/12,Belize,37,20,2
+1165,Sun 7/12,Benin,1378,557,26
+1166,Sun 7/12,Bhutan,84,76,0
+1167,Sun 7/12,Bolivia,48187,14843,1807
+1168,Sun 7/12,Bosnia and Herzegovina,6877,3115,221
+1169,Sun 7/12,Botswana,399,38,1
+1170,Sun 7/12,Brazil,1864681,1264843,72100
+1171,Sun 7/12,Brunei,141,138,3
+1172,Sun 7/12,Bulgaria,7252,3319,268
+1173,Sun 7/12,Burkina Faso,1036,869,53
+1174,Sun 7/12,Burma,331,261,6
+1175,Sun 7/12,Burundi,191,118,1
+1176,Sun 7/12,Cabo Verde,1623,748,19
+1177,Sun 7/12,Cambodia,156,133,0
+1178,Sun 7/12,Cameroon,15173,11928,359
+1179,Sun 7/12,Canada,109348,72954,8829
+1180,Sun 7/12,Central African Republic,4288,1145,53
+1181,Sun 7/12,Chad,880,790,75
+1182,Sun 7/12,Chile,315041,283902,6979
+1183,Sun 7/12,China,85117,79907,4641
+1184,Sun 7/12,Colombia,150445,61186,5307
+1185,Sun 7/12,Comoros,317,296,7
+1186,Sun 7/12,Congo (Brazzaville),2028,589,47
+1187,Sun 7/12,Congo (Kinshasa),8033,3615,189
+1188,Sun 7/12,Costa Rica,7596,2239,30
+1189,Sun 7/12,Cote d'Ivoire,12766,6654,84
+1190,Sun 7/12,Croatia,3722,2486,119
+1191,Sun 7/12,Cuba,2426,2258,87
+1192,Sun 7/12,Cyprus,1021,839,19
+1193,Sun 7/12,Czechia,13174,8247,352
+1194,Sun 7/12,Denmark,13147,12278,609
+1195,Sun 7/12,Diamond Princess,712,651,13
+1196,Sun 7/12,Djibouti,4972,4712,56
+1197,Sun 7/12,Dominica,18,18,0
+1198,Sun 7/12,Dominican Republic,44532,21459,897
+1199,Sun 7/12,Ecuador,67870,30283,5047
+1200,Sun 7/12,Egypt,82070,24419,3858
+1201,Sun 7/12,El Salvador,9674,5634,260
+1202,Sun 7/12,Equatorial Guinea,3071,842,51
+1203,Sun 7/12,Eritrea,232,107,0
+1204,Sun 7/12,Estonia,2014,1895,69
+1205,Sun 7/12,Eswatini,1351,668,20
+1206,Sun 7/12,Ethiopia,7560,2430,127
+1207,Sun 7/12,Fiji,26,18,0
+1208,Sun 7/12,Finland,7294,6800,329
+1209,Sun 7/12,France,208015,78513,30007
+1210,Sun 7/12,Gabon,5942,3004,46
+1211,Sun 7/12,Gambia,64,34,3
+1212,Sun 7/12,Georgia,986,857,15
+1213,Sun 7/12,Germany,199919,184414,9071
+1214,Sun 7/12,Ghana,24518,20187,139
+1215,Sun 7/12,Greece,3803,1374,193
+1216,Sun 7/12,Grenada,23,23,0
+1217,Sun 7/12,Guatemala,29355,4214,1219
+1218,Sun 7/12,Guinea,6141,4862,37
+1219,Sun 7/12,Guinea-Bissau,1842,773,26
+1220,Sun 7/12,Guyana,297,154,17
+1221,Sun 7/12,Haiti,6727,2924,139
+1222,Sun 7/12,Holy See,12,12,0
+1223,Sun 7/12,Honduras,28090,2957,774
+1224,Sun 7/12,Hungary,4234,3036,595
+1225,Sun 7/12,Iceland,1833,1800,10
+1226,Sun 7/12,India,878254,553471,23174
+1227,Sun 7/12,Indonesia,75699,35638,3606
+1228,Sun 7/12,Iran,257303,219993,12829
+1229,Sun 7/12,Iraq,77506,44724,3150
+1230,Sun 7/12,Ireland,25628,23364,1746
+1231,Sun 7/12,Israel,38670,19008,362
+1232,Sun 7/12,Italy,243061,194928,34954
+1233,Sun 7/12,Jamaica,758,620,10
+1234,Sun 7/12,Japan,21841,17845,983
+1235,Sun 7/12,Jordan,1179,997,10
+1236,Sun 7/12,Kazakhstan,58253,33814,375
+1237,Sun 7/12,Kenya,10105,2881,185
+1238,Sun 7/12,"Korea, South",13479,12204,289
+1239,Sun 7/12,Kosovo,4715,2227,101
+1240,Sun 7/12,Kuwait,54894,44610,390
+1241,Sun 7/12,Kyrgyzstan,11117,3460,147
+1242,Sun 7/12,Laos,19,19,0
+1243,Sun 7/12,Latvia,1173,1019,30
+1244,Sun 7/12,Lebanon,2334,1420,36
+1245,Sun 7/12,Lesotho,233,32,2
+1246,Sun 7/12,Liberia,1010,423,51
+1247,Sun 7/12,Libya,1433,341,39
+1248,Sun 7/12,Liechtenstein,84,82,1
+1249,Sun 7/12,Lithuania,1869,1571,79
+1250,Sun 7/12,Luxembourg,4925,4086,111
+1251,Sun 7/12,MS Zaandam,9,0,2
+1252,Sun 7/12,Madagascar,4867,2378,35
+1253,Sun 7/12,Malawi,2364,557,38
+1254,Sun 7/12,Malaysia,8718,8519,122
+1255,Sun 7/12,Maldives,2731,2284,13
+1256,Sun 7/12,Mali,2411,1694,121
+1257,Sun 7/12,Malta,674,660,9
+1258,Sun 7/12,Marshall Islands,0,0,0
+1259,Sun 7/12,Mauritania,5355,2363,147
+1260,Sun 7/12,Mauritius,342,330,10
+1261,Sun 7/12,Mexico,299750,234905,35006
+1262,Sun 7/12,Moldova,19382,12667,642
+1263,Sun 7/12,Monaco,109,97,4
+1264,Sun 7/12,Mongolia,230,203,0
+1265,Sun 7/12,Montenegro,1221,325,23
+1266,Sun 7/12,Morocco,15745,12283,250
+1267,Sun 7/12,Mozambique,1157,364,9
+1268,Sun 7/12,Namibia,785,26,1
+1269,Sun 7/12,Nepal,16801,8589,38
+1270,Sun 7/12,Netherlands,51237,193,6156
+1271,Sun 7/12,New Zealand,1544,1497,22
+1272,Sun 7/12,Nicaragua,2846,1993,91
+1273,Sun 7/12,Niger,1099,992,68
+1274,Sun 7/12,Nigeria,32558,13447,740
+1275,Sun 7/12,North Macedonia,8111,4203,382
+1276,Sun 7/12,Norway,8981,8138,252
+1277,Sun 7/12,Oman,56015,36098,257
+1278,Sun 7/12,Pakistan,251625,161917,5266
+1279,Sun 7/12,Panama,45633,23039,909
+1280,Sun 7/12,Papua New Guinea,11,8,0
+1281,Sun 7/12,Paraguay,2948,1275,22
+1282,Sun 7/12,Peru,326326,217111,11870
+1283,Sun 7/12,Philippines,56259,16046,1534
+1284,Sun 7/12,Poland,37891,27148,1571
+1285,Sun 7/12,Portugal,46512,30907,1660
+1286,Sun 7/12,Qatar,103598,99743,147
+1287,Sun 7/12,Romania,32535,21545,1884
+1288,Sun 7/12,Russia,726036,500208,11318
+1289,Sun 7/12,Rwanda,1337,684,4
+1290,Sun 7/12,Saint Kitts and Nevis,17,15,0
+1291,Sun 7/12,Saint Lucia,22,19,0
+1292,Sun 7/12,Saint Vincent and the Grenadines,35,29,0
+1293,Sun 7/12,San Marino,699,656,42
+1294,Sun 7/12,Sao Tome and Principe,729,286,14
+1295,Sun 7/12,Saudi Arabia,232259,167138,2223
+1296,Sun 7/12,Senegal,8135,5446,148
+1297,Sun 7/12,Serbia,18360,13876,393
+1298,Sun 7/12,Seychelles,100,11,0
+1299,Sun 7/12,Sierra Leone,1635,1154,63
+1300,Sun 7/12,Singapore,45961,42285,26
+1301,Sun 7/12,Slovakia,1901,1493,28
+1302,Sun 7/12,Slovenia,1841,1469,111
+1303,Sun 7/12,Solomon Islands,0,0,0
+1304,Sun 7/12,Somalia,3059,1264,93
+1305,Sun 7/12,South Africa,276242,134874,4079
+1306,Sun 7/12,South Sudan,2021,333,38
+1307,Sun 7/12,Spain,253908,150376,28403
+1308,Sun 7/12,Sri Lanka,2617,1981,11
+1309,Sun 7/12,Sudan,10250,5341,650
+1310,Sun 7/12,Suriname,741,495,18
+1311,Sun 7/12,Sweden,72879,0,5664
+1312,Sun 7/12,Switzerland,32883,29600,1968
+1313,Sun 7/12,Syria,394,126,16
+1314,Sun 7/12,Taiwan*,451,438,7
+1315,Sun 7/12,Tajikistan,6552,5228,55
+1316,Sun 7/12,Tanzania,509,183,21
+1317,Sun 7/12,Thailand,3217,3088,58
+1318,Sun 7/12,Timor-Leste,24,24,0
+1319,Sun 7/12,Togo,720,513,15
+1320,Sun 7/12,Trinidad and Tobago,133,120,8
+1321,Sun 7/12,Tunisia,1263,1076,50
+1322,Sun 7/12,Turkey,212993,194515,5363
+1323,Sun 7/12,US,3297169,1006326,135820
+1324,Sun 7/12,Uganda,1025,972,0
+1325,Sun 7/12,Ukraine,54647,26971,1400
+1326,Sun 7/12,United Arab Emirates,54854,45140,333
+1327,Sun 7/12,United Kingdom,291154,1378,40930
+1328,Sun 7/12,Uruguay,987,896,31
+1329,Sun 7/12,Uzbekistan,12997,7852,60
+1330,Sun 7/12,Vanuatu,0,0,0
+1331,Sun 7/12,Venezuela,9465,2671,89
+1332,Sun 7/12,Vietnam,372,350,0
+1333,Sun 7/12,West Bank and Gaza,6230,942,36
+1334,Sun 7/12,Western Sahara,10,8,1
+1335,Sun 7/12,Yemen,1465,659,417
+1336,Sun 7/12,Zambia,1895,1412,42
+1337,Sun 7/12,Zimbabwe,985,328,18
+1338,Sun 7/19,Afghanistan,35475,23634,1181
+1339,Sun 7/19,Albania,4090,2311,112
+1340,Sun 7/19,Algeria,23084,16051,1078
+1341,Sun 7/19,Andorra,880,803,52
+1342,Sun 7/19,Angola,705,221,29
+1343,Sun 7/19,Antigua and Barbuda,76,57,3
+1344,Sun 7/19,Argentina,126755,54105,2260
+1345,Sun 7/19,Armenia,34877,23294,641
+1346,Sun 7/19,Australia,12069,8395,123
+1347,Sun 7/19,Austria,19655,17599,711
+1348,Sun 7/19,Azerbaijan,27521,18967,354
+1349,Sun 7/19,Bahamas,153,91,11
+1350,Sun 7/19,Bahrain,36422,32372,126
+1351,Sun 7/19,Bangladesh,204525,111642,2618
+1352,Sun 7/19,Barbados,105,91,7
+1353,Sun 7/19,Belarus,66095,58204,499
+1354,Sun 7/19,Belgium,63706,17289,9800
+1355,Sun 7/19,Belize,40,22,2
+1356,Sun 7/19,Benin,1602,782,31
+1357,Sun 7/19,Bhutan,89,82,0
+1358,Sun 7/19,Bolivia,59582,18553,2151
+1359,Sun 7/19,Bosnia and Herzegovina,8340,3669,249
+1360,Sun 7/19,Botswana,522,48,1
+1361,Sun 7/19,Brazil,2098389,1459072,79488
+1362,Sun 7/19,Brunei,141,138,3
+1363,Sun 7/19,Bulgaria,8733,4106,300
+1364,Sun 7/19,Burkina Faso,1052,901,53
+1365,Sun 7/19,Burma,341,276,6
+1366,Sun 7/19,Burundi,310,207,1
+1367,Sun 7/19,Cabo Verde,2045,973,21
+1368,Sun 7/19,Cambodia,171,136,0
+1369,Sun 7/19,Cameroon,16157,13728,373
+1370,Sun 7/19,Canada,112168,98564,8896
+1371,Sun 7/19,Central African Republic,4485,1348,55
+1372,Sun 7/19,Chad,889,801,75
+1373,Sun 7/19,Chile,330930,301794,8503
+1374,Sun 7/19,China,85503,80137,4646
+1375,Sun 7/19,Colombia,197278,91793,6736
+1376,Sun 7/19,Comoros,334,313,7
+1377,Sun 7/19,Congo (Brazzaville),2633,626,49
+1378,Sun 7/19,Congo (Kinshasa),8403,4335,194
+1379,Sun 7/19,Costa Rica,11114,2966,62
+1380,Sun 7/19,Cote d'Ivoire,14119,8366,92
+1381,Sun 7/19,Croatia,4345,3018,120
+1382,Sun 7/19,Cuba,2446,2308,87
+1383,Sun 7/19,Cyprus,1038,845,19
+1384,Sun 7/19,Czechia,13945,8761,359
+1385,Sun 7/19,Denmark,13377,12410,611
+1386,Sun 7/19,Diamond Princess,712,651,13
+1387,Sun 7/19,Djibouti,5011,4838,56
+1388,Sun 7/19,Dominica,18,18,0
+1389,Sun 7/19,Dominican Republic,52855,25094,981
+1390,Sun 7/19,Ecuador,74013,31901,5313
+1391,Sun 7/19,Egypt,87775,28380,4302
+1392,Sun 7/19,El Salvador,11846,6705,335
+1393,Sun 7/19,Equatorial Guinea,3071,842,51
+1394,Sun 7/19,Eritrea,251,155,0
+1395,Sun 7/19,Estonia,2021,1912,69
+1396,Sun 7/19,Eswatini,1793,822,21
+1397,Sun 7/19,Ethiopia,9503,2430,167
+1398,Sun 7/19,Fiji,27,18,0
+1399,Sun 7/19,Finland,7335,6880,328
+1400,Sun 7/19,France,211943,79371,30155
+1401,Sun 7/19,Gabon,6315,3865,46
+1402,Sun 7/19,Gambia,93,49,4
+1403,Sun 7/19,Georgia,1028,899,15
+1404,Sun 7/19,Germany,202735,187400,9092
+1405,Sun 7/19,Ghana,27667,23249,148
+1406,Sun 7/19,Greece,4007,1374,194
+1407,Sun 7/19,Grenada,23,23,0
+1408,Sun 7/19,Guatemala,38677,23365,1485
+1409,Sun 7/19,Guinea,6544,5511,39
+1410,Sun 7/19,Guinea-Bissau,1949,803,26
+1411,Sun 7/19,Guyana,336,163,19
+1412,Sun 7/19,Haiti,7053,3877,146
+1413,Sun 7/19,Holy See,12,12,0
+1414,Sun 7/19,Honduras,33835,3801,900
+1415,Sun 7/19,Hungary,4333,3223,596
+1416,Sun 7/19,Iceland,1839,1815,10
+1417,Sun 7/19,India,1118206,700087,27497
+1418,Sun 7/19,Indonesia,86521,45401,4143
+1419,Sun 7/19,Iran,273788,237788,14188
+1420,Sun 7/19,Iraq,92530,60528,3781
+1421,Sun 7/19,Ireland,25760,23364,1753
+1422,Sun 7/19,Israel,50289,21675,409
+1423,Sun 7/19,Italy,244434,196949,35045
+1424,Sun 7/19,Jamaica,790,693,10
+1425,Sun 7/19,Japan,25446,19211,986
+1426,Sun 7/19,Jordan,1218,1024,11
+1427,Sun 7/19,Kazakhstan,71838,43029,375
+1428,Sun 7/19,Kenya,13353,5122,234
+1429,Sun 7/19,"Korea, South",13771,12572,296
+1430,Sun 7/19,Kosovo,5735,2968,135
+1431,Sun 7/19,Kuwait,59204,49687,408
+1432,Sun 7/19,Kyrgyzstan,27143,13109,1037
+1433,Sun 7/19,Laos,19,19,0
+1434,Sun 7/19,Latvia,1192,1022,31
+1435,Sun 7/19,Lebanon,2859,1515,40
+1436,Sun 7/19,Lesotho,359,69,6
+1437,Sun 7/19,Liberia,1091,534,70
+1438,Sun 7/19,Libya,1866,418,48
+1439,Sun 7/19,Liechtenstein,86,83,1
+1440,Sun 7/19,Lithuania,1932,1600,80
+1441,Sun 7/19,Luxembourg,5605,4333,111
+1442,Sun 7/19,MS Zaandam,9,0,2
+1443,Sun 7/19,Madagascar,7049,3498,59
+1444,Sun 7/19,Malawi,2907,1135,59
+1445,Sun 7/19,Malaysia,8779,8553,123
+1446,Sun 7/19,Maldives,2966,2362,15
+1447,Sun 7/19,Mali,2475,1828,121
+1448,Sun 7/19,Malta,677,662,9
+1449,Sun 7/19,Marshall Islands,0,0,0
+1450,Sun 7/19,Mauritania,5873,3436,155
+1451,Sun 7/19,Mauritius,343,331,10
+1452,Sun 7/19,Mexico,344224,254941,39184
+1453,Sun 7/19,Moldova,20980,14376,684
+1454,Sun 7/19,Monaco,109,98,4
+1455,Sun 7/19,Mongolia,287,213,0
+1456,Sun 7/19,Montenegro,2188,385,32
+1457,Sun 7/19,Morocco,17236,14921,273
+1458,Sun 7/19,Mozambique,1491,472,10
+1459,Sun 7/19,Namibia,1247,35,3
+1460,Sun 7/19,Nepal,17658,11695,40
+1461,Sun 7/19,Netherlands,51955,194,6155
+1462,Sun 7/19,New Zealand,1554,1506,22
+1463,Sun 7/19,Nicaragua,3147,2282,99
+1464,Sun 7/19,Niger,1104,1014,69
+1465,Sun 7/19,Nigeria,36663,15105,789
+1466,Sun 7/19,North Macedonia,9153,4810,422
+1467,Sun 7/19,Norway,9028,8138,255
+1468,Sun 7/19,Oman,66661,44004,318
+1469,Sun 7/19,Pakistan,265083,205929,5599
+1470,Sun 7/19,Panama,53468,28482,1096
+1471,Sun 7/19,Papua New Guinea,16,8,0
+1472,Sun 7/19,Paraguay,3721,1918,31
+1473,Sun 7/19,Peru,353590,241955,13187
+1474,Sun 7/19,Philippines,67456,22465,1831
+1475,Sun 7/19,Poland,40104,30292,1624
+1476,Sun 7/19,Portugal,48636,33369,1689
+1477,Sun 7/19,Qatar,106648,103377,157
+1478,Sun 7/19,Romania,37458,22617,2026
+1479,Sun 7/19,Russia,770311,549387,12323
+1480,Sun 7/19,Rwanda,1582,834,5
+1481,Sun 7/19,Saint Kitts and Nevis,17,15,0
+1482,Sun 7/19,Saint Lucia,23,19,0
+1483,Sun 7/19,Saint Vincent and the Grenadines,44,29,0
+1484,Sun 7/19,San Marino,699,656,42
+1485,Sun 7/19,Sao Tome and Principe,746,451,14
+1486,Sun 7/19,Saudi Arabia,250920,197735,2486
+1487,Sun 7/19,Senegal,8810,5948,167
+1488,Sun 7/19,Serbia,20894,15564,472
+1489,Sun 7/19,Seychelles,108,27,0
+1490,Sun 7/19,Sierra Leone,1711,1237,65
+1491,Sun 7/19,Singapore,47912,44086,27
+1492,Sun 7/19,Slovakia,1979,1530,28
+1493,Sun 7/19,Slovenia,1946,1568,112
+1494,Sun 7/19,Solomon Islands,0,0,0
+1495,Sun 7/19,Somalia,3119,1457,93
+1496,Sun 7/19,South Africa,364328,191059,5033
+1497,Sun 7/19,South Sudan,2200,1175,43
+1498,Sun 7/19,Spain,260255,150376,28420
+1499,Sun 7/19,Sri Lanka,2724,2035,11
+1500,Sun 7/19,Sudan,10992,5707,693
+1501,Sun 7/19,Suriname,1029,627,21
+1502,Sun 7/19,Sweden,74545,0,5722
+1503,Sun 7/19,Switzerland,33591,30300,1969
+1504,Sun 7/19,Syria,496,144,25
+1505,Sun 7/19,Taiwan*,451,440,7
+1506,Sun 7/19,Tajikistan,6878,5578,57
+1507,Sun 7/19,Tanzania,509,183,21
+1508,Sun 7/19,Thailand,3250,3096,58
+1509,Sun 7/19,Timor-Leste,24,24,0
+1510,Sun 7/19,Togo,778,551,15
+1511,Sun 7/19,Trinidad and Tobago,137,124,8
+1512,Sun 7/19,Tunisia,1374,1097,50
+1513,Sun 7/19,Turkey,219641,202010,5491
+1514,Sun 7/19,US,3762984,1131121,141278
+1515,Sun 7/19,Uganda,1065,1023,0
+1516,Sun 7/19,Ukraine,60077,31836,1504
+1517,Sun 7/19,United Arab Emirates,56922,49269,339
+1518,Sun 7/19,United Kingdom,296358,1413,41080
+1519,Sun 7/19,Uruguay,1054,922,33
+1520,Sun 7/19,Uzbekistan,16752,9279,87
+1521,Sun 7/19,Vanuatu,0,0,0
+1522,Sun 7/19,Venezuela,11891,3972,112
+1523,Sun 7/19,Vietnam,383,357,0
+1524,Sun 7/19,West Bank and Gaza,8549,1921,62
+1525,Sun 7/19,Western Sahara,10,8,1
+1526,Sun 7/19,Yemen,1606,712,445
+1527,Sun 7/19,Zambia,2980,1462,120
+1528,Sun 7/19,Zimbabwe,1611,472,25
+1529,Sun 7/26,Afghanistan,36157,25180,1259
+1530,Sun 7/26,Albania,4763,2682,138
+1531,Sun 7/26,Algeria,27357,18088,1155
+1532,Sun 7/26,Andorra,897,803,52
+1533,Sun 7/26,Angola,932,242,40
+1534,Sun 7/26,Antigua and Barbuda,82,60,3
+1535,Sun 7/26,Argentina,162526,70518,2939
+1536,Sun 7/26,Armenia,37317,26478,705
+1537,Sun 7/26,Australia,14935,9174,161
+1538,Sun 7/26,Austria,20472,18209,712
+1539,Sun 7/26,Azerbaijan,30050,22684,417
+1540,Sun 7/26,Bahamas,342,91,11
+1541,Sun 7/26,Bahrain,39131,35689,140
+1542,Sun 7/26,Bangladesh,223453,123882,2928
+1543,Sun 7/26,Barbados,110,94,7
+1544,Sun 7/26,Belarus,67132,60425,534
+1545,Sun 7/26,Belgium,66026,17438,9821
+1546,Sun 7/26,Belize,48,26,2
+1547,Sun 7/26,Benin,1770,1036,35
+1548,Sun 7/26,Bhutan,95,85,0
+1549,Sun 7/26,Bolivia,69429,21169,2583
+1550,Sun 7/26,Bosnia and Herzegovina,9767,4555,280
+1551,Sun 7/26,Botswana,686,52,1
+1552,Sun 7/26,Brazil,2419091,1812913,87004
+1553,Sun 7/26,Brunei,141,138,3
+1554,Sun 7/26,Bulgaria,10427,5355,340
+1555,Sun 7/26,Burkina Faso,1086,920,53
+1556,Sun 7/26,Burma,350,290,6
+1557,Sun 7/26,Burundi,361,279,1
+1558,Sun 7/26,Cabo Verde,2307,1447,22
+1559,Sun 7/26,Cambodia,225,143,0
+1560,Sun 7/26,Cameroon,16708,14539,385
+1561,Sun 7/26,Canada,115789,100969,8934
+1562,Sun 7/26,Central African Republic,4599,1546,59
+1563,Sun 7/26,Chad,915,810,75
+1564,Sun 7/26,Chile,345790,318095,9112
+1565,Sun 7/26,China,86570,80459,4652
+1566,Sun 7/26,Colombia,248976,125037,8525
+1567,Sun 7/26,Comoros,354,328,7
+1568,Sun 7/26,Congo (Brazzaville),3038,756,51
+1569,Sun 7/26,Congo (Kinshasa),8831,5510,204
+1570,Sun 7/26,Costa Rica,15229,3736,104
+1571,Sun 7/26,Cote d'Ivoire,15596,10178,96
+1572,Sun 7/26,Croatia,4857,3866,136
+1573,Sun 7/26,Cuba,2495,2349,87
+1574,Sun 7/26,Cyprus,1057,852,19
+1575,Sun 7/26,Czechia,15324,11428,371
+1576,Sun 7/26,Denmark,13665,12541,613
+1577,Sun 7/26,Diamond Princess,712,651,13
+1578,Sun 7/26,Djibouti,5050,4966,58
+1579,Sun 7/26,Dominica,18,18,0
+1580,Sun 7/26,Dominican Republic,62908,28603,1063
+1581,Sun 7/26,Ecuador,80694,34896,5515
+1582,Sun 7/26,Egypt,92062,33831,4606
+1583,Sun 7/26,El Salvador,14630,7648,400
+1584,Sun 7/26,Equatorial Guinea,3071,842,51
+1585,Sun 7/26,Eritrea,263,189,0
+1586,Sun 7/26,Estonia,2034,1922,69
+1587,Sun 7/26,Eswatini,2207,986,32
+1588,Sun 7/26,Ethiopia,13968,6216,223
+1589,Sun 7/26,Fiji,27,18,0
+1590,Sun 7/26,Finland,7393,6920,329
+1591,Sun 7/26,France,217801,80945,30195
+1592,Sun 7/26,Gabon,6984,4463,49
+1593,Sun 7/26,Gambia,277,60,6
+1594,Sun 7/26,Georgia,1131,920,16
+1595,Sun 7/26,Germany,206667,190055,9124
+1596,Sun 7/26,Ghana,32969,29494,168
+1597,Sun 7/26,Greece,4193,1374,202
+1598,Sun 7/26,Grenada,23,23,0
+1599,Sun 7/26,Guatemala,45053,31612,1734
+1600,Sun 7/26,Guinea,7008,6152,43
+1601,Sun 7/26,Guinea-Bissau,1954,803,26
+1602,Sun 7/26,Guyana,370,181,20
+1603,Sun 7/26,Haiti,7315,4365,157
+1604,Sun 7/26,Holy See,12,12,0
+1605,Sun 7/26,Honduras,39276,4922,1116
+1606,Sun 7/26,Hungary,4435,3329,596
+1607,Sun 7/26,Iceland,1847,1823,10
+1608,Sun 7/26,India,1435616,917568,32771
+1609,Sun 7/26,Indonesia,98778,56655,4781
+1610,Sun 7/26,Iran,291172,253213,15700
+1611,Sun 7/26,Iraq,110032,75217,4362
+1612,Sun 7/26,Ireland,25881,23364,1764
+1613,Sun 7/26,Israel,61956,27025,470
+1614,Sun 7/26,Italy,246118,198446,35107
+1615,Sun 7/26,Jamaica,842,714,10
+1616,Sun 7/26,Japan,30548,21606,998
+1617,Sun 7/26,Jordan,1168,1041,11
+1618,Sun 7/26,Kazakhstan,83122,52571,585
+1619,Sun 7/26,Kenya,17603,7743,280
+1620,Sun 7/26,"Korea, South",14175,12905,299
+1621,Sun 7/26,Kosovo,7137,3874,177
+1622,Sun 7/26,Kuwait,63773,54373,433
+1623,Sun 7/26,Kyrgyzstan,32813,20388,1277
+1624,Sun 7/26,Laos,20,19,0
+1625,Sun 7/26,Latvia,1219,1045,31
+1626,Sun 7/26,Lebanon,3750,1692,51
+1627,Sun 7/26,Lesotho,505,128,12
+1628,Sun 7/26,Liberia,1162,641,72
+1629,Sun 7/26,Libya,2669,553,60
+1630,Sun 7/26,Liechtenstein,86,81,1
+1631,Sun 7/26,Lithuania,2008,1616,80
+1632,Sun 7/26,Luxembourg,6272,4647,112
+1633,Sun 7/26,MS Zaandam,9,0,2
+1634,Sun 7/26,Madagascar,9295,5579,85
+1635,Sun 7/26,Malawi,3640,1639,99
+1636,Sun 7/26,Malaysia,8897,8600,124
+1637,Sun 7/26,Maldives,3302,2528,15
+1638,Sun 7/26,Mali,2510,1911,123
+1639,Sun 7/26,Malta,700,665,9
+1640,Sun 7/26,Marshall Islands,0,0,0
+1641,Sun 7/26,Mauritania,6171,4430,156
+1642,Sun 7/26,Mauritius,344,332,10
+1643,Sun 7/26,Mexico,390516,295222,43680
+1644,Sun 7/26,Moldova,23034,15909,735
+1645,Sun 7/26,Monaco,116,104,4
+1646,Sun 7/26,Mongolia,288,218,0
+1647,Sun 7/26,Montenegro,2799,739,43
+1648,Sun 7/26,Morocco,20278,16438,313
+1649,Sun 7/26,Mozambique,1669,593,11
+1650,Sun 7/26,Namibia,1775,75,8
+1651,Sun 7/26,Nepal,18613,13128,45
+1652,Sun 7/26,Netherlands,53278,196,6178
+1653,Sun 7/26,New Zealand,1556,1513,22
+1654,Sun 7/26,Nicaragua,3439,2492,108
+1655,Sun 7/26,Niger,1136,1027,69
+1656,Sun 7/26,Nigeria,40532,17374,858
+1657,Sun 7/26,North Macedonia,10086,5427,460
+1658,Sun 7/26,Norway,9117,8752,255
+1659,Sun 7/26,Oman,76005,55299,384
+1660,Sun 7/26,Pakistan,273113,237434,5822
+1661,Sun 7/26,Panama,60296,34131,1294
+1662,Sun 7/26,Papua New Guinea,62,11,0
+1663,Sun 7/26,Paraguay,4444,2794,41
+1664,Sun 7/26,Peru,375961,267850,17843
+1665,Sun 7/26,Philippines,80448,26110,1932
+1666,Sun 7/26,Poland,43065,32753,1671
+1667,Sun 7/26,Portugal,50164,35217,1717
+1668,Sun 7/26,Qatar,109305,106024,165
+1669,Sun 7/26,Romania,44798,25643,2187
+1670,Sun 7/26,Russia,811073,599172,13249
+1671,Sun 7/26,Rwanda,1821,918,5
+1672,Sun 7/26,Saint Kitts and Nevis,17,15,0
+1673,Sun 7/26,Saint Lucia,24,22,0
+1674,Sun 7/26,Saint Vincent and the Grenadines,52,39,0
+1675,Sun 7/26,San Marino,699,657,42
+1676,Sun 7/26,Sao Tome and Principe,863,696,14
+1677,Sun 7/26,Saudi Arabia,266941,220323,2733
+1678,Sun 7/26,Senegal,9681,6409,191
+1679,Sun 7/26,Serbia,23730,0,534
+1680,Sun 7/26,Seychelles,114,39,0
+1681,Sun 7/26,Sierra Leone,1783,1313,66
+1682,Sun 7/26,Singapore,50369,45521,27
+1683,Sun 7/26,Slovakia,2179,1577,28
+1684,Sun 7/26,Slovenia,2082,1678,116
+1685,Sun 7/26,Solomon Islands,0,0,0
+1686,Sun 7/26,Somalia,3178,1521,93
+1687,Sun 7/26,South Africa,445433,265077,6769
+1688,Sun 7/26,South Sudan,2262,1175,45
+1689,Sun 7/26,Spain,272421,150376,28432
+1690,Sun 7/26,Sri Lanka,2782,2106,11
+1691,Sun 7/26,Sudan,11385,5890,717
+1692,Sun 7/26,Suriname,1439,890,23
+1693,Sun 7/26,Sweden,75861,0,5755
+1694,Sun 7/26,Switzerland,34412,30700,1977
+1695,Sun 7/26,Syria,650,200,38
+1696,Sun 7/26,Taiwan*,458,440,7
+1697,Sun 7/26,Tajikistan,7192,5970,59
+1698,Sun 7/26,Tanzania,509,183,21
+1699,Sun 7/26,Thailand,3291,3109,58
+1700,Sun 7/26,Timor-Leste,24,24,0
+1701,Sun 7/26,Togo,868,599,18
+1702,Sun 7/26,Trinidad and Tobago,147,128,8
+1703,Sun 7/26,Tunisia,1452,1142,50
+1704,Sun 7/26,Turkey,226100,209487,5613
+1705,Sun 7/26,US,4222603,1297863,147716
+1706,Sun 7/26,Uganda,1115,982,2
+1707,Sun 7/26,Ukraine,66261,36885,1625
+1708,Sun 7/26,United Arab Emirates,58913,52182,344
+1709,Sun 7/26,United Kingdom,301020,1434,41196
+1710,Sun 7/26,Uruguay,1192,948,34
+1711,Sun 7/26,Uzbekistan,20531,11105,116
+1712,Sun 7/26,Vanuatu,0,0,0
+1713,Sun 7/26,Venezuela,15463,9746,142
+1714,Sun 7/26,Vietnam,420,365,0
+1715,Sun 7/26,West Bank and Gaza,10469,3752,76
+1716,Sun 7/26,Western Sahara,10,8,1
+1717,Sun 7/26,Yemen,1681,797,479
+1718,Sun 7/26,Zambia,4481,2350,139
+1719,Sun 7/26,Zimbabwe,2512,518,34
+1720,Sun 8/2,Afghanistan,36710,25510,1284
+1721,Sun 8/2,Albania,5519,3018,166
+1722,Sun 8/2,Algeria,31465,21419,1231
+1723,Sun 8/2,Andorra,925,807,52
+1724,Sun 8/2,Angola,1199,461,55
+1725,Sun 8/2,Antigua and Barbuda,91,67,3
+1726,Sun 8/2,Argentina,201919,89026,3648
+1727,Sun 8/2,Armenia,39050,29750,754
+1728,Sun 8/2,Australia,18318,10622,221
+1729,Sun 8/2,Austria,21304,18984,718
+1730,Sun 8/2,Azerbaijan,32443,27113,462
+1731,Sun 8/2,Bahamas,648,91,14
+1732,Sun 8/2,Bahrain,41536,38666,147
+1733,Sun 8/2,Bangladesh,240746,136839,3154
+1734,Sun 8/2,Barbados,132,98,7
+1735,Sun 8/2,Belarus,68067,62896,567
+1736,Sun 8/2,Belgium,69849,17590,9845
+1737,Sun 8/2,Belize,57,30,2
+1738,Sun 8/2,Benin,1805,1036,36
+1739,Sun 8/2,Bhutan,102,89,0
+1740,Sun 8/2,Bolivia,80153,24156,3153
+1741,Sun 8/2,Bosnia and Herzegovina,12296,6312,352
+1742,Sun 8/2,Botswana,804,63,2
+1743,Sun 8/2,Brazil,2733677,2062876,94104
+1744,Sun 8/2,Brunei,141,138,3
+1745,Sun 8/2,Bulgaria,11955,6420,388
+1746,Sun 8/2,Burkina Faso,1143,945,53
+1747,Sun 8/2,Burma,353,298,6
+1748,Sun 8/2,Burundi,395,304,1
+1749,Sun 8/2,Cabo Verde,2547,1860,24
+1750,Sun 8/2,Cambodia,240,196,0
+1751,Sun 8/2,Cameroon,17255,15320,391
+1752,Sun 8/2,Canada,118768,103201,8990
+1753,Sun 8/2,Central African Republic,4614,1635,59
+1754,Sun 8/2,Chad,936,813,75
+1755,Sun 8/2,Chile,359731,332411,9608
+1756,Sun 8/2,China,87985,81018,4669
+1757,Sun 8/2,Colombia,317651,167239,10650
+1758,Sun 8/2,Comoros,386,330,7
+1759,Sun 8/2,Congo (Brazzaville),3200,829,54
+1760,Sun 8/2,Congo (Kinshasa),9115,7319,215
+1761,Sun 8/2,Costa Rica,18975,4585,162
+1762,Sun 8/2,Cote d'Ivoire,16182,11801,102
+1763,Sun 8/2,Croatia,5260,4373,149
+1764,Sun 8/2,Cuba,2646,2369,87
+1765,Sun 8/2,Cyprus,1150,856,19
+1766,Sun 8/2,Czechia,16800,11605,384
+1767,Sun 8/2,Denmark,14028,12783,615
+1768,Sun 8/2,Diamond Princess,712,651,13
+1769,Sun 8/2,Djibouti,5161,5019,59
+1770,Sun 8/2,Dominica,18,18,0
+1771,Sun 8/2,Dominican Republic,72243,38244,1178
+1772,Sun 8/2,Ecuador,86232,36213,5736
+1773,Sun 8/2,Egypt,94483,42455,4865
+1774,Sun 8/2,El Salvador,17448,8634,467
+1775,Sun 8/2,Equatorial Guinea,4821,2182,83
+1776,Sun 8/2,Eritrea,279,225,0
+1777,Sun 8/2,Estonia,2079,1934,63
+1778,Sun 8/2,Eswatini,2775,1214,43
+1779,Sun 8/2,Ethiopia,18706,7601,310
+1780,Sun 8/2,Fiji,27,18,1
+1781,Sun 8/2,Finland,7453,6950,329
+1782,Sun 8/2,France,225198,81764,30268
+1783,Sun 8/2,Gabon,7531,5223,50
+1784,Sun 8/2,Gambia,498,68,9
+1785,Sun 8/2,Georgia,1177,955,17
+1786,Sun 8/2,Germany,211220,192908,9154
+1787,Sun 8/2,Ghana,37014,33365,182
+1788,Sun 8/2,Greece,4662,1374,208
+1789,Sun 8/2,Grenada,24,23,0
+1790,Sun 8/2,Guatemala,51306,38416,1995
+1791,Sun 8/2,Guinea,7317,6480,46
+1792,Sun 8/2,Guinea-Bissau,1981,803,27
+1793,Sun 8/2,Guyana,474,185,21
+1794,Sun 8/2,Haiti,7468,4606,165
+1795,Sun 8/2,Holy See,12,12,0
+1796,Sun 8/2,Honduras,43197,5794,1377
+1797,Sun 8/2,Hungary,4535,3389,597
+1798,Sun 8/2,Iceland,1907,1825,10
+1799,Sun 8/2,India,1803695,1186203,38135
+1800,Sun 8/2,Indonesia,111455,68975,5236
+1801,Sun 8/2,Iran,309437,268102,17190
+1802,Sun 8/2,Iraq,129151,91886,4868
+1803,Sun 8/2,Ireland,26162,23364,1763
+1804,Sun 8/2,Israel,72815,45677,536
+1805,Sun 8/2,Italy,248070,200460,35154
+1806,Sun 8/2,Jamaica,894,743,12
+1807,Sun 8/2,Japan,39116,25748,1013
+1808,Sun 8/2,Jordan,1213,1099,11
+1809,Sun 8/2,Kazakhstan,92662,62511,793
+1810,Sun 8/2,Kenya,22053,8477,369
+1811,Sun 8/2,"Korea, South",14389,13280,301
+1812,Sun 8/2,Kosovo,8799,4863,249
+1813,Sun 8/2,Kuwait,67911,59213,457
+1814,Sun 8/2,Kyrgyzstan,36719,27274,1409
+1815,Sun 8/2,Laos,20,19,0
+1816,Sun 8/2,Latvia,1243,1052,32
+1817,Sun 8/2,Lebanon,4885,1795,62
+1818,Sun 8/2,Lesotho,718,173,19
+1819,Sun 8/2,Liberia,1207,673,77
+1820,Sun 8/2,Libya,3837,623,83
+1821,Sun 8/2,Liechtenstein,89,85,1
+1822,Sun 8/2,Lithuania,2110,1644,80
+1823,Sun 8/2,Luxembourg,6855,5192,117
+1824,Sun 8/2,MS Zaandam,9,0,2
+1825,Sun 8/2,Madagascar,11528,8444,114
+1826,Sun 8/2,Malawi,4231,1919,123
+1827,Sun 8/2,Malaysia,8999,8664,125
+1828,Sun 8/2,Maldives,4164,2643,18
+1829,Sun 8/2,Mali,2541,1943,124
+1830,Sun 8/2,Malta,860,666,9
+1831,Sun 8/2,Marshall Islands,0,0,0
+1832,Sun 8/2,Mauritania,6323,5115,157
+1833,Sun 8/2,Mauritius,344,332,10
+1834,Sun 8/2,Mexico,439046,342527,47746
+1835,Sun 8/2,Moldova,25362,17816,791
+1836,Sun 8/2,Monaco,120,105,4
+1837,Sun 8/2,Mongolia,293,230,0
+1838,Sun 8/2,Montenegro,3258,1445,51
+1839,Sun 8/2,Morocco,25537,18435,382
+1840,Sun 8/2,Mozambique,1946,654,13
+1841,Sun 8/2,Namibia,2294,187,11
+1842,Sun 8/2,Nepal,20332,14603,57
+1843,Sun 8/2,Netherlands,55408,206,6169
+1844,Sun 8/2,New Zealand,1567,1518,22
+1845,Sun 8/2,Nicaragua,3672,2492,116
+1846,Sun 8/2,Niger,1147,1032,69
+1847,Sun 8/2,Nigeria,43841,20308,888
+1848,Sun 8/2,North Macedonia,11054,6882,497
+1849,Sun 8/2,Norway,9268,8752,255
+1850,Sun 8/2,Oman,79159,61421,421
+1851,Sun 8/2,Pakistan,279699,248577,5976
+1852,Sun 8/2,Panama,67453,41038,1471
+1853,Sun 8/2,Papua New Guinea,110,34,2
+1854,Sun 8/2,Paraguay,5644,3966,52
+1855,Sun 8/2,Peru,428850,294187,19614
+1856,Sun 8/2,Philippines,103185,65557,2059
+1857,Sun 8/2,Poland,46894,34709,1731
+1858,Sun 8/2,Portugal,51463,36984,1738
+1859,Sun 8/2,Qatar,111107,107779,177
+1860,Sun 8/2,Romania,53186,27592,2413
+1861,Sun 8/2,Russia,849277,648961,14104
+1862,Sun 8/2,Rwanda,2062,1144,5
+1863,Sun 8/2,Saint Kitts and Nevis,17,16,0
+1864,Sun 8/2,Saint Lucia,25,22,0
+1865,Sun 8/2,Saint Vincent and the Grenadines,55,45,0
+1866,Sun 8/2,San Marino,699,657,42
+1867,Sun 8/2,Sao Tome and Principe,874,787,15
+1868,Sun 8/2,Saudi Arabia,278835,240081,2917
+1869,Sun 8/2,Senegal,10344,6838,209
+1870,Sun 8/2,Serbia,26193,0,590
+1871,Sun 8/2,Seychelles,114,39,0
+1872,Sun 8/2,Sierra Leone,1843,1375,67
+1873,Sun 8/2,Singapore,52825,46926,27
+1874,Sun 8/2,Slovakia,2344,1742,29
+1875,Sun 8/2,Slovenia,2180,1826,120
+1876,Sun 8/2,Solomon Islands,0,0,0
+1877,Sun 8/2,Somalia,3220,1598,93
+1878,Sun 8/2,South Africa,511485,347227,8366
+1879,Sun 8/2,South Sudan,2429,1175,46
+1880,Sun 8/2,Spain,288522,150376,28445
+1881,Sun 8/2,Sri Lanka,2823,2514,11
+1882,Sun 8/2,Sudan,11738,6137,752
+1883,Sun 8/2,Suriname,1849,1194,27
+1884,Sun 8/2,Sweden,77417,0,5772
+1885,Sun 8/2,Switzerland,35550,31500,1981
+1886,Sun 8/2,Syria,809,256,44
+1887,Sun 8/2,Taiwan*,475,441,7
+1888,Sun 8/2,Tajikistan,7495,6276,61
+1889,Sun 8/2,Tanzania,509,183,21
+1890,Sun 8/2,Thailand,3317,3142,58
+1891,Sun 8/2,Timor-Leste,24,24,0
+1892,Sun 8/2,Togo,961,660,19
+1893,Sun 8/2,Trinidad and Tobago,182,132,8
+1894,Sun 8/2,Tunisia,1561,1221,51
+1895,Sun 8/2,Turkey,232856,216494,5728
+1896,Sun 8/2,US,4655782,1468689,155613
+1897,Sun 8/2,Uganda,1182,1045,4
+1898,Sun 8/2,Ukraine,73761,40755,1749
+1899,Sun 8/2,United Arab Emirates,60999,54615,351
+1900,Sun 8/2,United Kingdom,306309,1444,41292
+1901,Sun 8/2,Uruguay,1286,1011,36
+1902,Sun 8/2,Uzbekistan,25336,15833,151
+1903,Sun 8/2,Vanuatu,0,0,0
+1904,Sun 8/2,Venezuela,20206,11404,174
+1905,Sun 8/2,Vietnam,621,373,6
+1906,Sun 8/2,West Bank and Gaza,12297,5390,84
+1907,Sun 8/2,Western Sahara,10,8,1
+1908,Sun 8/2,Yemen,1734,862,497
+1909,Sun 8/2,Zambia,6347,4493,170
+1910,Sun 8/2,Zimbabwe,3921,1016,70
+1911,Sun 8/9,Afghanistan,37054,25960,1312
+1912,Sun 8/9,Albania,6411,3342,199
+1913,Sun 8/9,Algeria,35160,24506,1302
+1914,Sun 8/9,Andorra,955,839,52
+1915,Sun 8/9,Angola,1672,567,75
+1916,Sun 8/9,Antigua and Barbuda,92,76,3
+1917,Sun 8/9,Argentina,246499,108242,4606
+1918,Sun 8/9,Armenia,40410,32520,791
+1919,Sun 8/9,Australia,21397,11876,313
+1920,Sun 8/9,Austria,22033,19923,721
+1921,Sun 8/9,Azerbaijan,33568,30364,490
+1922,Sun 8/9,Bahamas,898,104,15
+1923,Sun 8/9,Bahrain,44011,40967,162
+1924,Sun 8/9,Bangladesh,257600,148370,3399
+1925,Sun 8/9,Barbados,142,112,7
+1926,Sun 8/9,Belarus,68850,64935,587
+1927,Sun 8/9,Belgium,74152,17780,9872
+1928,Sun 8/9,Belize,153,32,2
+1929,Sun 8/9,Benin,1936,1600,38
+1930,Sun 8/9,Bhutan,110,96,0
+1931,Sun 8/9,Bolivia,89999,29808,3640
+1932,Sun 8/9,Bosnia and Herzegovina,13687,7373,394
+1933,Sun 8/9,Botswana,804,63,2
+1934,Sun 8/9,Brazil,3035422,2356983,101049
+1935,Sun 8/9,Brunei,142,138,3
+1936,Sun 8/9,Bulgaria,13396,7772,447
+1937,Sun 8/9,Burkina Faso,1175,974,54
+1938,Sun 8/9,Burma,360,312,6
+1939,Sun 8/9,Burundi,408,315,1
+1940,Sun 8/9,Cabo Verde,2858,2086,32
+1941,Sun 8/9,Cambodia,251,219,0
+1942,Sun 8/9,Cameroon,18042,15320,395
+1943,Sun 8/9,Canada,121367,105420,9028
+1944,Sun 8/9,Central African Republic,4641,1721,60
+1945,Sun 8/9,Chad,944,839,76
+1946,Sun 8/9,Chile,373056,345826,10077
+1947,Sun 8/9,China,88793,82125,4686
+1948,Sun 8/9,Colombia,387481,212688,12842
+1949,Sun 8/9,Comoros,399,369,7
+1950,Sun 8/9,Congo (Brazzaville),3664,1589,58
+1951,Sun 8/9,Congo (Kinshasa),9454,8324,224
+1952,Sun 8/9,Costa Rica,23286,7730,235
+1953,Sun 8/9,Cote d'Ivoire,16715,12926,105
+1954,Sun 8/9,Croatia,5604,4861,157
+1955,Sun 8/9,Cuba,2953,2451,88
+1956,Sun 8/9,Cyprus,1242,870,19
+1957,Sun 8/9,Czechia,18353,12785,390
+1958,Sun 8/9,Denmark,14759,13069,617
+1959,Sun 8/9,Diamond Princess,712,651,13
+1960,Sun 8/9,Djibouti,5344,5106,59
+1961,Sun 8/9,Dominica,18,18,0
+1962,Sun 8/9,Dominican Republic,79732,43744,1309
+1963,Sun 8/9,Ecuador,94459,78552,5922
+1964,Sun 8/9,Egypt,95492,52678,5009
+1965,Sun 8/9,El Salvador,20423,9626,549
+1966,Sun 8/9,Equatorial Guinea,4821,2182,83
+1967,Sun 8/9,Eritrea,285,245,0
+1968,Sun 8/9,Estonia,2152,1961,63
+1969,Sun 8/9,Eswatini,3236,1607,58
+1970,Sun 8/9,Ethiopia,22818,10206,407
+1971,Sun 8/9,Fiji,27,18,1
+1972,Sun 8/9,Finland,7584,6980,331
+1973,Sun 8/9,France,235237,82971,30327
+1974,Sun 8/9,Gabon,7923,5704,51
+1975,Sun 8/9,Gambia,1235,221,23
+1976,Sun 8/9,Georgia,1225,1000,17
+1977,Sun 8/9,Germany,217288,196783,9202
+1978,Sun 8/9,Ghana,41003,38330,215
+1979,Sun 8/9,Greece,5623,3804,212
+1980,Sun 8/9,Grenada,24,23,0
+1981,Sun 8/9,Guatemala,56605,44598,2211
+1982,Sun 8/9,Guinea,7930,6898,50
+1983,Sun 8/9,Guinea-Bissau,2052,944,29
+1984,Sun 8/9,Guyana,568,189,22
+1985,Sun 8/9,Haiti,7634,4982,183
+1986,Sun 8/9,Holy See,12,12,0
+1987,Sun 8/9,Honduras,47454,6597,1495
+1988,Sun 8/9,Hungary,4696,3499,602
+1989,Sun 8/9,Iceland,1958,1834,10
+1990,Sun 8/9,India,2215074,1535743,44386
+1991,Sun 8/9,Indonesia,125396,80952,5723
+1992,Sun 8/9,Iran,326712,284371,18427
+1993,Sun 8/9,Iraq,150115,107775,5392
+1994,Sun 8/9,Ireland,26712,23364,1772
+1995,Sun 8/9,Israel,83002,57533,600
+1996,Sun 8/9,Italy,250566,202098,35205
+1997,Sun 8/9,Jamaica,1023,745,14
+1998,Sun 8/9,Japan,48782,32867,1047
+1999,Sun 8/9,Jordan,1252,1187,11
+2000,Sun 8/9,Kazakhstan,99442,72523,1058
+2001,Sun 8/9,Kenya,26436,12961,420
+2002,Sun 8/9,"Korea, South",14626,13658,305
+2003,Sun 8/9,Kosovo,10247,5944,328
+2004,Sun 8/9,Kuwait,71713,63519,478
+2005,Sun 8/9,Kyrgyzstan,39919,31822,1468
+2006,Sun 8/9,Laos,20,19,0
+2007,Sun 8/9,Latvia,1290,1070,32
+2008,Sun 8/9,Lebanon,6517,2127,78
+2009,Sun 8/9,Lesotho,742,175,23
+2010,Sun 8/9,Liberia,1237,723,79
+2011,Sun 8/9,Libya,5451,701,119
+2012,Sun 8/9,Liechtenstein,89,85,1
+2013,Sun 8/9,Lithuania,2252,1670,81
+2014,Sun 8/9,Luxembourg,7205,5848,120
+2015,Sun 8/9,MS Zaandam,9,0,2
+2016,Sun 8/9,Madagascar,13086,10816,148
+2017,Sun 8/9,Malawi,4658,2375,146
+2018,Sun 8/9,Malaysia,9083,8784,125
+2019,Sun 8/9,Maldives,5041,2804,19
+2020,Sun 8/9,Mali,2567,1962,125
+2021,Sun 8/9,Malta,1089,684,9
+2022,Sun 8/9,Marshall Islands,0,0,0
+2023,Sun 8/9,Mauritania,6523,5527,157
+2024,Sun 8/9,Mauritius,344,334,10
+2025,Sun 8/9,Mexico,480278,384432,52298
+2026,Sun 8/9,Moldova,27660,19300,845
+2027,Sun 8/9,Monaco,133,113,4
+2028,Sun 8/9,Mongolia,293,263,0
+2029,Sun 8/9,Montenegro,3618,2452,64
+2030,Sun 8/9,Morocco,33237,23347,498
+2031,Sun 8/9,Mozambique,2269,840,16
+2032,Sun 8/9,Namibia,2949,704,19
+2033,Sun 8/9,Nepal,22972,16353,75
+2034,Sun 8/9,Netherlands,59360,237,6178
+2035,Sun 8/9,New Zealand,1569,1526,22
+2036,Sun 8/9,Nicaragua,3902,2913,123
+2037,Sun 8/9,Niger,1158,1057,69
+2038,Sun 8/9,Nigeria,46577,33186,945
+2039,Sun 8/9,North Macedonia,11839,7664,527
+2040,Sun 8/9,Norway,9638,8857,256
+2041,Sun 8/9,Oman,81580,74691,513
+2042,Sun 8/9,Pakistan,284121,260248,6082
+2043,Sun 8/9,Panama,74492,48748,1639
+2044,Sun 8/9,Papua New Guinea,214,53,3
+2045,Sun 8/9,Paraguay,6907,5222,75
+2046,Sun 8/9,Peru,478024,324020,21072
+2047,Sun 8/9,Philippines,129913,67673,2270
+2048,Sun 8/9,Poland,51791,36691,1807
+2049,Sun 8/9,Portugal,52668,38511,1756
+2050,Sun 8/9,Qatar,112947,109709,184
+2051,Sun 8/9,Romania,61768,30119,2700
+2052,Sun 8/9,Russia,885718,692059,14903
+2053,Sun 8/9,Rwanda,2140,1346,7
+2054,Sun 8/9,Saint Kitts and Nevis,17,16,0
+2055,Sun 8/9,Saint Lucia,25,24,0
+2056,Sun 8/9,Saint Vincent and the Grenadines,57,52,0
+2057,Sun 8/9,San Marino,699,657,42
+2058,Sun 8/9,Sao Tome and Principe,878,800,15
+2059,Sun 8/9,Saudi Arabia,288690,252039,3167
+2060,Sun 8/9,Senegal,11175,7352,232
+2061,Sun 8/9,Serbia,28099,0,641
+2062,Sun 8/9,Seychelles,126,125,0
+2063,Sun 8/9,Sierra Leone,1916,1445,68
+2064,Sun 8/9,Singapore,55104,48915,27
+2065,Sun 8/9,Slovakia,2596,1864,31
+2066,Sun 8/9,Slovenia,2249,1927,127
+2067,Sun 8/9,Solomon Islands,0,0,0
+2068,Sun 8/9,Somalia,3227,1728,93
+2069,Sun 8/9,South Africa,559859,411474,10408
+2070,Sun 8/9,South Sudan,2470,1175,47
+2071,Sun 8/9,Spain,314362,150376,28503
+2072,Sun 8/9,Sri Lanka,2844,2579,11
+2073,Sun 8/9,Sudan,11956,6266,781
+2074,Sun 8/9,Suriname,2391,1635,29
+2075,Sun 8/9,Sweden,79432,0,5791
+2076,Sun 8/9,Switzerland,36603,32300,1986
+2077,Sun 8/9,Syria,1188,346,52
+2078,Sun 8/9,Taiwan*,477,441,7
+2079,Sun 8/9,Tajikistan,7745,6484,62
+2080,Sun 8/9,Tanzania,509,183,21
+2081,Sun 8/9,Thailand,3351,3151,58
+2082,Sun 8/9,Timor-Leste,25,24,0
+2083,Sun 8/9,Togo,1060,729,23
+2084,Sun 8/9,Trinidad and Tobago,279,135,8
+2085,Sun 8/9,Tunisia,1697,1263,51
+2086,Sun 8/9,Turkey,240804,223759,5844
+2087,Sun 8/9,US,5030646,1656864,162986
+2088,Sun 8/9,Uganda,1283,1115,7
+2089,Sun 8/9,Ukraine,82767,45335,1925
+2090,Sun 8/9,United Arab Emirates,62525,56568,357
+2091,Sun 8/9,United Kingdom,312574,1451,41363
+2092,Sun 8/9,Uruguay,1353,1125,37
+2093,Sun 8/9,Uzbekistan,30609,22042,194
+2094,Sun 8/9,Vanuatu,0,0,0
+2095,Sun 8/9,Venezuela,25805,13356,223
+2096,Sun 8/9,Vietnam,841,395,13
+2097,Sun 8/9,West Bank and Gaza,14208,7945,97
+2098,Sun 8/9,Western Sahara,10,8,1
+2099,Sun 8/9,Yemen,1804,913,515
+2100,Sun 8/9,Zambia,8085,6698,235
+2101,Sun 8/9,Zimbabwe,4649,1437,104
+2102,Sun 8/16,Afghanistan,37596,27166,1375
+2103,Sun 8/16,Albania,7380,3794,228
+2104,Sun 8/16,Algeria,38583,27017,1370
+2105,Sun 8/16,Andorra,989,863,53
+2106,Sun 8/16,Angola,1906,628,88
+2107,Sun 8/16,Antigua and Barbuda,93,88,3
+2108,Sun 8/16,Argentina,294569,211702,5703
+2109,Sun 8/16,Armenia,41663,34584,818
+2110,Sun 8/16,Australia,23558,14085,421
+2111,Sun 8/16,Austria,23370,20681,728
+2112,Sun 8/16,Azerbaijan,34219,31875,506
+2113,Sun 8/16,Bahamas,1315,189,18
+2114,Sun 8/16,Bahrain,46835,43128,170
+2115,Sun 8/16,Bangladesh,276549,158950,3657
+2116,Sun 8/16,Barbados,151,122,7
+2117,Sun 8/16,Belarus,69516,67072,610
+2118,Sun 8/16,Belgium,78323,17994,9939
+2119,Sun 8/16,Belize,452,35,3
+2120,Sun 8/16,Benin,2063,1690,39
+2121,Sun 8/16,Bhutan,138,102,0
+2122,Sun 8/16,Bolivia,100344,36491,4058
+2123,Sun 8/16,Bosnia and Herzegovina,15801,9619,471
+2124,Sun 8/16,Botswana,1214,120,3
+2125,Sun 8/16,Brazil,3340197,2655017,107852
+2126,Sun 8/16,Brunei,142,138,3
+2127,Sun 8/16,Bulgaria,14365,9186,498
+2128,Sun 8/16,Burkina Faso,1267,1013,55
+2129,Sun 8/16,Burma,375,329,6
+2130,Sun 8/16,Burundi,413,315,1
+2131,Sun 8/16,Cabo Verde,3179,2317,35
+2132,Sun 8/16,Cambodia,273,238,0
+2133,Sun 8/16,Cameroon,18469,16540,401
+2134,Sun 8/16,Canada,124004,110202,9074
+2135,Sun 8/16,Central African Republic,4652,1728,61
+2136,Sun 8/16,Chad,956,865,76
+2137,Sun 8/16,Chile,385946,358828,10452
+2138,Sun 8/16,China,89375,83200,4703
+2139,Sun 8/16,Colombia,468332,287436,15097
+2140,Sun 8/16,Comoros,405,379,7
+2141,Sun 8/16,Congo (Brazzaville),3831,1625,76
+2142,Sun 8/16,Congo (Kinshasa),9676,8705,240
+2143,Sun 8/16,Costa Rica,28465,9062,294
+2144,Sun 8/16,Cote d'Ivoire,17026,13947,110
+2145,Sun 8/16,Croatia,6571,5220,166
+2146,Sun 8/16,Cuba,3316,2620,88
+2147,Sun 8/16,Cyprus,1339,870,20
+2148,Sun 8/16,Czechia,20012,13799,397
+2149,Sun 8/16,Denmark,16003,13579,621
+2150,Sun 8/16,Diamond Princess,712,651,13
+2151,Sun 8/16,Djibouti,5369,5202,59
+2152,Sun 8/16,Dominica,18,18,0
+2153,Sun 8/16,Dominican Republic,86309,52905,1453
+2154,Sun 8/16,Ecuador,101542,87022,6070
+2155,Sun 8/16,Egypt,96475,59743,5160
+2156,Sun 8/16,El Salvador,22912,10807,612
+2157,Sun 8/16,Equatorial Guinea,4821,2182,83
+2158,Sun 8/16,Eritrea,285,248,0
+2159,Sun 8/16,Estonia,2190,1976,63
+2160,Sun 8/16,Eswatini,3839,2268,70
+2161,Sun 8/16,Ethiopia,29876,12359,528
+2162,Sun 8/16,Fiji,28,20,1
+2163,Sun 8/16,Finland,7731,7050,333
+2164,Sun 8/16,France,252965,83993,30410
+2165,Sun 8/16,Gabon,8225,6277,51
+2166,Sun 8/16,Gambia,1872,401,63
+2167,Sun 8/16,Georgia,1336,1088,17
+2168,Sun 8/16,Germany,225007,201187,9235
+2169,Sun 8/16,Ghana,42532,40362,231
+2170,Sun 8/16,Greece,7075,3804,228
+2171,Sun 8/16,Grenada,24,23,0
+2172,Sun 8/16,Guatemala,62562,50692,2379
+2173,Sun 8/16,Guinea,8482,7364,51
+2174,Sun 8/16,Guinea-Bissau,2117,1015,33
+2175,Sun 8/16,Guyana,709,349,23
+2176,Sun 8/16,Haiti,7879,5235,196
+2177,Sun 8/16,Holy See,12,12,0
+2178,Sun 8/16,Honduras,50502,7339,1575
+2179,Sun 8/16,Hungary,4916,3623,608
+2180,Sun 8/16,Iceland,2011,1880,10
+2181,Sun 8/16,India,2647663,1919842,50921
+2182,Sun 8/16,Indonesia,139549,93103,6150
+2183,Sun 8/16,Iran,343203,297486,19639
+2184,Sun 8/16,Iraq,176931,125374,5860
+2185,Sun 8/16,Ireland,27257,23364,1774
+2186,Sun 8/16,Israel,92680,68510,685
+2187,Sun 8/16,Italy,253915,203786,35396
+2188,Sun 8/16,Jamaica,1113,764,14
+2189,Sun 8/16,Japan,56074,40560,1103
+2190,Sun 8/16,Jordan,1378,1236,11
+2191,Sun 8/16,Kazakhstan,103033,82777,1269
+2192,Sun 8/16,Kenya,30120,16656,474
+2193,Sun 8/16,"Korea, South",15515,13917,305
+2194,Sun 8/16,Kosovo,11416,7191,401
+2195,Sun 8/16,Kuwait,76205,68135,501
+2196,Sun 8/16,Kyrgyzstan,41856,34276,1495
+2197,Sun 8/16,Laos,22,19,0
+2198,Sun 8/16,Latvia,1322,1078,32
+2199,Sun 8/16,Lebanon,8881,2724,103
+2200,Sun 8/16,Lesotho,903,271,25
+2201,Sun 8/16,Liberia,1257,788,82
+2202,Sun 8/16,Libya,8172,933,153
+2203,Sun 8/16,Liechtenstein,91,87,1
+2204,Sun 8/16,Lithuania,2416,1704,81
+2205,Sun 8/16,Luxembourg,7458,6500,123
+2206,Sun 8/16,MS Zaandam,9,0,2
+2207,Sun 8/16,Madagascar,13827,12424,170
+2208,Sun 8/16,Malawi,5072,2626,161
+2209,Sun 8/16,Malaysia,9200,8859,125
+2210,Sun 8/16,Maldives,5785,3349,22
+2211,Sun 8/16,Mali,2640,1987,125
+2212,Sun 8/16,Malta,1306,749,9
+2213,Sun 8/16,Marshall Islands,0,0,0
+2214,Sun 8/16,Mauritania,6701,5985,157
+2215,Sun 8/16,Mauritius,346,334,10
+2216,Sun 8/16,Mexico,522162,424298,56757
+2217,Sun 8/16,Moldova,30183,21220,896
+2218,Sun 8/16,Monaco,146,114,4
+2219,Sun 8/16,Mongolia,298,276,0
+2220,Sun 8/16,Montenegro,4035,2910,77
+2221,Sun 8/16,Morocco,42489,29344,658
+2222,Sun 8/16,Mozambique,2855,1163,19
+2223,Sun 8/16,Namibia,4154,2370,35
+2224,Sun 8/16,Nepal,26660,17335,104
+2225,Sun 8/16,Netherlands,64468,345,6194
+2226,Sun 8/16,New Zealand,1631,1531,22
+2227,Sun 8/16,Nicaragua,4115,2913,128
+2228,Sun 8/16,Niger,1167,1078,69
+2229,Sun 8/16,Nigeria,49068,36497,975
+2230,Sun 8/16,North Macedonia,12739,9174,544
+2231,Sun 8/16,Norway,10005,8857,261
+2232,Sun 8/16,Oman,83086,77680,572
+2233,Sun 8/16,Pakistan,289215,269087,6175
+2234,Sun 8/16,Panama,81940,55001,1767
+2235,Sun 8/16,Papua New Guinea,323,110,3
+2236,Sun 8/16,Paraguay,9791,6034,138
+2237,Sun 8/16,Peru,525803,365367,26075
+2238,Sun 8/16,Philippines,161253,112586,2665
+2239,Sun 8/16,Poland,56684,39130,1877
+2240,Sun 8/16,Portugal,54102,39697,1778
+2241,Sun 8/16,Qatar,115080,111794,193
+2242,Sun 8/16,Romania,70461,32587,2991
+2243,Sun 8/16,Russia,920719,731444,15653
+2244,Sun 8/16,Rwanda,2453,1648,8
+2245,Sun 8/16,Saint Kitts and Nevis,17,17,0
+2246,Sun 8/16,Saint Lucia,25,25,0
+2247,Sun 8/16,Saint Vincent and the Grenadines,57,55,0
+2248,Sun 8/16,San Marino,699,657,42
+2249,Sun 8/16,Sao Tome and Principe,885,818,15
+2250,Sun 8/16,Saudi Arabia,298542,266953,3408
+2251,Sun 8/16,Senegal,12162,7677,253
+2252,Sun 8/16,Serbia,29682,0,674
+2253,Sun 8/16,Seychelles,127,126,0
+2254,Sun 8/16,Sierra Leone,1956,1506,69
+2255,Sun 8/16,Singapore,55747,51953,27
+2256,Sun 8/16,Slovakia,2902,1969,31
+2257,Sun 8/16,Slovenia,2416,2051,129
+2258,Sun 8/16,Solomon Islands,0,0,0
+2259,Sun 8/16,Somalia,3256,2374,93
+2260,Sun 8/16,South Africa,587345,472377,11839
+2261,Sun 8/16,South Sudan,2489,1175,47
+2262,Sun 8/16,Spain,342813,150376,28617
+2263,Sun 8/16,Sri Lanka,2893,2670,11
+2264,Sun 8/16,Sudan,12314,6350,798
+2265,Sun 8/16,Suriname,3016,2036,47
+2266,Sun 8/16,Sweden,81484,0,5806
+2267,Sun 8/16,Switzerland,38124,33300,1991
+2268,Sun 8/16,Syria,1677,417,64
+2269,Sun 8/16,Taiwan*,484,450,7
+2270,Sun 8/16,Tajikistan,8065,6855,64
+2271,Sun 8/16,Tanzania,509,183,21
+2272,Sun 8/16,Thailand,3378,3194,58
+2273,Sun 8/16,Timor-Leste,25,24,0
+2274,Sun 8/16,Togo,1147,843,27
+2275,Sun 8/16,Trinidad and Tobago,552,140,11
+2276,Sun 8/16,Tunisia,2107,1358,54
+2277,Sun 8/16,Turkey,249309,230969,5974
+2278,Sun 8/16,US,5387615,1833067,170099
+2279,Sun 8/16,Uganda,1500,1142,13
+2280,Sun 8/16,Ukraine,93490,49346,2100
+2281,Sun 8/16,United Arab Emirates,64312,57694,364
+2282,Sun 8/16,United Kingdom,320343,1486,41451
+2283,Sun 8/16,Uruguay,1440,1200,38
+2284,Sun 8/16,Uzbekistan,35329,30973,232
+2285,Sun 8/16,Vanuatu,0,0,0
+2286,Sun 8/16,Venezuela,33755,22700,281
+2287,Sun 8/16,Vietnam,964,456,24
+2288,Sun 8/16,West Bank and Gaza,16534,9838,110
+2289,Sun 8/16,Western Sahara,10,8,1
+2290,Sun 8/16,Yemen,1869,1013,530
+2291,Sun 8/16,Zambia,9343,8412,260
+2292,Sun 8/16,Zimbabwe,5261,2092,132
+2293,Sun 8/23,Afghanistan,37999,28180,1387
+2294,Sun 8/23,Albania,8427,4332,250
+2295,Sun 8/23,Algeria,41460,29142,1435
+2296,Sun 8/23,Andorra,1045,875,53
+2297,Sun 8/23,Angola,2171,818,96
+2298,Sun 8/23,Antigua and Barbuda,94,89,3
+2299,Sun 8/23,Argentina,342154,251400,6985
+2300,Sun 8/23,Armenia,42792,35991,852
+2301,Sun 8/23,Australia,24915,19233,517
+2302,Sun 8/23,Austria,25253,21558,732
+2303,Sun 8/23,Azerbaijan,35274,32993,518
+2304,Sun 8/23,Bahamas,1784,634,29
+2305,Sun 8/23,Bahrain,49330,45981,184
+2306,Sun 8/23,Bangladesh,294598,179091,3941
+2307,Sun 8/23,Barbados,161,132,7
+2308,Sun 8/23,Belarus,70468,68839,642
+2309,Sun 8/23,Belgium,81936,18225,9992
+2310,Sun 8/23,Belize,686,44,6
+2311,Sun 8/23,Benin,2115,1705,39
+2312,Sun 8/23,Bhutan,155,112,0
+2313,Sun 8/23,Bolivia,109149,45396,4509
+2314,Sun 8/23,Bosnia and Herzegovina,17715,11329,532
+2315,Sun 8/23,Botswana,1308,136,3
+2316,Sun 8/23,Brazil,3605783,2947784,114744
+2317,Sun 8/23,Brunei,143,139,3
+2318,Sun 8/23,Bulgaria,15287,10338,545
+2319,Sun 8/23,Burkina Faso,1320,1043,55
+2320,Sun 8/23,Burma,450,341,6
+2321,Sun 8/23,Burundi,430,336,1
+2322,Sun 8/23,Cabo Verde,3509,2540,37
+2323,Sun 8/23,Cambodia,273,263,0
+2324,Sun 8/23,Cameroon,18762,16540,408
+2325,Sun 8/23,Canada,126817,112836,9119
+2326,Sun 8/23,Central African Republic,4679,1755,61
+2327,Sun 8/23,Chad,986,870,76
+2328,Sun 8/23,Chile,397665,371179,10852
+2329,Sun 8/23,China,89695,83988,4711
+2330,Sun 8/23,Colombia,541139,374024,17316
+2331,Sun 8/23,Comoros,417,396,7
+2332,Sun 8/23,Congo (Brazzaville),3850,1625,77
+2333,Sun 8/23,Congo (Kinshasa),9830,8934,251
+2334,Sun 8/23,Costa Rica,33820,10518,355
+2335,Sun 8/23,Cote d'Ivoire,17471,15301,113
+2336,Sun 8/23,Croatia,8175,5801,171
+2337,Sun 8/23,Cuba,3682,3044,91
+2338,Sun 8/23,Cyprus,1421,878,20
+2339,Sun 8/23,Czechia,21923,16125,412
+2340,Sun 8/23,Denmark,16715,14494,622
+2341,Sun 8/23,Diamond Princess,712,651,13
+2342,Sun 8/23,Djibouti,5382,5254,60
+2343,Sun 8/23,Dominica,19,18,0
+2344,Sun 8/23,Dominican Republic,91161,60670,1567
+2345,Sun 8/23,Ecuador,107769,94816,6310
+2346,Sun 8/23,Egypt,97340,65927,5262
+2347,Sun 8/23,El Salvador,24622,12246,661
+2348,Sun 8/23,Equatorial Guinea,4926,3795,83
+2349,Sun 8/23,Eritrea,306,274,0
+2350,Sun 8/23,Estonia,2272,2024,63
+2351,Sun 8/23,Eswatini,4225,2898,85
+2352,Sun 8/23,Ethiopia,40671,14995,678
+2353,Sun 8/23,Fiji,28,23,1
+2354,Sun 8/23,Finland,7920,7100,334
+2355,Sun 8/23,France,280459,85125,30518
+2356,Sun 8/23,Gabon,8388,6734,53
+2357,Sun 8/23,Gambia,2685,490,87
+2358,Sun 8/23,Georgia,1411,1132,17
+2359,Sun 8/23,Germany,234494,207985,9275
+2360,Sun 8/23,Ghana,43505,41532,261
+2361,Sun 8/23,Greece,8664,3804,242
+2362,Sun 8/23,Grenada,24,24,0
+2363,Sun 8/23,Guatemala,68188,56778,2594
+2364,Sun 8/23,Guinea,8967,7708,53
+2365,Sun 8/23,Guinea-Bissau,2149,1015,33
+2366,Sun 8/23,Guyana,955,490,31
+2367,Sun 8/23,Haiti,8082,5624,196
+2368,Sun 8/23,Holy See,12,12,0
+2369,Sun 8/23,Honduras,54511,8532,1654
+2370,Sun 8/23,Hungary,5155,3695,613
+2371,Sun 8/23,Iceland,2064,1939,10
+2372,Sun 8/23,India,3106348,2338035,57542
+2373,Sun 8/23,Indonesia,153535,107500,6680
+2374,Sun 8/23,Iran,358905,309464,20643
+2375,Sun 8/23,Iraq,204341,146409,6428
+2376,Sun 8/23,Ireland,27969,23364,1777
+2377,Sun 8/23,Israel,102663,79514,834
+2378,Sun 8/23,Italy,259345,205470,35437
+2379,Sun 8/23,Jamaica,1529,819,16
+2380,Sun 8/23,Japan,62658,48319,1188
+2381,Sun 8/23,Jordan,1609,1320,12
+2382,Sun 8/23,Kazakhstan,104718,92598,1415
+2383,Sun 8/23,Kenya,32364,18670,548
+2384,Sun 8/23,"Korea, South",17665,14219,309
+2385,Sun 8/23,Kosovo,12448,8505,467
+2386,Sun 8/23,Kuwait,80528,72307,515
+2387,Sun 8/23,Kyrgyzstan,43023,36397,1056
+2388,Sun 8/23,Laos,22,20,0
+2389,Sun 8/23,Latvia,1337,1093,33
+2390,Sun 8/23,Lebanon,12698,3625,123
+2391,Sun 8/23,Lesotho,1015,472,30
+2392,Sun 8/23,Liberia,1286,816,82
+2393,Sun 8/23,Libya,10437,1085,188
+2394,Sun 8/23,Liechtenstein,99,88,1
+2395,Sun 8/23,Lithuania,2635,1766,84
+2396,Sun 8/23,Luxembourg,7775,6969,124
+2397,Sun 8/23,MS Zaandam,9,0,2
+2398,Sun 8/23,Madagascar,14327,13355,178
+2399,Sun 8/23,Malawi,5414,3012,168
+2400,Sun 8/23,Malaysia,9267,8959,125
+2401,Sun 8/23,Maldives,6779,4222,26
+2402,Sun 8/23,Mali,2705,2018,125
+2403,Sun 8/23,Malta,1612,934,10
+2404,Sun 8/23,Marshall Islands,0,0,0
+2405,Sun 8/23,Mauritania,6905,6232,158
+2406,Sun 8/23,Mauritius,346,335,10
+2407,Sun 8/23,Mexico,560164,458123,60480
+2408,Sun 8/23,Moldova,33478,22683,940
+2409,Sun 8/23,Monaco,154,116,4
+2410,Sun 8/23,Mongolia,298,289,0
+2411,Sun 8/23,Montenegro,4343,3356,84
+2412,Sun 8/23,Morocco,52349,36343,888
+2413,Sun 8/23,Mozambique,3395,1503,20
+2414,Sun 8/23,Namibia,5854,2509,52
+2415,Sun 8/23,Nepal,31935,18631,149
+2416,Sun 8/23,Netherlands,68570,642,6225
+2417,Sun 8/23,New Zealand,1683,1538,22
+2418,Sun 8/23,Nicaragua,4311,2913,133
+2419,Sun 8/23,Niger,1172,1083,69
+2420,Sun 8/23,Nigeria,52227,38945,1002
+2421,Sun 8/23,North Macedonia,13595,10110,564
+2422,Sun 8/23,Norway,10323,9150,264
+2423,Sun 8/23,Oman,83769,78386,609
+2424,Sun 8/23,Pakistan,293261,276829,6244
+2425,Sun 8/23,Panama,86900,61420,1892
+2426,Sun 8/23,Papua New Guinea,401,232,4
+2427,Sun 8/23,Paraguay,13233,7417,205
+2428,Sun 8/23,Peru,585236,399357,27453
+2429,Sun 8/23,Philippines,189601,131367,2998
+2430,Sun 8/23,Poland,61762,42183,1955
+2431,Sun 8/23,Portugal,55597,40774,1796
+2432,Sun 8/23,Qatar,117008,113808,193
+2433,Sun 8/23,Romania,78505,35287,3272
+2434,Sun 8/23,Russia,954328,768906,16341
+2435,Sun 8/23,Rwanda,3089,1755,12
+2436,Sun 8/23,Saint Kitts and Nevis,17,17,0
+2437,Sun 8/23,Saint Lucia,26,25,0
+2438,Sun 8/23,Saint Vincent and the Grenadines,58,56,0
+2439,Sun 8/23,San Marino,704,657,42
+2440,Sun 8/23,Sao Tome and Principe,892,831,15
+2441,Sun 8/23,Saudi Arabia,307479,280143,3649
+2442,Sun 8/23,Senegal,12949,8455,269
+2443,Sun 8/23,Serbia,30657,0,698
+2444,Sun 8/23,Seychelles,132,126,0
+2445,Sun 8/23,Sierra Leone,1992,1550,69
+2446,Sun 8/23,Singapore,56353,54164,27
+2447,Sun 8/23,Slovakia,3356,2148,33
+2448,Sun 8/23,Slovenia,2651,2079,131
+2449,Sun 8/23,Solomon Islands,0,0,0
+2450,Sun 8/23,Somalia,3269,2396,93
+2451,Sun 8/23,South Africa,609773,506470,13059
+2452,Sun 8/23,South Sudan,2499,1290,47
+2453,Sun 8/23,Spain,386054,150376,28838
+2454,Sun 8/23,Sri Lanka,2953,2805,12
+2455,Sun 8/23,Sudan,12836,6497,815
+2456,Sun 8/23,Suriname,3607,2688,58
+2457,Sun 8/23,Sweden,83171,0,5816
+2458,Sun 8/23,Switzerland,39903,34400,2001
+2459,Sun 8/23,Syria,2217,505,89
+2460,Sun 8/23,Taiwan*,487,457,7
+2461,Sun 8/23,Tajikistan,8311,7108,66
+2462,Sun 8/23,Tanzania,509,183,21
+2463,Sun 8/23,Thailand,3395,3221,58
+2464,Sun 8/23,Timor-Leste,26,25,0
+2465,Sun 8/23,Togo,1277,910,27
+2466,Sun 8/23,Trinidad and Tobago,1007,165,14
+2467,Sun 8/23,Tunisia,2818,1443,71
+2468,Sun 8/23,Turkey,258249,237165,6121
+2469,Sun 8/23,US,5686994,1997761,176835
+2470,Sun 8/23,Uganda,2263,1199,20
+2471,Sun 8/23,Ukraine,107379,53968,2313
+2472,Sun 8/23,United Arab Emirates,67007,58488,375
+2473,Sun 8/23,United Kingdom,327643,1547,41515
+2474,Sun 8/23,Uruguay,1527,1276,42
+2475,Sun 8/23,Uzbekistan,38946,34987,273
+2476,Sun 8/23,Vanuatu,0,0,0
+2477,Sun 8/23,Venezuela,39564,29966,329
+2478,Sun 8/23,Vietnam,1016,568,27
+2479,Sun 8/23,West Bank and Gaza,18802,11843,128
+2480,Sun 8/23,Western Sahara,10,8,1
+2481,Sun 8/23,Yemen,1911,1086,553
+2482,Sun 8/23,Zambia,11082,9942,280
+2483,Sun 8/23,Zimbabwe,5930,4872,155
+2484,Sun 8/30,Afghanistan,38162,29089,1402
+2485,Sun 8/30,Albania,9380,5139,280
+2486,Sun 8/30,Algeria,44146,30978,1501
+2487,Sun 8/30,Andorra,1124,902,53
+2488,Sun 8/30,Angola,2624,1063,107
+2489,Sun 8/30,Antigua and Barbuda,94,91,3
+2490,Sun 8/30,Argentina,408426,294007,8457
+2491,Sun 8/30,Armenia,43750,37650,877
+2492,Sun 8/30,Australia,25746,21116,652
+2493,Sun 8/30,Austria,27166,23070,733
+2494,Sun 8/30,Azerbaijan,36309,33703,531
+2495,Sun 8/30,Bahamas,2167,782,50
+2496,Sun 8/30,Bahrain,51574,48654,189
+2497,Sun 8/30,Bangladesh,310822,201907,4248
+2498,Sun 8/30,Barbados,173,145,7
+2499,Sun 8/30,Belarus,71687,70452,676
+2500,Sun 8/30,Belgium,85042,18415,9894
+2501,Sun 8/30,Belize,993,117,13
+2502,Sun 8/30,Benin,2145,1738,40
+2503,Sun 8/30,Bhutan,224,140,0
+2504,Sun 8/30,Bolivia,115968,58497,4966
+2505,Sun 8/30,Bosnia and Herzegovina,19793,12961,598
+2506,Sun 8/30,Botswana,1633,224,6
+2507,Sun 8/30,Brazil,3862311,3237615,120828
+2508,Sun 8/30,Brunei,144,139,3
+2509,Sun 8/30,Bulgaria,16190,11313,613
+2510,Sun 8/30,Burkina Faso,1357,1058,55
+2511,Sun 8/30,Burma,775,352,6
+2512,Sun 8/30,Burundi,445,357,1
+2513,Sun 8/30,Cabo Verde,3852,2867,40
+2514,Sun 8/30,Cambodia,273,265,0
+2515,Sun 8/30,Cameroon,19142,17651,411
+2516,Sun 8/30,Canada,129888,115460,9164
+2517,Sun 8/30,Central African Republic,4700,1784,61
+2518,Sun 8/30,Chad,1012,878,77
+2519,Sun 8/30,Chile,409974,382584,11244
+2520,Sun 8/30,China,89895,84546,4722
+2521,Sun 8/30,Colombia,607904,450609,19363
+2522,Sun 8/30,Comoros,423,399,7
+2523,Sun 8/30,Congo (Brazzaville),3979,1742,78
+2524,Sun 8/30,Congo (Kinshasa),10045,9103,258
+2525,Sun 8/30,Costa Rica,39699,15737,418
+2526,Sun 8/30,Cote d'Ivoire,17948,16553,115
+2527,Sun 8/30,Croatia,10123,7212,184
+2528,Sun 8/30,Cuba,3973,3327,94
+2529,Sun 8/30,Cyprus,1487,935,20
+2530,Sun 8/30,Czechia,24367,17547,423
+2531,Sun 8/30,Denmark,17316,15492,624
+2532,Sun 8/30,Diamond Princess,712,651,13
+2533,Sun 8/30,Djibouti,5385,5319,60
+2534,Sun 8/30,Dominica,20,18,0
+2535,Sun 8/30,Dominican Republic,94241,66776,1681
+2536,Sun 8/30,Ecuador,113648,101620,6555
+2537,Sun 8/30,Egypt,98727,72120,5399
+2538,Sun 8/30,El Salvador,25635,14013,713
+2539,Sun 8/30,Equatorial Guinea,4941,3884,83
+2540,Sun 8/30,Eritrea,318,284,0
+2541,Sun 8/30,Estonia,2373,2088,64
+2542,Sun 8/30,Eswatini,4561,3478,91
+2543,Sun 8/30,Ethiopia,51122,18382,793
+2544,Sun 8/30,Fiji,28,23,2
+2545,Sun 8/30,Finland,8077,7200,335
+2546,Sun 8/30,France,315813,86495,30611
+2547,Sun 8/30,Gabon,8505,7187,53
+2548,Sun 8/30,Gambia,2963,1032,96
+2549,Sun 8/30,Georgia,1469,1221,19
+2550,Sun 8/30,Germany,243305,215283,9300
+2551,Sun 8/30,Ghana,44205,42777,276
+2552,Sun 8/30,Greece,10134,3804,262
+2553,Sun 8/30,Grenada,24,24,0
+2554,Sun 8/30,Guatemala,73912,61681,2740
+2555,Sun 8/30,Guinea,9371,8387,59
+2556,Sun 8/30,Guinea-Bissau,2205,1127,34
+2557,Sun 8/30,Guyana,1234,687,36
+2558,Sun 8/30,Haiti,8209,5828,201
+2559,Sun 8/30,Holy See,12,12,0
+2560,Sun 8/30,Honduras,60174,10242,1858
+2561,Sun 8/30,Hungary,5961,3759,614
+2562,Sun 8/30,Iceland,2105,1990,10
+2563,Sun 8/30,India,3621245,2774801,64469
+2564,Sun 8/30,Indonesia,172053,124185,7343
+2565,Sun 8/30,Iran,373570,321421,21462
+2566,Sun 8/30,Iraq,231177,172880,6959
+2567,Sun 8/30,Ireland,28760,23364,1777
+2568,Sun 8/30,Israel,114020,92796,919
+2569,Sun 8/30,Italy,268218,208536,35477
+2570,Sun 8/30,Jamaica,2357,890,21
+2571,Sun 8/30,Japan,67958,55700,1285
+2572,Sun 8/30,Jordan,1966,1468,15
+2573,Sun 8/30,Kazakhstan,105795,96297,1523
+2574,Sun 8/30,Kenya,34057,19688,574
+2575,Sun 8/30,"Korea, South",19947,14973,324
+2576,Sun 8/30,Kosovo,13334,9473,516
+2577,Sun 8/30,Kuwait,84636,76650,530
+2578,Sun 8/30,Kyrgyzstan,43820,38198,1058
+2579,Sun 8/30,Laos,22,21,0
+2580,Sun 8/30,Latvia,1393,1163,34
+2581,Sun 8/30,Lebanon,16870,4693,160
+2582,Sun 8/30,Lesotho,1085,528,31
+2583,Sun 8/30,Liberia,1304,872,82
+2584,Sun 8/30,Libya,13423,1410,232
+2585,Sun 8/30,Liechtenstein,107,97,1
+2586,Sun 8/30,Lithuania,2874,1837,86
+2587,Sun 8/30,Luxembourg,6625,5967,124
+2588,Sun 8/30,MS Zaandam,9,0,2
+2589,Sun 8/30,Madagascar,14843,13802,191
+2590,Sun 8/30,Malawi,5536,3147,174
+2591,Sun 8/30,Malaysia,9334,9048,126
+2592,Sun 8/30,Maldives,7667,5036,28
+2593,Sun 8/30,Mali,2773,2169,126
+2594,Sun 8/30,Malta,1862,1313,12
+2595,Sun 8/30,Marshall Islands,0,0,0
+2596,Sun 8/30,Mauritania,7016,6430,159
+2597,Sun 8/30,Mauritius,355,335,10
+2598,Sun 8/30,Mexico,595841,489724,64158
+2599,Sun 8/30,Moldova,36700,25139,992
+2600,Sun 8/30,Monaco,154,116,4
+2601,Sun 8/30,Mongolia,301,295,0
+2602,Sun 8/30,Montenegro,4790,3963,98
+2603,Sun 8/30,Morocco,61399,46355,1111
+2604,Sun 8/30,Mozambique,3821,2100,23
+2605,Sun 8/30,Namibia,7365,2929,72
+2606,Sun 8/30,Nepal,38561,20822,221
+2607,Sun 8/30,Netherlands,72679,986,6252
+2608,Sun 8/30,New Zealand,1738,1585,22
+2609,Sun 8/30,Nicaragua,4494,2913,137
+2610,Sun 8/30,Niger,1175,1085,69
+2611,Sun 8/30,Nigeria,53865,41513,1013
+2612,Sun 8/30,North Macedonia,14330,11062,600
+2613,Sun 8/30,Norway,10643,9348,264
+2614,Sun 8/30,Oman,85544,80459,677
+2615,Sun 8/30,Pakistan,295636,280547,6288
+2616,Sun 8/30,Panama,92065,65747,1995
+2617,Sun 8/30,Papua New Guinea,459,232,5
+2618,Sun 8/30,Paraguay,17105,9146,308
+2619,Sun 8/30,Peru,639435,446675,28607
+2620,Sun 8/30,Philippines,217396,157403,3520
+2621,Sun 8/30,Poland,66870,46192,2033
+2622,Sun 8/30,Portugal,57768,41885,1819
+2623,Sun 8/30,Qatar,118575,115430,197
+2624,Sun 8/30,Romania,86785,37665,3578
+2625,Sun 8/30,Russia,987470,804941,17045
+2626,Sun 8/30,Rwanda,4020,1918,16
+2627,Sun 8/30,Saint Kitts and Nevis,17,17,0
+2628,Sun 8/30,Saint Lucia,26,25,0
+2629,Sun 8/30,Saint Vincent and the Grenadines,60,57,0
+2630,Sun 8/30,San Marino,710,658,42
+2631,Sun 8/30,Sao Tome and Principe,896,851,15
+2632,Sun 8/30,Saudi Arabia,314821,289667,3870
+2633,Sun 8/30,Senegal,13556,9388,284
+2634,Sun 8/30,Serbia,31365,0,711
+2635,Sun 8/30,Seychelles,136,127,0
+2636,Sun 8/30,Sierra Leone,2022,1594,70
+2637,Sun 8/30,Singapore,56771,55586,27
+2638,Sun 8/30,Slovakia,3876,2278,33
+2639,Sun 8/30,Slovenia,2865,2283,133
+2640,Sun 8/30,Solomon Islands,0,0,0
+2641,Sun 8/30,Somalia,3310,2481,98
+2642,Sun 8/30,South Africa,625056,538604,14028
+2643,Sun 8/30,South Sudan,2519,1290,47
+2644,Sun 8/30,Spain,439286,150376,29011
+2645,Sun 8/30,Sri Lanka,3012,2860,12
+2646,Sun 8/30,Sudan,13189,6612,823
+2647,Sun 8/30,Suriname,4009,3073,67
+2648,Sun 8/30,Sweden,83958,0,5821
+2649,Sun 8/30,Switzerland,42014,35800,2005
+2650,Sun 8/30,Syria,2703,614,109
+2651,Sun 8/30,Taiwan*,488,462,7
+2652,Sun 8/30,Tajikistan,8516,7309,68
+2653,Sun 8/30,Tanzania,509,183,21
+2654,Sun 8/30,Thailand,3411,3252,58
+2655,Sun 8/30,Timor-Leste,27,25,0
+2656,Sun 8/30,Togo,1396,996,27
+2657,Sun 8/30,Trinidad and Tobago,1683,672,21
+2658,Sun 8/30,Tunisia,3685,1562,76
+2659,Sun 8/30,Turkey,268546,243839,6326
+2660,Sun 8/30,US,5981164,2153939,183089
+2661,Sun 8/30,Uganda,2928,1288,30
+2662,Sun 8/30,Ukraine,121930,58775,2575
+2663,Sun 8/30,United Arab Emirates,69690,60600,382
+2664,Sun 8/30,United Kingdom,336668,1624,41586
+2665,Sun 8/30,Uruguay,1585,1378,44
+2666,Sun 8/30,Uzbekistan,41424,38655,313
+2667,Sun 8/30,Vanuatu,0,0,0
+2668,Sun 8/30,Venezuela,45868,37091,381
+2669,Sun 8/30,Vietnam,1040,695,32
+2670,Sun 8/30,West Bank and Gaza,22204,14787,152
+2671,Sun 8/30,Western Sahara,10,8,1
+2672,Sun 8/30,Yemen,1953,1123,564
+2673,Sun 8/30,Zambia,12025,11454,287
+2674,Sun 8/30,Zimbabwe,6412,5061,196
+2675,Sun 9/6,Afghanistan,38398,30537,1412
+2676,Sun 9/6,Albania,10255,6106,316
+2677,Sun 9/6,Algeria,46364,32745,1556
+2678,Sun 9/6,Andorra,1215,928,53
+2679,Sun 9/6,Angola,2965,1198,117
+2680,Sun 9/6,Antigua and Barbuda,95,91,3
+2681,Sun 9/6,Argentina,478792,349132,9859
+2682,Sun 9/6,Armenia,44783,40089,897
+2683,Sun 9/6,Australia,26321,22467,762
+2684,Sun 9/6,Austria,29271,25043,736
+2685,Sun 9/6,Azerbaijan,37329,34705,548
+2686,Sun 9/6,Bahamas,2506,948,56
+2687,Sun 9/6,Bahrain,55415,50946,199
+2688,Sun 9/6,Bangladesh,325157,221275,4479
+2689,Sun 9/6,Barbados,178,154,7
+2690,Sun 9/6,Belarus,72859,71864,711
+2691,Sun 9/6,Belgium,88367,18565,9907
+2692,Sun 9/6,Belize,1194,287,15
+2693,Sun 9/6,Benin,2213,1793,40
+2694,Sun 9/6,Bhutan,228,150,0
+2695,Sun 9/6,Bolivia,120769,71489,5398
+2696,Sun 9/6,Bosnia and Herzegovina,21560,14709,655
+2697,Sun 9/6,Botswana,2002,493,8
+2698,Sun 9/6,Brazil,4137521,3522155,126650
+2699,Sun 9/6,Brunei,145,139,3
+2700,Sun 9/6,Bulgaria,17089,12157,676
+2701,Sun 9/6,Burkina Faso,1452,1103,55
+2702,Sun 9/6,Burma,1419,385,8
+2703,Sun 9/6,Burundi,462,357,1
+2704,Sun 9/6,Cabo Verde,4330,3628,42
+2705,Sun 9/6,Cambodia,274,272,0
+2706,Sun 9/6,Cameroon,19604,18448,415
+2707,Sun 9/6,Canada,133890,118192,9194
+2708,Sun 9/6,Central African Republic,4729,1818,62
+2709,Sun 9/6,Chad,1039,918,79
+2710,Sun 9/6,Chile,422510,394399,11592
+2711,Sun 9/6,China,90058,84873,4730
+2712,Sun 9/6,Colombia,666521,518229,21412
+2713,Sun 9/6,Comoros,452,410,7
+2714,Sun 9/6,Congo (Brazzaville),4628,1742,102
+2715,Sun 9/6,Congo (Kinshasa),10210,9439,260
+2716,Sun 9/6,Costa Rica,46920,18211,478
+2717,Sun 9/6,Cote d'Ivoire,18588,17472,119
+2718,Sun 9/6,Croatia,11964,9008,198
+2719,Sun 9/6,Cuba,4309,3590,101
+2720,Sun 9/6,Cyprus,1509,1237,21
+2721,Sun 9/6,Czechia,28156,19053,436
+2722,Sun 9/6,Denmark,18310,16153,627
+2723,Sun 9/6,Diamond Princess,712,651,13
+2724,Sun 9/6,Djibouti,5388,5327,61
+2725,Sun 9/6,Dominica,22,18,0
+2726,Sun 9/6,Dominican Republic,99333,72567,1845
+2727,Sun 9/6,Ecuador,118045,102304,6724
+2728,Sun 9/6,Egypt,99863,78108,5530
+2729,Sun 9/6,El Salvador,26308,15815,759
+2730,Sun 9/6,Equatorial Guinea,4972,4413,83
+2731,Sun 9/6,Eritrea,330,295,0
+2732,Sun 9/6,Estonia,2516,2170,64
+2733,Sun 9/6,Eswatini,4853,3951,94
+2734,Sun 9/6,Ethiopia,58672,21307,918
+2735,Sun 9/6,Fiji,31,24,2
+2736,Sun 9/6,Finland,8291,7350,336
+2737,Sun 9/6,France,347268,87927,30730
+2738,Sun 9/6,Gabon,8601,7424,53
+2739,Sun 9/6,Gambia,3197,1315,99
+2740,Sun 9/6,Georgia,1650,1310,19
+2741,Sun 9/6,Germany,251728,224215,9330
+2742,Sun 9/6,Ghana,44777,43693,283
+2743,Sun 9/6,Greece,11524,6486,284
+2744,Sun 9/6,Grenada,24,24,0
+2745,Sun 9/6,Guatemala,77683,66131,2852
+2746,Sun 9/6,Guinea,9798,8928,61
+2747,Sun 9/6,Guinea-Bissau,2245,1127,38
+2748,Sun 9/6,Guyana,1468,954,46
+2749,Sun 9/6,Haiti,8360,5933,214
+2750,Sun 9/6,Holy See,12,12,0
+2751,Sun 9/6,Honduras,64764,13418,2007
+2752,Sun 9/6,Hungary,8387,3958,624
+2753,Sun 9/6,Iceland,2141,2050,10
+2754,Sun 9/6,India,4204613,3250429,71642
+2755,Sun 9/6,Indonesia,194109,138575,8025
+2756,Sun 9/6,Iran,386658,333900,22293
+2757,Sun 9/6,Iraq,260370,198560,7512
+2758,Sun 9/6,Ireland,29672,23364,1777
+2759,Sun 9/6,Israel,130644,102477,1019
+2760,Sun 9/6,Italy,277634,210015,35541
+2761,Sun 9/6,Jamaica,3103,958,33
+2762,Sun 9/6,Japan,71918,61730,1366
+2763,Sun 9/6,Jordan,2411,1756,16
+2764,Sun 9/6,Kazakhstan,106361,99654,1588
+2765,Sun 9/6,Kenya,35103,21230,597
+2766,Sun 9/6,"Korea, South",21296,16297,336
+2767,Sun 9/6,Kosovo,14119,10546,563
+2768,Sun 9/6,Kuwait,89582,80521,544
+2769,Sun 9/6,Kyrgyzstan,44403,39826,1060
+2770,Sun 9/6,Laos,22,21,0
+2771,Sun 9/6,Latvia,1428,1187,35
+2772,Sun 9/6,Lebanon,20426,6139,191
+2773,Sun 9/6,Lesotho,1148,528,31
+2774,Sun 9/6,Liberia,1307,1182,82
+2775,Sun 9/6,Libya,17749,2081,285
+2776,Sun 9/6,Liechtenstein,107,97,1
+2777,Sun 9/6,Lithuania,3083,1954,86
+2778,Sun 9/6,Luxembourg,6950,6126,124
+2779,Sun 9/6,MS Zaandam,9,0,2
+2780,Sun 9/6,Madagascar,15319,14139,200
+2781,Sun 9/6,Malawi,5614,3551,175
+2782,Sun 9/6,Malaysia,9397,9115,128
+2783,Sun 9/6,Maldives,8584,5936,29
+2784,Sun 9/6,Mali,2842,2238,127
+2785,Sun 9/6,Malta,2039,1627,14
+2786,Sun 9/6,Marshall Islands,0,0,0
+2787,Sun 9/6,Mauritania,7142,6669,160
+2788,Sun 9/6,Mauritius,356,335,10
+2789,Sun 9/6,Mexico,634023,524669,67558
+2790,Sun 9/6,Moldova,39797,27799,1063
+2791,Sun 9/6,Monaco,147,102,1
+2792,Sun 9/6,Mongolia,310,296,0
+2793,Sun 9/6,Montenegro,5553,4231,108
+2794,Sun 9/6,Morocco,72394,55274,1361
+2795,Sun 9/6,Mozambique,4444,2615,27
+2796,Sun 9/6,Namibia,8685,3786,89
+2797,Sun 9/6,Nepal,46257,28941,289
+2798,Sun 9/6,Netherlands,77857,1560,6277
+2799,Sun 9/6,New Zealand,1776,1634,24
+2800,Sun 9/6,Nicaragua,4668,2913,141
+2801,Sun 9/6,Niger,1177,1091,69
+2802,Sun 9/6,Nigeria,55005,43013,1057
+2803,Sun 9/6,North Macedonia,15090,12235,617
+2804,Sun 9/6,Norway,11388,9348,264
+2805,Sun 9/6,Oman,87072,82406,728
+2806,Sun 9/6,Pakistan,298903,286016,6345
+2807,Sun 9/6,Panama,97043,69661,2086
+2808,Sun 9/6,Papua New Guinea,497,232,5
+2809,Sun 9/6,Paraguay,22486,11133,435
+2810,Sun 9/6,Peru,683702,506422,29687
+2811,Sun 9/6,Philippines,237365,184687,3875
+2812,Sun 9/6,Poland,70824,54256,2120
+2813,Sun 9/6,Portugal,60258,42953,1840
+2814,Sun 9/6,Qatar,120095,116998,203
+2815,Sun 9/6,Romania,95014,40307,3893
+2816,Sun 9/6,Russia,1022228,838680,17768
+2817,Sun 9/6,Rwanda,4374,2235,19
+2818,Sun 9/6,Saint Kitts and Nevis,17,17,0
+2819,Sun 9/6,Saint Lucia,26,26,0
+2820,Sun 9/6,Saint Vincent and the Grenadines,61,58,0
+2821,Sun 9/6,San Marino,716,660,42
+2822,Sun 9/6,Sao Tome and Principe,898,859,15
+2823,Sun 9/6,Saudi Arabia,320688,296737,4081
+2824,Sun 9/6,Senegal,13987,9922,290
+2825,Sun 9/6,Serbia,31905,0,724
+2826,Sun 9/6,Seychelles,136,127,0
+2827,Sun 9/6,Sierra Leone,2054,1611,71
+2828,Sun 9/6,Singapore,57022,56333,27
+2829,Sun 9/6,Slovakia,4614,2802,37
+2830,Sun 9/6,Slovenia,3165,2483,135
+2831,Sun 9/6,Solomon Islands,0,0,0
+2832,Sun 9/6,Somalia,3362,2696,97
+2833,Sun 9/6,South Africa,638517,563891,14889
+2834,Sun 9/6,South Sudan,2544,1290,48
+2835,Sun 9/6,Spain,498989,150376,29418
+2836,Sun 9/6,Sri Lanka,3123,2925,12
+2837,Sun 9/6,Sudan,13437,6730,833
+2838,Sun 9/6,Suriname,4346,3494,85
+2839,Sun 9/6,Sweden,84985,0,5835
+2840,Sun 9/6,Switzerland,44401,37100,2013
+2841,Sun 9/6,Syria,3171,730,134
+2842,Sun 9/6,Taiwan*,493,473,7
+2843,Sun 9/6,Tajikistan,8792,7581,70
+2844,Sun 9/6,Tanzania,509,183,21
+2845,Sun 9/6,Thailand,3445,3281,58
+2846,Sun 9/6,Timor-Leste,27,25,0
+2847,Sun 9/6,Togo,1488,1106,32
+2848,Sun 9/6,Trinidad and Tobago,2250,724,34
+2849,Sun 9/6,Tunisia,5041,1752,93
+2850,Sun 9/6,Turkey,279806,251105,6673
+2851,Sun 9/6,US,6267558,2315995,189019
+2852,Sun 9/6,Uganda,3667,1564,41
+2853,Sun 9/6,Ukraine,139171,64496,2898
+2854,Sun 9/6,United Arab Emirates,73984,66095,388
+2855,Sun 9/6,United Kingdom,349500,1824,41640
+2856,Sun 9/6,Uruguay,1679,1459,45
+2857,Sun 9/6,Uzbekistan,43587,41225,347
+2858,Sun 9/6,Vanuatu,0,0,0
+2859,Sun 9/6,Venezuela,53289,42006,428
+2860,Sun 9/6,Vietnam,1049,815,35
+2861,Sun 9/6,West Bank and Gaza,26127,16843,181
+2862,Sun 9/6,Western Sahara,10,8,1
+2863,Sun 9/6,Yemen,1987,1200,572
+2864,Sun 9/6,Zambia,12776,11674,295
+2865,Sun 9/6,Zimbabwe,6837,5345,206
+2866,Sun 9/13,Afghanistan,38716,31638,1420
+2867,Sun 9/13,Albania,11353,6569,334
+2868,Sun 9/13,Algeria,48254,34037,1612
+2869,Sun 9/13,Andorra,1344,943,53
+2870,Sun 9/13,Angola,3388,1301,134
+2871,Sun 9/13,Antigua and Barbuda,95,91,3
+2872,Sun 9/13,Argentina,555537,419513,11352
+2873,Sun 9/13,Armenia,45862,41659,916
+2874,Sun 9/13,Australia,26692,23465,816
+2875,Sun 9/13,Austria,33159,26760,756
+2876,Sun 9/13,Azerbaijan,38327,35756,562
+2877,Sun 9/13,Bahamas,2928,1319,67
+2878,Sun 9/13,Bahrain,60307,53681,212
+2879,Sun 9/13,Bangladesh,337520,240643,4733
+2880,Sun 9/13,Barbados,181,164,7
+2881,Sun 9/13,Belarus,74173,72584,750
+2882,Sun 9/13,Belgium,93455,18723,9925
+2883,Sun 9/13,Belize,1480,492,19
+2884,Sun 9/13,Benin,2267,1942,40
+2885,Sun 9/13,Bhutan,245,161,0
+2886,Sun 9/13,Bolivia,126791,84286,7344
+2887,Sun 9/13,Bosnia and Herzegovina,23465,16038,696
+2888,Sun 9/13,Botswana,2252,546,10
+2889,Sun 9/13,Brazil,4330455,3723206,131625
+2890,Sun 9/13,Brunei,145,139,3
+2891,Sun 9/13,Bulgaria,17918,12767,720
+2892,Sun 9/13,Burkina Faso,1707,1135,56
+2893,Sun 9/13,Burma,3015,699,24
+2894,Sun 9/13,Burundi,472,374,1
+2895,Sun 9/13,Cabo Verde,4813,4119,44
+2896,Sun 9/13,Cambodia,275,274,0
+2897,Sun 9/13,Cameroon,20167,18837,415
+2898,Sun 9/13,Canada,138640,122266,9220
+2899,Sun 9/13,Central African Republic,4749,1825,62
+2900,Sun 9/13,Chad,1084,938,80
+2901,Sun 9/13,Chile,434748,406326,11949
+2902,Sun 9/13,China,90197,85086,4734
+2903,Sun 9/13,Colombia,716319,599385,22924
+2904,Sun 9/13,Comoros,456,415,7
+2905,Sun 9/13,Congo (Brazzaville),4928,3887,88
+2906,Sun 9/13,Congo (Kinshasa),10390,9756,264
+2907,Sun 9/13,Costa Rica,55454,20928,590
+2908,Sun 9/13,Cote d'Ivoire,19013,18112,120
+2909,Sun 9/13,Croatia,13533,10899,224
+2910,Sun 9/13,Cuba,4684,3930,108
+2911,Sun 9/13,Cyprus,1526,1281,22
+2912,Sun 9/13,Czechia,36188,21294,456
+2913,Sun 9/13,Denmark,20327,16757,631
+2914,Sun 9/13,Diamond Princess,712,651,13
+2915,Sun 9/13,Djibouti,5395,5330,61
+2916,Sun 9/13,Dominica,24,18,0
+2917,Sun 9/13,Dominican Republic,103660,77182,1968
+2918,Sun 9/13,Ecuador,118594,97063,10903
+2919,Sun 9/13,Egypt,101009,84161,5648
+2920,Sun 9/13,El Salvador,26928,18397,785
+2921,Sun 9/13,Equatorial Guinea,4996,4490,83
+2922,Sun 9/13,Eritrea,361,304,0
+2923,Sun 9/13,Estonia,2676,2256,64
+2924,Sun 9/13,Eswatini,5075,4229,98
+2925,Sun 9/13,Ethiopia,64301,24983,1013
+2926,Sun 9/13,Fiji,32,24,2
+2927,Sun 9/13,Finland,8580,7500,337
+2928,Sun 9/13,France,402893,90445,30903
+2929,Sun 9/13,Gabon,8643,7706,53
+2930,Sun 9/13,Gambia,3405,1723,103
+2931,Sun 9/13,Georgia,2227,1369,19
+2932,Sun 9/13,Germany,261737,232541,9354
+2933,Sun 9/13,Ghana,45434,44342,286
+2934,Sun 9/13,Greece,13240,7262,305
+2935,Sun 9/13,Grenada,24,24,0
+2936,Sun 9/13,Guatemala,81909,70927,2957
+2937,Sun 9/13,Guinea,10045,9292,63
+2938,Sun 9/13,Guinea-Bissau,2275,1127,39
+2939,Sun 9/13,Guyana,1853,1215,56
+2940,Sun 9/13,Haiti,8493,6120,219
+2941,Sun 9/13,Holy See,12,12,0
+2942,Sun 9/13,Honduras,67789,17873,2079
+2943,Sun 9/13,Hungary,12309,4069,637
+2944,Sun 9/13,Iceland,2165,2092,10
+2945,Sun 9/13,India,4846427,3780107,79722
+2946,Sun 9/13,Indonesia,218382,155010,8723
+2947,Sun 9/13,Iran,402029,346242,23157
+2948,Sun 9/13,Iraq,290309,224705,8014
+2949,Sun 9/13,Ireland,30985,23364,1784
+2950,Sun 9/13,Israel,155604,114998,1119
+2951,Sun 9/13,Italy,287753,213634,35610
+2952,Sun 9/13,Jamaica,3771,1149,42
+2953,Sun 9/13,Japan,75646,66524,1448
+2954,Sun 9/13,Jordan,3314,2206,24
+2955,Sun 9/13,Kazakhstan,106855,100627,1634
+2956,Sun 9/13,Kenya,36157,23067,622
+2957,Sun 9/13,"Korea, South",22285,18489,363
+2958,Sun 9/13,Kosovo,14637,11435,596
+2959,Sun 9/13,Kuwait,94764,84995,560
+2960,Sun 9/13,Kyrgyzstan,44881,40922,1063
+2961,Sun 9/13,Laos,23,21,0
+2962,Sun 9/13,Latvia,1474,1248,35
+2963,Sun 9/13,Lebanon,24310,8334,241
+2964,Sun 9/13,Lesotho,1245,528,33
+2965,Sun 9/13,Liberia,1319,1210,82
+2966,Sun 9/13,Libya,22781,12183,362
+2967,Sun 9/13,Liechtenstein,111,105,1
+2968,Sun 9/13,Lithuania,3335,2070,87
+2969,Sun 9/13,Luxembourg,7159,6421,124
+2970,Sun 9/13,MS Zaandam,9,0,2
+2971,Sun 9/13,Madagascar,15757,14368,211
+2972,Sun 9/13,Malawi,5690,3731,177
+2973,Sun 9/13,Malaysia,9915,9196,128
+2974,Sun 9/13,Maldives,9173,7326,32
+2975,Sun 9/13,Mali,2924,2285,128
+2976,Sun 9/13,Malta,2352,1872,15
+2977,Sun 9/13,Marshall Islands,0,0,0
+2978,Sun 9/13,Mauritania,7276,6825,161
+2979,Sun 9/13,Mauritius,361,335,10
+2980,Sun 9/13,Mexico,668381,557381,70821
+2981,Sun 9/13,Moldova,42978,30437,1123
+2982,Sun 9/13,Monaco,171,128,1
+2983,Sun 9/13,Mongolia,311,300,0
+2984,Sun 9/13,Montenegro,6712,4507,120
+2985,Sun 9/13,Morocco,86686,67528,1578
+2986,Sun 9/13,Mozambique,5269,2960,35
+2987,Sun 9/13,Namibia,9719,6543,101
+2988,Sun 9/13,Nepal,54159,38697,345
+2989,Sun 9/13,Netherlands,85876,2036,6292
+2990,Sun 9/13,New Zealand,1798,1678,24
+2991,Sun 9/13,Nicaragua,4818,2913,144
+2992,Sun 9/13,Niger,1180,1104,69
+2993,Sun 9/13,Nigeria,56256,44152,1082
+2994,Sun 9/13,North Macedonia,15791,13184,648
+2995,Sun 9/13,Norway,12154,10371,265
+2996,Sun 9/13,Oman,89746,83771,780
+2997,Sun 9/13,Pakistan,302020,289806,6383
+2998,Sun 9/13,Panama,101745,74107,2166
+2999,Sun 9/13,Papua New Guinea,510,232,6
+3000,Sun 9/13,Paraguay,27817,14288,525
+3001,Sun 9/13,Peru,722832,559321,30526
+3002,Sun 9/13,Philippines,261216,207568,4371
+3003,Sun 9/13,Poland,74152,60659,2188
+3004,Sun 9/13,Portugal,63983,44069,1867
+3005,Sun 9/13,Qatar,121740,118682,205
+3006,Sun 9/13,Romania,103495,43025,4163
+3007,Sun 9/13,Russia,1059024,873684,18517
+3008,Sun 9/13,Rwanda,4591,2556,22
+3009,Sun 9/13,Saint Kitts and Nevis,17,17,0
+3010,Sun 9/13,Saint Lucia,27,26,0
+3011,Sun 9/13,Saint Vincent and the Grenadines,64,61,0
+3012,Sun 9/13,San Marino,722,662,42
+3013,Sun 9/13,Sao Tome and Principe,906,870,15
+3014,Sun 9/13,Saudi Arabia,325651,302870,4268
+3015,Sun 9/13,Senegal,14280,10520,297
+3016,Sun 9/13,Serbia,32408,0,733
+3017,Sun 9/13,Seychelles,139,136,0
+3018,Sun 9/13,Sierra Leone,2109,1636,72
+3019,Sun 9/13,Singapore,57406,56764,27
+3020,Sun 9/13,Slovakia,5532,3124,38
+3021,Sun 9/13,Slovenia,3702,2730,135
+3022,Sun 9/13,Solomon Islands,0,0,0
+3023,Sun 9/13,Somalia,3389,2803,98
+3024,Sun 9/13,South Africa,649793,577906,15447
+3025,Sun 9/13,South Sudan,2578,1290,49
+3026,Sun 9/13,Spain,566326,150376,29747
+3027,Sun 9/13,Sri Lanka,3234,2996,12
+3028,Sun 9/13,Sudan,13516,6757,835
+3029,Sun 9/13,Suriname,4582,3850,93
+3030,Sun 9/13,Sweden,86505,0,5846
+3031,Sun 9/13,Switzerland,47179,38900,2021
+3032,Sun 9/13,Syria,3540,842,155
+3033,Sun 9/13,Taiwan*,498,475,7
+3034,Sun 9/13,Tajikistan,9049,7816,72
+3035,Sun 9/13,Tanzania,509,183,21
+3036,Sun 9/13,Thailand,3475,3312,58
+3037,Sun 9/13,Timor-Leste,27,25,0
+3038,Sun 9/13,Togo,1572,1190,37
+3039,Sun 9/13,Trinidad and Tobago,3042,772,53
+3040,Sun 9/13,Tunisia,6635,1991,107
+3041,Sun 9/13,Turkey,291162,258833,7056
+3042,Sun 9/13,US,6510673,2451406,194139
+3043,Sun 9/13,Uganda,4799,2256,55
+3044,Sun 9/13,Ukraine,158122,71434,3239
+3045,Sun 9/13,United Arab Emirates,79489,69451,399
+3046,Sun 9/13,United Kingdom,370930,2146,41717
+3047,Sun 9/13,Uruguay,1808,1513,45
+3048,Sun 9/13,Uzbekistan,47287,43866,390
+3049,Sun 9/13,Vanuatu,0,0,0
+3050,Sun 9/13,Venezuela,60540,48644,485
+3051,Sun 9/13,Vietnam,1063,918,35
+3052,Sun 9/13,West Bank and Gaza,30574,20082,221
+3053,Sun 9/13,Western Sahara,10,8,1
+3054,Sun 9/13,Yemen,2011,1212,583
+3055,Sun 9/13,Zambia,13539,12260,312
+3056,Sun 9/13,Zimbabwe,7526,5678,224
+3057,Sun 9/20,Afghanistan,39044,32576,1441
+3058,Sun 9/20,Albania,12385,6940,362
+3059,Sun 9/20,Algeria,49826,35047,1672
+3060,Sun 9/20,Andorra,1564,1164,53
+3061,Sun 9/20,Angola,3991,1445,152
+3062,Sun 9/20,Antigua and Barbuda,96,92,3
+3063,Sun 9/20,Argentina,631365,488231,13053
+3064,Sun 9/20,Armenia,47431,42608,930
+3065,Sun 9/20,Australia,26912,24063,851
+3066,Sun 9/20,Austria,38095,29229,766
+3067,Sun 9/20,Azerbaijan,39188,36755,575
+3068,Sun 9/20,Bahamas,3315,1689,74
+3069,Sun 9/20,Bahrain,65039,57950,221
+3070,Sun 9/20,Bangladesh,348918,256565,4939
+3071,Sun 9/20,Barbados,189,173,7
+3072,Sun 9/20,Belarus,75674,73265,780
+3073,Sun 9/20,Belgium,102295,18965,9948
+3074,Sun 9/20,Belize,1627,918,21
+3075,Sun 9/20,Benin,2280,1950,40
+3076,Sun 9/20,Bhutan,261,192,0
+3077,Sun 9/20,Bolivia,130676,89617,7617
+3078,Sun 9/20,Bosnia and Herzegovina,25428,17878,763
+3079,Sun 9/20,Botswana,2567,624,13
+3080,Sun 9/20,Brazil,4544629,3963446,136895
+3081,Sun 9/20,Brunei,145,142,3
+3082,Sun 9/20,Bulgaria,18863,13580,761
+3083,Sun 9/20,Burkina Faso,1846,1187,56
+3084,Sun 9/20,Burma,5805,1260,94
+3085,Sun 9/20,Burundi,473,462,1
+3086,Sun 9/20,Cabo Verde,5257,4599,51
+3087,Sun 9/20,Cambodia,275,274,0
+3088,Sun 9/20,Cameroon,20431,19124,416
+3089,Sun 9/20,Canada,145750,126592,9267
+3090,Sun 9/20,Central African Republic,4786,1830,62
+3091,Sun 9/20,Chad,1151,967,81
+3092,Sun 9/20,Chile,446274,419746,12286
+3093,Sun 9/20,China,90369,85239,4737
+3094,Sun 9/20,Colombia,765076,633199,24208
+3095,Sun 9/20,Comoros,470,450,7
+3096,Sun 9/20,Congo (Brazzaville),4986,3887,89
+3097,Sun 9/20,Congo (Kinshasa),10515,9930,271
+3098,Sun 9/20,Costa Rica,63712,23552,706
+3099,Sun 9/20,Cote d'Ivoire,19320,18460,120
+3100,Sun 9/20,Croatia,14922,12536,248
+3101,Sun 9/20,Cuba,5091,4412,115
+3102,Sun 9/20,Cyprus,1600,1282,22
+3103,Sun 9/20,Czechia,49290,24755,503
+3104,Sun 9/20,Denmark,23353,17940,638
+3105,Sun 9/20,Diamond Princess,712,651,13
+3106,Sun 9/20,Djibouti,5403,5335,61
+3107,Sun 9/20,Dominica,24,18,0
+3108,Sun 9/20,Dominican Republic,108289,81668,2047
+3109,Sun 9/20,Ecuador,126419,102852,11090
+3110,Sun 9/20,Egypt,102015,89532,5770
+3111,Sun 9/20,El Salvador,27553,21561,811
+3112,Sun 9/20,Equatorial Guinea,5002,4509,83
+3113,Sun 9/20,Eritrea,364,305,0
+3114,Sun 9/20,Estonia,2924,2377,64
+3115,Sun 9/20,Eswatini,5269,4624,104
+3116,Sun 9/20,Ethiopia,68820,28314,1096
+3117,Sun 9/20,Fiji,32,26,2
+3118,Sun 9/20,Finland,8980,7700,339
+3119,Sun 9/20,France,467614,93586,31257
+3120,Sun 9/20,Gabon,8696,7848,53
+3121,Sun 9/20,Gambia,3526,1992,108
+3122,Sun 9/20,Georgia,3502,1494,19
+3123,Sun 9/20,Germany,273965,241192,9390
+3124,Sun 9/20,Ghana,46004,45153,297
+3125,Sun 9/20,Greece,15142,8846,338
+3126,Sun 9/20,Grenada,24,24,0
+3127,Sun 9/20,Guatemala,85444,74859,3119
+3128,Sun 9/20,Guinea,10325,9692,64
+3129,Sun 9/20,Guinea-Bissau,2303,1127,39
+3130,Sun 9/20,Guyana,2269,1339,64
+3131,Sun 9/20,Haiti,8619,6363,221
+3132,Sun 9/20,Holy See,12,12,0
+3133,Sun 9/20,Honduras,71616,22065,2184
+3134,Sun 9/20,Hungary,17990,4391,683
+3135,Sun 9/20,Iceland,2307,2116,10
+3136,Sun 9/20,India,5487580,4396399,87882
+3137,Sun 9/20,Indonesia,244676,177327,9553
+3138,Sun 9/20,Iran,422140,359570,24301
+3139,Sun 9/20,Iraq,319035,253591,8555
+3140,Sun 9/20,Ireland,32933,23364,1792
+3141,Sun 9/20,Israel,187902,134069,1256
+3142,Sun 9/20,Italy,298156,218351,35707
+3143,Sun 9/20,Jamaica,4988,1350,67
+3144,Sun 9/20,Japan,79142,70604,1508
+3145,Sun 9/20,Jordan,4779,2844,30
+3146,Sun 9/20,Kazakhstan,107307,101941,1671
+3147,Sun 9/20,Kenya,36981,23887,648
+3148,Sun 9/20,"Korea, South",23045,20248,385
+3149,Sun 9/20,Kosovo,15063,12570,614
+3150,Sun 9/20,Kuwait,99434,90168,584
+3151,Sun 9/20,Kyrgyzstan,45335,41484,1063
+3152,Sun 9/20,Laos,23,22,0
+3153,Sun 9/20,Latvia,1525,1248,36
+3154,Sun 9/20,Lebanon,29303,12047,297
+3155,Sun 9/20,Lesotho,1424,754,33
+3156,Sun 9/20,Liberia,1335,1216,82
+3157,Sun 9/20,Libya,27949,15068,444
+3158,Sun 9/20,Liechtenstein,113,109,1
+3159,Sun 9/20,Lithuania,3744,2198,87
+3160,Sun 9/20,Luxembourg,7718,6703,124
+3161,Sun 9/20,MS Zaandam,9,0,2
+3162,Sun 9/20,Madagascar,16053,14646,223
+3163,Sun 9/20,Malawi,5731,4040,179
+3164,Sun 9/20,Malaysia,10219,9355,130
+3165,Sun 9/20,Maldives,9724,8261,33
+3166,Sun 9/20,Mali,3013,2372,128
+3167,Sun 9/20,Malta,2731,2047,20
+3168,Sun 9/20,Marshall Islands,0,0,0
+3169,Sun 9/20,Mauritania,7368,6951,161
+3170,Sun 9/20,Mauritius,366,338,10
+3171,Sun 9/20,Mexico,697663,590459,73493
+3172,Sun 9/20,Moldova,46596,34236,1203
+3173,Sun 9/20,Monaco,193,153,1
+3174,Sun 9/20,Mongolia,312,302,0
+3175,Sun 9/20,Montenegro,8612,5268,136
+3176,Sun 9/20,Morocco,101743,80732,1830
+3177,Sun 9/20,Mozambique,6771,3622,43
+3178,Sun 9/20,Namibia,10377,8033,112
+3179,Sun 9/20,Nepal,64122,46233,411
+3180,Sun 9/20,Netherlands,98217,2840,6324
+3181,Sun 9/20,New Zealand,1815,1728,25
+3182,Sun 9/20,Nicaragua,4961,2913,147
+3183,Sun 9/20,Niger,1188,1104,69
+3184,Sun 9/20,Nigeria,57242,48569,1098
+3185,Sun 9/20,North Macedonia,16735,13863,693
+3186,Sun 9/20,Norway,12897,10371,267
+3187,Sun 9/20,Oman,93475,85418,846
+3188,Sun 9/20,Pakistan,306304,292869,6420
+3189,Sun 9/20,Panama,106203,81365,2257
+3190,Sun 9/20,Papua New Guinea,517,232,7
+3191,Sun 9/20,Paraguay,33520,18117,659
+3192,Sun 9/20,Peru,762865,607837,31369
+3193,Sun 9/20,Philippines,286743,229865,4984
+3194,Sun 9/20,Poland,79240,64302,2293
+3195,Sun 9/20,Portugal,68577,45596,1912
+3196,Sun 9/20,Qatar,123376,120303,210
+3197,Sun 9/20,Romania,112781,89771,4435
+3198,Sun 9/20,Russia,1098958,906431,19349
+3199,Sun 9/20,Rwanda,4711,2961,26
+3200,Sun 9/20,Saint Kitts and Nevis,17,17,0
+3201,Sun 9/20,Saint Lucia,27,26,0
+3202,Sun 9/20,Saint Vincent and the Grenadines,64,64,0
+3203,Sun 9/20,San Marino,723,669,42
+3204,Sun 9/20,Sao Tome and Principe,908,878,15
+3205,Sun 9/20,Saudi Arabia,329754,310439,4485
+3206,Sun 9/20,Senegal,14714,11260,302
+3207,Sun 9/20,Serbia,32908,0,741
+3208,Sun 9/20,Seychelles,141,136,0
+3209,Sun 9/20,Sierra Leone,2168,1650,72
+3210,Sun 9/20,Singapore,57576,57181,27
+3211,Sun 9/20,Slovakia,6677,3548,39
+3212,Sun 9/20,Slovenia,4420,3023,142
+3213,Sun 9/20,Solomon Islands,0,0,0
+3214,Sun 9/20,Somalia,3442,2877,98
+3215,Sun 9/20,South Africa,661211,590071,15953
+3216,Sun 9/20,South Sudan,2642,1290,49
+3217,Sun 9/20,Spain,640040,150376,30495
+3218,Sun 9/20,Sri Lanka,3287,3088,13
+3219,Sun 9/20,Sudan,13555,6760,836
+3220,Sun 9/20,Suriname,4723,4488,97
+3221,Sun 9/20,Sweden,88237,0,5865
+3222,Sun 9/20,Switzerland,49283,40500,2045
+3223,Sun 9/20,Syria,3800,946,172
+3224,Sun 9/20,Taiwan*,507,479,7
+3225,Sun 9/20,Tajikistan,9346,8108,73
+3226,Sun 9/20,Tanzania,509,183,21
+3227,Sun 9/20,Thailand,3506,3340,59
+3228,Sun 9/20,Timor-Leste,27,26,0
+3229,Sun 9/20,Togo,1666,1269,41
+3230,Sun 9/20,Trinidad and Tobago,3901,1753,65
+3231,Sun 9/20,Tunisia,10732,2386,159
+3232,Sun 9/20,Turkey,302867,267233,7506
+3233,Sun 9/20,US,6796955,2590671,199589
+3234,Sun 9/20,Uganda,6287,2616,63
+3235,Sun 9/20,Ukraine,180119,80438,3626
+3236,Sun 9/20,United Arab Emirates,84916,74273,404
+3237,Sun 9/20,United Kingdom,396744,2228,41866
+3238,Sun 9/20,Uruguay,1917,1621,46
+3239,Sun 9/20,Uzbekistan,51640,47932,433
+3240,Sun 9/20,Vanuatu,0,0,0
+3241,Sun 9/20,Venezuela,66656,56096,547
+3242,Sun 9/20,Vietnam,1068,942,35
+3243,Sun 9/20,West Bank and Gaza,35686,23700,262
+3244,Sun 9/20,Western Sahara,10,8,1
+3245,Sun 9/20,Yemen,2026,1227,586
+3246,Sun 9/20,Zambia,14131,13365,330
+3247,Sun 9/20,Zimbabwe,7683,5924,225
+3248,Sun 9/27,Afghanistan,39227,32642,1453
+3249,Sun 9/27,Albania,13259,7397,377
+3250,Sun 9/27,Algeria,51067,35860,1714
+3251,Sun 9/27,Andorra,1836,1263,53
+3252,Sun 9/27,Angola,4718,1707,174
+3253,Sun 9/27,Antigua and Barbuda,101,92,3
+3254,Sun 9/27,Argentina,711325,565935,15749
+3255,Sun 9/27,Armenia,49400,43613,951
+3256,Sun 9/27,Australia,27044,24633,875
+3257,Sun 9/27,Austria,42876,33589,787
+3258,Sun 9/27,Azerbaijan,40023,37655,586
+3259,Sun 9/27,Bahamas,3838,2005,89
+3260,Sun 9/27,Bahrain,69361,62887,242
+3261,Sun 9/27,Bangladesh,359148,270491,5161
+3262,Sun 9/27,Barbados,190,178,7
+3263,Sun 9/27,Belarus,77609,74120,818
+3264,Sun 9/27,Belgium,114179,19275,9980
+3265,Sun 9/27,Belize,1825,1165,24
+3266,Sun 9/27,Benin,2340,1960,40
+3267,Sun 9/27,Bhutan,273,210,0
+3268,Sun 9/27,Bolivia,133901,93791,7858
+3269,Sun 9/27,Bosnia and Herzegovina,26920,19746,822
+3270,Sun 9/27,Botswana,2921,701,16
+3271,Sun 9/27,Brazil,4732309,4172711,141741
+3272,Sun 9/27,Brunei,146,142,3
+3273,Sun 9/27,Bulgaria,20055,14176,796
+3274,Sun 9/27,Burkina Faso,2008,1276,56
+3275,Sun 9/27,Burma,10734,2862,226
+3276,Sun 9/27,Burundi,485,472,1
+3277,Sun 9/27,Cabo Verde,5771,5031,57
+3278,Sun 9/27,Cambodia,276,275,0
+3279,Sun 9/27,Cameroon,20735,19440,418
+3280,Sun 9/27,Canada,155428,133204,9318
+3281,Sun 9/27,Central African Republic,4806,1840,62
+3282,Sun 9/27,Chad,1178,1005,84
+3283,Sun 9/27,Chile,457901,431704,12641
+3284,Sun 9/27,China,90483,85381,4739
+3285,Sun 9/27,Colombia,813056,711472,25488
+3286,Sun 9/27,Comoros,478,458,7
+3287,Sun 9/27,Congo (Brazzaville),5008,3887,89
+3288,Sun 9/27,Congo (Kinshasa),10612,10093,271
+3289,Sun 9/27,Costa Rica,72049,27760,828
+3290,Sun 9/27,Cote d'Ivoire,19629,19163,120
+3291,Sun 9/27,Croatia,16197,14609,272
+3292,Sun 9/27,Cuba,5457,4751,122
+3293,Sun 9/27,Cyprus,1696,1369,22
+3294,Sun 9/27,Czechia,64597,31268,606
+3295,Sun 9/27,Denmark,27111,20087,649
+3296,Sun 9/27,Diamond Princess,712,651,13
+3297,Sun 9/27,Djibouti,5409,5340,61
+3298,Sun 9/27,Dominica,30,24,0
+3299,Sun 9/27,Dominican Republic,111386,85965,2095
+3300,Sun 9/27,Ecuador,134747,112296,11279
+3301,Sun 9/27,Egypt,102840,95080,5883
+3302,Sun 9/27,El Salvador,28630,22879,826
+3303,Sun 9/27,Equatorial Guinea,5028,4740,83
+3304,Sun 9/27,Eritrea,375,341,0
+3305,Sun 9/27,Estonia,3200,2506,64
+3306,Sun 9/27,Eswatini,5431,4821,108
+3307,Sun 9/27,Ethiopia,73332,30363,1170
+3308,Sun 9/27,Fiji,32,28,2
+3309,Sun 9/27,Finland,9682,7850,343
+3310,Sun 9/27,France,552473,96937,31675
+3311,Sun 9/27,Gabon,8728,7934,54
+3312,Sun 9/27,Gambia,3569,2161,111
+3313,Sun 9/27,Georgia,5254,1906,28
+3314,Sun 9/27,Germany,286339,250866,9464
+3315,Sun 9/27,Ghana,46387,45618,299
+3316,Sun 9/27,Greece,17444,10441,379
+3317,Sun 9/27,Grenada,24,24,0
+3318,Sun 9/27,Guatemala,90092,78698,3229
+3319,Sun 9/27,Guinea,10580,9892,66
+3320,Sun 9/27,Guinea-Bissau,2324,1549,39
+3321,Sun 9/27,Guyana,2772,1564,76
+3322,Sun 9/27,Haiti,8740,6688,227
+3323,Sun 9/27,Holy See,12,12,0
+3324,Sun 9/27,Honduras,74548,26088,2288
+3325,Sun 9/27,Hungary,24014,5141,736
+3326,Sun 9/27,Iceland,2623,2158,10
+3327,Sun 9/27,India,6074702,5016520,95542
+3328,Sun 9/27,Indonesia,275213,203014,10386
+3329,Sun 9/27,Iran,446448,374170,25589
+3330,Sun 9/27,Iraq,349450,280673,8990
+3331,Sun 9/27,Ireland,34990,23364,1802
+3332,Sun 9/27,Israel,231026,159931,1466
+3333,Sun 9/27,Italy,309870,224417,35835
+3334,Sun 9/27,Jamaica,6017,1706,89
+3335,Sun 9/27,Japan,82186,73677,1549
+3336,Sun 9/27,Jordan,8492,4222,45
+3337,Sun 9/27,Kazakhstan,107775,102736,1699
+3338,Sun 9/27,Kenya,38115,24621,691
+3339,Sun 9/27,"Korea, South",23661,21292,406
+3340,Sun 9/27,Kosovo,15472,13278,622
+3341,Sun 9/27,Kuwait,103544,94929,601
+3342,Sun 9/27,Kyrgyzstan,46251,42453,1063
+3343,Sun 9/27,Laos,23,22,0
+3344,Sun 9/27,Latvia,1676,1304,36
+3345,Sun 9/27,Lebanon,36254,16089,347
+3346,Sun 9/27,Lesotho,1558,797,35
+3347,Sun 9/27,Liberia,1339,1221,82
+3348,Sun 9/27,Libya,32364,18128,520
+3349,Sun 9/27,Liechtenstein,117,110,1
+3350,Sun 9/27,Lithuania,4385,2327,91
+3351,Sun 9/27,Luxembourg,8233,6976,124
+3352,Sun 9/27,MS Zaandam,9,0,2
+3353,Sun 9/27,Madagascar,16285,14922,229
+3354,Sun 9/27,Malawi,5768,4206,179
+3355,Sun 9/27,Malaysia,10919,9835,134
+3356,Sun 9/27,Maldives,10098,8847,34
+3357,Sun 9/27,Mali,3086,2420,130
+3358,Sun 9/27,Malta,2979,2358,31
+3359,Sun 9/27,Marshall Islands,0,0,0
+3360,Sun 9/27,Mauritania,7464,7070,161
+3361,Sun 9/27,Mauritius,367,343,10
+3362,Sun 9/27,Mexico,730317,616696,76430
+3363,Sun 9/27,Moldova,50875,37842,1287
+3364,Sun 9/27,Monaco,210,169,2
+3365,Sun 9/27,Mongolia,313,305,0
+3366,Sun 9/27,Montenegro,10313,6456,158
+3367,Sun 9/27,Morocco,117685,95591,2069
+3368,Sun 9/27,Mozambique,7983,4807,58
+3369,Sun 9/27,Namibia,11033,8776,120
+3370,Sun 9/27,Nepal,73394,53898,477
+3371,Sun 9/27,Netherlands,116559,3642,6423
+3372,Sun 9/27,New Zealand,1833,1753,25
+3373,Sun 9/27,Nicaragua,5073,2913,149
+3374,Sun 9/27,Niger,1196,1107,69
+3375,Sun 9/27,Nigeria,58324,49794,1108
+3376,Sun 9/27,North Macedonia,17629,14581,725
+3377,Sun 9/27,Norway,13698,11190,270
+3378,Sun 9/27,Oman,97450,87801,909
+3379,Sun 9/27,Pakistan,310841,296022,6466
+3380,Sun 9/27,Panama,110555,87215,2340
+3381,Sun 9/27,Papua New Guinea,532,516,7
+3382,Sun 9/27,Paraguay,38684,22419,803
+3383,Sun 9/27,Peru,800142,657836,32142
+3384,Sun 9/27,Philippines,304226,252510,5344
+3385,Sun 9/27,Poland,87330,67904,2432
+3386,Sun 9/27,Portugal,73604,47647,1953
+3387,Sun 9/27,Qatar,125084,121995,214
+3388,Sun 9/27,Romania,122673,98607,4718
+3389,Sun 9/27,Russia,1146273,939921,20239
+3390,Sun 9/27,Rwanda,4820,3099,29
+3391,Sun 9/27,Saint Kitts and Nevis,19,17,0
+3392,Sun 9/27,Saint Lucia,27,27,0
+3393,Sun 9/27,Saint Vincent and the Grenadines,64,64,0
+3394,Sun 9/27,San Marino,727,676,42
+3395,Sun 9/27,Sao Tome and Principe,911,883,15
+3396,Sun 9/27,Saudi Arabia,333193,317005,4683
+3397,Sun 9/27,Senegal,14909,12113,308
+3398,Sun 9/27,Serbia,33384,0,747
+3399,Sun 9/27,Seychelles,143,140,0
+3400,Sun 9/27,Sierra Leone,2215,1681,72
+3401,Sun 9/27,Singapore,57700,57367,27
+3402,Sun 9/27,Slovakia,9078,4178,44
+3403,Sun 9/27,Slovenia,5350,3555,147
+3404,Sun 9/27,Solomon Islands,0,0,0
+3405,Sun 9/27,Somalia,3588,2946,99
+3406,Sun 9/27,South Africa,670766,603721,16398
+3407,Sun 9/27,South Sudan,2686,1290,49
+3408,Sun 9/27,Spain,716481,150376,31232
+3409,Sun 9/27,Sri Lanka,3360,3208,13
+3410,Sun 9/27,Sudan,13606,6764,836
+3411,Sun 9/27,Suriname,4835,4661,102
+3412,Sun 9/27,Sweden,90923,0,5880
+3413,Sun 9/27,Switzerland,51864,42700,2064
+3414,Sun 9/27,Syria,4072,1062,192
+3415,Sun 9/27,Taiwan*,510,480,7
+3416,Sun 9/27,Tajikistan,9646,8430,75
+3417,Sun 9/27,Tanzania,509,183,21
+3418,Sun 9/27,Thailand,3523,3367,59
+3419,Sun 9/27,Timor-Leste,27,27,0
+3420,Sun 9/27,Togo,1743,1330,46
+3421,Sun 9/27,Trinidad and Tobago,4362,2234,71
+3422,Sun 9/27,Tunisia,16114,5032,214
+3423,Sun 9/27,Turkey,314433,275630,7997
+3424,Sun 9/27,US,7101911,2766280,205024
+3425,Sun 9/27,Uganda,7530,3647,73
+3426,Sun 9/27,Ukraine,203799,91179,4044
+3427,Sun 9/27,United Arab Emirates,91469,80544,412
+3428,Sun 9/27,United Kingdom,437517,2339,42077
+3429,Sun 9/27,Uruguay,2008,1728,47
+3430,Sun 9/27,Uzbekistan,55320,51829,458
+3431,Sun 9/27,Vanuatu,0,0,0
+3432,Sun 9/27,Venezuela,72691,62427,606
+3433,Sun 9/27,Vietnam,1074,999,35
+3434,Sun 9/27,West Bank and Gaza,38703,29068,291
+3435,Sun 9/27,Western Sahara,10,8,1
+3436,Sun 9/27,Yemen,2030,1266,587
+3437,Sun 9/27,Zambia,14641,13784,332
+3438,Sun 9/27,Zimbabwe,7812,6106,227
+3439,Sun 10/4,Afghanistan,39341,32852,1462
+3440,Sun 10/4,Albania,14266,8675,396
+3441,Sun 10/4,Algeria,52136,36578,1760
+3442,Sun 10/4,Andorra,2110,1540,53
+3443,Sun 10/4,Angola,5402,2577,195
+3444,Sun 10/4,Antigua and Barbuda,107,96,3
+3445,Sun 10/4,Argentina,798486,636672,21018
+3446,Sun 10/4,Armenia,52496,44672,977
+3447,Sun 10/4,Australia,27148,24890,894
+3448,Sun 10/4,Austria,48146,38629,813
+3449,Sun 10/4,Azerbaijan,40691,38496,596
+3450,Sun 10/4,Bahamas,4409,2375,96
+3451,Sun 10/4,Bahrain,72662,67475,260
+3452,Sun 10/4,Bangladesh,368690,281656,5348
+3453,Sun 10/4,Barbados,199,182,7
+3454,Sun 10/4,Belarus,79852,75148,851
+3455,Sun 10/4,Belgium,130235,19679,10064
+3456,Sun 10/4,Belize,2131,1346,29
+3457,Sun 10/4,Benin,2357,1973,41
+3458,Sun 10/4,Bhutan,298,237,0
+3459,Sun 10/4,Bolivia,136868,97547,8101
+3460,Sun 10/4,Bosnia and Herzegovina,28354,21859,879
+3461,Sun 10/4,Botswana,3172,710,16
+3462,Sun 10/4,Brazil,4915289,4375354,146352
+3463,Sun 10/4,Brunei,146,142,3
+3464,Sun 10/4,Bulgaria,21587,15014,844
+3465,Sun 10/4,Burkina Faso,2167,1419,59
+3466,Sun 10/4,Burma,17794,5195,412
+3467,Sun 10/4,Burundi,513,472,1
+3468,Sun 10/4,Cabo Verde,6360,5416,65
+3469,Sun 10/4,Cambodia,278,275,0
+3470,Sun 10/4,Cameroon,20924,19764,420
+3471,Sun 10/4,Canada,168501,142502,9533
+3472,Sun 10/4,Central African Republic,4845,1914,62
+3473,Sun 10/4,Chad,1217,1075,86
+3474,Sun 10/4,Chile,470179,442070,12979
+3475,Sun 10/4,China,90629,85530,4739
+3476,Sun 10/4,Colombia,855052,761674,26712
+3477,Sun 10/4,Comoros,487,466,7
+3478,Sun 10/4,Congo (Brazzaville),5089,3887,89
+3479,Sun 10/4,Congo (Kinshasa),10760,10239,274
+3480,Sun 10/4,Costa Rica,79182,45007,950
+3481,Sun 10/4,Cote d'Ivoire,19882,19449,120
+3482,Sun 10/4,Croatia,17659,15849,298
+3483,Sun 10/4,Cuba,5809,5145,122
+3484,Sun 10/4,Cyprus,1824,1369,22
+3485,Sun 10/4,Czechia,82446,44149,727
+3486,Sun 10/4,Denmark,30168,23165,658
+3487,Sun 10/4,Diamond Princess,712,651,13
+3488,Sun 10/4,Djibouti,5419,5349,61
+3489,Sun 10/4,Dominica,31,24,0
+3490,Sun 10/4,Dominican Republic,114480,90366,2134
+3491,Sun 10/4,Ecuador,141034,120511,11647
+3492,Sun 10/4,Egypt,103683,97355,5981
+3493,Sun 10/4,El Salvador,29450,24296,863
+3494,Sun 10/4,Equatorial Guinea,5045,4879,83
+3495,Sun 10/4,Eritrea,398,358,0
+3496,Sun 10/4,Estonia,3607,2749,67
+3497,Sun 10/4,Eswatini,5569,5127,111
+3498,Sun 10/4,Ethiopia,78819,33060,1222
+3499,Sun 10/4,Fiji,32,28,2
+3500,Sun 10/4,Finland,10538,8100,345
+3501,Sun 10/4,France,629509,100281,32171
+3502,Sun 10/4,Gabon,8797,8067,54
+3503,Sun 10/4,Gambia,3594,2226,115
+3504,Sun 10/4,Georgia,8118,4244,50
+3505,Sun 10/4,Germany,301573,262002,9533
+3506,Sun 10/4,Ghana,46829,46060,303
+3507,Sun 10/4,Greece,19842,11686,409
+3508,Sun 10/4,Grenada,24,24,0
+3509,Sun 10/4,Guatemala,93963,82454,3293
+3510,Sun 10/4,Guinea,10754,10098,66
+3511,Sun 10/4,Guinea-Bissau,2362,1549,39
+3512,Sun 10/4,Guyana,3093,1920,87
+3513,Sun 10/4,Haiti,8819,6992,229
+3514,Sun 10/4,Holy See,12,12,0
+3515,Sun 10/4,Honduras,79629,29305,2422
+3516,Sun 10/4,Hungary,30575,7470,822
+3517,Sun 10/4,Iceland,2921,2277,10
+3518,Sun 10/4,India,6623815,5586703,102685
+3519,Sun 10/4,Indonesia,303498,228453,11151
+3520,Sun 10/4,Iran,471772,389966,26957
+3521,Sun 10/4,Iraq,379141,307482,9399
+3522,Sun 10/4,Ireland,38032,23364,1810
+3523,Sun 10/4,Israel,266775,195629,1719
+3524,Sun 10/4,Italy,325329,231914,35986
+3525,Sun 10/4,Jamaica,6895,2460,120
+3526,Sun 10/4,Japan,85746,77851,1598
+3527,Sun 10/4,Jordan,15640,5240,101
+3528,Sun 10/4,Kazakhstan,108236,103277,1725
+3529,Sun 10/4,Kenya,39427,25659,731
+3530,Sun 10/4,"Korea, South",24164,21886,422
+3531,Sun 10/4,Kosovo,15814,13856,630
+3532,Sun 10/4,Kuwait,107025,99040,624
+3533,Sun 10/4,Kyrgyzstan,47428,43418,1066
+3534,Sun 10/4,Laos,23,22,0
+3535,Sun 10/4,Latvia,2086,1307,38
+3536,Sun 10/4,Lebanon,44482,19782,406
+3537,Sun 10/4,Lesotho,1683,926,39
+3538,Sun 10/4,Liberia,1348,1236,82
+3539,Sun 10/4,Libya,36809,21429,592
+3540,Sun 10/4,Liechtenstein,126,116,1
+3541,Sun 10/4,Lithuania,5185,2495,94
+3542,Sun 10/4,Luxembourg,8709,7428,125
+3543,Sun 10/4,MS Zaandam,9,0,2
+3544,Sun 10/4,Madagascar,16558,15486,232
+3545,Sun 10/4,Malawi,5786,4541,179
+3546,Sun 10/4,Malaysia,12381,10283,137
+3547,Sun 10/4,Maldives,10530,9364,34
+3548,Sun 10/4,Mali,3184,2479,131
+3549,Sun 10/4,Malta,3270,2758,39
+3550,Sun 10/4,Marshall Islands,0,0,0
+3551,Sun 10/4,Mauritania,7520,7188,162
+3552,Sun 10/4,Mauritius,385,357,10
+3553,Sun 10/4,Mexico,761665,645123,79088
+3554,Sun 10/4,Moldova,56579,40955,1366
+3555,Sun 10/4,Monaco,222,189,2
+3556,Sun 10/4,Mongolia,314,307,0
+3557,Sun 10/4,Montenegro,12127,7953,179
+3558,Sun 10/4,Morocco,133272,111036,2330
+3559,Sun 10/4,Mozambique,9196,5852,66
+3560,Sun 10/4,Namibia,11626,9429,123
+3561,Sun 10/4,Nepal,86823,64069,535
+3562,Sun 10/4,Netherlands,141226,4381,6508
+3563,Sun 10/4,New Zealand,1855,1790,25
+3564,Sun 10/4,Nicaragua,5170,2913,151
+3565,Sun 10/4,Niger,1200,1115,69
+3566,Sun 10/4,Nigeria,59345,50768,1113
+3567,Sun 10/4,North Macedonia,18790,15341,756
+3568,Sun 10/4,Norway,14457,11190,275
+3569,Sun 10/4,Oman,101270,90296,977
+3570,Sun 10/4,Pakistan,314616,298968,6513
+3571,Sun 10/4,Panama,115286,91809,2423
+3572,Sun 10/4,Papua New Guinea,540,527,7
+3573,Sun 10/4,Paraguay,44182,27203,929
+3574,Sun 10/4,Peru,821564,700868,32609
+3575,Sun 10/4,Philippines,322497,273079,5776
+3576,Sun 10/4,Poland,100074,73003,2630
+3577,Sun 10/4,Portugal,79151,50207,2005
+3578,Sun 10/4,Qatar,126498,123475,216
+3579,Sun 10/4,Romania,135900,108135,5003
+3580,Sun 10/4,Russia,1209039,975488,21260
+3581,Sun 10/4,Rwanda,4866,3216,29
+3582,Sun 10/4,Saint Kitts and Nevis,19,17,0
+3583,Sun 10/4,Saint Lucia,27,27,0
+3584,Sun 10/4,Saint Vincent and the Grenadines,64,64,0
+3585,Sun 10/4,San Marino,732,680,42
+3586,Sun 10/4,Sao Tome and Principe,913,887,15
+3587,Sun 10/4,Saudi Arabia,336387,321485,4875
+3588,Sun 10/4,Senegal,15094,12805,312
+3589,Sun 10/4,Serbia,33901,0,754
+3590,Sun 10/4,Seychelles,146,143,0
+3591,Sun 10/4,Sierra Leone,2269,1706,72
+3592,Sun 10/4,Singapore,57812,57575,27
+3593,Sun 10/4,Slovakia,13139,4828,55
+3594,Sun 10/4,Slovenia,6498,4265,155
+3595,Sun 10/4,Solomon Islands,0,0,0
+3596,Sun 10/4,Somalia,3745,3010,99
+3597,Sun 10/4,South Africa,681289,614781,16976
+3598,Sun 10/4,South Sudan,2726,1290,50
+3599,Sun 10/4,Spain,789932,150376,32086
+3600,Sun 10/4,Sri Lanka,3402,3258,13
+3601,Sun 10/4,Sudan,13653,6764,836
+3602,Sun 10/4,Suriname,4941,4741,106
+3603,Sun 10/4,Sweden,94283,0,5895
+3604,Sun 10/4,Switzerland,54384,45800,2077
+3605,Sun 10/4,Syria,4366,1155,205
+3606,Sun 10/4,Taiwan*,517,484,7
+3607,Sun 10/4,Tajikistan,9935,8749,78
+3608,Sun 10/4,Tanzania,509,183,21
+3609,Sun 10/4,Thailand,3590,3390,59
+3610,Sun 10/4,Timor-Leste,28,28,0
+3611,Sun 10/4,Togo,1854,1392,48
+3612,Sun 10/4,Trinidad and Tobago,4763,2843,81
+3613,Sun 10/4,Tunisia,22230,5032,321
+3614,Sun 10/4,Turkey,324443,285050,8441
+3615,Sun 10/4,US,7402636,2911699,209998
+3616,Sun 10/4,Uganda,8808,4736,81
+3617,Sun 10/4,Ukraine,232424,103762,4495
+3618,Sun 10/4,United Arab Emirates,98801,88123,426
+3619,Sun 10/4,United Kingdom,505619,2403,42440
+3620,Sun 10/4,Uruguay,2145,1844,48
+3621,Sun 10/4,Uzbekistan,58612,55281,480
+3622,Sun 10/4,Vanuatu,0,0,0
+3623,Sun 10/4,Venezuela,78434,68917,653
+3624,Sun 10/4,Vietnam,1096,1020,35
+3625,Sun 10/4,West Bank and Gaza,41498,34698,330
+3626,Sun 10/4,Western Sahara,10,8,1
+3627,Sun 10/4,Yemen,2041,1320,591
+3628,Sun 10/4,Zambia,15052,14187,333
+3629,Sun 10/4,Zimbabwe,7888,6359,228
+3630,Sun 10/11,Afghanistan,39799,33114,1477
+3631,Sun 10/11,Albania,15399,9500,420
+3632,Sun 10/11,Algeria,53072,37170,1801
+3633,Sun 10/11,Andorra,2696,1814,55
+3634,Sun 10/11,Angola,6366,2743,218
+3635,Sun 10/11,Antigua and Barbuda,111,97,3
+3636,Sun 10/11,Argentina,894206,721380,23868
+3637,Sun 10/11,Armenia,56451,45824,1020
+3638,Sun 10/11,Australia,27285,25000,898
+3639,Sun 10/11,Austria,55319,43448,851
+3640,Sun 10/11,Azerbaijan,41982,39357,609
+3641,Sun 10/11,Bahamas,5078,2900,107
+3642,Sun 10/11,Bahrain,75614,71249,275
+3643,Sun 10/11,Bangladesh,378266,292860,5524
+3644,Sun 10/11,Barbados,208,186,7
+3645,Sun 10/11,Belarus,83534,77220,896
+3646,Sun 10/11,Belgium,162258,20272,10191
+3647,Sun 10/11,Belize,2531,1548,37
+3648,Sun 10/11,Benin,2411,1973,41
+3649,Sun 10/11,Bhutan,309,288,0
+3650,Sun 10/11,Bolivia,138574,101103,8308
+3651,Sun 10/11,Bosnia and Herzegovina,30647,23461,928
+3652,Sun 10/11,Botswana,3219,834,18
+3653,Sun 10/11,Brazil,5094979,4526393,150488
+3654,Sun 10/11,Brunei,146,143,3
+3655,Sun 10/11,Bulgaria,24402,15847,892
+3656,Sun 10/11,Burkina Faso,2271,1542,61
+3657,Sun 10/11,Burma,27974,9742,646
+3658,Sun 10/11,Burundi,524,472,1
+3659,Sun 10/11,Cabo Verde,7072,5981,75
+3660,Sun 10/11,Cambodia,283,278,0
+3661,Sun 10/11,Cameroon,21203,20117,423
+3662,Sun 10/11,Canada,184403,155901,9666
+3663,Sun 10/11,Central African Republic,4854,1924,62
+3664,Sun 10/11,Chad,1304,1115,92
+3665,Sun 10/11,Chile,481371,453352,13318
+3666,Sun 10/11,China,90812,85669,4739
+3667,Sun 10/11,Colombia,911316,789787,27834
+3668,Sun 10/11,Comoros,495,475,7
+3669,Sun 10/11,Congo (Brazzaville),5118,3887,90
+3670,Sun 10/11,Congo (Kinshasa),10851,10242,276
+3671,Sun 10/11,Costa Rica,87439,52669,1076
+3672,Sun 10/11,Cote d'Ivoire,20154,19798,120
+3673,Sun 10/11,Croatia,20440,17298,324
+3674,Sun 10/11,Cuba,5978,5540,123
+3675,Sun 10/11,Cyprus,2006,1444,25
+3676,Sun 10/11,Czechia,117110,54980,987
+3677,Sun 10/11,Denmark,32915,26855,669
+3678,Sun 10/11,Diamond Princess,712,659,13
+3679,Sun 10/11,Djibouti,5423,5355,61
+3680,Sun 10/11,Dominica,32,24,0
+3681,Sun 10/11,Dominican Republic,118477,94084,2173
+3682,Sun 10/11,Ecuador,147033,128134,12191
+3683,Sun 10/11,Egypt,104516,97688,6052
+3684,Sun 10/11,El Salvador,30196,25438,890
+3685,Sun 10/11,Equatorial Guinea,5063,4894,83
+3686,Sun 10/11,Eritrea,414,372,0
+3687,Sun 10/11,Estonia,3865,2958,68
+3688,Sun 10/11,Eswatini,5669,5310,113
+3689,Sun 10/11,Ethiopia,84295,38316,1287
+3690,Sun 10/11,Fiji,32,28,2
+3691,Sun 10/11,Finland,11998,8500,346
+3692,Sun 10/11,France,732434,103232,32601
+3693,Sun 10/11,Gabon,8835,8189,54
+3694,Sun 10/11,Gambia,3632,2543,117
+3695,Sun 10/11,Georgia,11794,6327,85
+3696,Sun 10/11,Germany,326309,276983,9626
+3697,Sun 10/11,Ghana,47005,46398,306
+3698,Sun 10/11,Greece,22358,13199,449
+3699,Sun 10/11,Grenada,24,24,0
+3700,Sun 10/11,Guatemala,97715,86582,3384
+3701,Sun 10/11,Guinea,11022,10324,69
+3702,Sun 10/11,Guinea-Bissau,2385,1728,40
+3703,Sun 10/11,Guyana,3469,2318,103
+3704,Sun 10/11,Haiti,8882,7104,230
+3705,Sun 10/11,Holy See,12,12,0
+3706,Sun 10/11,Honduras,84081,32012,2512
+3707,Sun 10/11,Hungary,37664,10848,954
+3708,Sun 10/11,Iceland,3526,2499,10
+3709,Sun 10/11,India,7120538,6149535,109150
+3710,Sun 10/11,Indonesia,333449,255027,11844
+3711,Sun 10/11,Iran,500075,406389,28544
+3712,Sun 10/11,Iraq,402330,336157,9852
+3713,Sun 10/11,Ireland,42528,23364,1826
+3714,Sun 10/11,Israel,290493,228658,1980
+3715,Sun 10/11,Italy,354950,239709,36166
+3716,Sun 10/11,Jamaica,7718,3162,139
+3717,Sun 10/11,Japan,89400,81266,1628
+3718,Sun 10/11,Jordan,24926,6101,191
+3719,Sun 10/11,Kazakhstan,108831,104041,1746
+3720,Sun 10/11,Kenya,41546,32000,766
+3721,Sun 10/11,"Korea, South",24703,22729,433
+3722,Sun 10/11,Kosovo,16179,14335,647
+3723,Sun 10/11,Kuwait,111116,103268,658
+3724,Sun 10/11,Kyrgyzstan,49230,44227,1085
+3725,Sun 10/11,Laos,23,22,0
+3726,Sun 10/11,Latvia,2670,1322,40
+3727,Sun 10/11,Lebanon,53568,23501,459
+3728,Sun 10/11,Lesotho,1805,961,42
+3729,Sun 10/11,Liberia,1363,1245,82
+3730,Sun 10/11,Libya,42712,24038,631
+3731,Sun 10/11,Liechtenstein,144,121,1
+3732,Sun 10/11,Lithuania,6122,2777,103
+3733,Sun 10/11,Luxembourg,9722,7900,132
+3734,Sun 10/11,MS Zaandam,9,0,2
+3735,Sun 10/11,Madagascar,16718,16042,237
+3736,Sun 10/11,Malawi,5821,4647,180
+3737,Sun 10/11,Malaysia,15657,10913,157
+3738,Sun 10/11,Maldives,10894,9742,35
+3739,Sun 10/11,Mali,3286,2527,132
+3740,Sun 10/11,Malta,3776,2967,41
+3741,Sun 10/11,Marshall Islands,0,0,0
+3742,Sun 10/11,Mauritania,7550,7274,163
+3743,Sun 10/11,Mauritius,395,358,10
+3744,Sun 10/11,Mexico,817503,694214,83781
+3745,Sun 10/11,Moldova,62151,44357,1461
+3746,Sun 10/11,Monaco,234,209,2
+3747,Sun 10/11,Mongolia,318,310,0
+3748,Sun 10/11,Montenegro,13869,9620,202
+3749,Sun 10/11,Morocco,152404,127407,2605
+3750,Sun 10/11,Mozambique,10001,7338,71
+3751,Sun 10/11,Namibia,11936,9817,128
+3752,Sun 10/11,Nepal,107755,75804,636
+3753,Sun 10/11,Netherlands,180288,4783,6642
+3754,Sun 10/11,New Zealand,1871,1801,25
+3755,Sun 10/11,Nicaragua,5264,4225,153
+3756,Sun 10/11,Niger,1201,1123,69
+3757,Sun 10/11,Nigeria,60266,51735,1115
+3758,Sun 10/11,North Macedonia,20937,16194,792
+3759,Sun 10/11,Norway,15524,11863,275
+3760,Sun 10/11,Oman,105890,92840,1038
+3761,Sun 10/11,Pakistan,319317,304185,6580
+3762,Sun 10/11,Panama,120313,96164,2491
+3763,Sun 10/11,Papua New Guinea,554,532,7
+3764,Sun 10/11,Paraguay,49675,32090,1077
+3765,Sun 10/11,Peru,849371,738189,33305
+3766,Sun 10/11,Philippines,339341,293075,6321
+3767,Sun 10/11,Poland,125816,80302,3004
+3768,Sun 10/11,Portugal,86664,53187,2080
+3769,Sun 10/11,Qatar,127985,124978,220
+3770,Sun 10/11,Romania,155283,117942,5411
+3771,Sun 10/11,Russia,1291687,1016120,22471
+3772,Sun 10/11,Rwanda,4896,3606,31
+3773,Sun 10/11,Saint Kitts and Nevis,19,18,0
+3774,Sun 10/11,Saint Lucia,29,27,0
+3775,Sun 10/11,Saint Vincent and the Grenadines,64,64,0
+3776,Sun 10/11,San Marino,741,682,42
+3777,Sun 10/11,Sao Tome and Principe,929,892,15
+3778,Sun 10/11,Saudi Arabia,339267,325330,5043
+3779,Sun 10/11,Senegal,15268,13297,314
+3780,Sun 10/11,Serbia,34787,0,763
+3781,Sun 10/11,Seychelles,148,144,0
+3782,Sun 10/11,Sierra Leone,2306,1736,72
+3783,Sun 10/11,Singapore,57876,57705,27
+3784,Sun 10/11,Slovakia,19851,5631,61
+3785,Sun 10/11,Slovenia,8663,5182,167
+3786,Sun 10/11,Solomon Islands,0,0,0
+3787,Sun 10/11,Somalia,3864,3089,99
+3788,Sun 10/11,South Africa,692471,623765,17780
+3789,Sun 10/11,South Sudan,2777,1290,55
+3790,Sun 10/11,Spain,861112,150376,32929
+3791,Sun 10/11,Sri Lanka,4752,3307,13
+3792,Sun 10/11,Sudan,13673,6764,836
+3793,Sun 10/11,Suriname,5051,4845,107
+3794,Sun 10/11,Sweden,98451,0,5894
+3795,Sun 10/11,Switzerland,60368,48400,2088
+3796,Sun 10/11,Syria,4718,1296,224
+3797,Sun 10/11,Taiwan*,527,488,7
+3798,Sun 10/11,Tajikistan,10222,9058,79
+3799,Sun 10/11,Tanzania,509,183,21
+3800,Sun 10/11,Thailand,3641,3454,59
+3801,Sun 10/11,Timor-Leste,28,28,0
+3802,Sun 10/11,Togo,1940,1457,49
+3803,Sun 10/11,Trinidad and Tobago,5043,3221,90
+3804,Sun 10/11,Tunisia,32556,5032,478
+3805,Sun 10/11,Turkey,335533,294357,8837
+3806,Sun 10/11,US,7750330,3075077,215078
+3807,Sun 10/11,Uganda,9801,6109,93
+3808,Sun 10/11,Ukraine,268065,117829,5098
+3809,Sun 10/11,United Arab Emirates,106229,97284,445
+3810,Sun 10/11,United Kingdom,606447,2503,42915
+3811,Sun 10/11,Uruguay,2294,1942,50
+3812,Sun 10/11,Uzbekistan,61098,58069,505
+3813,Sun 10/11,Vanuatu,0,0,0
+3814,Sun 10/11,Venezuela,83137,74664,697
+3815,Sun 10/11,Vietnam,1109,1024,35
+3816,Sun 10/11,West Bank and Gaza,44299,37942,381
+3817,Sun 10/11,Western Sahara,10,8,1
+3818,Sun 10/11,Yemen,2052,1329,595
+3819,Sun 10/11,Zambia,15458,14599,337
+3820,Sun 10/11,Zimbabwe,8011,6504,230
+3821,Sun 10/18,Afghanistan,40200,33614,1492
+3822,Sun 10/18,Albania,17055,10071,451
+3823,Sun 10/18,Algeria,54402,38088,1856
+3824,Sun 10/18,Andorra,3377,2057,59
+3825,Sun 10/18,Angola,7622,3030,247
+3826,Sun 10/18,Antigua and Barbuda,119,101,3
+3827,Sun 10/18,Argentina,989680,803965,26267
+3828,Sun 10/18,Armenia,64694,48104,1081
+3829,Sun 10/18,Australia,27399,25108,905
+3830,Sun 10/18,Austria,64806,49561,893
+3831,Sun 10/18,Azerbaijan,44964,40037,626
+3832,Sun 10/18,Bahamas,5703,3300,122
+3833,Sun 10/18,Bahrain,77902,74320,300
+3834,Sun 10/18,Bangladesh,388569,303972,5660
+3835,Sun 10/18,Barbados,221,200,7
+3836,Sun 10/18,Belarus,87698,79757,929
+3837,Sun 10/18,Belgium,222253,21157,10413
+3838,Sun 10/18,Belize,2813,1670,44
+3839,Sun 10/18,Benin,2496,2330,41
+3840,Sun 10/18,Bhutan,327,301,0
+3841,Sun 10/18,Bolivia,139771,104483,8481
+3842,Sun 10/18,Bosnia and Herzegovina,34112,24995,984
+3843,Sun 10/18,Botswana,5242,905,20
+3844,Sun 10/18,Brazil,5224362,4526393,153675
+3845,Sun 10/18,Brunei,147,143,3
+3846,Sun 10/18,Bulgaria,29503,16943,986
+3847,Sun 10/18,Burkina Faso,2381,1774,65
+3848,Sun 10/18,Burma,36025,17076,880
+3849,Sun 10/18,Burundi,542,497,1
+3850,Sun 10/18,Cabo Verde,7752,6526,86
+3851,Sun 10/18,Cambodia,283,280,0
+3852,Sun 10/18,Cameroon,21441,20117,423
+3853,Sun 10/18,Canada,200804,169751,9816
+3854,Sun 10/18,Central African Republic,4855,1924,62
+3855,Sun 10/18,Chad,1379,1181,93
+3856,Sun 10/18,Chile,491760,463943,13635
+3857,Sun 10/18,China,90972,85819,4739
+3858,Sun 10/18,Colombia,959572,858294,28970
+3859,Sun 10/18,Comoros,502,485,7
+3860,Sun 10/18,Congo (Brazzaville),5156,3887,92
+3861,Sun 10/18,Congo (Kinshasa),11006,10356,302
+3862,Sun 10/18,Costa Rica,95514,58816,1183
+3863,Sun 10/18,Cote d'Ivoire,20323,20021,121
+3864,Sun 10/18,Croatia,25580,20053,363
+3865,Sun 10/18,Cuba,6220,5768,125
+3866,Sun 10/18,Cyprus,2644,1444,25
+3867,Sun 10/18,Czechia,173885,72134,1422
+3868,Sun 10/18,Denmark,35893,29741,680
+3869,Sun 10/18,Diamond Princess,712,659,13
+3870,Sun 10/18,Djibouti,5459,5375,61
+3871,Sun 10/18,Dominica,33,29,0
+3872,Sun 10/18,Dominican Republic,121347,98207,2199
+3873,Sun 10/18,Ecuador,153289,134187,12387
+3874,Sun 10/18,Egypt,105424,98247,6120
+3875,Sun 10/18,El Salvador,31666,27000,922
+3876,Sun 10/18,Equatorial Guinea,5070,4954,83
+3877,Sun 10/18,Eritrea,452,388,0
+3878,Sun 10/18,Estonia,4078,3211,68
+3879,Sun 10/18,Eswatini,5780,5415,116
+3880,Sun 10/18,Ethiopia,89137,42649,1352
+3881,Sun 10/18,Fiji,32,30,2
+3882,Sun 10/18,Finland,13424,9100,351
+3883,Sun 10/18,France,876342,108014,33325
+3884,Sun 10/18,Gabon,8881,8430,54
+3885,Sun 10/18,Gambia,3649,2649,118
+3886,Sun 10/18,Georgia,17477,8060,136
+3887,Sun 10/18,Germany,368671,293447,9798
+3888,Sun 10/18,Ghana,47310,46618,310
+3889,Sun 10/18,Greece,25370,16437,509
+3890,Sun 10/18,Grenada,27,24,0
+3891,Sun 10/18,Guatemala,101360,90610,3530
+3892,Sun 10/18,Guinea,11518,10427,70
+3893,Sun 10/18,Guinea-Bissau,2389,1782,41
+3894,Sun 10/18,Guyana,3734,2654,109
+3895,Sun 10/18,Haiti,8964,7213,231
+3896,Sun 10/18,Holy See,27,15,0
+3897,Sun 10/18,Honduras,88425,34964,2568
+3898,Sun 10/18,Hungary,46290,14088,1142
+3899,Sun 10/18,Iceland,4055,2804,11
+3900,Sun 10/18,India,7550273,6663608,114610
+3901,Sun 10/18,Indonesia,361867,285324,12511
+3902,Sun 10/18,Iran,530380,427400,30375
+3903,Sun 10/18,Iraq,426634,360477,10254
+3904,Sun 10/18,Ireland,49962,23364,1852
+3905,Sun 10/18,Israel,303109,268093,2209
+3906,Sun 10/18,Italy,414241,251461,36543
+3907,Sun 10/18,Jamaica,8274,3859,171
+3908,Sun 10/18,Japan,93098,84461,1672
+3909,Sun 10/18,Jordan,37573,6912,345
+3910,Sun 10/18,Kazakhstan,109508,105001,1768
+3911,Sun 10/18,Kenya,44881,31857,832
+3912,Sun 10/18,"Korea, South",25275,23368,444
+3913,Sun 10/18,Kosovo,16891,14661,653
+3914,Sun 10/18,Kuwait,116146,107860,701
+3915,Sun 10/18,Kyrgyzstan,52044,45736,1111
+3916,Sun 10/18,Laos,23,22,0
+3917,Sun 10/18,Latvia,3450,1329,44
+3918,Sun 10/18,Lebanon,62286,28062,520
+3919,Sun 10/18,Lesotho,1833,961,42
+3920,Sun 10/18,Liberia,1377,1268,82
+3921,Sun 10/18,Libya,48790,26889,725
+3922,Sun 10/18,Liechtenstein,224,132,1
+3923,Sun 10/18,Lithuania,7521,3097,113
+3924,Sun 10/18,Luxembourg,10888,8468,133
+3925,Sun 10/18,MS Zaandam,9,0,2
+3926,Sun 10/18,Madagascar,16810,16215,238
+3927,Sun 10/18,Malawi,5857,4742,181
+3928,Sun 10/18,Malaysia,20498,13262,187
+3929,Sun 10/18,Maldives,11210,10164,37
+3930,Sun 10/18,Mali,3388,2586,132
+3931,Sun 10/18,Malta,4628,3236,45
+3932,Sun 10/18,Marshall Islands,0,0,0
+3933,Sun 10/18,Mauritania,7608,7347,163
+3934,Sun 10/18,Mauritius,417,364,10
+3935,Sun 10/18,Mexico,851227,720973,86167
+3936,Sun 10/18,Moldova,67050,47842,1584
+3937,Sun 10/18,Monaco,265,217,2
+3938,Sun 10/18,Mongolia,324,312,0
+3939,Sun 10/18,Montenegro,15615,10994,236
+3940,Sun 10/18,Morocco,173632,143972,2928
+3941,Sun 10/18,Mozambique,10866,8513,75
+3942,Sun 10/18,Namibia,12293,10422,131
+3943,Sun 10/18,Nepal,132246,92166,739
+3944,Sun 10/18,Netherlands,234203,5206,6811
+3945,Sun 10/18,New Zealand,1886,1824,25
+3946,Sun 10/18,Nicaragua,5353,4225,154
+3947,Sun 10/18,Niger,1210,1126,69
+3948,Sun 10/18,Nigeria,61440,56611,1125
+3949,Sun 10/18,North Macedonia,23628,17239,834
+3950,Sun 10/18,Norway,16457,11863,278
+3951,Sun 10/18,Oman,109953,95624,1101
+3952,Sun 10/18,Pakistan,323452,307409,6659
+3953,Sun 10/18,Panama,124745,101041,2564
+3954,Sun 10/18,Papua New Guinea,581,540,7
+3955,Sun 10/18,Paraguay,54724,36068,1188
+3956,Sun 10/18,Peru,865549,774356,33702
+3957,Sun 10/18,Philippines,356618,310158,6652
+3958,Sun 10/18,Poland,175766,92651,3573
+3959,Sun 10/18,Portugal,99911,59000,2181
+3960,Sun 10/18,Qatar,129431,126406,224
+3961,Sun 10/18,Romania,180388,130894,5872
+3962,Sun 10/18,Russia,1390824,1065608,24039
+3963,Sun 10/18,Rwanda,4974,4783,34
+3964,Sun 10/18,Saint Kitts and Nevis,19,19,0
+3965,Sun 10/18,Saint Lucia,33,27,0
+3966,Sun 10/18,Saint Vincent and the Grenadines,67,64,0
+3967,Sun 10/18,San Marino,759,685,42
+3968,Sun 10/18,Sao Tome and Principe,933,898,15
+3969,Sun 10/18,Saudi Arabia,342202,328538,5185
+3970,Sun 10/18,Senegal,15418,13814,317
+3971,Sun 10/18,Serbia,36160,0,776
+3972,Sun 10/18,Seychelles,149,148,0
+3973,Sun 10/18,Sierra Leone,2330,1760,73
+3974,Sun 10/18,Singapore,57911,57807,28
+3975,Sun 10/18,Slovakia,29835,7359,88
+3976,Sun 10/18,Slovenia,13142,6313,188
+3977,Sun 10/18,Solomon Islands,3,0,0
+3978,Sun 10/18,Somalia,3864,3089,99
+3979,Sun 10/18,South Africa,703793,634543,18471
+3980,Sun 10/18,South Sudan,2842,1290,55
+3981,Sun 10/18,Spain,936560,150376,33775
+3982,Sun 10/18,Sri Lanka,5538,3403,13
+3983,Sun 10/18,Sudan,13697,6764,836
+3984,Sun 10/18,Suriname,5130,4944,109
+3985,Sun 10/18,Sweden,103200,0,5918
+3986,Sun 10/18,Switzerland,74422,50600,2123
+3987,Sun 10/18,Syria,5077,1528,248
+3988,Sun 10/18,Taiwan*,535,491,7
+3989,Sun 10/18,Tajikistan,10493,9511,80
+3990,Sun 10/18,Tanzania,509,183,21
+3991,Sun 10/18,Thailand,3691,3488,59
+3992,Sun 10/18,Timor-Leste,29,28,0
+3993,Sun 10/18,Togo,2057,1531,51
+3994,Sun 10/18,Trinidad and Tobago,5297,3652,96
+3995,Sun 10/18,Tunisia,40542,5032,626
+3996,Sun 10/18,Turkey,347493,304003,9296
+3997,Sun 10/18,US,8142343,3234138,220109
+3998,Sun 10/18,Uganda,10590,6992,97
+3999,Sun 10/18,Ukraine,307301,130338,5762
+4000,Sun 10/18,United Arab Emirates,115602,107516,463
+4001,Sun 10/18,United Kingdom,725292,2589,43736
+4002,Sun 10/18,Uruguay,2531,2105,51
+4003,Sun 10/18,Uzbekistan,63124,60080,525
+4004,Sun 10/18,Vanuatu,0,0,0
+4005,Sun 10/18,Venezuela,86636,79694,736
+4006,Sun 10/18,Vietnam,1134,1031,35
+4007,Sun 10/18,West Bank and Gaza,47135,40498,408
+4008,Sun 10/18,Western Sahara,10,8,1
+4009,Sun 10/18,Yemen,2056,1338,597
+4010,Sun 10/18,Zambia,15853,15005,346
+4011,Sun 10/18,Zimbabwe,8147,7678,231
+4012,Sun 10/25,Afghanistan,40833,34129,1514
+4013,Sun 10/25,Albania,19157,10654,477
+4014,Sun 10/25,Algeria,56143,39095,1914
+4015,Sun 10/25,Andorra,4038,2729,69
+4016,Sun 10/25,Angola,9381,3508,268
+4017,Sun 10/25,Antigua and Barbuda,124,108,3
+4018,Sun 10/25,Argentina,1090589,894819,28896
+4019,Sun 10/25,Armenia,77837,50908,1180
+4020,Sun 10/25,Australia,27525,25196,905
+4021,Sun 10/25,Austria,80811,57858,979
+4022,Sun 10/25,Azerbaijan,49959,41279,671
+4023,Sun 10/25,Bahamas,6410,3948,132
+4024,Sun 10/25,Bahrain,80255,76776,312
+4025,Sun 10/25,Bangladesh,398815,315107,5803
+4026,Sun 10/25,Barbados,227,208,7
+4027,Sun 10/25,Belarus,92823,83237,957
+4028,Sun 10/25,Belgium,321031,23087,10810
+4029,Sun 10/25,Belize,3145,1961,50
+4030,Sun 10/25,Benin,2557,2330,41
+4031,Sun 10/25,Bhutan,342,307,0
+4032,Sun 10/25,Bolivia,140853,108658,8645
+4033,Sun 10/25,Bosnia and Herzegovina,40893,26459,1086
+4034,Sun 10/25,Botswana,5923,927,21
+4035,Sun 10/25,Brazil,5394128,4526393,157134
+4036,Sun 10/25,Brunei,148,143,3
+4037,Sun 10/25,Bulgaria,37889,18354,1094
+4038,Sun 10/25,Burkina Faso,2451,2019,65
+4039,Sun 10/25,Burma,44774,24920,1095
+4040,Sun 10/25,Burundi,557,511,1
+4041,Sun 10/25,Cabo Verde,8396,7285,94
+4042,Sun 10/25,Cambodia,287,283,0
+4043,Sun 10/25,Cameroon,21570,20117,425
+4044,Sun 10/25,Canada,218874,184194,9995
+4045,Sun 10/25,Central African Republic,4862,1924,62
+4046,Sun 10/25,Chad,1437,1268,96
+4047,Sun 10/25,Chile,502063,478252,13944
+4048,Sun 10/25,China,91151,86002,4739
+4049,Sun 10/25,Colombia,1015885,907379,30154
+4050,Sun 10/25,Comoros,517,494,7
+4051,Sun 10/25,Congo (Brazzaville),5253,3887,92
+4052,Sun 10/25,Congo (Kinshasa),11143,10467,305
+4053,Sun 10/25,Costa Rica,103088,62037,1282
+4054,Sun 10/25,Cote d'Ivoire,20470,20166,122
+4055,Sun 10/25,Croatia,36380,24799,437
+4056,Sun 10/25,Cuba,6566,5998,128
+4057,Sun 10/25,Cyprus,3545,1882,25
+4058,Sun 10/25,Czechia,258097,97381,2201
+4059,Sun 10/25,Denmark,40863,32479,702
+4060,Sun 10/25,Diamond Princess,712,659,13
+4061,Sun 10/25,Djibouti,5536,5402,61
+4062,Sun 10/25,Dominica,38,29,0
+4063,Sun 10/25,Dominican Republic,124527,102651,2223
+4064,Sun 10/25,Ecuador,161635,141759,12553
+4065,Sun 10/25,Egypt,106540,98903,6199
+4066,Sun 10/25,El Salvador,32585,28258,949
+4067,Sun 10/25,Equatorial Guinea,5079,4962,83
+4068,Sun 10/25,Eritrea,461,405,0
+4069,Sun 10/25,Estonia,4411,3457,73
+4070,Sun 10/25,Eswatini,5854,5502,116
+4071,Sun 10/25,Ethiopia,93343,47543,1426
+4072,Sun 10/25,Fiji,33,30,2
+4073,Sun 10/25,Finland,14848,9800,353
+4074,Sun 10/25,France,1084746,113698,34536
+4075,Sun 10/25,Gabon,8919,8512,54
+4076,Sun 10/25,Gambia,3660,2660,119
+4077,Sun 10/25,Georgia,28431,10767,201
+4078,Sun 10/25,Germany,437698,320004,10062
+4079,Sun 10/25,Ghana,47690,46887,316
+4080,Sun 10/25,Greece,30782,19749,574
+4081,Sun 10/25,Grenada,28,24,0
+4082,Sun 10/25,Guatemala,104787,94217,3644
+4083,Sun 10/25,Guinea,11635,10474,71
+4084,Sun 10/25,Guinea-Bissau,2403,1818,41
+4085,Sun 10/25,Guyana,4023,2970,119
+4086,Sun 10/25,Haiti,9026,7373,232
+4087,Sun 10/25,Holy See,27,15,0
+4088,Sun 10/25,Honduras,93214,37996,2623
+4089,Sun 10/25,Hungary,59247,16242,1425
+4090,Sun 10/25,Iceland,4448,3395,11
+4091,Sun 10/25,India,7909959,7137228,119014
+4092,Sun 10/25,Indonesia,389712,313764,13299
+4093,Sun 10/25,Iran,568896,455054,32616
+4094,Sun 10/25,Iraq,451707,381349,10623
+4095,Sun 10/25,Ireland,57128,23364,1882
+4096,Sun 10/25,Israel,309946,293109,2397
+4097,Sun 10/25,Italy,525782,266203,37338
+4098,Sun 10/25,Jamaica,8714,4282,188
+4099,Sun 10/25,Japan,97095,88610,1716
+4100,Sun 10/25,Jordan,53087,7508,579
+4101,Sun 10/25,Kazakhstan,110542,105675,1796
+4102,Sun 10/25,Kenya,49721,34209,902
+4103,Sun 10/25,"Korea, South",25955,23905,457
+4104,Sun 10/25,Kosovo,17943,15083,663
+4105,Sun 10/25,Kuwait,121635,112771,746
+4106,Sun 10/25,Kyrgyzstan,55750,47616,1134
+4107,Sun 10/25,Laos,24,22,0
+4108,Sun 10/25,Latvia,4678,1357,56
+4109,Sun 10/25,Lebanon,71390,34803,565
+4110,Sun 10/25,Lesotho,1940,970,43
+4111,Sun 10/25,Liberia,1393,1278,82
+4112,Sun 10/25,Libya,56013,30731,795
+4113,Sun 10/25,Liechtenstein,365,170,1
+4114,Sun 10/25,Lithuania,10184,4073,134
+4115,Sun 10/25,Luxembourg,12851,9085,141
+4116,Sun 10/25,MS Zaandam,9,0,2
+4117,Sun 10/25,Madagascar,16968,16301,244
+4118,Sun 10/25,Malawi,5890,5291,183
+4119,Sun 10/25,Malaysia,26565,17134,229
+4120,Sun 10/25,Maldives,11505,10524,37
+4121,Sun 10/25,Mali,3490,2661,132
+4122,Sun 10/25,Malta,5498,3567,51
+4123,Sun 10/25,Marshall Islands,0,0,0
+4124,Sun 10/25,Mauritania,7664,7385,163
+4125,Sun 10/25,Mauritius,435,386,10
+4126,Sun 10/25,Mexico,891160,752691,88924
+4127,Sun 10/25,Moldova,71503,52290,1685
+4128,Sun 10/25,Monaco,306,244,2
+4129,Sun 10/25,Mongolia,339,312,0
+4130,Sun 10/25,Montenegro,16797,12775,266
+4131,Sun 10/25,Morocco,197481,163195,3301
+4132,Sun 10/25,Mozambique,11986,9253,86
+4133,Sun 10/25,Namibia,12660,10779,133
+4134,Sun 10/25,Nepal,158089,111670,847
+4135,Sun 10/25,Netherlands,297466,5619,7108
+4136,Sun 10/25,New Zealand,1940,1841,25
+4137,Sun 10/25,Nicaragua,5434,4225,155
+4138,Sun 10/25,Niger,1215,1128,69
+4139,Sun 10/25,Nigeria,61992,57465,1130
+4140,Sun 10/25,North Macedonia,26954,18627,919
+4141,Sun 10/25,Norway,17909,11863,279
+4142,Sun 10/25,Oman,112932,99278,1174
+4143,Sun 10/25,Pakistan,328602,311075,6739
+4144,Sun 10/25,Panama,129200,105231,2633
+4145,Sun 10/25,Papua New Guinea,583,545,7
+4146,Sun 10/25,Paraguay,59594,39735,1309
+4147,Sun 10/25,Peru,888715,803846,34149
+4148,Sun 10/25,Philippines,370028,328036,6977
+4149,Sun 10/25,Poland,253688,112619,4438
+4150,Sun 10/25,Portugal,118686,68877,2316
+4151,Sun 10/25,Qatar,131170,128099,230
+4152,Sun 10/25,Romania,209648,149741,6391
+4153,Sun 10/25,Russia,1503652,1132790,25875
+4154,Sun 10/25,Rwanda,5066,4830,34
+4155,Sun 10/25,Saint Kitts and Nevis,19,19,0
+4156,Sun 10/25,Saint Lucia,54,27,0
+4157,Sun 10/25,Saint Vincent and the Grenadines,73,66,0
+4158,Sun 10/25,San Marino,819,716,42
+4159,Sun 10/25,Sao Tome and Principe,940,902,15
+4160,Sun 10/25,Saudi Arabia,344875,331330,5296
+4161,Sun 10/25,Senegal,15551,14254,321
+4162,Sun 10/25,Serbia,39486,0,792
+4163,Sun 10/25,Seychelles,153,149,0
+4164,Sun 10/25,Sierra Leone,2346,1787,74
+4165,Sun 10/25,Singapore,57970,57858,28
+4166,Sun 10/25,Slovakia,43843,9960,159
+4167,Sun 10/25,Slovenia,22950,8424,240
+4168,Sun 10/25,Solomon Islands,4,3,0
+4169,Sun 10/25,Somalia,3941,3185,104
+4170,Sun 10/25,South Africa,715868,646170,18968
+4171,Sun 10/25,South Sudan,2883,1290,56
+4172,Sun 10/25,Spain,1046132,150376,34752
+4173,Sun 10/25,Sri Lanka,7872,3803,16
+4174,Sun 10/25,Sudan,13742,6764,837
+4175,Sun 10/25,Suriname,5170,5032,109
+4176,Sun 10/25,Sweden,110594,0,5941
+4177,Sun 10/25,Switzerland,103653,55800,2083
+4178,Sun 10/25,Syria,5408,1753,269
+4179,Sun 10/25,Taiwan*,550,502,7
+4180,Sun 10/25,Tajikistan,10776,9889,81
+4181,Sun 10/25,Tanzania,509,183,21
+4182,Sun 10/25,Thailand,3736,3530,59
+4183,Sun 10/25,Timor-Leste,29,28,0
+4184,Sun 10/25,Togo,2200,1600,52
+4185,Sun 10/25,Trinidad and Tobago,5511,4085,105
+4186,Sun 10/25,Tunisia,48799,5032,819
+4187,Sun 10/25,Turkey,361801,314390,9799
+4188,Sun 10/25,US,8634322,3422878,225761
+4189,Sun 10/25,Uganda,11443,7351,101
+4190,Sun 10/25,Ukraine,353723,147240,6566
+4191,Sun 10/25,United Arab Emirates,125123,118931,477
+4192,Sun 10/25,United Kingdom,876840,2685,44986
+4193,Sun 10/25,Uruguay,2851,2351,53
+4194,Sun 10/25,Uzbekistan,65307,62509,549
+4195,Sun 10/25,Vanuatu,0,0,0
+4196,Sun 10/25,Venezuela,89565,83947,773
+4197,Sun 10/25,Vietnam,1168,1057,35
+4198,Sun 10/25,West Bank and Gaza,50442,43592,448
+4199,Sun 10/25,Western Sahara,10,8,1
+4200,Sun 10/25,Yemen,2060,1360,599
+4201,Sun 10/25,Zambia,16117,15179,348
+4202,Sun 10/25,Zimbabwe,8276,7797,237
+4203,Sun 11/1,Afghanistan,41501,34326,1536
+4204,Sun 11/1,Albania,21202,11246,518
+4205,Sun 11/1,Algeria,58272,40395,1973
+4206,Sun 11/1,Andorra,4825,3475,75
+4207,Sun 11/1,Angola,11035,4920,286
+4208,Sun 11/1,Antigua and Barbuda,128,117,3
+4209,Sun 11/1,Argentina,1173533,985316,31140
+4210,Sun 11/1,Armenia,92254,55827,1363
+4211,Sun 11/1,Australia,27601,25352,907
+4212,Sun 11/1,Austria,109881,69336,1130
+4213,Sun 11/1,Azerbaijan,56444,44157,740
+4214,Sun 11/1,Bahamas,6714,4422,144
+4215,Sun 11/1,Bahrain,81923,78997,321
+4216,Sun 11/1,Bangladesh,409252,325940,5941
+4217,Sun 11/1,Barbados,237,221,7
+4218,Sun 11/1,Belarus,99459,87188,985
+4219,Sun 11/1,Belgium,441018,25819,11737
+4220,Sun 11/1,Belize,3577,2207,59
+4221,Sun 11/1,Benin,2683,2455,41
+4222,Sun 11/1,Bhutan,354,325,0
+4223,Sun 11/1,Bolivia,141833,111848,8731
+4224,Sun 11/1,Bosnia and Herzegovina,51505,28194,1248
+4225,Sun 11/1,Botswana,6642,4676,24
+4226,Sun 11/1,Brazil,5545705,5022338,160074
+4227,Sun 11/1,Brunei,148,143,3
+4228,Sun 11/1,Bulgaria,54069,20530,1298
+4229,Sun 11/1,Burkina Faso,2500,2250,67
+4230,Sun 11/1,Burma,53405,34189,1258
+4231,Sun 11/1,Burundi,589,511,1
+4232,Sun 11/1,Cabo Verde,8848,8012,95
+4233,Sun 11/1,Cambodia,292,283,0
+4234,Sun 11/1,Cameroon,22103,21151,429
+4235,Sun 11/1,Canada,239649,200768,10230
+4236,Sun 11/1,Central African Republic,4866,1924,62
+4237,Sun 11/1,Chad,1498,1324,98
+4238,Sun 11/1,Chile,511864,488166,14247
+4239,Sun 11/1,China,91397,86162,4739
+4240,Sun 11/1,Colombia,1083321,977804,31515
+4241,Sun 11/1,Comoros,545,498,7
+4242,Sun 11/1,Congo (Brazzaville),5290,3887,92
+4243,Sun 11/1,Congo (Kinshasa),11373,10768,308
+4244,Sun 11/1,Costa Rica,109971,66719,1385
+4245,Sun 11/1,Cote d'Ivoire,20716,20365,126
+4246,Sun 11/1,Croatia,51495,35039,562
+4247,Sun 11/1,Cuba,6935,6289,128
+4248,Sun 11/1,Cyprus,4563,1882,26
+4249,Sun 11/1,Czechia,341644,157418,3429
+4250,Sun 11/1,Denmark,47811,35465,723
+4251,Sun 11/1,Diamond Princess,712,659,13
+4252,Sun 11/1,Djibouti,5563,5448,61
+4253,Sun 11/1,Dominica,50,33,0
+4254,Sun 11/1,Dominican Republic,127332,105289,2249
+4255,Sun 11/1,Ecuador,169194,149048,12684
+4256,Sun 11/1,Egypt,107736,99555,6278
+4257,Sun 11/1,El Salvador,34015,29788,979
+4258,Sun 11/1,Equatorial Guinea,5088,4965,83
+4259,Sun 11/1,Eritrea,463,412,0
+4260,Sun 11/1,Estonia,4985,3824,73
+4261,Sun 11/1,Eswatini,5925,5652,117
+4262,Sun 11/1,Ethiopia,96583,53452,1478
+4263,Sun 11/1,Fiji,34,31,2
+4264,Sun 11/1,Finland,16291,11300,358
+4265,Sun 11/1,France,1458999,123664,37057
+4266,Sun 11/1,Gabon,8968,8698,55
+4267,Sun 11/1,Gambia,3672,3196,119
+4268,Sun 11/1,Georgia,40727,25104,335
+4269,Sun 11/1,Germany,544346,363545,10513
+4270,Sun 11/1,Ghana,48124,47215,320
+4271,Sun 11/1,Greece,40929,23074,635
+4272,Sun 11/1,Grenada,28,24,0
+4273,Sun 11/1,Guatemala,108104,97756,3738
+4274,Sun 11/1,Guinea,12195,10589,73
+4275,Sun 11/1,Guinea-Bissau,2413,1818,41
+4276,Sun 11/1,Guyana,4208,3242,126
+4277,Sun 11/1,Haiti,9057,7429,232
+4278,Sun 11/1,Holy See,27,15,0
+4279,Sun 11/1,Honduras,98212,40687,2675
+4280,Sun 11/1,Hungary,79199,20078,1819
+4281,Sun 11/1,Iceland,4890,3948,12
+4282,Sun 11/1,India,8229313,7544798,122607
+4283,Sun 11/1,Indonesia,412784,341942,13943
+4284,Sun 11/1,Iran,620491,486691,35298
+4285,Sun 11/1,Iraq,475288,402782,10966
+4286,Sun 11/1,Ireland,62002,23364,1915
+4287,Sun 11/1,Israel,314943,302709,2554
+4288,Sun 11/1,Italy,709335,292380,38826
+4289,Sun 11/1,Jamaica,9131,4617,208
+4290,Sun 11/1,Japan,101943,92250,1776
+4291,Sun 11/1,Jordan,75866,7740,866
+4292,Sun 11/1,Kazakhstan,112860,106514,1825
+4293,Sun 11/1,Kenya,55877,37194,1013
+4294,Sun 11/1,"Korea, South",26732,24395,468
+4295,Sun 11/1,Kosovo,19328,15429,678
+4296,Sun 11/1,Kuwait,126534,117558,782
+4297,Sun 11/1,Kyrgyzstan,58878,49983,1144
+4298,Sun 11/1,Laos,24,22,0
+4299,Sun 11/1,Latvia,6136,1406,74
+4300,Sun 11/1,Lebanon,82617,42904,643
+4301,Sun 11/1,Lesotho,1953,975,44
+4302,Sun 11/1,Liberia,1426,1279,82
+4303,Sun 11/1,Libya,62045,35853,871
+4304,Sun 11/1,Liechtenstein,551,347,3
+4305,Sun 11/1,Lithuania,15719,4883,166
+4306,Sun 11/1,Luxembourg,17134,10081,152
+4307,Sun 11/1,MS Zaandam,9,0,2
+4308,Sun 11/1,Madagascar,17111,16409,244
+4309,Sun 11/1,Malawi,5932,5323,184
+4310,Sun 11/1,Malaysia,32505,22220,249
+4311,Sun 11/1,Maldives,11701,10883,38
+4312,Sun 11/1,Mali,3565,2758,136
+4313,Sun 11/1,Malta,6182,4286,64
+4314,Sun 11/1,Marshall Islands,2,0,0
+4315,Sun 11/1,Mauritania,7704,7437,163
+4316,Sun 11/1,Mauritius,446,407,10
+4317,Sun 11/1,Mexico,929392,786516,91895
+4318,Sun 11/1,Moldova,76582,56312,1800
+4319,Sun 11/1,Monaco,366,274,2
+4320,Sun 11/1,Mongolia,349,313,0
+4321,Sun 11/1,Montenegro,18714,14216,313
+4322,Sun 11/1,Morocco,222544,184313,3762
+4323,Sun 11/1,Mozambique,12988,10439,93
+4324,Sun 11/1,Namibia,12988,11038,133
+4325,Sun 11/1,Nepal,173567,134842,960
+4326,Sun 11/1,Netherlands,366351,5908,7498
+4327,Sun 11/1,New Zealand,1963,1857,25
+4328,Sun 11/1,Nicaragua,5514,4225,156
+4329,Sun 11/1,Niger,1221,1141,69
+4330,Sun 11/1,Nigeria,62964,58790,1146
+4331,Sun 11/1,North Macedonia,32436,21090,1004
+4332,Sun 11/1,Norway,20635,11863,282
+4333,Sun 11/1,Oman,115734,105700,1246
+4334,Sun 11/1,Pakistan,335093,315016,6835
+4335,Sun 11/1,Panama,134336,111634,2706
+4336,Sun 11/1,Papua New Guinea,589,575,7
+4337,Sun 11/1,Paraguay,63731,43403,1418
+4338,Sun 11/1,Peru,902503,825197,34476
+4339,Sun 11/1,Philippines,383113,348760,7238
+4340,Sun 11/1,Poland,379902,146595,5783
+4341,Sun 11/1,Portugal,144341,81771,2544
+4342,Sun 11/1,Qatar,132720,129784,232
+4343,Sun 11/1,Romania,246663,175975,7067
+4344,Sun 11/1,Russia,1624648,1218619,28026
+4345,Sun 11/1,Rwanda,5146,4921,35
+4346,Sun 11/1,Saint Kitts and Nevis,19,19,0
+4347,Sun 11/1,Saint Lucia,84,28,0
+4348,Sun 11/1,Saint Vincent and the Grenadines,75,70,0
+4349,Sun 11/1,San Marino,928,721,42
+4350,Sun 11/1,Sao Tome and Principe,949,904,16
+4351,Sun 11/1,Saudi Arabia,347656,334236,5420
+4352,Sun 11/1,Senegal,15630,14958,325
+4353,Sun 11/1,Serbia,48403,0,826
+4354,Sun 11/1,Seychelles,153,149,0
+4355,Sun 11/1,Sierra Leone,2366,1802,74
+4356,Sun 11/1,Singapore,58019,57924,28
+4357,Sun 11/1,Slovakia,59946,12798,219
+4358,Sun 11/1,Slovenia,35649,12785,363
+4359,Sun 11/1,Solomon Islands,8,4,0
+4360,Sun 11/1,Somalia,3941,3185,104
+4361,Sun 11/1,South Africa,726823,655330,19411
+4362,Sun 11/1,South Sudan,2926,1290,59
+4363,Sun 11/1,Spain,1185678,150376,35878
+4364,Sun 11/1,Sri Lanka,11060,4905,21
+4365,Sun 11/1,Sudan,13819,6764,837
+4366,Sun 11/1,Suriname,5210,5066,111
+4367,Sun 11/1,Sweden,124355,0,5980
+4368,Sun 11/1,Switzerland,154251,65200,2326
+4369,Sun 11/1,Syria,5789,2021,292
+4370,Sun 11/1,Taiwan*,558,518,7
+4371,Sun 11/1,Tajikistan,11054,10283,82
+4372,Sun 11/1,Tanzania,509,183,21
+4373,Sun 11/1,Thailand,3787,3595,59
+4374,Sun 11/1,Timor-Leste,30,29,0
+4375,Sun 11/1,Togo,2357,1676,57
+4376,Sun 11/1,Trinidad and Tobago,5704,4763,109
+4377,Sun 11/1,Tunisia,61115,5032,1348
+4378,Sun 11/1,Turkey,377473,325486,10326
+4379,Sun 11/1,US,9208738,3630579,231531
+4380,Sun 11/1,Uganda,12743,7556,112
+4381,Sun 11/1,Ukraine,407573,168495,7515
+4382,Sun 11/1,United Arab Emirates,133907,130508,496
+4383,Sun 11/1,United Kingdom,1038054,2841,46807
+4384,Sun 11/1,Uruguay,3149,2601,59
+4385,Sun 11/1,Uzbekistan,67156,64466,570
+4386,Sun 11/1,Vanuatu,0,0,0
+4387,Sun 11/1,Venezuela,92325,87156,801
+4388,Sun 11/1,Vietnam,1180,1063,35
+4389,Sun 11/1,West Bank and Gaza,54060,46773,489
+4390,Sun 11/1,Western Sahara,10,8,1
+4391,Sun 11/1,Yemen,2063,1366,600
+4392,Sun 11/1,Zambia,16480,15733,349
+4393,Sun 11/1,Zimbabwe,8374,7927,243
+4394,Sun 11/8,Afghanistan,42092,34458,1558
+4395,Sun 11/8,Albania,24206,12092,559
+4396,Sun 11/8,Algeria,62051,42037,2048
+4397,Sun 11/8,Andorra,5383,4248,75
+4398,Sun 11/8,Angola,12433,5899,307
+4399,Sun 11/8,Antigua and Barbuda,131,122,3
+4400,Sun 11/8,Argentina,1242182,1062911,33560
+4401,Sun 11/8,Armenia,106424,64179,1559
+4402,Sun 11/8,Australia,27665,25451,907
+4403,Sun 11/8,Austria,153153,91719,1411
+4404,Sun 11/8,Azerbaijan,65411,48908,840
+4405,Sun 11/8,Bahamas,6947,4942,152
+4406,Sun 11/8,Bahrain,83456,81000,329
+4407,Sun 11/8,Bangladesh,420238,338145,6067
+4408,Sun 11/8,Barbados,242,228,7
+4409,Sun 11/8,Belarus,106279,90998,1007
+4410,Sun 11/8,Belgium,500789,29651,13055
+4411,Sun 11/8,Belize,4176,2364,70
+4412,Sun 11/8,Benin,2745,2466,43
+4413,Sun 11/8,Bhutan,359,338,0
+4414,Sun 11/8,Bolivia,142475,114466,8795
+4415,Sun 11/8,Bosnia and Herzegovina,62423,30939,1510
+4416,Sun 11/8,Botswana,7835,5534,27
+4417,Sun 11/8,Brazil,5664115,5147172,162397
+4418,Sun 11/8,Brunei,148,144,3
+4419,Sun 11/8,Bulgaria,75160,24408,1665
+4420,Sun 11/8,Burkina Faso,2569,2381,67
+4421,Sun 11/8,Burma,61377,45756,1420
+4422,Sun 11/8,Burundi,612,549,1
+4423,Sun 11/8,Cabo Verde,9369,8465,100
+4424,Sun 11/8,Cambodia,297,288,0
+4425,Sun 11/8,Cameroon,22421,21510,433
+4426,Sun 11/8,Canada,267163,218279,10575
+4427,Sun 11/8,Central African Republic,4879,1924,62
+4428,Sun 11/8,Chad,1547,1382,99
+4429,Sun 11/8,Chile,521558,497411,14543
+4430,Sun 11/8,China,91665,86369,4741
+4431,Sun 11/8,Colombia,1143887,1038082,32791
+4432,Sun 11/8,Comoros,563,532,7
+4433,Sun 11/8,Congo (Brazzaville),5379,3887,92
+4434,Sun 11/8,Congo (Kinshasa),11591,10838,316
+4435,Sun 11/8,Costa Rica,116363,71119,1464
+4436,Sun 11/8,Cote d'Ivoire,20832,20508,126
+4437,Sun 11/8,Croatia,67247,50775,794
+4438,Sun 11/8,Cuba,7297,6680,130
+4439,Sun 11/8,Cyprus,5987,1882,28
+4440,Sun 11/8,Czechia,414828,243129,4858
+4441,Sun 11/8,Denmark,55635,40815,743
+4442,Sun 11/8,Diamond Princess,712,659,13
+4443,Sun 11/8,Djibouti,5608,5486,61
+4444,Sun 11/8,Dominica,63,35,0
+4445,Sun 11/8,Dominican Republic,130182,108021,2265
+4446,Sun 11/8,Ecuador,174907,154956,12830
+4447,Sun 11/8,Egypt,109201,100342,6368
+4448,Sun 11/8,El Salvador,35145,31172,1010
+4449,Sun 11/8,Equatorial Guinea,5092,4968,85
+4450,Sun 11/8,Eritrea,491,438,0
+4451,Sun 11/8,Estonia,6125,4193,75
+4452,Sun 11/8,Eswatini,6003,5724,117
+4453,Sun 11/8,Ethiopia,99675,59766,1523
+4454,Sun 11/8,Fiji,34,31,2
+4455,Sun 11/8,Finland,17797,12700,362
+4456,Sun 11/8,France,1835187,134095,40490
+4457,Sun 11/8,Gabon,9022,8878,55
+4458,Sun 11/8,Gambia,3684,3533,121
+4459,Sun 11/8,Georgia,57753,42572,475
+4460,Sun 11/8,Germany,682624,421151,11372
+4461,Sun 11/8,Ghana,49102,47726,320
+4462,Sun 11/8,Greece,56698,23074,784
+4463,Sun 11/8,Grenada,32,27,0
+4464,Sun 11/8,Guatemala,111262,101135,3821
+4465,Sun 11/8,Guinea,12414,10817,74
+4466,Sun 11/8,Guinea-Bissau,2414,1862,42
+4467,Sun 11/8,Guyana,4514,3526,134
+4468,Sun 11/8,Haiti,9127,7618,232
+4469,Sun 11/8,Holy See,27,15,0
+4470,Sun 11/8,Honduras,100041,42815,2745
+4471,Sun 11/8,Hungary,109616,25070,2438
+4472,Sun 11/8,Iceland,5078,4423,20
+4473,Sun 11/8,India,8553657,7917373,126611
+4474,Sun 11/8,Indonesia,437716,368298,14614
+4475,Sun 11/8,Iran,682486,520329,38291
+4476,Sun 11/8,Iraq,498549,428928,11327
+4477,Sun 11/8,Ireland,65394,23364,1947
+4478,Sun 11/8,Israel,319241,308563,2674
+4479,Sun 11/8,Italy,935104,335074,41394
+4480,Sun 11/8,Jamaica,9506,4934,221
+4481,Sun 11/8,Japan,108394,96430,1821
+4482,Sun 11/8,Jordan,109321,8808,1233
+4483,Sun 11/8,Kazakhstan,116772,107843,1857
+4484,Sun 11/8,Kenya,62488,41931,1111
+4485,Sun 11/8,"Korea, South",27553,25029,480
+4486,Sun 11/8,Kosovo,22934,15981,732
+4487,Sun 11/8,Kuwait,131743,122576,811
+4488,Sun 11/8,Kyrgyzstan,62819,53952,1177
+4489,Sun 11/8,Laos,24,23,0
+4490,Sun 11/8,Latvia,8095,1466,99
+4491,Sun 11/8,Lebanon,94236,46602,723
+4492,Sun 11/8,Lesotho,1967,1024,44
+4493,Sun 11/8,Liberia,1442,1310,82
+4494,Sun 11/8,Libya,68117,40119,929
+4495,Sun 11/8,Liechtenstein,788,481,3
+4496,Sun 11/8,Lithuania,24699,5700,207
+4497,Sun 11/8,Luxembourg,21806,12094,180
+4498,Sun 11/8,MS Zaandam,9,0,2
+4499,Sun 11/8,Madagascar,17223,16516,249
+4500,Sun 11/8,Malawi,5951,5348,184
+4501,Sun 11/8,Malaysia,40209,28234,286
+4502,Sun 11/8,Maldives,11986,11092,39
+4503,Sun 11/8,Mali,3706,2828,137
+4504,Sun 11/8,Malta,7141,5103,76
+4505,Sun 11/8,Marshall Islands,1,0,0
+4506,Sun 11/8,Mauritania,7820,7479,165
+4507,Sun 11/8,Mauritius,453,416,10
+4508,Sun 11/8,Mexico,967825,824355,95027
+4509,Sun 11/8,Moldova,82346,62508,1893
+4510,Sun 11/8,Monaco,486,345,2
+4511,Sun 11/8,Mongolia,362,317,0
+4512,Sun 11/8,Montenegro,22805,15893,337
+4513,Sun 11/8,Morocco,256781,209801,4272
+4514,Sun 11/8,Mozambique,13768,11605,99
+4515,Sun 11/8,Namibia,13211,11605,134
+4516,Sun 11/8,Nepal,194453,157926,1108
+4517,Sun 11/8,Netherlands,416806,6137,8072
+4518,Sun 11/8,New Zealand,1986,1910,25
+4519,Sun 11/8,Nicaragua,5591,4225,157
+4520,Sun 11/8,Niger,1243,1144,69
+4521,Sun 11/8,Nigeria,64090,59910,1154
+4522,Sun 11/8,North Macedonia,39760,23035,1136
+4523,Sun 11/8,Norway,24732,11863,285
+4524,Sun 11/8,Oman,118140,108681,1301
+4525,Sun 11/8,Pakistan,344839,318881,6977
+4526,Sun 11/8,Panama,139527,117770,2798
+4527,Sun 11/8,Papua New Guinea,599,585,7
+4528,Sun 11/8,Paraguay,67589,47822,1490
+4529,Sun 11/8,Peru,920010,846215,34821
+4530,Sun 11/8,Philippines,396395,361638,7539
+4531,Sun 11/8,Poland,546425,209363,7872
+4532,Sun 11/8,Portugal,179324,99781,2896
+4533,Sun 11/8,Qatar,134203,131276,232
+4534,Sun 11/8,Romania,303751,204679,7879
+4535,Sun 11/8,Russia,1760420,1315928,30292
+4536,Sun 11/8,Rwanda,5222,4960,36
+4537,Sun 11/8,Saint Kitts and Nevis,19,19,0
+4538,Sun 11/8,Saint Lucia,131,32,0
+4539,Sun 11/8,Saint Vincent and the Grenadines,76,72,0
+4540,Sun 11/8,San Marino,1043,754,42
+4541,Sun 11/8,Sao Tome and Principe,962,912,16
+4542,Sun 11/8,Saudi Arabia,350592,337386,5540
+4543,Sun 11/8,Senegal,15708,15336,326
+4544,Sun 11/8,Serbia,62747,0,890
+4545,Sun 11/8,Seychelles,158,155,0
+4546,Sun 11/8,Sierra Leone,2381,1812,74
+4547,Sun 11/8,Singapore,58056,57975,28
+4548,Sun 11/8,Slovakia,75495,19481,351
+4549,Sun 11/8,Slovenia,45161,22443,554
+4550,Sun 11/8,Solomon Islands,13,4,0
+4551,Sun 11/8,Somalia,4229,3247,107
+4552,Sun 11/8,South Africa,737278,679688,19809
+4553,Sun 11/8,South Sudan,2943,1290,59
+4554,Sun 11/8,Spain,1328832,150376,38833
+4555,Sun 11/8,Sri Lanka,13929,8285,35
+4556,Sun 11/8,Sudan,14090,9484,1115
+4557,Sun 11/8,Suriname,5239,5107,113
+4558,Sun 11/8,Sweden,146461,0,6022
+4559,Sun 11/8,Switzerland,211913,87300,2772
+4560,Sun 11/8,Syria,6215,2357,317
+4561,Sun 11/8,Taiwan*,577,524,7
+4562,Sun 11/8,Tajikistan,11336,10653,83
+4563,Sun 11/8,Tanzania,509,183,21
+4564,Sun 11/8,Thailand,3840,3661,60
+4565,Sun 11/8,Timor-Leste,30,29,0
+4566,Sun 11/8,Togo,2516,1732,57
+4567,Sun 11/8,Trinidad and Tobago,5849,5132,111
+4568,Sun 11/8,Tunisia,71119,48103,1873
+4569,Sun 11/8,Turkey,394255,338239,10887
+4570,Sun 11/8,US,10009510,3881491,238487
+4571,Sun 11/8,Uganda,14403,7771,132
+4572,Sun 11/8,Ukraine,474245,215357,8695
+4573,Sun 11/8,United Arab Emirates,142143,138291,514
+4574,Sun 11/8,United Kingdom,1195350,2983,49134
+4575,Sun 11/8,Uruguay,3514,2943,62
+4576,Sun 11/8,Uzbekistan,68730,65971,585
+4577,Sun 11/8,Vanuatu,0,0,0
+4578,Sun 11/8,Venezuela,94883,89755,826
+4579,Sun 11/8,Vietnam,1213,1070,35
+4580,Sun 11/8,West Bank and Gaza,58158,50407,515
+4581,Sun 11/8,Western Sahara,10,8,1
+4582,Sun 11/8,Yemen,2070,1375,602
+4583,Sun 11/8,Zambia,16954,15950,349
+4584,Sun 11/8,Zimbabwe,8531,8005,253
+4585,Sun 11/15,Afghanistan,43240,35092,1617
+4586,Sun 11/15,Albania,27830,12889,623
+4587,Sun 11/15,Algeria,67679,44633,2154
+4588,Sun 11/15,Andorra,5872,4747,76
+4589,Sun 11/15,Angola,13451,6444,322
+4590,Sun 11/15,Antigua and Barbuda,134,127,4
+4591,Sun 11/15,Argentina,1310491,1129102,35436
+4592,Sun 11/15,Armenia,117337,74984,1763
+4593,Sun 11/15,Australia,27749,25468,907
+4594,Sun 11/15,Austria,203956,125674,1829
+4595,Sun 11/15,Azerbaijan,75688,55150,967
+4596,Sun 11/15,Bahamas,7186,5323,156
+4597,Sun 11/15,Bahrain,84703,82469,334
+4598,Sun 11/15,Bangladesh,432333,349542,6194
+4599,Sun 11/15,Barbados,250,238,7
+4600,Sun 11/15,Belarus,114185,95843,1046
+4601,Sun 11/15,Belgium,535939,0,14421
+4602,Sun 11/15,Belize,4861,2598,90
+4603,Sun 11/15,Benin,2844,2515,43
+4604,Sun 11/15,Bhutan,375,355,0
+4605,Sun 11/15,Bolivia,143246,117137,8849
+4606,Sun 11/15,Bosnia and Herzegovina,71956,35606,1889
+4607,Sun 11/15,Botswana,8225,5559,27
+4608,Sun 11/15,Brazil,5863093,5279452,165798
+4609,Sun 11/15,Brunei,148,145,3
+4610,Sun 11/15,Bulgaria,98251,29375,2130
+4611,Sun 11/15,Burkina Faso,2641,2445,68
+4612,Sun 11/15,Burma,68994,52351,1577
+4613,Sun 11/15,Burundi,628,549,1
+4614,Sun 11/15,Cabo Verde,9822,9220,103
+4615,Sun 11/15,Cambodia,302,289,0
+4616,Sun 11/15,Cameroon,22692,21510,433
+4617,Sun 11/15,Canada,299422,240434,11001
+4618,Sun 11/15,Central African Republic,4900,1924,63
+4619,Sun 11/15,Chad,1597,1443,101
+4620,Sun 11/15,Chile,531273,506700,14819
+4621,Sun 11/15,China,91850,86572,4742
+4622,Sun 11/15,Colombia,1198746,1104956,34031
+4623,Sun 11/15,Comoros,579,549,7
+4624,Sun 11/15,Congo (Brazzaville),5515,3887,92
+4625,Sun 11/15,Congo (Kinshasa),11760,11086,319
+4626,Sun 11/15,Costa Rica,123223,75341,1546
+4627,Sun 11/15,Cote d'Ivoire,20976,20647,128
+4628,Sun 11/15,Croatia,84206,66231,1049
+4629,Sun 11/15,Cuba,7590,7060,131
+4630,Sun 11/15,Cyprus,7178,2021,39
+4631,Sun 11/15,Czechia,460116,327306,6208
+4632,Sun 11/15,Denmark,62652,48259,760
+4633,Sun 11/15,Diamond Princess,712,659,13
+4634,Sun 11/15,Djibouti,5649,5525,61
+4635,Sun 11/15,Dominica,68,41,0
+4636,Sun 11/15,Dominican Republic,133724,109981,2285
+4637,Sun 11/15,Ecuador,180295,160639,13008
+4638,Sun 11/15,Egypt,110767,101046,6453
+4639,Sun 11/15,El Salvador,36358,32721,1044
+4640,Sun 11/15,Equatorial Guinea,5104,4973,85
+4641,Sun 11/15,Eritrea,493,444,0
+4642,Sun 11/15,Estonia,7637,4741,81
+4643,Sun 11/15,Eswatini,6095,5779,119
+4644,Sun 11/15,Ethiopia,102720,63866,1569
+4645,Sun 11/15,Fiji,35,32,2
+4646,Sun 11/15,Finland,19315,14000,369
+4647,Sun 11/15,France,2031472,145326,44613
+4648,Sun 11/15,Gabon,9062,8939,58
+4649,Sun 11/15,Gambia,3702,3571,122
+4650,Sun 11/15,Georgia,79678,62061,703
+4651,Sun 11/15,Germany,802946,505714,12573
+4652,Sun 11/15,Ghana,50123,48328,322
+4653,Sun 11/15,Greece,74205,23074,1106
+4654,Sun 11/15,Grenada,32,27,0
+4655,Sun 11/15,Guatemala,114885,104438,3932
+4656,Sun 11/15,Guinea,12611,11151,75
+4657,Sun 11/15,Guinea-Bissau,2419,2255,43
+4658,Sun 11/15,Guyana,4823,3777,139
+4659,Sun 11/15,Haiti,9168,7701,232
+4660,Sun 11/15,Holy See,27,15,0
+4661,Sun 11/15,Honduras,103102,44778,2823
+4662,Sun 11/15,Hungary,140961,31599,3097
+4663,Sun 11/15,Iceland,5189,4813,25
+4664,Sun 11/15,India,8845127,8249579,130070
+4665,Sun 11/15,Indonesia,467113,391991,15211
+4666,Sun 11/15,Iran,762068,558818,41493
+4667,Sun 11/15,Iraq,519152,447039,11670
+4668,Sun 11/15,Ireland,67903,23364,1979
+4669,Sun 11/15,Israel,323741,313380,2732
+4670,Sun 11/15,Italy,1178529,420810,45229
+4671,Sun 11/15,Jamaica,9884,5248,231
+4672,Sun 11/15,Japan,118611,91954,1874
+4673,Sun 11/15,Jordan,143678,10067,1772
+4674,Sun 11/15,Kazakhstan,121051,109944,1899
+4675,Sun 11/15,Kenya,70245,45766,1269
+4676,Sun 11/15,"Korea, South",28769,25759,494
+4677,Sun 11/15,Kosovo,29117,17305,822
+4678,Sun 11/15,Kuwait,136840,127585,838
+4679,Sun 11/15,Kyrgyzstan,66983,57760,1203
+4680,Sun 11/15,Laos,24,23,0
+4681,Sun 11/15,Latvia,10547,1515,123
+4682,Sun 11/15,Lebanon,105430,60416,817
+4683,Sun 11/15,Lesotho,2041,1056,44
+4684,Sun 11/15,Liberia,1507,1314,82
+4685,Sun 11/15,Libya,73602,44133,1017
+4686,Sun 11/15,Liechtenstein,985,682,5
+4687,Sun 11/15,Lithuania,34758,7753,277
+4688,Sun 11/15,Luxembourg,25931,15428,219
+4689,Sun 11/15,MS Zaandam,9,0,2
+4690,Sun 11/15,Madagascar,17310,16592,250
+4691,Sun 11/15,Malawi,5965,5399,185
+4692,Sun 11/15,Malaysia,47417,34785,309
+4693,Sun 11/15,Maldives,12204,11289,43
+4694,Sun 11/15,Mali,3900,2949,141
+4695,Sun 11/15,Malta,8034,5765,97
+4696,Sun 11/15,Marshall Islands,1,1,0
+4697,Sun 11/15,Mauritania,7952,7524,165
+4698,Sun 11/15,Mauritius,478,431,10
+4699,Sun 11/15,Mexico,1006522,750190,98542
+4700,Sun 11/15,Moldova,89279,70812,2019
+4701,Sun 11/15,Monaco,548,450,2
+4702,Sun 11/15,Mongolia,431,328,0
+4703,Sun 11/15,Montenegro,27177,17387,391
+4704,Sun 11/15,Morocco,293177,238598,4779
+4705,Sun 11/15,Mozambique,14448,12505,113
+4706,Sun 11/15,Namibia,13508,12680,138
+4707,Sun 11/15,Nepal,209776,173430,1221
+4708,Sun 11/15,Netherlands,454961,6448,8559
+4709,Sun 11/15,New Zealand,2001,1918,25
+4710,Sun 11/15,Nicaragua,5661,4225,158
+4711,Sun 11/15,Niger,1307,1148,70
+4712,Sun 11/15,Nigeria,65148,61073,1163
+4713,Sun 11/15,North Macedonia,47050,27364,1305
+4714,Sun 11/15,Norway,28434,11863,294
+4715,Sun 11/15,Oman,120389,111096,1338
+4716,Sun 11/15,Pakistan,359032,323824,7160
+4717,Sun 11/15,Panama,146653,125370,2873
+4718,Sun 11/15,Papua New Guinea,602,586,7
+4719,Sun 11/15,Paraguay,71574,51375,1587
+4720,Sun 11/15,Peru,934899,858388,35177
+4721,Sun 11/15,Philippines,407838,374329,7832
+4722,Sun 11/15,Poland,712972,294783,10348
+4723,Sun 11/15,Portugal,217301,125066,3381
+4724,Sun 11/15,Qatar,135785,132784,234
+4725,Sun 11/15,Romania,360281,243832,8926
+4726,Sun 11/15,Russia,1910149,1429565,32885
+4727,Sun 11/15,Rwanda,5455,4995,45
+4728,Sun 11/15,Saint Kitts and Nevis,19,19,0
+4729,Sun 11/15,Saint Lucia,162,46,2
+4730,Sun 11/15,Saint Vincent and the Grenadines,78,77,0
+4731,Sun 11/15,San Marino,1253,888,42
+4732,Sun 11/15,Sao Tome and Principe,965,917,16
+4733,Sun 11/15,Saudi Arabia,353255,340304,5657
+4734,Sun 11/15,Senegal,15793,15416,328
+4735,Sun 11/15,Serbia,84568,0,1009
+4736,Sun 11/15,Seychelles,160,157,0
+4737,Sun 11/15,Sierra Leone,2391,1820,74
+4738,Sun 11/15,Singapore,58119,58029,28
+4739,Sun 11/15,Slovakia,86767,30519,510
+4740,Sun 11/15,Slovenia,55042,34864,797
+4741,Sun 11/15,Solomon Islands,16,5,0
+4742,Sun 11/15,Somalia,4301,3330,107
+4743,Sun 11/15,South Africa,751024,693467,20241
+4744,Sun 11/15,South Sudan,3003,1290,59
+4745,Sun 11/15,Spain,1458591,150376,40769
+4746,Sun 11/15,Sri Lanka,17287,11495,58
+4747,Sun 11/15,Sudan,14626,9571,1116
+4748,Sun 11/15,Suriname,5274,5148,114
+4749,Sun 11/15,Sweden,177355,0,6164
+4750,Sun 11/15,Switzerland,257135,141000,3369
+4751,Sun 11/15,Syria,6684,2714,345
+4752,Sun 11/15,Taiwan*,602,536,7
+4753,Sun 11/15,Tajikistan,11610,10973,85
+4754,Sun 11/15,Tanzania,509,183,21
+4755,Sun 11/15,Thailand,3875,3721,60
+4756,Sun 11/15,Timor-Leste,30,30,0
+4757,Sun 11/15,Togo,2675,1920,61
+4758,Sun 11/15,Trinidad and Tobago,6080,5402,112
+4759,Sun 11/15,Tunisia,80404,54362,2345
+4760,Sun 11/15,Turkey,414278,353663,11507
+4761,Sun 11/15,US,11050860,4174884,246207
+4762,Sun 11/15,Uganda,16020,8038,145
+4763,Sun 11/15,Ukraine,551533,251864,9904
+4764,Sun 11/15,United Arab Emirates,150345,143252,530
+4765,Sun 11/15,United Kingdom,1372884,3121,52026
+4766,Sun 11/15,Uruguay,4030,3233,65
+4767,Sun 11/15,Uzbekistan,70243,67526,598
+4768,Sun 11/15,Vanuatu,1,0,0
+4769,Sun 11/15,Venezuela,97352,92373,851
+4770,Sun 11/15,Vietnam,1281,1103,35
+4771,Sun 11/15,West Bank and Gaza,63031,54346,565
+4772,Sun 11/15,Western Sahara,10,8,1
+4773,Sun 11/15,Yemen,2072,1394,605
+4774,Sun 11/15,Zambia,17123,16137,353
+4775,Sun 11/15,Zimbabwe,8829,8096,257
+4776,Sun 11/22,Afghanistan,44706,35934,1687
+4777,Sun 11/22,Albania,32761,15842,699
+4778,Sun 11/22,Algeria,74862,48794,2272
+4779,Sun 11/22,Andorra,6256,5358,76
+4780,Sun 11/22,Angola,14493,7346,337
+4781,Sun 11/22,Antigua and Barbuda,139,128,4
+4782,Sun 11/22,Argentina,1370366,1195492,37002
+4783,Sun 11/22,Armenia,126224,94090,1952
+4784,Sun 11/22,Australia,27834,25527,907
+4785,Sun 11/22,Austria,247188,169260,2388
+4786,Sun 11/22,Azerbaijan,93094,63841,1131
+4787,Sun 11/22,Bahamas,7413,5652,163
+4788,Sun 11/22,Bahrain,85705,83829,338
+4789,Sun 11/22,Bangladesh,447341,362428,6388
+4790,Sun 11/22,Barbados,259,241,7
+4791,Sun 11/22,Belarus,123999,103848,1096
+4792,Sun 11/22,Belgium,558779,0,15618
+4793,Sun 11/22,Belize,5183,2842,116
+4794,Sun 11/22,Benin,2916,2579,43
+4795,Sun 11/22,Bhutan,382,360,0
+4796,Sun 11/22,Bolivia,143978,119338,8907
+4797,Sun 11/22,Bosnia and Herzegovina,80006,44416,2276
+4798,Sun 11/22,Botswana,9594,7296,31
+4799,Sun 11/22,Brazil,6071401,5457973,169183
+4800,Sun 11/22,Brunei,148,145,3
+4801,Sun 11/22,Bulgaria,121820,36524,2880
+4802,Sun 11/22,Burkina Faso,2735,2532,68
+4803,Sun 11/22,Burma,79246,58758,1739
+4804,Sun 11/22,Burundi,662,575,1
+4805,Sun 11/22,Cabo Verde,10276,9730,104
+4806,Sun 11/22,Cambodia,306,295,0
+4807,Sun 11/22,Cameroon,23528,22177,435
+4808,Sun 11/22,Canada,333808,269137,11502
+4809,Sun 11/22,Central African Republic,4911,1924,63
+4810,Sun 11/22,Chad,1642,1469,101
+4811,Sun 11/22,Chile,540640,516121,15069
+4812,Sun 11/22,China,92116,86792,4742
+4813,Sun 11/22,Colombia,1248417,1150932,35287
+4814,Sun 11/22,Comoros,596,572,7
+4815,Sun 11/22,Congo (Brazzaville),5632,3887,93
+4816,Sun 11/22,Congo (Kinshasa),12180,11300,327
+4817,Sun 11/22,Costa Rica,129418,79372,1608
+4818,Sun 11/22,Cote d'Ivoire,21138,20798,131
+4819,Sun 11/22,Croatia,103718,82380,1353
+4820,Sun 11/22,Cuba,7846,7334,132
+4821,Sun 11/22,Cyprus,8643,2055,44
+4822,Sun 11/22,Czechia,492263,398101,7196
+4823,Sun 11/22,Denmark,71003,55789,784
+4824,Sun 11/22,Diamond Princess,712,659,13
+4825,Sun 11/22,Djibouti,5668,5555,61
+4826,Sun 11/22,Dominica,72,55,0
+4827,Sun 11/22,Dominican Republic,138410,112552,2310
+4828,Sun 11/22,Ecuador,185643,164009,13201
+4829,Sun 11/22,Egypt,113027,101881,6548
+4830,Sun 11/22,El Salvador,37562,34297,1075
+4831,Sun 11/22,Equatorial Guinea,5130,4975,85
+4832,Sun 11/22,Eritrea,551,473,0
+4833,Sun 11/22,Estonia,9724,5699,88
+4834,Sun 11/22,Eswatini,6219,5858,120
+4835,Sun 11/22,Ethiopia,105785,65691,1647
+4836,Sun 11/22,Fiji,35,33,2
+4837,Sun 11/22,Finland,21639,15300,375
+4838,Sun 11/22,France,2191180,157259,48807
+4839,Sun 11/22,Gabon,9131,8976,59
+4840,Sun 11/22,Gambia,3726,3582,123
+4841,Sun 11/22,Georgia,104732,85639,976
+4842,Sun 11/22,Germany,932367,611627,14159
+4843,Sun 11/22,Ghana,50874,49405,323
+4844,Sun 11/22,Greece,91619,23074,1630
+4845,Sun 11/22,Grenada,41,30,0
+4846,Sun 11/22,Guatemala,118629,107413,4076
+4847,Sun 11/22,Guinea,12826,11838,75
+4848,Sun 11/22,Guinea-Bissau,2421,2286,43
+4849,Sun 11/22,Guyana,5133,4019,143
+4850,Sun 11/22,Haiti,9214,7854,232
+4851,Sun 11/22,Holy See,27,15,0
+4852,Sun 11/22,Honduras,104435,46208,2857
+4853,Sun 11/22,Hungary,174618,42915,3800
+4854,Sun 11/22,Iceland,5277,5046,26
+4855,Sun 11/22,India,9139865,8562641,133738
+4856,Sun 11/22,Indonesia,497668,418188,15884
+4857,Sun 11/22,Iran,854361,603445,44802
+4858,Sun 11/22,Iraq,535321,465452,11958
+4859,Sun 11/22,Ireland,70461,23364,2023
+4860,Sun 11/22,Israel,328918,317887,2799
+4861,Sun 11/22,Italy,1408868,553098,49823
+4862,Sun 11/22,Jamaica,10284,5505,238
+4863,Sun 11/22,Japan,133034,110273,1943
+4864,Sun 11/22,Jordan,183429,114018,2236
+4865,Sun 11/22,Kazakhstan,126182,112806,1945
+4866,Sun 11/22,Kenya,77372,51507,1380
+4867,Sun 11/22,"Korea, South",31004,26539,509
+4868,Sun 11/22,Kosovo,34295,21043,914
+4869,Sun 11/22,Kuwait,140056,132178,866
+4870,Sun 11/22,Kyrgyzstan,69581,60811,1231
+4871,Sun 11/22,Laos,25,23,0
+4872,Sun 11/22,Latvia,13120,1635,153
+4873,Sun 11/22,Lebanon,116476,67667,900
+4874,Sun 11/22,Lesotho,2086,1276,44
+4875,Sun 11/22,Liberia,1551,1331,82
+4876,Sun 11/22,Libya,77823,48914,1089
+4877,Sun 11/22,Liechtenstein,1112,883,8
+4878,Sun 11/22,Lithuania,47047,10945,386
+4879,Sun 11/22,Luxembourg,29762,20014,260
+4880,Sun 11/22,MS Zaandam,9,0,2
+4881,Sun 11/22,Madagascar,17341,16657,251
+4882,Sun 11/22,Malawi,6003,5441,185
+4883,Sun 11/22,Malaysia,54775,41597,335
+4884,Sun 11/22,Maldives,12608,11599,46
+4885,Sun 11/22,Mali,4255,3024,145
+4886,Sun 11/22,Malta,8924,6654,111
+4887,Sun 11/22,Marshall Islands,4,1,0
+4888,Sun 11/22,Mauritania,8128,7591,169
+4889,Sun 11/22,Mauritius,494,433,10
+4890,Sun 11/22,Mexico,1041875,779104,101676
+4891,Sun 11/22,Moldova,97941,79556,2149
+4892,Sun 11/22,Monaco,582,512,3
+4893,Sun 11/22,Mongolia,640,340,0
+4894,Sun 11/22,Montenegro,31062,19491,439
+4895,Sun 11/22,Morocco,324941,270457,5316
+4896,Sun 11/22,Mozambique,15037,13151,124
+4897,Sun 11/22,Namibia,13865,13225,145
+4898,Sun 11/22,Nepal,220308,199024,1321
+4899,Sun 11/22,Netherlands,492293,6642,8967
+4900,Sun 11/22,New Zealand,2030,1953,25
+4901,Sun 11/22,Nicaragua,5725,4225,159
+4902,Sun 11/22,Niger,1368,1166,70
+4903,Sun 11/22,Nigeria,66383,62076,1167
+4904,Sun 11/22,North Macedonia,54743,32366,1511
+4905,Sun 11/22,Norway,32765,17998,306
+4906,Sun 11/22,Oman,122081,113269,1380
+4907,Sun 11/22,Pakistan,376929,330885,7696
+4908,Sun 11/22,Panama,154783,135962,2957
+4909,Sun 11/22,Papua New Guinea,604,586,7
+4910,Sun 11/22,Paraguay,76476,54491,1657
+4911,Sun 11/22,Peru,948081,879439,35549
+4912,Sun 11/22,Philippines,418818,386486,8123
+4913,Sun 11/22,Poland,861331,423971,13618
+4914,Sun 11/22,Portugal,260758,172919,3897
+4915,Sun 11/22,Qatar,137229,134282,236
+4916,Sun 11/22,Romania,418645,295148,10047
+4917,Sun 11/22,Russia,2071858,1582768,35838
+4918,Sun 11/22,Rwanda,5665,5164,47
+4919,Sun 11/22,Saint Kitts and Nevis,20,19,0
+4920,Sun 11/22,Saint Lucia,220,60,2
+4921,Sun 11/22,Saint Vincent and the Grenadines,84,78,0
+4922,Sun 11/22,San Marino,1395,1082,43
+4923,Sun 11/22,Sao Tome and Principe,979,923,17
+4924,Sun 11/22,Saudi Arabia,355258,343371,5780
+4925,Sun 11/22,Senegal,15882,15488,330
+4926,Sun 11/22,Serbia,121120,0,1199
+4927,Sun 11/22,Seychelles,163,159,0
+4928,Sun 11/22,Sierra Leone,2405,1828,74
+4929,Sun 11/22,Singapore,58160,58067,28
+4930,Sun 11/22,Slovakia,96241,45883,671
+4931,Sun 11/22,Slovenia,65308,44137,1052
+4932,Sun 11/22,Solomon Islands,16,5,0
+4933,Sun 11/22,Somalia,4445,3412,113
+4934,Sun 11/22,South Africa,767679,710099,20903
+4935,Sun 11/22,South Sudan,3047,1290,60
+4936,Sun 11/22,Spain,1556730,150376,42619
+4937,Sun 11/22,Sri Lanka,20171,14069,87
+4938,Sun 11/22,Sudan,16052,9737,1197
+4939,Sun 11/22,Suriname,5296,5168,116
+4940,Sun 11/22,Sweden,208295,0,6406
+4941,Sun 11/22,Switzerland,290601,180700,4056
+4942,Sun 11/22,Syria,7225,3097,376
+4943,Sun 11/22,Taiwan*,617,548,7
+4944,Sun 11/22,Tajikistan,11894,11271,86
+4945,Sun 11/22,Tanzania,509,183,21
+4946,Sun 11/22,Thailand,3920,3766,60
+4947,Sun 11/22,Timor-Leste,30,30,0
+4948,Sun 11/22,Togo,2843,2248,64
+4949,Sun 11/22,Trinidad and Tobago,6450,5610,115
+4950,Sun 11/22,Tunisia,88711,62249,2821
+4951,Sun 11/22,Turkey,446822,374637,12358
+4952,Sun 11/22,US,12246849,4526513,256782
+4953,Sun 11/22,Uganda,17968,8611,172
+4954,Sun 11/22,Ukraine,642215,299592,11292
+4955,Sun 11/22,United Arab Emirates,158990,148871,552
+4956,Sun 11/22,United Kingdom,1515802,3322,55120
+4957,Sun 11/22,Uruguay,4699,3679,71
+4958,Sun 11/22,Uzbekistan,71617,68827,603
+4959,Sun 11/22,Vanuatu,1,0,0
+4960,Sun 11/22,Venezuela,99835,94355,871
+4961,Sun 11/22,Vietnam,1307,1142,35
+4962,Sun 11/22,West Bank and Gaza,71644,59021,636
+4963,Sun 11/22,Western Sahara,10,8,1
+4964,Sun 11/22,Yemen,2099,1448,608
+4965,Sun 11/22,Zambia,17424,16701,357
+4966,Sun 11/22,Zimbabwe,9220,8250,268

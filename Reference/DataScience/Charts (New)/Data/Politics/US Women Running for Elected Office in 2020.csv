@@ -1,0 +1,711 @@
+id,State,Office,Candidate name and party,General seat,Primary date
+1,AK,Representative,Alyse E. Galvin (D),Challenger,8/18/2020
+2,AL,Public Service Commission,Twinkle Cavanaugh (R),Incumbent,WON
+3,AL,Public Service Commission,Robin Litaker (R),Challenger in Primary,Lost
+4,AL,Public Service Commission,Laura Casey (D),Challenger,WON
+5,AL,Senate,Ruth Page Nelson (R),Challenger,Lost
+6,AL,Representative,Kiani Gardner (D),Open Seat,Runoff
+7,AL,Representative,Jessica Taylor (R),Open Seat,Lost
+8,AL,Representative,Terri Hasdorff (R),Open Seat,Lost
+9,AL,Representative,Phyllis Harvey-Hall (D),Open Seat,WON
+10,AL,Representative,Adia McClellan Winfrey (D),Challenger,WON
+11,AL,Representative,Terri Sewell (D),Incumbent,WON
+12,AR,Representative,Joyce Elliott (D),Challenger,WON
+13,AR,Representative,Celeste Williams (D),Challenger,WON
+14,AZ,Corporation Commission,Lea Marquez Peterson (R),Incumbent,8/4/2020
+15,AZ,Corporation Commission,Kim Owens (R),Open Seat,8/4/2020
+16,AZ,Corporation Commission,Anna Tovar (D),Open Seat,8/4/2020
+17,AZ,Corporation Commission,Shea Stanfield (D),Open Seat,8/4/2020
+18,AZ,Senate,Martha McSally (R),Incumbent,8/4/2020
+19,AZ,Representative,Eva Putzova (D),Challenger in Primary,8/4/2020
+20,AZ,Representative,Tiffany Shedd (R),Challenger,8/4/2020
+21,AZ,Representative,Ann Kirkpartrick (D),Incumbent,8/4/2020
+22,AZ,Representative,Delina DiSanto (D),Challenger,8/4/2020
+23,AZ,Representative,Anne Marie Ward (R),Challenger in Primary,8/4/2020
+24,AZ,Representative,Joan Greene (D),Challenger,8/25/2020
+25,AZ,Representative,Hiral Vyas Tipirneni (D),Challenger,8/25/2020
+26,AZ,Representative,Stephanie Rimmer (D),Challenger,8/25/2020
+27,AZ,Representative,Anita Malik (D),Challenger,8/25/2020
+28,AZ,Representative,Debbie Lesko (R),Incumbent,8/25/2020
+29,CA,Representative,Audrey Denney (D),Challenger,WON
+30,CA,Representative,Rachel Moniz (D),Challenger in Primary,Lost
+31,CA,Representative,Tamika Hamilton (R),Challenger,WON
+32,CA,Representative,Brynne Kennedy (D),Challenger,WON
+33,CA,Representative,Julianne Benzel (R),Challenger in Primary,Lost
+34,CA,Representative,Doris Matsui (D),Incumbent,WON
+35,CA,Representative,Chris Bish (R),Challenger,WON
+36,CA,Representative,Chris Bubser (D),Open Seat,WON
+37,CA,Representative,Marla Sousa Livengood (R),Challenger,Lost
+38,CA,Representative,Nisha Sharma (R),Challenger,WON
+39,CA,Representative,Nancy Pelosi (D),Incumbent,WON
+40,CA,Representative,DeAnna Lorraine (R),Challenger,Lost
+41,CA,Representative,Agatha Bacelar (D),Challenger in Primary,Lost
+42,CA,Representative,Barbara Lee (D),Incumbent,WON
+43,CA,Representative,Jackie Speier (D),Incumbent,WON
+44,CA,Representative,Sam Campbell (D),Challenger in Primary,Lost
+45,CA,Representative,Alison Hayden (R),Challenger,WON
+46,CA,Representative,Kim Williams (D),Challenger in Primary,Lost
+47,CA,Representative,Esmeralda Soria (D),Challenger in Primary,Lost
+48,CA,Representative,Ann Eshoo (D),Incumbent,WON
+49,CA,Representative,Zoe Lofgren (D),Incumbent,WON
+50,CA,Representative,Kim Mangone (D),Challenger,WON
+51,CA,Representative,Christy Smith (D),Open Seat,WON
+52,CA,Representative,Julia Brownley (D),Incumbent,WON
+53,CA,Representative,Ronda Kennedy (R),Challenger,WON
+54,CA,Representative,Judy Chu (D),Incumbent,WON
+55,CA,Representative,Beatrice Cardenas (R),Challenger,Lost
+56,CA,Representative,Maebe A. Girl (D),Challenger in Primary,Lost
+57,CA,Representative,Angelica Duenas (D),Challenger in Primary,WON
+58,CA,Representative,Agnes Gibboney (R),Challenger,WON
+59,CA,Representative,Grace Napolitano (D),Incumbent,WON
+60,CA,Representative,Liz Barris (D),Challenger in Primary,Lost
+61,CA,Representative,Sarah Sun Liew (R),Challenger,Lost
+62,CA,Representative,Frances Yasmeen Motiwalla (D),Challenger in Primary,Lost
+63,CA,Representative,Keanakay Scott (D),Challenger in Primary,Lost
+64,CA,Representative,Joanne L. Wright (R),Challenger,Lost
+65,CA,Representative,Norma Torres (D),Incumbent,WON
+66,CA,Representative,Erin Cruz (R),Challenger,WON
+67,CA,Representative,Patrice Kimbler (R),Challenger,Lost
+68,CA,Representative,Karen Bass (D),Incumbent,WON
+69,CA,Representative,Linda Sanchez (D),Incumbent,WON
+70,CA,Representative,Young Kim (R),Challenger,WON
+71,CA,Representative,Lucille Roybal-Allard (D),Incumbent,WON
+72,CA,Representative,Grace Williams (D),Challenger in Primary,Lost
+73,CA,Representative,Aja Smith (R),Challenger,WON
+74,CA,Representative,Regina Marston (D),Challenger,Lost
+75,CA,Representative,Maxine Waters (D),Incumbent,WON
+76,CA,Representative,Nanette Barragan (D),Incumbent,WON
+77,CA,Representative,Analilia Joya (D),Challenger,WON
+78,CA,Representative,Katherine Porter (D),Incumbent,WON
+79,CA,Representative,Peggy Huang (R),Challenger,Lost
+80,CA,Representative,Lisa Sparks (R),Challenger,Lost
+81,CA,Representative,Rhonda Furin (R),Challenger,Lost
+82,CA,Representative,Amy Phan West (R),Challenger,Lost
+83,CA,Representative,Michelle Steel (R),Challenger,WON
+84,CA,Representative,Marisa Calderon (D),Open Seat,Lost
+85,CA,Representative,Nancy Casady (D),Challenger in Primary,Lost
+86,CA,Representative,Annette Meza (D),Open Seat,Lost
+87,CA,Representative,Famela Ramos (R),Open Seat,Lost
+88,CA,Representative,Georgette Gomez (D),Open Seat,WON
+89,CA,Representative,Sara Jacobs (D),Open Seat,WON
+90,CA,Representative,Janessa Goldbeck (D),Open Seat,Lost
+91,CA,Representative,Suzette Santori (D),Open Seat,Lost
+92,CO,Representative,Lauren Boebert (R),Challenger in Primary,6/30/2020
+93,CO,Representative,Jillian Freeland (D),Challenger,6/30/2020
+94,CT,Representative,Mary M. Fay (R),Challenger,8/11/2020
+95,CT,Representative,Rosa DeLauro (D),Incumbent,8/11/2020
+96,CT,Representative,Jahana Hayes (D),Incumbent,8/11/2020
+97,DC,Delegate,Eleanor Holmes Norton (D),Incumbent,WON
+98,DE,Lieutenant Governor,Bethany Hall-Long (D),Incumbent,9/15/2020
+99,DE,Senate,Jess Scarane (D),Challenger in Primary,9/15/2020
+100,DE,Senate,Lauren Witzke (R),Challenger,9/15/2020
+101,DE,Representative,Lisa Blunt Rochester (D),Incumbent,9/15/2020
+102,FL,Representative,Amy Pope Wells (R),Open Seat,8/18/2020
+103,FL,Representative,Kat Cammack (R),Open Seat,8/18/2020
+104,FL,Representative,Donna Deegan (D),Challenger,8/18/2020
+105,FL,Representative,Stephanie Murphy (D),Incumbent,8/18/2020
+106,FL,Representative,Val B. Demings (D),Incumbent,8/18/2020
+107,FL,Representative,Vennia Francois (R),Challenger,8/18/2020
+108,FL,Representative,Dana Cottrell (D),Challenger,8/18/2020
+109,FL,Representative,Kimberly Walker (D),Challenger,8/18/2020
+110,FL,Representative,Amanda Makki (R),Challenger,8/18/2020
+111,FL,Representative,Sheila Griffin (R),Challenger,8/18/2020
+112,FL,Representative,Anna Paulina Luna (R),Challenger,8/18/2020
+113,FL,Representative,Sharon Barry Newby (R),Challenger,8/18/2020
+114,FL,Representative,Kathy A. Castor (D),Incumbent,8/18/2020
+115,FL,Representative,Christine Quinn (R),Challenger,8/18/2020
+116,FL,Representative,Margaret Good (D),Challenger,8/18/2020
+117,FL,Representative,Pam Keith (D),Challenger,8/18/2020
+118,FL,Representative,Cindy Banyai (D),Open Seat,8/18/2020
+119,FL,Representative,Heather Fitzenhagen (R),Open Seat,8/18/2020
+120,FL,Representative,Sheila Cherfilus-McCormick (D),Challenger in Primary,8/18/2020
+121,FL,Representative,Lois J. Frankel (D),Incumbent,8/18/2020
+122,FL,Representative,Laura Loomer (R),Challenger,8/18/2020
+123,FL,Representative,Elizabeth Felton (R),Challenger,8/18/2020
+124,FL,Representative,Reba Sherrill (R),Challenger,8/18/2020
+125,FL,Representative,Jessi Melton (R),Challenger,8/18/2020
+126,FL,Representative,Darlene Swaffar (R),Challenger,8/18/2020
+127,FL,Representative,Fran Flynn (R),Challenger,8/18/2020
+128,FL,Representative,Debbie Wasserman Schultz (D),Incumbent,8/18/2020
+129,FL,Representative,Jennifer Perelman (D),Challenger in Primary,8/18/2020
+130,FL,Representative,Carla Spalding (R),Challenger,8/18/2020
+131,FL,Representative,Frederica S. Wilson (D),Incumbent,8/18/2020
+132,FL,Representative,Christine Olivo (D),Challenger in Primary,8/18/2020
+133,FL,Representative,Sakinah Lehtola (D),Challenger in Primary,8/18/2020
+134,FL,Representative,Lavern Spicer (R),Challenger,8/18/2020
+135,FL,Representative,Debbie Mucarsel-Powell (D),Incumbent,8/18/2020
+136,FL,Representative,Donna Shalala (D),Incumbent,8/18/2020
+137,FL,Representative,Maria Salazar (R),Challenger,8/18/2020
+138,GA,Senate,Teresa Tomlinson (D),Challenger,Lost
+139,GA,Senate,Sarah Riggs Amico (D),Challenger,Lost
+140,GA,Senate,Maya Dillard Smith (D),Challenger,Lost
+141,GA,Senate,Tricia Carpenter McCracken (D),Challenger,Lost
+142,GA,Senate,Kelly Loeffler (R),Incumbent,11/3/2020
+143,GA,Senate,Annette Davis Jackson (R),Challenger in Primary,11/3/2020
+144,GA,Senate,Kandiss Taylor (R),Challenger in Primary,11/3/2020
+145,GA,Senate,Deborah Jackson (D),Challenger,11/3/2020
+146,GA,Senate,Jamesia James (D),Challenger,11/3/2020
+147,GA,Senate,Joy Felicia Slade (D),Challenger,11/3/2020
+148,GA,Senate,Tamara Johnson-Shealey (D),Challenger,11/3/2020
+149,GA,Representative,Lisa Ring (D),Challenger,Runoff
+150,GA,Representative,Barbara Seidman (D),Challenger,Lost
+151,GA,Representative,Joyce Marie Griggs (D),Challenger,Runoff
+152,GA,Representative,Vivian Childs (R),Challenger,Lost
+153,GA,Representative,Elaine Amankwah Nietmann (D),Challenger in Primary,Lost
+154,GA,Representative,Johsie Cruz (R),Challenger,WON
+155,GA,Representative,Angela Stanton-King (R),Challenger,WON
+156,GA,Representative,Lucy McBath (D),Incumbent,WON
+157,GA,Representative,Karen Handel (R),Challenger,WON
+158,GA,Representative,Mykel Barthelemy (R),Challenger,Lost
+159,GA,Representative,Paulette Smith (R),Challenger,Lost
+160,GA,Representative,Renee Unterman (R),Open Seat,Lost
+161,GA,Representative,Carolyn Bourdeau (D),Open Seat,Runoff
+162,GA,Representative,Brenda Lopez Romero (D),Open Seat,Runoff
+163,GA,Representative,Nabilah Islam (D),Open Seat,Lost
+164,GA,Representative,Lynne Homrich (R),Open Seat,Lost
+165,GA,Representative,Lisa Babbage (R),Open Seat,Lost
+166,GA,Representative,Zahra Karinshak (D),Open Seat,Lost
+167,GA,Representative,Maria Strickland (R),Open Seat,Lost
+168,GA,Representative,Kellie Weeks (R),Open Seat,Lost
+169,GA,Representative,Brooke Siskin (D),Open Seat,Runoff
+170,GA,Representative,Tabitha Johnson-Green (D),Challenger,WON
+171,GA,Representative,Dana Barrett (D),Challenger,WON
+172,GA,Representative,Liz Johnson (D),Challenger,WON
+173,GA,Representative,Jannquell Peters (D),Challenger in Primary,Lost
+174,GA,Representative,Becky E. Hites (R),Challenger,WON
+175,GA,Representative,Keisha Sean Waites (D),Challenger in Primary,Runoff
+176,GA,Representative,Marjorie Greene (R),Open Seat,Runoff
+177,HI,Representative,Nancy Olson (R),Challenger,8/8/2020
+178,HI,Representative,Noelle Famera (D),Open Seat,8/8/2020
+179,HI,Representative,Elise Hatsuko Kaneshiro (R),Open Seat,8/8/2020
+180,HI,Representative,Karla (Bart) Gottschalk (R),Open Seat,8/8/2020
+181,HI,Representative,Brenda L. Machado Lee (D),Open Seat,8/8/2020
+182,HI,Representative,Emma Jane Avola Fabeck (D),Open Seat,8/8/2020
+183,IA,Senate,Joni Ernst (R),Incumbent,WON
+184,IA,Senate,Theresa Greenfield (D),Challenger,WON
+185,IA,Senate,Kimberly Graham (D),Challenger,Lost
+186,IA,Representative,Abby Finkenauer (D),Incumbent,WON
+187,IA,Representative,Ashley Hinson (R),Challenger,WON
+188,IA,Representative,Rita Hart (D),Open Seat,WON
+189,IA,Representative,Mariannette Miller-Meeks (R),Open Seat,WON
+190,IA,Representative,Cindy Axne (D),Incumbent,WON
+191,ID,Senate,Paulette Jordan (D),Challenger,WON
+192,ID,Representative,Staniela Nikolova (D),Challenger,Lost
+193,IL,Senate,Peggy Hubbard (R),Challenger,Lost
+194,IL,Representative,Sarah Gad (D),Challenger in Primary,Lost
+195,IL,Representative,Ameena Matthews (D),Challenger in Primary,Lost
+196,IL,Representative,Philanise White (R),Challenger,WON
+197,IL,Representative,Robin L. Kelly (D),Incumbent,WON
+198,IL,Representative,Theresa Raborn (R),Challenger,WON
+199,IL,Representative,Marie Newman (D),Challenger in Primary,WON
+200,IL,Representative,Catherine O'Shea (R),Challenger,Lost
+201,IL,Representative,Jeanne Ives (R),Challenger,WON
+202,IL,Representative,Kina Collins (D),Challenger in Primary,Lost
+203,IL,Representative,Kristine Schanbacher (D),Challenger in Primary,Lost
+204,IL,Representative,Jan D. Schakowsky (D),Incumbent,WON
+205,IL,Representative,Valerie Ramirez Mukherjee (R),Challenger,WON
+206,IL,Representative,Rachel Ventura (D),Challenger in Primary,Lost
+207,IL,Representative,Betsy Dirksen Londrigan (D),Challenger,WON
+208,IL,Representative,Stefanie Smith (D),Challenger,Lost
+209,IL,Representative,Lauren Underwood (D),Incumbent,WON
+210,IL,Representative,Sue Rezin (R),Challenger,Lost
+211,IL,Representative,Catalina Lauf (R),Challenger,Lost
+212,IL,Representative,Mary Miller (R),Open Seat,WON
+213,IL,Representative,Erika C. Weaver (D),Open Seat,WON
+214,IL,Representative,Dani Brzozowski (D),Challenger,WON
+215,IL,Representative,Cheri L. Bustos (D),Incumbent,WON
+216,IL,Representative,Esther Joy King (R),Challenger,WON
+217,IN,Lieutenant Governor,Suzanne Crouch (R),Incumbent,WON
+218,IN,Attorney General,Karen Tallian (D),Challenger,6/13/2020*
+219,IN,Representative,Mara Candelaria Reardon (D),Open Seat,Lost
+220,IN,Representative,Sabrina Haake (D),Open Seat,Lost
+221,IN,Representative,Melissa Borom (D),Open Seat,Lost
+222,IN,Representative,Carrie Castro (D),Open Seat,Lost
+223,IN,Representative,Jackie Swihart Walorski (R),Incumbent,WON
+224,IN,Representative,Ellen Marks (D),Challenger,Lost
+225,IN,Representative,Pat Hackett (D),Challenger,WON
+226,IN,Representative,Veronikka Ziol (D),Challenger,Lost
+227,IN,Representative,Jennifer Christie (D),Open Seat,Lost
+228,IN,Representative,Christina Hale (D),Open Seat,WON
+229,IN,Representative,Dee Thornton (D),Open Seat,Lost
+230,IN,Representative,Kelly Mitchell (R),Open Seat,Lost
+231,IN,Representative,Beth Henderson (R),Open Seat,Lost
+232,IN,Representative,Victoria Spartz (R),Open Seat,WON
+233,IN,Representative,Jeannine Lee Lake (D),Challenger,WON
+234,IN,Representative,Susan Marie Smith (R),Challenger,WON
+235,IN,Representative,Thomasina Marsili (D),Challenger,WON
+236,KS,Representative,Michelle de la Isla (D),Challenger,8/4/2020
+237,KS,Representative,Sharice Davids (D),Incumbent,8/4/2020
+238,KS,Representative,Sara Weir (R),Challenger,8/4/2020
+239,KS,Representative,Amanda Adkins (R),Challenger,8/4/2020
+240,KS,Representative,Adrienne Vallejo Foster (R),Challenger,8/4/2020
+241,KS,Representative,Laura Lombard (D),Challenger,8/4/2020
+242,KY,Senate,Amy McGrath (D),Challenger,TCTC
+243,KY,Senate,Maggie Jo Hilliard (D),Challenger,TCTC
+244,KY,Senate,Mary Ann Tobin (D),Challenger,TCTC
+245,KY,Representative,Alexandra Owensby (D),Challenger,TCTC
+246,KY,Representative,Shannon Fabert (D),Challenger,TCTC
+247,LA,Representative,Lee Ann Dugas (D),Challenger,11/3/2020
+248,LA,Representative,Candy Christophe (D),Open Seat,11/3/2020
+249,MA,Representative,Tracy Lovvorn (R),Challenger,9/1/2020
+250,MA,Representative,Lori Trahan (D),Incumbent,9/1/2020
+251,MA,Representative,Ihssane Leckey (D),Open Seat,9/1/2020
+252,MA,Representative,Becky Grossman (D),Open Seat,9/1/2020
+253,MA,Representative,Jesse Mermell (D),Open Seat,9/1/2020
+254,MA,Representative,Julie Hall (R),Open Seat,9/1/2020
+255,MA,Representative,Natalia Linos (D),Open Seat,9/1/2020
+256,MA,Representative,Katherine M. Clark (D),Incumbent,9/1/2020
+257,MA,Representative,Jamie Zahlaway Belsito (D),Challenger in Primary,9/1/2020
+258,MA,Representative,Ayanna Pressley (D),Incumbent,9/1/2020
+259,MD,Representative,Mia Mason (D),Challenger,WON
+260,MD,Representative,Allison Galbraith (D),Challenger,Lost
+261,MD,Representative,Jennifer Pingley (D),Challenger,Lost
+262,MD,Representative,Genevieve Morris (R),Challenger,Lost
+263,MD,Representative,Reba A. Hawkins (R),Challenger,Lost
+264,MD,Representative,Sheila Bryant (D),Challenger in Primary,Lost
+265,MD,Representative,Kim A. Shelton (D),Challenger in Primary,Lost
+266,MD,Representative,Mckayla Wilkes (D),Challenger in Primary,Lost
+267,MD,Representative,Briana Urbina (D),Challenger in Primary,Lost
+268,MD,Representative,Vanessa Marie Hoffman (D),Challenger in Primary,Lost
+269,MD,Representative,Jill Carter (D),Challenger in Primary,Lost
+270,MD,Representative,Liz Matory (R),Challenger,Lost
+271,MD,Representative,M.J. Madwolf (R),Challenger,Lost
+272,MD,Representative,Alicia D. Brown (D),Challenger,Lost
+273,MD,Representative,Maya Rockeymoore Cummings (D),Challenger in Primary,Lost
+274,MD,Representative,Kim Klacik (R),Challenger,WON
+275,MD,Representative,Bridgette L. Cooper (R),Challenger,Lost
+276,MD,Representative,Marcia H. Morgan (D),Challenger in Primary,Lost
+277,MD,Representative,Lih Young (D),Challenger in Primary,Lost
+278,MD,Representative,Patricia Rogers (R),Challenger,Lost
+279,ME,Senate,Betsy Sweet (D),Challenger,6/9/2020
+280,ME,Representative,Chellie M. Pingree (D),Incumbent,6/9/2020
+281,ME,Representative,Adrienne Bennett (R),Challenger,6/9/2020
+282,MI,Representative,Linda O'Dell (D),Challenger,8/4/2020
+283,MI,Representative,Lynn Afendoulis (R),Challenger,8/4/2020
+284,MI,Representative,Elena Oelke (R),Challenger in Primary,8/4/2020
+285,MI,Representative,Jen Richardson (D),Challenger,8/4/2020
+286,MI,Representative,Gretchen Driskell (D),Challenger,8/4/2020
+287,MI,Representative,Elissa Slotkin (D),Incumbent,8/4/2020
+288,MI,Representative,Kristina Lyke (R),Challenger,8/4/2020
+289,MI,Representative,Kelly Noland (D),Open Seat,8/4/2020
+290,MI,Representative,Kimberly Bizon (D),Open Seat,8/4/2020
+291,MI,Representative,Lisa McClain (R),Open Seat,8/4/2020
+292,MI,Representative,Haley Stevens (D),Incumbent,8/4/2020
+293,MI,Representative,Whittney Williams (R),Challenger,8/4/2020
+294,MI,Representative,Carmelita Greco (R),Challenger,8/4/2020
+295,MI,Representative,Debbie Dingell (D),Incumbent,8/4/2020
+296,MI,Representative,Rashida Tlaib (D),Incumbent,8/4/2020
+297,MI,Representative,Brenda Jones (D),Challenger in Primary,8/4/2020
+298,MI,Representative,Brenda L. Lawrence (D),Incumbent,8/4/2020
+299,MN,Senate,Tina Smith (D),Incumbent,8/11/2020
+300,MN,Representative,Paula Overby (D),Challenger in Primary,8/11/2020
+301,MN,Representative,Angela D. Craig (D),Incumbent,8/11/2020
+302,MN,Representative,Betty McCollum (D),Incumbent,8/11/2020
+303,MN,Representative,Tiffini Flynn Forslund (D),Challenger in Primary,8/11/2020
+304,MN,Representative,Alberder Gillespie (D),Challenger in Primary,8/11/2020
+305,MN,Representative,Ilhan Omar (D),Incumbent,8/11/2020
+306,MN,Representative,Dalia Al-Aqidi (R),Challenger,8/11/2020
+307,MN,Representative,Danielle Stella (R),Challenger,8/11/2020
+308,MN,Representative,Tawnja Zahradka (D),Challenger,8/11/2020
+309,MN,Representative,Michelle Fischbach (R),Challenger,8/11/2020
+310,MN,Representative,Alycia Gruenhagen (D),Challenger in Primary,8/11/2020
+311,MN,Representative,Quinn Nystrom (D),Challenger,8/11/2020
+312,MO,Governor,Nicole Galloway (D),Challenger,8/4/2020
+313,MO,Governor,Saundra McDowell (R),Challenger in Primary,8/4/2020
+314,MO,Lieutenant Governor,Alissia Canady (D),Challenger,8/4/2020
+315,MO,Treasurer,Vicki Englund (D),Challenger,8/4/2020
+316,MO,Representative,Cori Bush (D),Challenger in Primary,8/4/2020
+317,MO,Representative,Winnie Heartstrong (R),Challenger,8/4/2020
+318,MO,Representative,Katherine Bruckner (D),Challenger in Primary,8/4/2020
+319,MO,Representative,Ann L. Wagner (R),Incumbent,8/4/2020
+320,MO,Representative,Jill Schupp (D),Challenger,8/4/2020
+321,MO,Representative,Adela Wisdom (R),Challenger in Primary,8/4/2020
+322,MO,Representative,Lynette Trares (R),Challenger in Primary,8/4/2020
+323,MO,Representative,Megan Rezabek (D),Challenger,8/4/2020
+324,MO,Representative,Vicky Jo Hartzler (R),Incumbent,8/4/2020
+325,MO,Representative,Lindsey Simmons (D),Challenger,8/4/2020
+326,MO,Representative,Maite Salazar (D),Challenger in Primary,8/4/2020
+327,MO,Representative,Richonda Oaks (R),Challenger,8/4/2020
+328,MO,Representative,Gena Ross (D),Challenger,8/4/2020
+329,MO,Representative,Ramona Farris (D),Challenger,8/4/2020
+330,MO,Representative,Teresa Montseny (D),Challenger,8/4/2020
+331,MO,Representative,Camille Lombardi-Olive (R),Challenger in Primary,8/4/2020
+332,MO,Representative,Kathy Ellis (D),Challenger,8/4/2020
+333,MS,Senate,Cindy Hyde-Smith (R),Incumbent,WON
+334,MS,Representative,Antonia Eliason (D),Challenger,WON
+335,MS,Representative,Sonia Rathburn (D),Challenger in Primary,Lost
+336,MS,Representative,Dorothy Benford (D),Challenger,WON
+337,MS,Representative,Katelyn Lee (D),Challenger,Lost
+338,MT,Governor,Whitney Williams (D),Open Seat,Lost
+339,MT,Lieutenant Governor,Kristen Juras (R),Open Seat,WON
+340,MT,Secretary of State,Christi Jacobsen (R),Open Seat,WON
+341,MT,Attorney General,Kimberly Dudik (D),Open Seat,Lost
+342,MT,Auditor,Nelly Nicol (R),Open Seat,Lost
+343,MT,Superintendent of Public Instruction,Elsie Arntzen (R),Incumbent,WON
+344,MT,Superintendent of Public Instruction,Melissa Romano (D),Challenger,WON
+345,MT,Representative,Kathleen Williams (D),Open Seat,WON
+346,MT,Representative,Debra Lamm (R),Open Seat,Lost
+347,NC,Governor,Holly Grange (R),Challenger,Lost
+348,NC,Lieutenant Governor,Renne Ellmers (R),Open Seat,Lost
+349,NC,Lieutenant Governor,Terry Van Duyn (D),Open Seat,Lost
+350,NC,Lieutenant Governor,Yvonne Lewis Holley (D),Open Seat,WON
+351,NC,Lieutenant Governor,Deborah Cochran (R),Open Seat,Lost
+352,NC,Attorney General,Christine Mumma (R),Challenger,Lost
+353,NC,Secretary of State,Elaine Marshall (D),Incumbent,WON
+354,NC,Treasurer,Dimple Ajmera (D),Challenger,Lost
+355,NC,Auditor,Beth Wood (D),Incumbent,WON
+356,NC,Superintendent of Public Instruction,Jen Mangrum (D),Open Seat,WON
+357,NC,Superintendent of Public Instruction,Constance Johnson (D),Open Seat,Lost
+358,NC,Superintendent of Public Instruction,Catherine Truitt (R),Open Seat,WON
+359,NC,Agriculture,Jenna Wadsworth (D),Challenger,WON
+360,NC,Commissioner of Labor,Jessica Holmes (D),Open Seat,WON
+361,NC,Commissioner of Labor,Pearl Burris-Floyd (R),Open Seat,Lost
+362,NC,Senate,Erica Smith (D),Challenger,Lost
+363,NC,Senate,Sharon Y. Hudson (R),Challenger in Primary,Lost
+364,NC,Representative,Sandy Smith (R),Challenger,WON
+365,NC,Representative,Michele Nix (R),Challenger,Lost
+366,NC,Representative,Monika Johnson-Hostler (D),Open Seat,Lost
+367,NC,Representative,Deborah Ross (D),Open Seat,WON
+368,NC,Representative,Virginia Foxx (R),Incumbent,WON
+369,NC,Representative,Kathy Manning (D),Open Seat,WON
+370,NC,Representative,Rhonda Foxx (D),Open Seat,Lost
+371,NC,Representative,Laura Pichardo (R),Open Seat,Lost
+372,NC,Representative,Patricia Timmons-Goodson (D),Challenger,WON
+373,NC,Representative,Cynthia L. Wallace (D),Challenger,WON
+374,NC,Representative,Gina Collias (D),Open Seat,Lost
+375,NC,Representative,Lynda Bennett (R),Open Seat,Lost
+376,NC,Representative,Alma Adams (D),Incumbent,WON
+377,ND,Governor,Shelley Lenz (D),Challenger,WON
+378,ND,Insurance,Travisia Martin (D),Challenger,WON
+379,ND,Superintendent of Public Instruction,Kirsten Baesler (NP),Incumbent,WON
+380,NE,Senate,Angie Phillips (D),Challenger,Lost
+381,NE,Senate,Alisha Shelton (D),Challenger,Lost
+382,NE,Representative,Babs Ramsey (D),Challenger,Lost
+383,NE,Representative,Kate Bolz (D),Challenger,WON
+384,NE,Representative,Kara Eastman (D),Challenger,WON
+385,NE,Representative,Ann Ashford (D),Challenger,Lost
+386,NE,Representative,Gladys Harrison (D),Challenger,Lost
+387,NH,Governor,Karen Testerman (R),Challenger in Primary,9/8/2020
+388,NH,Senate,Jeanne Shaheen (D),Incumbent,9/8/2020
+389,NH,Representative,Ann McLane Kuster (D),Incumbent,9/8/2020
+390,NH,Representative,Lynne Blankenbeker (R),Challenger,9/8/2020
+391,NJ,Senate,Tricia Flanagan (R),Challenger,7/7/2020
+392,NJ,Representative,Claire Gustafson (R),Challenger,7/7/2020
+393,NJ,Representative,Brigid Callahan Harrison (D),Challenger,7/7/2020
+394,NJ,Representative,Amy Kennedy (D),Challenger,7/7/2020
+395,NJ,Representative,Kate Gibbs (R),Challenger,7/7/2020
+396,NJ,Representative,Christine Conforti (D),Challenger,7/7/2020
+397,NJ,Representative,Stephanie Schmid (D),Challenger,7/7/2020
+398,NJ,Representative,Arati Kreibich (D),Challenger in Primary,7/7/2020
+399,NJ,Representative,Amani Al-Khatahtbeh (D),Challenger in Primary,7/7/2020
+400,NJ,Representative,Zina Spezakis (D),Challenger in Primary,7/7/2020
+401,NJ,Representative,Jen Zinone (R),Challenger,7/7/2020
+402,NJ,Representative,Mikie Sherrill (D),Incumbent,7/7/2020
+403,NJ,Representative,Rosemary Becchi (R),Challenger,7/7/2020
+404,NJ,Representative,Bonnie Watson Coleman (D),Incumbent,7/7/2020
+405,NJ,Representative,Lisa McCormick (D),Challenger in Primary,7/7/2020
+406,NM,Senate,Elisa Martinez (R),Open Seat,Lost
+407,NM,Representative,Debra A. Haaland (D),Incumbent,WON
+408,NM,Representative,Michelle Garcia Holmes (R),Challenger,WON
+409,NM,Representative,Xochitl Torres Small (D),Incumbent,WON
+410,NM,Representative,Yvette Herrell (R),Challenger,WON
+411,NM,Representative,Claire Chase (R),Challenger,Lost
+412,NM,Representative,Teresa Leger (D),Open Seat,WON
+413,NM,Representative,Valerie Plame (D),Open Seat,Lost
+414,NM,Representative,Laura Montoya (D),Open Seat,Lost
+415,NM,Representative,Alexis Johnson (R),Open Seat,WON
+416,NM,Representative,Karen Bedonie (R),Open Seat,Lost
+417,NV,Representative,Dina C. Titus (D),Incumbent,WON
+418,NV,Representative,Citlaly Larois-Elias (R),Challenger,Lost
+419,NV,Representative,Joyce Bentley (R),Challenger,WON
+420,NV,Representative,Patricia Ackerman (D),Challenger,WON
+421,NV,Representative,Susie Lee (D),Incumbent,WON
+422,NV,Representative,Tiffany Ann Watson (D),Challenger in Primary,Lost
+423,NV,Representative,Mindy Robinson (R),Challenger,Lost
+424,NV,Representative,Rebecca Wood (R),Challenger,Lost
+425,NV,Representative,Randi Reed (R),Challenger,Lost
+426,NV,Representative,Lisa Song Sutton (R),Challenger,Lost
+427,NV,Representative,Jennifer Eason (D),Challenger in Primary,Lost
+428,NV,Representative,Steffanie Gabrielle D'Ayr,Challenger in Primary,Lost
+429,NV,Representative,Rosalie Bingham (R),Challenger,Lost
+430,NY,Representative,Nancy Goroff (D),Challenger,TCTC
+431,NY,Representative,Bridget Fleming (D),Challenger,TCTC
+432,NY,Representative,Jackie Gordon (D),Open Seat,TCTC
+433,NY,Representative,Pat Maher (D),Open Seat,TCTC
+434,NY,Representative,Melanie D'Arrigo (D),Challenger in Primary,TCTC
+435,NY,Representative,Kathleen M. Rice (D),Incumbent,WON
+436,NY,Representative,Cindy Grosz (R),Challenger,TCTC
+437,NY,Representative,Grace Meng (D),Incumbent,WON
+438,NY,Representative,Sandra Choi (D),Challenger in Primary,Lost
+439,NY,Representative,Nydia M. Velazquez (D),Incumbent,WON
+440,NY,Representative,Yvette. D. Clarke (D),Incumbent,TCTC
+441,NY,Representative,Lindsey Boylan (D),Challenger in Primary,TCTC
+442,NY,Representative,Cathy Bernstein (R),Challenger,WON
+443,NY,Representative,Nicole Malliotakis (R),Challenger,TCTC
+444,NY,Representative,Carolyn B. Maloney (D),Incumbent,TCTC
+445,NY,Representative,Lauren Ashcraft (D),Challenger in Primary,TCTC
+446,NY,Representative,Lovelynn Gwinn (R),Challenger,WON
+447,NY,Representative,Alexandria Ocasio-Cortez (D),Incumbent,WON
+448,NY,Representative,Badrun Khan (D),Challenger in Primary,Lost
+449,NY,Representative,Michelle Caruso-Cabrera (D),Challenger in Primary,Lost
+450,NY,Representative,Samelys Lopez (D),Open Seat,TCTC
+451,NY,Representative,Melissa Mark-Viverito (D),Open Seat,TCTC
+452,NY,Representative,Chivona Renee Newsom (D),Open Seat,TCTC
+453,NY,Representative,Marlene J. Tapper (D),Open Seat,TCTC
+454,NY,Representative,Evelyn Farkas (D),Open Seat,TCTC
+455,NY,Representative,Asha Castleberry-Hernandez (D),Open Seat,TCTC
+456,NY,Representative,Allison Fine (D),Open Seat,TCTC
+457,NY,Representative,Yehudis Gottesfeld (R),Open Seat,TCTC
+458,NY,Representative,Maureen McArdle Schulman (R),Open Seat,TCTC
+459,NY,Representative,Catherine Parker (D),Open Seat,TCTC
+460,NY,Representative,Chele Farley (R),Challenger,WON
+461,NY,Representative,Ola Hawatmeh (R),Challenger,TCTC
+462,NY,Representative,Elizabeth Joy (R),Challenger,WON
+463,NY,Representative,Elise M. Stefanik (R),Incumbent,WON
+464,NY,Representative,Tedra L. Cobb (D),Challenger,WON
+465,NY,Representative,Claudia Tenney (R),Challenger,WON
+466,NY,Representative,Tracy Mitrano (D),Challenger,WON
+467,NY,Representative,Dana Balter (D),Challenger,TCTC
+468,NY,Representative,Robin Wilt (D),Challenger in Primary,Lost
+469,NY,Representative,Beth Parlato (R),Open Seat,Lost
+470,OH,Representative,Nikki Foster (D),Challenger,Lost
+471,OH,Representative,Kate Schroder (D),Challenger,WON
+472,OH,Representative,Jaime Castle (D),Challenger,WON
+473,OH,Representative,Joyce B. Beatty (D),Incumbent,WON
+474,OH,Representative,Morgan Harper (D),Challenger in Primary,Lost
+475,OH,Representative,Shannon Freshour (D),Challenger,WON
+476,OH,Representative,Shawna Roberts (D),Challenger,WON
+477,OH,Representative,Vanessa Enoch (D),Challenger,WON
+478,OH,Representative,Marcy C. Kaptur (D),Incumbent,WON
+479,OH,Representative,Desiree Tims (D),Challenger,WON
+480,OH,Representative,Kathi Flanders (R),Challenger in Primary,Lost
+481,OH,Representative,Marcia L. Fudge (D),Incumbent,WON
+482,OH,Representative,Shalira Taylor (R),Challenger,Lost
+483,OH,Representative,Laverne Gore (R),Challenger,WON
+484,OH,Representative,Jenny Bell (D),Challenger,Lost
+485,OH,Representative,Alaina Shearer (D),Challenger,WON
+486,OH,Representative,Christina Hagan (R),Challenger,WON
+487,OH,Representative,Hillary O'Connor Mueri (D),Challenger,WON
+488,OK,Senate,Abby Broyles (D),Challenger,6/30/2020
+489,OK,Senate,Elysabeth Britt (D),Challenger,6/30/2020
+490,OK,Senate,Sheila Bilyeu (D),Challenger,6/30/2020
+491,OK,Representative,Danyell Lanier (D),Challenger,6/30/2020
+492,OK,Representative,Rhonda Hopkins (R),Challenger in Primary,6/30/2020
+493,OK,Representative,Zoe Midyett (D),Challenger,6/30/2020
+494,OK,Representative,Mary Brannon (D),Challenger,6/30/2020
+495,OK,Representative,Kendra Horn (D),Incumbent,6/30/2020
+496,OK,Representative,Stephanie Bice (R),Challenger,6/30/2020
+497,OK,Representative,Terry Neese (R),Challenger,6/30/2020
+498,OK,Representative,Janet Barresi (R),Challenger,6/30/2020
+499,OK,Representative,Shelli E. Landon (R),Challenger,6/30/2020
+500,OR,Attorney General,Ellen Rosenblum (D),Incumbent,WON
+501,OR,Secretary of State,Jamie McLeod Skinner (D),Open Seat,Lost
+502,OR,Secretary of State,Kim Thatcher (R),Open Seat,WON
+503,OR,Secretary of State,Shemia P. Fagan (D),Open Seat,TCTC
+504,OR,Senate,Jo Rae Perkins (R),Challenger,WON
+505,OR,Representative,Suzanne M. Bonamici (D),Incumbent,WON
+506,OR,Representative,Amanda Siebe (D),Challenger in Primary,Lost
+507,OR,Representative,Heidi Briones (D),Challenger in Primary,Lost
+508,OR,Representative,Army Murray (R),Challenger,Lost
+509,OR,Representative,Alex Spenser (D),Open Seat,TCTC
+510,OR,Representative,Joanna Harbour (R),Challenger,WON
+511,OR,Representative,Doyle Canning (D),Challenger in Primary,Lost
+512,OR,Representative,Angela Roman (R),Challenger,Lost
+513,OR,Representative,Amy Ryan Courser (R),Challenger,WON
+514,PA,Treasurer,Stacy Garrity (R),Challenger,WON
+515,PA,Attorney General,Heather Heidelbaugh (R),Challenger,WON
+516,PA,Auditor,Nina Ahmad (D),Open Seat,WON
+517,PA,Auditor,Christina Hartman (D),Open Seat,Lost
+518,PA,Auditor,Tracie Fountain (D),Open Seat,Lost
+519,PA,Auditor,Rose Marie Davis (D),Open Seat,Lost
+520,PA,Representative,Christina Finello (D),Challenger,WON
+521,PA,Representative,Madeleine Dean (D),Incumbent,WON
+522,PA,Representative,Kathy Barnette (R),Challenger,WON
+523,PA,Representative,Mary Gay Scanlon (D),Incumbent,WON
+524,PA,Representative,Dasha Pruett (R),Challenger,WON
+525,PA,Representative,Chrissy Houlahan (D),Incumbent,WON
+526,PA,Representative,Susan Ellis Wild (D),Incumbent,WON
+527,PA,Representative,Lisa Scheller (R),Challenger,WON
+528,PA,Representative,Laura Quick (D),Challenger,Lost
+529,PA,Representative,Sarah Hammond (D),Challenger,WON
+530,PA,Representative,Kristy Gnibus (D),Challenger,WON
+531,PR,Governor,Carmen Yulin Cruz (D),Challenger,6/7/2020
+532,PR,U.S. Delegate,Jenniffer Gonzalez (R),Incumbent,6/7/2020
+533,SC,Representative,Nancy Mace (R),Challenger,WON
+534,SC,Representative,Kathy Landing (R),Challenger,Lost
+535,SC,Representative,Adair Burroughs (D),Challenger,WON
+536,SC,Representative,Kim Nelson (D),Challenger,WON
+537,SC,Representative,Melissa Watson (D),Challenger,WON
+538,SD,Senate,Scyller Borglum (R),Challenger in Primary,Lost
+539,SD,Representative,Liz Marty May (R),Challenger in Primary,Lost
+540,TN,Senate,Marquita Bradshaw (D),Open Seat,8/6/2020
+541,TN,Senate,Natisha Brooks (R),Open Seat,8/6/2020
+542,TN,Senate,Robin Kimbrough (D),Open Seat,8/6/2020
+543,TN,Representative,Nichole Williams (R),Open Seat,8/6/2020
+544,TN,Representative,Diana Harshbarger (R),Open Seat,8/6/2020
+545,TN,Representative,Blair Walsingham (D),Open Seat,8/6/2020
+546,TN,Representative,Renee Hoyos (D),Challenger,8/6/2020
+547,TN,Representative,Sandy Casey (R),Challenger in Primary,8/6/2020
+548,TN,Representative,Meg Gorman (D),Challenger,8/6/2020
+549,TN,Representative,Noelle Bivens (D),Challenger,8/6/2020
+550,TN,Representative,Keeda Haynes (D),Challenger in Primary,8/6/2020
+551,TN,Representative,Erika Stotts Pearson (D),Challenger,8/6/2020
+552,TN,Representative,Charlotte Bergmann (R),Challenger,8/6/2020
+553,TX,Rail Commissioner,Chrysta Castaneda (D),Challenger,Runoff
+554,TX,Rail Commissioner,Kelly Stone (D),Challenger,Lost
+555,TX,Senate,M.J. Hegar (D),Challenger,Runoff
+556,TX,Senate,Sema Hernandez (D),Challenger,Lost
+557,TX,Senate,Amanda Edwards (D),Challenger,Lost
+558,TX,Senate,Cristina Tzintzun Ramirez (D),Challenger,Lost
+559,TX,Senate,Annie Garcia (D),Challenger,Lost
+560,TX,Representative,Elisa Cardnell (D),Challenger,Runoff
+561,TX,Representative,Sima Ladjevardian (D),Challenger,Runoff
+562,TX,Representative,Lulu Seikaly (D),Challenger,Runoff
+563,TX,Representative,Carolyn Salter (D),Challenger,WON
+564,TX,Representative,Elizabeth Pannill Fletcher (D),Incumbent,WON
+565,TX,Representative,Cindy Siegel (R),Challenger,Lost
+566,TX,Representative,Maria Espinoza (R),Challenger,Lost
+567,TX,Representative,Melissa Esparza-Mathis (R),Challenger in Primary,Lost
+568,TX,Representative,Elizabeth Hernandez (D),Challenger,WON
+569,TX,Representative,Laura Jones (D),Challenger,Lost
+570,TX,Representative,Melissa Mechele Wilson (D),Challenger in Primary,Lost
+571,TX,Representative,Shannon Hutcheson (D),Challenger,Lost
+572,TX,Representative,Kay N. Granger (R),Incumbent,WON
+573,TX,Representative,Lisa Welch (D),Challenger,WON
+574,TX,Representative,Jamie Culley (R),Open Seat,Lost
+575,TX,Representative,Diane Knowlton (R),Open Seat,Lost
+576,TX,Representative,Catherine Carr (R),Open Seat,Lost
+577,TX,Representative,Elaine Hays (R),Open Seat,Lost
+578,TX,Representative,Asusena Resendiz (R),Open Seat,Lost
+579,TX,Representative,Monique Worthy (R),Open Seat,Lost
+580,TX,Representative,Sanjanetta Barnes (D),Challenger,Lost
+581,TX,Representative,Adrienne Bell (D),Challenger,WON
+582,TX,Representative,Monica de la Cruz-Hernandez (R),Challenger,Runoff
+583,TX,Representative,Veronica Escobar (D),Incumbent,WON
+584,TX,Representative,Irene Armendariz-Jackson (R),Challenger,Runoff
+585,TX,Representative,Blanca Ortiz Trout (R),Challenger,Lost
+586,TX,Representative,Renee Swann (R),Open Seat,Runoff
+587,TX,Representative,Laurie Godfrey McReynolds (R),Open Seat,Lost
+588,TX,Representative,Kristen Alamo Rowin (R),Open Seat,Lost
+589,TX,Representative,Elianor Vessali (R),Open Seat,Lost
+590,TX,Representative,Sheila Jackson Lee (D),Incumbent,WON
+591,TX,Representative,Ava Pate (R),Challenger,Lost
+592,TX,Representative,"Nellie ""Truly"" Heiskell (R)",Challenger,Lost
+593,TX,Representative,Anita Kegley (R),Challenger,Lost
+594,TX,Representative,Tammy K. Orta (R),Challenger,Lost
+595,TX,Representative,Wendy Davis (D),Challenger,WON
+596,TX,Representative,Jennie Lou Leeder (D),Challenger,Lost
+597,TX,Representative,Nyanza Moore (D),Open Seat,Lost
+598,TX,Representative,Kathaleen Wall (R),Open Seat,Runoff
+599,TX,Representative,Diana Miller (R),Open Seat,Lost
+600,TX,Representative,Gina Ortiz Jones (D),Open Seat,WON
+601,TX,Representative,Alma Arrendondo-Lynch (R),Open Seat,Lost
+602,TX,Representative,Rosey Abuabara (D),Open Seat,Lost
+603,TX,Representative,Alia Garcia Ureste (R),Open Seat,Lost
+604,TX,Representative,Sharon Breckenridge Thomas (R),Open Seat,Lost
+605,TX,Representative,Jan McDowell (D),Open Seat,Lost
+606,TX,Representative,Kim Olson (D),Open Seat,Runoff
+607,TX,Representative,Crystal Fletcher (D),Open Seat,Lost
+608,TX,Representative,Candace Valenzuela (D),Open Seat,Runoff
+609,TX,Representative,Beth Van Duyne (R),Open Seat,WON
+610,TX,Representative,Sunny Chaparala (R),Open Seat,Lost
+611,TX,Representative,Heidi Sloan (D),Challenger,Lost
+612,TX,Representative,Julie Oliver (D),Challenger,WON
+613,TX,Representative,Carol Ianuzzi (D),Challenger,WON
+614,TX,Representative,Jessica Cisneros (D),Challenger in Primary,Lost
+615,TX,Representative,Sandra Whitten (R),Challenger,WON
+616,TX,Representative,Sylvia R. Garcia (D),Incumbent,WON
+617,TX,Representative,Jaimy Blanco (R),Challenger,WON
+618,TX,Representative,Eddie Bernice Johnson (D),Incumbent,WON
+619,TX,Representative,Barbara Mallory Caraway (D),Challenger in Primary,Lost
+620,TX,Representative,Shenita Cleveland (D),Challenger in Primary,Lost
+621,TX,Representative,Christine Mann (D),Challenger,Runoff
+622,TX,Representative,Donna Imam (D),Challenger,Runoff
+623,TX,Representative,Tammy Young (D),Challenger,Lost
+624,TX,Representative,Genevieve Collins (R),Challenger,WON
+625,TX,Representative,Jennifer Garcia Sharon (R),Challenger,Runoff
+626,UT,Governor,Aimee Winder Newton (R),Open Seat,Lost
+627,UT,Lieutenant Governor,Karina Brown (D),Open Seat,WON
+628,UT,Lieutenant Governor,Deidre Henderson (R),Open Seat,6/30/2020
+629,UT,Lieutenant Governor,Michelle Kaufusi (R),Open Seat,6/30/2020
+630,UT,Representative,Katie Witt (R),Open Seat,6/30/2020
+631,UT,Representative,Tina Cannon (R),Open Seat,Lost
+632,UT,Representative,Jamie Cheek (D),Open Seat,6/30/2020
+633,UT,Representative,Cathy Brenchley Hammon (R),Open Seat,Lost
+634,UT,Representative,JC DeYoung (R),Open Seat,Lost
+635,UT,Representative,Mary Burkett (R),Challenger in Primary,Lost
+636,UT,Representative,Kathleen Anderson (R),Challenger,Lost
+637,UT,Representative,Kim Coleman (R),Challenger,6/30/2020
+638,UT,Representative,Cindy Thompson (R),Challenger,Lost
+639,VA,Senate,Alissa Baldwin (R),Challenger,Lost
+640,VA,Representative,Vangie Williams (D),Challenger,Lost
+641,VA,Representative,Elaine G. Luria (D),Incumbent,WON
+642,VA,Representative,R. Cazel Levine (D),Challenger in Primary,Lost
+643,VA,Representative,Claire Russo (D),Challenger,​​​​​​​Lost
+644,VA,Representative,Abigail D. Spanberger (D),Incumbent,WON
+645,VA,Representative,Tina Ramirez (R),Challenger,7/18/2020*
+646,VA,Representative,Jennifer Wexton (D),Incumbent,WON
+647,VA,Representative,Aliscia Andrews (R),Challenger,WON
+648,VA,Representative,Zainab Mohsini (D),Challenger in Primary,​​​​​​​Lost
+649,VA,Representative,Manga Anatatmula (R),Challenger,WON
+650,VI,U.S. Delegate,Stacey E. Plaskett (D),Incumbent,
+651,VT,Governor,Rebecca Holcombe (D),Challenger,8/11/2020
+652,VT,Governor,Emily Peyton (R),Challenger in Primary,8/11/2020
+653,VT,Lieutenant Governor,Brenda Siegel (D),Open Seat,8/11/2020
+654,VT,Lieutenant Governor,Meg Hansen (R),Open Seat,8/11/2020
+655,VT,Lieutenant Governor,Molly Gray (D),Open Seat,8/11/2020
+656,VT,Lieutenant Governor,Debbie Ingram (D),Open Seat,8/11/2020
+657,VT,Attorney General,Emily Peyton (R),Challenger,8/11/2020
+658,VT,Treasurer,Beth Pearce (D),Incumbent,8/11/2020
+659,VT,Treasurer,Carolyn Branagan (R),Challenger,8/11/2020
+660,VT,Auditor,Linda Sullivan (D),Challenger in Primary,8/11/2020
+661,VT,Representative,Miriam Berry (R),Challenger,8/11/2020
+662,VT,Representative,Anya Tynio (R),Challenger,8/11/2020
+663,WA,Lieutenant Governor,Ann Davison Sattler (R),Open Seat,8/4/2020
+664,WA,Lieutenant Governor,Michelle Jasmer (D),Open Seat,8/4/2020
+665,WA,Secretary of State,Kim Wyman (R),Incumbent,8/4/2020
+666,WA,Secretary of State,Gael Tarleton (D),Challenger,8/4/2020
+667,WA,Auditor,Pat McCarthy (D),Incumbent,8/4/2020
+668,WA,Superintendent of Public Instruction,Maia Espinoza (R),Open Seat,8/4/2020
+669,WA,Land Commissioner,Hilary Franz (D),Incumbent,8/4/2020
+670,WA,Land Commissioner,Maryam Abasbarzy (R),Challenger,8/4/2020
+671,WA,Land Commissioner,Sue Kuehl Pederson (R),Challenger,8/4/2020
+672,WA,Representative,Suzan K. DelBene (D),Incumbent,8/4/2020
+673,WA,Representative,Carrie Kennedy (R),Challenger,8/4/2020
+674,WA,Representative,Jaime L. Herrera Beutler (R),Incumbent,8/4/2020
+675,WA,Representative,Carolyn Long (D),Challenger,8/4/2020
+676,WA,Representative,Tracy Wright (R),Challenger in Primary,8/4/2020
+677,WA,Representative,Sarena Sloot (R),Challenger in Primary,8/4/2020
+678,WA,Representative,Cathy McMorris Rodgers (R),Incumbent,8/4/2020
+679,WA,Representative,Rebecca Parson (D),Challenger in Primary,8/4/2020
+680,WA,Representative,Elizabeth Kreiselmaier (R),Challenger,8/4/2020
+681,WA,Representative,Pramila Jayapal (D),Incumbent,8/4/2020
+682,WA,Representative,Kim Schrier (D),Incumbent,8/4/2020
+683,WA,Representative,Nancy Dailey Slotnick (R),Open Seat,8/4/2020
+684,WA,Representative,Marilyn Strickland (D),Open Seat,8/4/2020
+685,WA,Representative,Beth Doglio (D),Open Seat,8/4/2020
+686,WA,Representative,Kristine Reeves (D),Open Seat,8/4/2020
+687,WA,Representative,Mary Bacon (D),Open Seat,8/4/2020
+688,WI,Representative,Jessi Ebben (R),Challenger,8/11/2020
+689,WI,Representative,Gwen S. Moore (D),Incumbent,8/11/2020
+690,WI,Representative,Cindy Werner (R),Challenger,8/11/2020
+691,WI,Representative,Jessica King (D),Challenger,8/11/2020
+692,WI,Representative,Tricia Zunker (D),Open Seat,8/11/2020
+693,WI,Representative,Amanda Stuck (D),Challenger,8/11/2020
+694,WV,Governor,Shelby Jean Fitzhugh (R),Challenger in Primary,Lost
+695,WV,Secretary of State,Natalie Tennant (D),Challenger,WON
+696,WV,Auditor,Mary Ann Claytor (D),Challenger,WON
+697,WV,Senate,Shelley Moore Capito (R),Incumbent,WON
+698,WV,Senate,Paula Jean Swearengin (D),Challenger,WON
+699,WV,Representative,Natalie Cline (D),Challenger,WON
+700,WV,Representative,Cathy Kunkel (D),Challenger,WON
+701,WV,Representative,Carol D. Miller (R),Incumbent,WON
+702,WV,Representative,Hilary Turner (D),Challenger,WON
+703,WY,Senate,Yana Ludwig (D),Open Seat,8/18/2020
+704,WY,Senate,Cynthia Lummis (R),Open Seat,8/18/2020
+705,WY,Senate,Merav Ben-David (D),Open Seat,8/18/2020
+706,WY,Senate,Donna Rice (R),Open Seat,8/18/2020
+707,WY,Senate,Star Roselli (R),Open Seat,8/18/2020
+708,WY,Representative,Liz L. Cheney (R),Incumbent,8/18/2020
+709,WY,Representative,Carol Hafner (D),Challenger,8/18/2020
+710,WY,Representative,Lynette Grey Bull (D),Challenger,8/18/2020

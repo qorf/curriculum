@@ -1,0 +1,46 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.PieChart
+
+/*
+    This is an example of a simple pie chart in quorum.
+    This collects the popular movies and exhibits their genres
+*/
+
+// create dataframe to read in data
+DataFrame frame
+frame:Load("../Data/Culture and Entertainment/movies.csv")
+
+// pull out selected data, for this we will be categorizing by country and cost
+frame:AddSelectedFactors("genre")
+
+// using the data frame, format data by creating a bar chart component
+PieChart chart = frame:PieChart()
+
+// create title to describe graph
+chart:SetTitle("Movie Genres with the Most Revenue")
+
+// label your legend to show users what is being categorized
+chart:SetLegendTitle("Genres")
+// set the legend location, choices are left, right, top and bottom
+chart:SetLegendLocation("right")
+
+// creates a hole in the middle of the pie chart (optional feature)
+chart:SetDonutHolePercent(0.50)
+
+// adjust font size by preference, here we set it to 20 pt
+chart:SetFontSize(20)
+
+/* change color palette if needed, this color palette is set to 
+   Colorgorical which helps give our graphs aesthetic and discriminable color palettes
+*/
+chart:SetColorPaletteToNegative()
+//chart:SetColorPaletteToCalm()
+//chart:SetColorPaletteToMagma()
+//chart:SetColorPaletteToColorgorical()
+//chart:SetColorPaletteToPositive()
+
+// display chart
+chart:Display()
+
+// save chart image
+chart:Save("piechart2.svg")

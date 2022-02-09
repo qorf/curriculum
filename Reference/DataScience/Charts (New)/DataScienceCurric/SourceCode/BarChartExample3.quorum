@@ -1,0 +1,62 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.BarChart
+
+/*
+    This is an example of a simple Bar Chart in quorum
+    Here we will be totaling the various costs of theme park tickets over the years.
+*/
+
+// create dataframe to read in data
+DataFrame frame
+frame:Load("../Data/Other/ThemeParks.csv")
+
+// pull out selected data, for this we will be catagorizing by year and theme parks
+frame:AddSelectedFactors("Year")
+frame:AddSelectedColumns("Disney World")
+frame:AddSelectedColumns("Disneyland")
+frame:AddSelectedColumns("Universal Studios Hollywood")
+
+// using the data frame, format data by creating a bar chart component
+BarChart chart = frame:BarChart()
+
+// adjust font size by preference, here we set it to 30 pt
+chart:SetFontSize(30)
+
+// set the legend location, choices are left, right, top and bottom
+chart:SetLegendLocation("bottom")
+
+/* you are free to set the Y axis to a certain height, 
+   notice that this charts highest value is a little above 500, so we will set max to 600
+*/
+chart:SetYAxisMaximum(300)
+chart:SetYAxisMinimum(0)
+
+// label your legend to show users what is being categorized
+chart:SetLegendTitle("Theme Parks")
+
+/* change color palette if needed, this color palette is set to 
+   Colorgorical which helps give our graphs aesthetic and discriminable color palettes
+*/
+//chart:SetColorPaletteToNegative()
+//chart:SetColorPaletteToCalm()
+//chart:SetColorPaletteToMagma()
+chart:SetColorPaletteToExciting()
+
+// stacks bars on top of each other
+chart:IsStacked(true)
+
+// this sorts the bar chart from biggest to smallest
+chart:SortByBarSize()
+
+// create title to describe graph
+chart:SetTitle("Cost of Theme Park Tickets Over the Years")
+
+// label the x and y axis
+chart:SetXAxisTitle("Year")
+chart:SetYAxisTitle("Cost (in USD $)")
+
+// display chart
+chart:Display()
+
+// save chart image
+chart:Save("barchart3.svg")

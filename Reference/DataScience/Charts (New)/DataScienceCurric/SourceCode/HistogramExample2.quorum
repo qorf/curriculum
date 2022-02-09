@@ -1,0 +1,43 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.Histogram
+
+/*
+    This is an example of a Histogram built in quorum.
+    The dataset we will be working with compares AirBnB prices in NYC
+*/
+
+// create frame component
+DataFrame frame
+// read in data from dog csv
+frame:Load("../Data/Other/AB_NYC_2019.csv")
+
+// pull out specified columns from csv that we are comparing
+// note: histograms do not support factors
+frame:AddSelectedColumns("price")
+
+// create histogram object
+// this will create two separate data charts to compare
+Histogram chart = frame:Histogram()
+// create a title to describe the chart 
+chart:SetTitle("Average Price a Night for an AirBnB in 2019 (NYC)")
+// let's adjust the font size so it appears nicely on the screen
+chart:SetTitleFontSize(20)
+
+// label the x axis, y axis, and the legend title
+chart:SetXAxisTitle("Price")
+chart:SetYAxisTitle("Count")
+chart:SetLegendTitle("Cost a Night")
+
+// customization features
+// sets this to warm tones
+chart:SetColorPaletteToWarmScale()
+// define a clear interval, we separate each interval by 50
+chart:SetXTickInterval(50)
+// let's start our chart at 0 to examine a curve as a whole
+chart:SetXAxisMinimum(0)
+
+// display the histogram
+chart:Display()
+
+// save chart image
+chart:Save("histogram2.svg")

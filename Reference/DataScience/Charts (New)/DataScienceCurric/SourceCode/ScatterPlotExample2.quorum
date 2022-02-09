@@ -1,0 +1,43 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.ScatterPlot
+
+/*
+    This is an example of a simple scatter plot in quorum.
+    The data collected is about math and reading scores.
+    We want to see if test prep courses impact reading and math scores with student performance
+*/
+
+// create dataframe to read in data
+DataFrame frame
+frame:Load("../Data/Other/StudentsPerformance.csv")
+
+// axis
+frame:AddSelectedColumns("math score")
+frame:AddSelectedColumns("reading score")
+
+// these are the dots of comparisons to the axis
+frame:AddSelectedFactors("test preparation course")
+
+// create scatter plot object
+ScatterPlot chart = frame:ScatterPlot()
+
+// label chart
+chart:SetTitle("Student Scores based if they took a Test Prep Course")
+chart:SetXAxisTitle("Math Score")
+chart:SetYAxisTitle("Reading Score")
+chart:SetLegendTitle("Take Test Prep Course?")
+
+// this will adjust the sizes of the points in the scatter plot
+chart:SetPointDensity(5)
+
+// sets color palette
+chart:SetColorPaletteToSerious()
+
+// adjust font size
+chart:SetFontSize(20)
+
+// display scatter
+chart:Display()
+
+// save chart image
+chart:Save("scatterplot2.svg")

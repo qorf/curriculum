@@ -1,0 +1,4951 @@
+id,Date,State,Total Confirmed Cases,Total Deaths
+1,Wed 8/26,Alabama,119254,2045
+2,Wed 8/26,Alaska,5671,34
+3,Wed 8/26,Arizona,199495,4899
+4,Wed 8/26,Arkansas,58023,732
+5,Wed 8/26,California,687612,12547
+6,Wed 8/26,Colorado,56346,1933
+7,Wed 8/26,Connecticut,52220,4463
+8,Wed 8/26,Delaware,16986,604
+9,Wed 8/26,District of Columbia,13722,605
+10,Wed 8/26,Florida,608714,10732
+11,Wed 8/26,Georgia,244494,5195
+12,Wed 8/26,Guam,2089,10
+13,Wed 8/26,Hawaii,7236,50
+14,Wed 8/26,Idaho,30968,337
+15,Wed 8/26,Illinois,227872,8186
+16,Wed 8/26,Indiana,91403,3259
+17,Wed 8/26,Iowa,58864,1077
+18,Wed 8/26,Kansas,40564,445
+19,Wed 8/26,Kentucky,47542,927
+20,Wed 8/26,Louisiana,145661,4851
+21,Wed 8/26,Maine,4389,132
+22,Wed 8/26,Maryland,105996,3717
+23,Wed 8/26,Massachusetts,126756,8987
+24,Wed 8/26,Michigan,109645,6692
+25,Wed 8/26,Minnesota,71285,1842
+26,Wed 8/26,Mississippi,80110,2373
+27,Wed 8/26,Missouri,79588,1566
+28,Wed 8/26,Montana,6807,98
+29,Wed 8/26,Nebraska,32727,390
+30,Wed 8/26,Nevada,66732,1250
+31,Wed 8/26,New Hampshire,7159,430
+32,Wed 8/26,New Jersey,192086,15914
+33,Wed 8/26,New Mexico,24732,755
+34,Wed 8/26,New York,436063,32499
+35,Wed 8/26,North Carolina,159708,2634
+36,Wed 8/26,North Dakota,10471,142
+37,Wed 8/26,Northern Mariana Islands,54,2
+38,Wed 8/26,Ohio,117584,4044
+39,Wed 8/26,Oklahoma,54838,763
+40,Wed 8/26,Oregon,25575,438
+41,Wed 8/26,Pennsylvania,135323,7691
+42,Wed 8/26,Puerto Rico,30744,404
+43,Wed 8/26,Rhode Island,21454,1041
+44,Wed 8/26,South Carolina,114093,2573
+45,Wed 8/26,South Dakota,11851,162
+46,Wed 8/26,Tennessee,144400,1623
+47,Wed 8/26,Texas,619836,12212
+48,Wed 8/26,Utah,50298,404
+49,Wed 8/26,Vermont,1577,58
+50,Wed 8/26,Virgin Islands,1030,14
+51,Wed 8/26,Virginia,115458,2515
+52,Wed 8/26,Washington,75207,1968
+53,Wed 8/26,West Virginia,9540,190
+54,Wed 8/26,Wisconsin,77220,1112
+55,Wed 8/26,Wyoming,3684,37
+56,Thu 8/27,Alabama,121023,2076
+57,Thu 8/27,Alaska,5752,34
+58,Thu 8/27,Arizona,200172,4932
+59,Thu 8/27,Arkansas,58745,739
+60,Thu 8/27,California,692962,12696
+61,Thu 8/27,Colorado,56706,1937
+62,Thu 8/27,Connecticut,52350,4465
+63,Thu 8/27,Delaware,16976,604
+64,Thu 8/27,District of Columbia,13794,605
+65,Thu 8/27,Florida,611983,10867
+66,Thu 8/27,Georgia,247017,5275
+67,Thu 8/27,Guam,2201,10
+68,Thu 8/27,Hawaii,7542,54
+69,Thu 8/27,Idaho,31326,343
+70,Thu 8/27,Illinois,229598,8206
+71,Thu 8/27,Indiana,92566,3266
+72,Thu 8/27,Iowa,61484,1091
+73,Thu 8/27,Kansas,40702,446
+74,Thu 8/27,Kentucky,48322,937
+75,Thu 8/27,Louisiana,146338,4874
+76,Thu 8/27,Maine,4414,132
+77,Thu 8/27,Maryland,106558,3722
+78,Thu 8/27,Massachusetts,127124,9008
+79,Thu 8/27,Michigan,110491,6708
+80,Thu 8/27,Minnesota,72439,1855
+81,Thu 8/27,Mississippi,80695,2399
+82,Thu 8/27,Missouri,80913,1583
+83,Thu 8/27,Montana,6960,98
+84,Thu 8/27,Nebraska,33101,394
+85,Thu 8/27,Nevada,67324,1274
+86,Thu 8/27,New Hampshire,7194,431
+87,Thu 8/27,New Jersey,192393,15921
+88,Thu 8/27,New Mexico,24920,764
+89,Thu 8/27,New York,436852,32507
+90,Thu 8/27,North Carolina,161715,2654
+91,Thu 8/27,North Dakota,10804,143
+92,Thu 8/27,Northern Mariana Islands,54,2
+93,Thu 8/27,Ohio,118828,4076
+94,Thu 8/27,Oklahoma,55550,778
+95,Thu 8/27,Oregon,25775,444
+96,Thu 8/27,Pennsylvania,135958,7702
+97,Thu 8/27,Puerto Rico,31383,412
+98,Thu 8/27,Rhode Island,21589,1044
+99,Thu 8/27,South Carolina,114598,2628
+100,Thu 8/27,South Dakota,12194,162
+101,Thu 8/27,Tennessee,146183,1650
+102,Thu 8/27,Texas,623647,12444
+103,Thu 8/27,Utah,50668,404
+104,Thu 8/27,Vermont,1586,58
+105,Thu 8/27,Virgin Islands,1075,14
+106,Thu 8/27,Virginia,116579,2527
+107,Thu 8/27,Washington,75752,1977
+108,Thu 8/27,West Virginia,9633,199
+109,Thu 8/27,Wisconsin,78136,1121
+110,Thu 8/27,Wyoming,3722,37
+111,Fri 8/28,Alabama,122185,2107
+112,Fri 8/28,Alaska,5874,34
+113,Fri 8/28,Arizona,200694,4980
+114,Fri 8/28,Arkansas,59583,756
+115,Fri 8/28,California,698389,12836
+116,Fri 8/28,Colorado,57158,1945
+117,Fri 8/28,Connecticut,52495,4465
+118,Fri 8/28,Delaware,17083,604
+119,Fri 8/28,District of Columbia,13851,605
+120,Fri 8/28,Florida,615798,10956
+121,Fri 8/28,Georgia,249317,5352
+122,Fri 8/28,Guam,2256,11
+123,Fri 8/28,Hawaii,7806,58
+124,Fri 8/28,Idaho,31643,357
+125,Fri 8/28,Illinois,232052,8229
+126,Fri 8/28,Indiana,93387,3277
+127,Fri 8/28,Iowa,62828,1108
+128,Fri 8/28,Kansas,41808,448
+129,Fri 8/28,Kentucky,48937,945
+130,Fri 8/28,Louisiana,146944,4904
+131,Fri 8/28,Maine,4436,132
+132,Fri 8/28,Maryland,107146,3736
+133,Fri 8/28,Massachusetts,127584,9024
+134,Fri 8/28,Michigan,111303,6714
+135,Fri 8/28,Minnesota,73289,1859
+136,Fri 8/28,Mississippi,81294,2413
+137,Fri 8/28,Missouri,82449,1599
+138,Fri 8/28,Montana,7086,100
+139,Fri 8/28,Nebraska,33436,399
+140,Fri 8/28,Nevada,67984,1287
+141,Fri 8/28,New Hampshire,7216,432
+142,Fri 8/28,New Jersey,192751,15930
+143,Fri 8/28,New Mexico,25042,767
+144,Fri 8/28,New York,437487,32515
+145,Fri 8/28,North Carolina,163154,2676
+146,Fri 8/28,North Dakota,11114,143
+147,Fri 8/28,Northern Mariana Islands,54,2
+148,Fri 8/28,Ohio,120124,4105
+149,Fri 8/28,Oklahoma,56260,786
+150,Fri 8/28,Oregon,26069,457
+151,Fri 8/28,Pennsylvania,136824,7722
+152,Fri 8/28,Puerto Rico,31988,424
+153,Fri 8/28,Rhode Island,21683,1046
+154,Fri 8/28,South Carolina,115951,2655
+155,Fri 8/28,South Dakota,12517,165
+156,Fri 8/28,Tennessee,147814,1675
+157,Fri 8/28,Texas,628492,12615
+158,Fri 8/28,Utah,51071,408
+159,Fri 8/28,Vermont,1589,58
+160,Fri 8/28,Virgin Islands,1075,14
+161,Fri 8/28,Virginia,117592,2550
+162,Fri 8/28,Washington,76397,1992
+163,Fri 8/28,West Virginia,9824,202
+164,Fri 8/28,Wisconsin,78984,1123
+165,Fri 8/28,Wyoming,3763,37
+166,Sat 8/29,Alabama,123889,2152
+167,Sat 8/29,Alaska,5985,34
+168,Sat 8/29,Arizona,201317,5010
+169,Sat 8/29,Arkansas,60378,772
+170,Sat 8/29,California,702499,12906
+171,Sat 8/29,Colorado,57326,1946
+172,Sat 8/29,Connecticut,52495,4465
+173,Sat 8/29,Delaware,17349,604
+174,Sat 8/29,District of Columbia,13925,605
+175,Sat 8/29,Florida,618995,11104
+176,Sat 8/29,Georgia,251676,5451
+177,Sat 8/29,Guam,2256,11
+178,Sat 8/29,Hawaii,8115,61
+179,Sat 8/29,Idaho,31874,359
+180,Sat 8/29,Illinois,233806,8236
+181,Sat 8/29,Indiana,94512,3285
+182,Sat 8/29,Iowa,63836,1110
+183,Sat 8/29,Kansas,41909,449
+184,Sat 8/29,Kentucky,49914,951
+185,Sat 8/29,Louisiana,146944,4904
+186,Sat 8/29,Maine,4489,132
+187,Sat 8/29,Maryland,107790,3746
+188,Sat 8/29,Massachusetts,128030,9036
+189,Sat 8/29,Michigan,112104,6747
+190,Sat 8/29,Minnesota,74306,1863
+191,Sat 8/29,Mississippi,82029,2427
+192,Sat 8/29,Missouri,83973,1613
+193,Sat 8/29,Montana,7256,104
+194,Sat 8/29,Nebraska,33753,400
+195,Sat 8/29,Nevada,68576,1303
+196,Sat 8/29,New Hampshire,7246,432
+197,Sat 8/29,New Jersey,193100,15933
+198,Sat 8/29,New Mexico,25178,769
+199,Sat 8/29,New York,438122,32522
+200,Sat 8/29,North Carolina,165533,2708
+201,Sat 8/29,North Dakota,11488,145
+202,Sat 8/29,Northern Mariana Islands,56,2
+203,Sat 8/29,Ohio,121340,4126
+204,Sat 8/29,Oklahoma,57353,797
+205,Sat 8/29,Oregon,26293,460
+206,Sat 8/29,Pennsylvania,137576,7740
+207,Sat 8/29,Puerto Rico,32550,428
+208,Sat 8/29,Rhode Island,21683,1046
+209,Sat 8/29,South Carolina,117249,2698
+210,Sat 8/29,South Dakota,12942,167
+211,Sat 8/29,Tennessee,149310,1700
+212,Sat 8/29,Texas,633834,12733
+213,Sat 8/29,Utah,51486,408
+214,Sat 8/29,Vermont,1605,58
+215,Sat 8/29,Virgin Islands,1129,14
+216,Sat 8/29,Virginia,118809,2568
+217,Sat 8/29,Washington,76834,1992
+218,Sat 8/29,West Virginia,9967,212
+219,Sat 8/29,Wisconsin,79767,1129
+220,Sat 8/29,Wyoming,3784,37
+221,Sun 8/30,Alabama,125235,2162
+222,Sun 8/30,Alaska,6036,34
+223,Sun 8/30,Arizona,201695,5033
+224,Sun 8/30,Arkansas,60856,784
+225,Sun 8/30,California,706589,12939
+226,Sun 8/30,Colorado,57515,1945
+227,Sun 8/30,Connecticut,52495,4465
+228,Sun 8/30,Delaware,17343,604
+229,Sun 8/30,District of Columbia,13959,606
+230,Sun 8/30,Florida,621578,11118
+231,Sun 8/30,Georgia,252813,5478
+232,Sun 8/30,Guam,2256,11
+233,Sun 8/30,Hawaii,8315,62
+234,Sun 8/30,Idaho,32034,360
+235,Sun 8/30,Illinois,235779,8248
+236,Sun 8/30,Indiana,95394,3291
+237,Sun 8/30,Iowa,64599,1113
+238,Sun 8/30,Kansas,42011,450
+239,Sun 8/30,Kentucky,50170,955
+240,Sun 8/30,Louisiana,148568,4931
+241,Sun 8/30,Maine,4512,132
+242,Sun 8/30,Maryland,108286,3752
+243,Sun 8/30,Massachusetts,128229,9049
+244,Sun 8/30,Michigan,112598,6750
+245,Sun 8/30,Minnesota,75238,1865
+246,Sun 8/30,Mississippi,82676,2441
+247,Sun 8/30,Missouri,85133,1615
+248,Sun 8/30,Montana,7340,104
+249,Sun 8/30,Nebraska,34046,400
+250,Sun 8/30,Nevada,68981,1305
+251,Sun 8/30,New Hampshire,7254,432
+252,Sun 8/30,New Jersey,193391,15937
+253,Sun 8/30,New Mexico,25283,770
+254,Sun 8/30,New York,438831,32534
+255,Sun 8/30,North Carolina,166510,2721
+256,Sun 8/30,North Dakota,11706,146
+257,Sun 8/30,Northern Mariana Islands,56,2
+258,Sun 8/30,Ohio,122262,4128
+259,Sun 8/30,Oklahoma,58020,799
+260,Sun 8/30,Oregon,26554,463
+261,Sun 8/30,Pennsylvania,138137,7742
+262,Sun 8/30,Puerto Rico,32848,434
+263,Sun 8/30,Rhode Island,21683,1046
+264,Sun 8/30,South Carolina,118324,2709
+265,Sun 8/30,South Dakota,13322,167
+266,Sun 8/30,Tennessee,150249,1722
+267,Sun 8/30,Texas,636547,12807
+268,Sun 8/30,Utah,51854,408
+269,Sun 8/30,Vermont,1616,58
+270,Sun 8/30,Virgin Islands,1134,14
+271,Sun 8/30,Virginia,119747,2569
+272,Sun 8/30,Washington,77122,1992
+273,Sun 8/30,West Virginia,10110,213
+274,Sun 8/30,Wisconsin,80311,1132
+275,Sun 8/30,Wyoming,3820,37
+276,Mon 8/31,Alabama,126058,2182
+277,Mon 8/31,Alaska,6075,34
+278,Mon 8/31,Arizona,201866,5031
+279,Mon 8/31,Arkansas,61224,797
+280,Mon 8/31,California,712541,13020
+281,Mon 8/31,Colorado,57797,1952
+282,Mon 8/31,Connecticut,52879,4465
+283,Mon 8/31,Delaware,17429,605
+284,Mon 8/31,District of Columbia,13992,607
+285,Mon 8/31,Florida,623463,11186
+286,Mon 8/31,Georgia,254238,5506
+287,Mon 8/31,Guam,2364,11
+288,Mon 8/31,Hawaii,8447,69
+289,Mon 8/31,Idaho,32256,364
+290,Mon 8/31,Illinois,237682,8258
+291,Mon 8/31,Indiana,96277,3296
+292,Mon 8/31,Iowa,65252,1120
+293,Mon 8/31,Kansas,43407,451
+294,Mon 8/31,Kentucky,50884,965
+295,Mon 8/31,Louisiana,148894,4950
+296,Mon 8/31,Maine,4526,132
+297,Mon 8/31,Maryland,108742,3755
+298,Mon 8/31,Massachusetts,128533,9060
+299,Mon 8/31,Michigan,113163,6756
+300,Mon 8/31,Minnesota,75913,1866
+301,Mon 8/31,Mississippi,82950,2473
+302,Mon 8/31,Missouri,86328,1623
+303,Mon 8/31,Montana,7440,104
+304,Mon 8/31,Nebraska,34287,402
+305,Mon 8/31,Nevada,69318,1305
+306,Mon 8/31,New Hampshire,7275,432
+307,Mon 8/31,New Jersey,193740,15945
+308,Mon 8/31,New Mexico,25352,779
+309,Mon 8/31,New York,439480,32541
+310,Mon 8/31,North Carolina,167989,2733
+311,Mon 8/31,North Dakota,11820,147
+312,Mon 8/31,Northern Mariana Islands,56,2
+313,Mon 8/31,Ohio,123157,4138
+314,Mon 8/31,Oklahoma,58733,800
+315,Mon 8/31,Oregon,26723,467
+316,Mon 8/31,Pennsylvania,138840,7743
+317,Mon 8/31,Puerto Rico,33199,434
+318,Mon 8/31,Rhode Island,21949,1048
+319,Mon 8/31,South Carolina,118992,2720
+320,Mon 8/31,South Dakota,13509,167
+321,Mon 8/31,Tennessee,152033,1727
+322,Mon 8/31,Texas,640317,12857
+323,Mon 8/31,Utah,52166,409
+324,Mon 8/31,Vermont,1624,58
+325,Mon 8/31,Virgin Islands,1139,15
+326,Mon 8/31,Virginia,120594,2580
+327,Mon 8/31,Washington,77718,2002
+328,Mon 8/31,West Virginia,10250,214
+329,Mon 8/31,Wisconsin,80733,1132
+330,Mon 8/31,Wyoming,3842,37
+331,Tue 9/1,Alabama,127616,2200
+332,Tue 9/1,Alaska,6109,36
+333,Tue 9/1,Arizona,202375,5048
+334,Tue 9/1,Arkansas,61497,814
+335,Tue 9/1,California,716628,13149
+336,Tue 9/1,Colorado,58118,1953
+337,Tue 9/1,Connecticut,53006,4466
+338,Tue 9/1,Delaware,17535,605
+339,Tue 9/1,District of Columbia,14049,607
+340,Tue 9/1,Florida,631032,11373
+341,Tue 9/1,Georgia,256544,5604
+342,Tue 9/1,Guam,2416,14
+343,Tue 9/1,Hawaii,8628,73
+344,Tue 9/1,Idaho,32703,370
+345,Tue 9/1,Illinois,239115,8299
+346,Tue 9/1,Indiana,96988,3312
+347,Tue 9/1,Iowa,65846,1125
+348,Tue 9/1,Kansas,43491,454
+349,Tue 9/1,Kentucky,51762,983
+350,Tue 9/1,Louisiana,149583,4984
+351,Tue 9/1,Maine,4548,132
+352,Tue 9/1,Maryland,109353,3761
+353,Tue 9/1,Massachusetts,128888,9064
+354,Tue 9/1,Michigan,113969,6770
+355,Tue 9/1,Minnesota,76404,1872
+356,Tue 9/1,Mississippi,83584,2493
+357,Tue 9/1,Missouri,87414,1651
+358,Tue 9/1,Montana,7526,105
+359,Tue 9/1,Nebraska,34574,405
+360,Tue 9/1,Nevada,69708,1313
+361,Tue 9/1,New Hampshire,7297,432
+362,Tue 9/1,New Jersey,194070,15950
+363,Tue 9/1,New Mexico,25460,787
+364,Tue 9/1,New York,440237,32551
+365,Tue 9/1,North Carolina,169966,2769
+366,Tue 9/1,North Dakota,12004,149
+367,Tue 9/1,Northern Mariana Islands,57,2
+368,Tue 9/1,Ohio,124610,4165
+369,Tue 9/1,Oklahoma,59399,809
+370,Tue 9/1,Oregon,26958,467
+371,Tue 9/1,Pennsylvania,139591,7764
+372,Tue 9/1,Puerto Rico,33421,435
+373,Tue 9/1,Rhode Island,22002,1050
+374,Tue 9/1,South Carolina,119846,2757
+375,Tue 9/1,South Dakota,13749,167
+376,Tue 9/1,Tennessee,153274,1753
+377,Tue 9/1,Texas,645534,13004
+378,Tue 9/1,Utah,52505,410
+379,Tue 9/1,Vermont,1635,58
+380,Tue 9/1,Virgin Islands,1143,15
+381,Tue 9/1,Virginia,121615,2612
+382,Tue 9/1,Washington,78061,2018
+383,Tue 9/1,West Virginia,10507,222
+384,Tue 9/1,Wisconsin,81688,1141
+385,Tue 9/1,Wyoming,3866,41
+386,Wed 9/2,Alabama,128239,2217
+387,Wed 9/2,Alaska,6181,36
+388,Wed 9/2,Arizona,202898,5070
+389,Wed 9/2,Arkansas,62112,841
+390,Wed 9/2,California,722035,13330
+391,Wed 9/2,Colorado,58392,1960
+392,Wed 9/2,Connecticut,53108,4467
+393,Wed 9/2,Delaware,17549,606
+394,Wed 9/2,District of Columbia,14077,608
+395,Wed 9/2,Florida,633434,11500
+396,Wed 9/2,Georgia,258482,5665
+397,Wed 9/2,Guam,2463,14
+398,Wed 9/2,Hawaii,8966,74
+399,Wed 9/2,Idaho,33059,374
+400,Wed 9/2,Illinois,241282,8322
+401,Wed 9/2,Indiana,97853,3325
+402,Wed 9/2,Iowa,66463,1134
+403,Wed 9/2,Kansas,44529,458
+404,Wed 9/2,Kentucky,52704,1008
+405,Wed 9/2,Louisiana,150734,5004
+406,Wed 9/2,Maine,4567,133
+407,Wed 9/2,Maryland,109808,3766
+408,Wed 9/2,Massachusetts,121131,9060
+409,Wed 9/2,Michigan,114603,6783
+410,Wed 9/2,Minnesota,77137,1882
+411,Wed 9/2,Mississippi,84365,2526
+412,Wed 9/2,Missouri,88974,1669
+413,Wed 9/2,Montana,7715,109
+414,Wed 9/2,Nebraska,34995,408
+415,Wed 9/2,Nevada,69927,1338
+416,Wed 9/2,New Hampshire,7309,432
+417,Wed 9/2,New Jersey,194378,15964
+418,Wed 9/2,New Mexico,25612,790
+419,Wed 9/2,New York,440947,32559
+420,Wed 9/2,North Carolina,171140,2806
+421,Wed 9/2,North Dakota,12271,152
+422,Wed 9/2,Northern Mariana Islands,57,2
+423,Wed 9/2,Ohio,125767,4176
+424,Wed 9/2,Oklahoma,60118,821
+425,Wed 9/2,Oregon,27085,473
+426,Wed 9/2,Pennsylvania,140577,7792
+427,Wed 9/2,Puerto Rico,34003,443
+428,Wed 9/2,Rhode Island,22078,1051
+429,Wed 9/2,South Carolina,120503,2794
+430,Wed 9/2,South Dakota,14003,169
+431,Wed 9/2,Tennessee,154833,1768
+432,Wed 9/2,Texas,649844,13185
+433,Wed 9/2,Utah,52950,414
+434,Wed 9/2,Vermont,1637,58
+435,Wed 9/2,Virgin Islands,1144,15
+436,Wed 9/2,Virginia,122542,2641
+437,Wed 9/2,Washington,78554,2025
+438,Wed 9/2,West Virginia,10642,230
+439,Wed 9/2,Wisconsin,82261,1151
+440,Wed 9/2,Wyoming,3911,41
+441,Thu 9/3,Alabama,129285,2233
+442,Thu 9/3,Alaska,6287,37
+443,Thu 9/3,Arizona,203964,5133
+444,Thu 9/3,Arkansas,63504,861
+445,Thu 9/3,California,727398,13497
+446,Thu 9/3,Colorado,58680,1963
+447,Thu 9/3,Connecticut,53209,4468
+448,Thu 9/3,Delaware,17653,606
+449,Thu 9/3,District of Columbia,14135,609
+450,Thu 9/3,Florida,637005,11649
+451,Thu 9/3,Georgia,261056,5735
+452,Thu 9/3,Guam,2529,14
+453,Thu 9/3,Hawaii,9177,78
+454,Thu 9/3,Idaho,33361,375
+455,Thu 9/3,Illinois,242715,8347
+456,Thu 9/3,Indiana,98971,3332
+457,Thu 9/3,Iowa,67693,1137
+458,Thu 9/3,Kansas,44755,475
+459,Thu 9/3,Kentucky,54067,1021
+460,Thu 9/3,Louisiana,151547,5021
+461,Thu 9/3,Maine,4617,133
+462,Thu 9/3,Maryland,110504,3778
+463,Thu 9/3,Massachusetts,121546,9077
+464,Thu 9/3,Michigan,115393,6794
+465,Thu 9/3,Minnesota,78175,1889
+466,Thu 9/3,Mississippi,85116,2536
+467,Thu 9/3,Missouri,90392,1680
+468,Thu 9/3,Montana,7903,111
+469,Thu 9/3,Nebraska,35469,410
+470,Thu 9/3,Nevada,70319,1366
+471,Thu 9/3,New Hampshire,7347,432
+472,Thu 9/3,New Jersey,194756,15971
+473,Thu 9/3,New Mexico,25812,791
+474,Thu 9/3,New York,441835,32567
+475,Thu 9/3,North Carolina,172791,2829
+476,Thu 9/3,North Dakota,12633,154
+477,Thu 9/3,Northern Mariana Islands,57,2
+478,Thu 9/3,Ohio,127112,4226
+479,Thu 9/3,Oklahoma,61027,835
+480,Thu 9/3,Oregon,27356,475
+481,Thu 9/3,Pennsylvania,141578,7805
+482,Thu 9/3,Puerto Rico,34198,448
+483,Thu 9/3,Rhode Island,22143,1055
+484,Thu 9/3,South Carolina,121696,2807
+485,Thu 9/3,South Dakota,14337,169
+486,Thu 9/3,Tennessee,157028,1791
+487,Thu 9/3,Texas,653321,13387
+488,Thu 9/3,Utah,53412,416
+489,Thu 9/3,Vermont,1637,58
+490,Thu 9/3,Virgin Islands,1150,16
+491,Thu 9/3,Virginia,123668,2652
+492,Thu 9/3,Washington,79120,2033
+493,Thu 9/3,West Virginia,10845,237
+494,Thu 9/3,Wisconsin,83119,1155
+495,Thu 9/3,Wyoming,3939,41
+496,Fri 9/4,Alabama,130393,2266
+497,Fri 9/4,Alaska,6416,37
+498,Fri 9/4,Arizona,204686,5174
+499,Fri 9/4,Arkansas,64678,873
+500,Fri 9/4,California,732691,13644
+501,Fri 9/4,Colorado,59021,1973
+502,Fri 9/4,Connecticut,53365,4468
+503,Fri 9/4,Delaware,17752,606
+504,Fri 9/4,District of Columbia,14186,611
+505,Fri 9/4,Florida,640203,11749
+506,Fri 9/4,Georgia,263047,5797
+507,Fri 9/4,Guam,2588,15
+508,Fri 9/4,Hawaii,9448,80
+509,Fri 9/4,Idaho,33628,386
+510,Fri 9/4,Illinois,248253,8386
+511,Fri 9/4,Indiana,100011,3350
+512,Fri 9/4,Iowa,68757,1158
+513,Fri 9/4,Kansas,46049,481
+514,Fri 9/4,Kentucky,55500,1028
+515,Fri 9/4,Louisiana,152369,5035
+516,Fri 9/4,Maine,4632,134
+517,Fri 9/4,Maryland,111332,3789
+518,Fri 9/4,Massachusetts,121758,9100
+519,Fri 9/4,Michigan,116470,6802
+520,Fri 9/4,Minnesota,79018,1899
+521,Fri 9/4,Mississippi,85939,2558
+522,Fri 9/4,Missouri,91994,1698
+523,Fri 9/4,Montana,8046,114
+524,Fri 9/4,Nebraska,35661,411
+525,Fri 9/4,Nevada,70783,1376
+526,Fri 9/4,New Hampshire,7368,432
+527,Fri 9/4,New Jersey,195205,15978
+528,Fri 9/4,New Mexico,25902,794
+529,Fri 9/4,New York,442698,32573
+530,Fri 9/4,North Carolina,174848,2868
+531,Fri 9/4,North Dakota,12977,154
+532,Fri 9/4,Northern Mariana Islands,57,2
+533,Fri 9/4,Ohio,128444,4248
+534,Fri 9/4,Oklahoma,62040,846
+535,Fri 9/4,Oregon,27605,481
+536,Fri 9/4,Pennsylvania,142537,7821
+537,Fri 9/4,Puerto Rico,34241,455
+538,Fri 9/4,Rhode Island,22243,1055
+539,Fri 9/4,South Carolina,123325,2846
+540,Fri 9/4,South Dakota,14596,170
+541,Fri 9/4,Tennessee,158120,1813
+542,Fri 9/4,Texas,658789,13516
+543,Fri 9/4,Utah,53940,420
+544,Fri 9/4,Vermont,1642,58
+545,Fri 9/4,Virgin Islands,1150,16
+546,Fri 9/4,Virginia,124779,2662
+547,Fri 9/4,Washington,79721,2042
+548,Fri 9/4,West Virginia,11037,243
+549,Fri 9/4,Wisconsin,84519,1164
+550,Fri 9/4,Wyoming,3989,42
+551,Sat 9/5,Alabama,131803,2275
+552,Sat 9/5,Alaska,6514,39
+553,Sat 9/5,Arizona,205518,5207
+554,Sat 9/5,Arkansas,65226,882
+555,Sat 9/5,California,737073,13708
+556,Sat 9/5,Colorado,59362,1978
+557,Sat 9/5,Connecticut,53365,4468
+558,Sat 9/5,Delaware,17892,608
+559,Sat 9/5,District of Columbia,14238,611
+560,Sat 9/5,Florida,643859,11810
+561,Sat 9/5,Georgia,265215,5842
+562,Sat 9/5,Guam,2640,16
+563,Sat 9/5,Hawaii,9667,83
+564,Sat 9/5,Idaho,33884,386
+565,Sat 9/5,Illinois,250882,8405
+566,Sat 9/5,Indiana,101094,3362
+567,Sat 9/5,Iowa,69690,1165
+568,Sat 9/5,Kansas,46051,482
+569,Sat 9/5,Kentucky,56016,1033
+570,Sat 9/5,Louisiana,152369,5035
+571,Sat 9/5,Maine,4667,134
+572,Sat 9/5,Maryland,112104,3796
+573,Sat 9/5,Massachusetts,122196,9116
+574,Sat 9/5,Michigan,117267,6809
+575,Sat 9/5,Minnesota,79932,1903
+576,Sat 9/5,Mississippi,86478,2569
+577,Sat 9/5,Missouri,93713,1728
+578,Sat 9/5,Montana,8178,116
+579,Sat 9/5,Nebraska,35805,415
+580,Sat 9/5,Nevada,71184,1390
+581,Sat 9/5,New Hampshire,7424,432
+582,Sat 9/5,New Jersey,195530,15985
+583,Sat 9/5,New Mexico,26048,800
+584,Sat 9/5,New York,443497,32579
+585,Sat 9/5,North Carolina,176124,2913
+586,Sat 9/5,North Dakota,13338,159
+587,Sat 9/5,Northern Mariana Islands,58,2
+588,Sat 9/5,Ohio,129785,4256
+589,Sat 9/5,Oklahoma,63187,850
+590,Sat 9/5,Oregon,27857,482
+591,Sat 9/5,Pennsylvania,143301,7837
+592,Sat 9/5,Puerto Rico,34492,464
+593,Sat 9/5,Rhode Island,22243,1055
+594,Sat 9/5,South Carolina,124289,2877
+595,Sat 9/5,South Dakota,14889,173
+596,Sat 9/5,Tennessee,159893,1838
+597,Sat 9/5,Texas,663246,13660
+598,Sat 9/5,Utah,54364,421
+599,Sat 9/5,Vermont,1647,58
+600,Sat 9/5,Virgin Islands,1167,16
+601,Sat 9/5,Virginia,125727,2677
+602,Sat 9/5,Washington,79900,2042
+603,Sat 9/5,West Virginia,11289,243
+604,Sat 9/5,Wisconsin,85517,1177
+605,Sat 9/5,Wyoming,4006,42
+606,Sun 9/6,Alabama,132314,2276
+607,Sun 9/6,Alaska,6603,39
+608,Sun 9/6,Arizona,205772,5221
+609,Sun 9/6,Arkansas,65924,894
+610,Sun 9/6,California,740233,13730
+611,Sun 9/6,Colorado,59626,1980
+612,Sun 9/6,Connecticut,53365,4468
+613,Sun 9/6,Delaware,18043,609
+614,Sun 9/6,District of Columbia,14279,611
+615,Sun 9/6,Florida,646423,11848
+616,Sun 9/6,Georgia,266707,5900
+617,Sun 9/6,Guam,2588,17
+618,Sun 9/6,Hawaii,9829,84
+619,Sun 9/6,Idaho,34053,387
+620,Sun 9/6,Illinois,252306,8409
+621,Sun 9/6,Indiana,101937,3364
+622,Sun 9/6,Iowa,70210,1167
+623,Sun 9/6,Kansas,46151,483
+624,Sun 9/6,Kentucky,56172,1035
+625,Sun 9/6,Louisiana,153764,5093
+626,Sun 9/6,Maine,4682,134
+627,Sun 9/6,Maryland,112557,3799
+628,Sun 9/6,Massachusetts,122562,9125
+629,Sun 9/6,Michigan,117310,6809
+630,Sun 9/6,Minnesota,80639,1909
+631,Sun 9/6,Mississippi,86888,2584
+632,Sun 9/6,Missouri,94923,1739
+633,Sun 9/6,Montana,8272,117
+634,Sun 9/6,Nebraska,35891,415
+635,Sun 9/6,Nevada,71711,1394
+636,Sun 9/6,New Hampshire,7447,433
+637,Sun 9/6,New Jersey,195841,15989
+638,Sun 9/6,New Mexico,26107,803
+639,Sun 9/6,New York,444226,32585
+640,Sun 9/6,North Carolina,177141,2920
+641,Sun 9/6,North Dakota,13635,160
+642,Sun 9/6,Northern Mariana Islands,58,2
+643,Sun 9/6,Ohio,130558,4259
+644,Sun 9/6,Oklahoma,63607,853
+645,Sun 9/6,Oregon,28045,483
+646,Sun 9/6,Pennsylvania,143902,7837
+647,Sun 9/6,Puerto Rico,34533,477
+648,Sun 9/6,Rhode Island,22243,1055
+649,Sun 9/6,South Carolina,124952,2887
+650,Sun 9/6,South Dakota,15109,173
+651,Sun 9/6,Tennessee,161589,1841
+652,Sun 9/6,Texas,665338,13739
+653,Sun 9/6,Utah,54660,423
+654,Sun 9/6,Vermont,1648,58
+655,Sun 9/6,Virgin Islands,1181,17
+656,Sun 9/6,Virginia,126926,2678
+657,Sun 9/6,Washington,80369,2043
+658,Sun 9/6,West Virginia,11412,246
+659,Sun 9/6,Wisconsin,86406,1177
+660,Sun 9/6,Wyoming,4032,42
+661,Mon 9/7,Alabama,132973,2276
+662,Mon 9/7,Alaska,6637,39
+663,Mon 9/7,Arizona,205971,5219
+664,Mon 9/7,Arkansas,66280,908
+665,Mon 9/7,California,742689,13763
+666,Mon 9/7,Colorado,59823,1980
+667,Mon 9/7,Connecticut,53365,4468
+668,Mon 9/7,Delaware,18249,609
+669,Mon 9/7,District of Columbia,14315,611
+670,Mon 9/7,Florida,648261,11870
+671,Mon 9/7,Georgia,267238,5907
+672,Mon 9/7,Guam,2588,19
+673,Mon 9/7,Hawaii,9933,85
+674,Mon 9/7,Idaho,34153,387
+675,Mon 9/7,Illinois,253649,8417
+676,Mon 9/7,Indiana,102527,3368
+677,Mon 9/7,Iowa,70537,1170
+678,Mon 9/7,Kansas,47409,485
+679,Mon 9/7,Kentucky,56545,1036
+680,Mon 9/7,Louisiana,154073,5105
+681,Mon 9/7,Maine,4701,134
+682,Mon 9/7,Maryland,113378,3804
+683,Mon 9/7,Massachusetts,122791,9133
+684,Mon 9/7,Michigan,118388,6813
+685,Mon 9/7,Minnesota,81277,1912
+686,Mon 9/7,Mississippi,87130,2585
+687,Mon 9/7,Missouri,95795,1739
+688,Mon 9/7,Montana,8340,118
+689,Mon 9/7,Nebraska,35975,415
+690,Mon 9/7,Nevada,72048,1394
+691,Mon 9/7,New Hampshire,7476,433
+692,Mon 9/7,New Jersey,196173,15991
+693,Mon 9/7,New Mexico,26144,807
+694,Mon 9/7,New York,444751,32600
+695,Mon 9/7,North Carolina,178212,2920
+696,Mon 9/7,North Dakota,13805,160
+697,Mon 9/7,Northern Mariana Islands,59,2
+698,Mon 9/7,Ohio,131336,4276
+699,Mon 9/7,Oklahoma,64220,853
+700,Mon 9/7,Oregon,28191,487
+701,Mon 9/7,Pennsylvania,144658,7855
+702,Mon 9/7,Puerto Rico,35375,477
+703,Mon 9/7,Rhode Island,22243,1055
+704,Mon 9/7,South Carolina,125607,2907
+705,Mon 9/7,South Dakota,15300,173
+706,Mon 9/7,Tennessee,162531,1845
+707,Mon 9/7,Texas,666209,13781
+708,Mon 9/7,Utah,55052,424
+709,Mon 9/7,Vermont,1651,58
+710,Mon 9/7,Virgin Islands,1190,17
+711,Mon 9/7,Virginia,127571,2684
+712,Mon 9/7,Washington,80485,2043
+713,Mon 9/7,West Virginia,11575,247
+714,Mon 9/7,Wisconsin,86981,1177
+715,Mon 9/7,Wyoming,4032,42
+716,Tue 9/8,Alabama,133606,2277
+717,Tue 9/8,Alaska,6670,39
+718,Tue 9/8,Arizona,206048,5221
+719,Tue 9/8,Arkansas,66757,917
+720,Tue 9/8,California,746113,13843
+721,Tue 9/8,Colorado,60003,1980
+722,Tue 9/8,Connecticut,53782,4474
+723,Tue 9/8,Delaware,18308,609
+724,Tue 9/8,District of Columbia,14362,611
+725,Tue 9/8,Florida,650084,11914
+726,Tue 9/8,Georgia,268684,5931
+727,Tue 9/8,Guam,2682,20
+728,Tue 9/8,Hawaii,10130,87
+729,Tue 9/8,Idaho,34461,390
+730,Tue 9/8,Illinois,255229,8431
+731,Tue 9/8,Indiana,102917,3380
+732,Tue 9/8,Iowa,71018,1185
+733,Tue 9/8,Kansas,47878,486
+734,Tue 9/8,Kentucky,56877,1039
+735,Tue 9/8,Louisiana,154329,5118
+736,Tue 9/8,Maine,4713,134
+737,Tue 9/8,Maryland,113734,3807
+738,Tue 9/8,Massachusetts,122962,9141
+739,Tue 9/8,Michigan,118984,6814
+740,Tue 9/8,Minnesota,81660,1914
+741,Tue 9/8,Mississippi,87379,2585
+742,Tue 9/8,Missouri,97044,1746
+743,Tue 9/8,Montana,8409,119
+744,Tue 9/8,Nebraska,36477,418
+745,Tue 9/8,Nevada,72165,1395
+746,Tue 9/8,New Hampshire,7494,433
+747,Tue 9/8,New Jersey,196450,15996
+748,Tue 9/8,New Mexico,26181,807
+749,Tue 9/8,New York,445308,32612
+750,Tue 9/8,North Carolina,179150,2942
+751,Tue 9/8,North Dakota,13876,160
+752,Tue 9/8,Northern Mariana Islands,59,2
+753,Tue 9/8,Ohio,131992,4298
+754,Tue 9/8,Oklahoma,65053,854
+755,Tue 9/8,Oregon,28355,492
+756,Tue 9/8,Pennsylvania,145191,7862
+757,Tue 9/8,Puerto Rico,35504,482
+758,Tue 9/8,Rhode Island,22592,1059
+759,Tue 9/8,South Carolina,125908,2912
+760,Tue 9/8,South Dakota,15403,173
+761,Tue 9/8,Tennessee,163180,1873
+762,Tue 9/8,Texas,670427,13855
+763,Tue 9/8,Utah,55424,426
+764,Tue 9/8,Vermont,1654,58
+765,Tue 9/8,Virgin Islands,1191,18
+766,Tue 9/8,Virginia,128407,2686
+767,Tue 9/8,Washington,81048,2045
+768,Tue 9/8,West Virginia,11661,250
+769,Tue 9/8,Wisconsin,87730,1179
+770,Tue 9/8,Wyoming,4103,42
+771,Wed 9/9,Alabama,134417,2285
+772,Wed 9/9,Alaska,6735,39
+773,Wed 9/9,Arizona,206548,5253
+774,Wed 9/9,Arkansas,67255,928
+775,Wed 9/9,California,749196,13990
+776,Wed 9/9,Colorado,60291,1984
+777,Wed 9/9,Connecticut,53871,4474
+778,Wed 9/9,Delaware,18308,609
+779,Wed 9/9,District of Columbia,14387,615
+780,Wed 9/9,Florida,652140,12114
+781,Wed 9/9,Georgia,270624,5987
+782,Wed 9/9,Guam,2727,21
+783,Wed 9/9,Hawaii,10228,90
+784,Wed 9/9,Idaho,34707,406
+785,Wed 9/9,Illinois,256614,8457
+786,Wed 9/9,Indiana,103641,3397
+787,Wed 9/9,Iowa,71594,1204
+788,Wed 9/9,Kansas,48389,497
+789,Wed 9/9,Kentucky,57518,1058
+790,Wed 9/9,Louisiana,155890,5140
+791,Wed 9/9,Maine,4734,134
+792,Wed 9/9,Maryland,114070,3816
+793,Wed 9/9,Massachusetts,123143,9146
+794,Wed 9/9,Michigan,119952,6889
+795,Wed 9/9,Minnesota,81920,1921
+796,Wed 9/9,Mississippi,87805,2623
+797,Wed 9/9,Missouri,98446,1755
+798,Wed 9/9,Montana,8499,122
+799,Wed 9/9,Nebraska,36917,434
+800,Wed 9/9,Nevada,72317,1414
+801,Wed 9/9,New Hampshire,7517,433
+802,Wed 9/9,New Jersey,196779,16009
+803,Wed 9/9,New Mexico,26268,813
+804,Wed 9/9,New York,445881,32611
+805,Wed 9/9,North Carolina,180061,2990
+806,Wed 9/9,North Dakota,14114,161
+807,Wed 9/9,Northern Mariana Islands,59,2
+808,Wed 9/9,Ohio,132965,4324
+809,Wed 9/9,Oklahoma,65929,863
+810,Wed 9/9,Oregon,28474,499
+811,Wed 9/9,Pennsylvania,146058,7882
+812,Wed 9/9,Puerto Rico,35507,500
+813,Wed 9/9,Rhode Island,22676,1062
+814,Wed 9/9,South Carolina,126213,2942
+815,Wed 9/9,South Dakota,15571,173
+816,Wed 9/9,Tennessee,164032,1908
+817,Wed 9/9,Texas,675149,13986
+818,Wed 9/9,Utah,55730,428
+819,Wed 9/9,Vermont,1656,58
+820,Wed 9/9,Virgin Islands,1197,18
+821,Wed 9/9,Virginia,129289,2697
+822,Wed 9/9,Washington,81528,2066
+823,Wed 9/9,West Virginia,11808,254
+824,Wed 9/9,Wisconsin,88643,1193
+825,Wed 9/9,Wyoming,4151,42
+826,Thu 9/10,Alabama,135565,2301
+827,Thu 9/10,Alaska,6860,39
+828,Thu 9/10,Arizona,207002,5275
+829,Thu 9/10,Arkansas,67803,940
+830,Thu 9/10,California,753017,14094
+831,Thu 9/10,Colorado,60576,1988
+832,Thu 9/10,Connecticut,54093,4478
+833,Thu 9/10,Delaware,18466,613
+834,Thu 9/10,District of Columbia,14412,616
+835,Thu 9/10,Florida,654723,12325
+836,Thu 9/10,Georgia,272588,6062
+837,Thu 9/10,Guam,2815,22
+838,Thu 9/10,Hawaii,10397,93
+839,Thu 9/10,Idaho,35027,407
+840,Thu 9/10,Illinois,258573,8480
+841,Thu 9/10,Indiana,104429,3410
+842,Thu 9/10,Iowa,72548,1208
+843,Thu 9/10,Kansas,48443,499
+844,Thu 9/10,Kentucky,58452,1073
+845,Thu 9/10,Louisiana,156354,5161
+846,Thu 9/10,Maine,4760,134
+847,Thu 9/10,Maryland,114574,3824
+848,Thu 9/10,Massachusetts,123546,9166
+849,Thu 9/10,Michigan,120896,6894
+850,Thu 9/10,Minnesota,82301,1936
+851,Thu 9/10,Mississippi,88322,2656
+852,Thu 9/10,Missouri,99677,1773
+853,Thu 9/10,Montana,8694,123
+854,Thu 9/10,Nebraska,37373,440
+855,Thu 9/10,Nevada,72620,1432
+856,Thu 9/10,New Hampshire,7573,434
+857,Thu 9/10,New Jersey,197203,16014
+858,Thu 9/10,New Mexico,26429,816
+859,Thu 9/10,New York,446637,32618
+860,Thu 9/10,North Carolina,181335,3016
+861,Thu 9/10,North Dakota,14446,163
+862,Thu 9/10,Northern Mariana Islands,59,2
+863,Thu 9/10,Ohio,134086,4354
+864,Thu 9/10,Oklahoma,66700,876
+865,Thu 9/10,Oregon,28661,501
+866,Thu 9/10,Pennsylvania,146735,7894
+867,Thu 9/10,Puerto Rico,36279,512
+868,Thu 9/10,Rhode Island,22782,1067
+869,Thu 9/10,South Carolina,126592,2975
+870,Thu 9/10,South Dakota,15834,177
+871,Thu 9/10,Tennessee,165911,1963
+872,Thu 9/10,Texas,677888,13998
+873,Thu 9/10,Utah,56182,431
+874,Thu 9/10,Vermont,1661,58
+875,Thu 9/10,Virgin Islands,1201,18
+876,Thu 9/10,Virginia,130525,2708
+877,Thu 9/10,Washington,82125,2073
+878,Thu 9/10,West Virginia,12017,257
+879,Thu 9/10,Wisconsin,90232,1202
+880,Thu 9/10,Wyoming,4199,42
+881,Fri 9/11,Alabama,136703,2333
+882,Fri 9/11,Alaska,6968,40
+883,Fri 9/11,Arizona,207525,5290
+884,Fri 9/11,Arkansas,68987,953
+885,Fri 9/11,California,757125,14265
+886,Fri 9/11,Colorado,60881,1991
+887,Fri 9/11,Connecticut,54326,4480
+888,Fri 9/11,Delaware,18559,613
+889,Fri 9/11,District of Columbia,14493,616
+890,Fri 9/11,Florida,658373,12501
+891,Fri 9/11,Georgia,274242,6103
+892,Fri 9/11,Guam,2832,24
+893,Fri 9/11,Hawaii,10567,95
+894,Fri 9/11,Idaho,35354,415
+895,Fri 9/11,Illinois,260949,8522
+896,Fri 9/11,Indiana,105703,3420
+897,Fri 9/11,Iowa,73399,1216
+898,Fri 9/11,Kansas,49393,520
+899,Fri 9/11,Kentucky,59349,1087
+900,Fri 9/11,Louisiana,157109,5202
+901,Fri 9/11,Maine,4792,134
+902,Fri 9/11,Maryland,115217,3828
+903,Fri 9/11,Massachusetts,123986,9180
+904,Fri 9/11,Michigan,122319,6900
+905,Fri 9/11,Minnesota,82768,1949
+906,Fri 9/11,Mississippi,89175,2670
+907,Fri 9/11,Missouri,101285,1784
+908,Fri 9/11,Montana,8817,132
+909,Fri 9/11,Nebraska,37841,449
+910,Fri 9/11,Nevada,72886,1441
+911,Fri 9/11,New Hampshire,7620,434
+912,Fri 9/11,New Jersey,197677,16023
+913,Fri 9/11,New Mexico,26563,818
+914,Fri 9/11,New York,447498,32619
+915,Fri 9/11,North Carolina,182934,3050
+916,Fri 9/11,North Dakota,14687,167
+917,Fri 9/11,Northern Mariana Islands,59,2
+918,Fri 9/11,Ohio,135326,4403
+919,Fri 9/11,Oklahoma,67642,888
+920,Fri 9/11,Oregon,28888,500
+921,Fri 9/11,Pennsylvania,147744,7914
+922,Fri 9/11,Puerto Rico,36581,523
+923,Fri 9/11,Rhode Island,22905,1071
+924,Fri 9/11,South Carolina,129046,3028
+925,Fri 9/11,South Dakota,16117,177
+926,Fri 9/11,Tennessee,167263,1999
+927,Fri 9/11,Texas,683295,14279
+928,Fri 9/11,Utah,56789,433
+929,Fri 9/11,Vermont,1668,58
+930,Fri 9/11,Virgin Islands,1201,18
+931,Fri 9/11,Virginia,131640,2711
+932,Fri 9/11,Washington,82590,2079
+933,Fri 9/11,West Virginia,12174,263
+934,Fri 9/11,Wisconsin,91672,1206
+935,Fri 9/11,Wyoming,4264,42
+936,Sat 9/12,Alabama,137646,2350
+937,Sat 9/12,Alaska,7074,41
+938,Sat 9/12,Arizona,208128,5316
+939,Sat 9/12,Arkansas,69710,969
+940,Sat 9/12,California,760581,14333
+941,Sat 9/12,Colorado,61311,1994
+942,Sat 9/12,Connecticut,54326,4480
+943,Sat 9/12,Delaware,18726,613
+944,Sat 9/12,District of Columbia,14552,616
+945,Sat 9/12,Florida,661563,12599
+946,Sat 9/12,Georgia,276319,6144
+947,Sat 9/12,Guam,2832,24
+948,Sat 9/12,Hawaii,10696,96
+949,Sat 9/12,Idaho,35588,416
+950,Sat 9/12,Illinois,262957,8546
+951,Sat 9/12,Indiana,106777,3437
+952,Sat 9/12,Iowa,74204,1218
+953,Sat 9/12,Kansas,49398,533
+954,Sat 9/12,Kentucky,60187,1099
+955,Sat 9/12,Louisiana,157109,5202
+956,Sat 9/12,Maine,4834,135
+957,Sat 9/12,Maryland,115876,3836
+958,Sat 9/12,Massachusetts,124540,9196
+959,Sat 9/12,Michigan,123048,6912
+960,Sat 9/12,Minnesota,83640,1958
+961,Sat 9/12,Mississippi,89620,2685
+962,Sat 9/12,Missouri,103085,1802
+963,Sat 9/12,Montana,8946,134
+964,Sat 9/12,Nebraska,38108,449
+965,Sat 9/12,Nevada,73291,1453
+966,Sat 9/12,New Hampshire,7652,435
+967,Sat 9/12,New Jersey,198126,16027
+968,Sat 9/12,New Mexico,26661,821
+969,Sat 9/12,New York,448347,32625
+970,Sat 9/12,North Carolina,184305,3073
+971,Sat 9/12,North Dakota,15154,170
+972,Sat 9/12,Northern Mariana Islands,60,2
+973,Sat 9/12,Ohio,136568,4411
+974,Sat 9/12,Oklahoma,68659,899
+975,Sat 9/12,Oregon,29156,505
+976,Sat 9/12,Pennsylvania,148635,7915
+977,Sat 9/12,Puerto Rico,37092,535
+978,Sat 9/12,Rhode Island,22905,1071
+979,Sat 9/12,South Carolina,129978,3040
+980,Sat 9/12,South Dakota,16437,183
+981,Sat 9/12,Tennessee,168552,2040
+982,Sat 9/12,Texas,685921,14384
+983,Sat 9/12,Utah,57276,434
+984,Sat 9/12,Vermont,1677,58
+985,Sat 9/12,Virgin Islands,1220,19
+986,Sat 9/12,Virginia,132940,2722
+987,Sat 9/12,Washington,82957,2079
+988,Sat 9/12,West Virginia,12521,265
+989,Sat 9/12,Wisconsin,93102,1218
+990,Sat 9/12,Wyoming,4297,42
+991,Sun 9/13,Alabama,138755,2351
+992,Sun 9/13,Alaska,7136,41
+993,Sun 9/13,Arizona,208514,5322
+994,Sun 9/13,Arkansas,70219,981
+995,Sun 9/13,California,763389,14386
+996,Sun 9/13,Colorado,61641,1994
+997,Sun 9/13,Connecticut,54326,4480
+998,Sun 9/13,Delaware,18849,615
+999,Sun 9/13,District of Columbia,14592,616
+1000,Sun 9/13,Florida,663986,12607
+1001,Sun 9/13,Georgia,277715,6191
+1002,Sun 9/13,Guam,2832,24
+1003,Sun 9/13,Hawaii,10808,98
+1004,Sun 9/13,Idaho,35693,416
+1005,Sun 9/13,Illinois,264340,8562
+1006,Sun 9/13,Indiana,108020,3438
+1007,Sun 9/13,Iowa,74675,1220
+1008,Sun 9/13,Kansas,49408,536
+1009,Sun 9/13,Kentucky,60607,1102
+1010,Sun 9/13,Louisiana,158390,5235
+1011,Sun 9/13,Maine,4863,136
+1012,Sun 9/13,Maryland,116600,3838
+1013,Sun 9/13,Massachusetts,124826,9210
+1014,Sun 9/13,Michigan,123075,6912
+1015,Sun 9/13,Minnesota,84363,1971
+1016,Sun 9/13,Mississippi,89874,2697
+1017,Sun 9/13,Missouri,104603,1812
+1018,Sun 9/13,Montana,9037,136
+1019,Sun 9/13,Nebraska,38188,449
+1020,Sun 9/13,Nevada,73648,1454
+1021,Sun 9/13,New Hampshire,7696,436
+1022,Sun 9/13,New Jersey,198423,16031
+1023,Sun 9/13,New Mexico,26761,823
+1024,Sun 9/13,New York,449072,32629
+1025,Sun 9/13,North Carolina,185325,3080
+1026,Sun 9/13,North Dakota,15580,171
+1027,Sun 9/13,Northern Mariana Islands,60,2
+1028,Sun 9/13,Ohio,137405,4415
+1029,Sun 9/13,Oklahoma,69354,905
+1030,Sun 9/13,Oregon,29337,509
+1031,Sun 9/13,Pennsylvania,148635,7915
+1032,Sun 9/13,Puerto Rico,37380,539
+1033,Sun 9/13,Rhode Island,22905,1071
+1034,Sun 9/13,South Carolina,131864,3064
+1035,Sun 9/13,South Dakota,16638,184
+1036,Sun 9/13,Tennessee,169310,2055
+1037,Sun 9/13,Texas,689941,14458
+1038,Sun 9/13,Utah,57892,434
+1039,Sun 9/13,Vermont,1684,58
+1040,Sun 9/13,Virgin Islands,1220,19
+1041,Sun 9/13,Virginia,133814,2724
+1042,Sun 9/13,Washington,83177,2079
+1043,Sun 9/13,West Virginia,12699,266
+1044,Sun 9/13,Wisconsin,94723,1219
+1045,Sun 9/13,Wyoming,4346,42
+1046,Mon 9/14,Alabama,139459,2355
+1047,Mon 9/14,Alaska,7213,41
+1048,Mon 9/14,Arizona,208726,5322
+1049,Mon 9/14,Arkansas,70627,992
+1050,Mon 9/14,California,767062,14458
+1051,Mon 9/14,Colorado,62032,2000
+1052,Mon 9/14,Connecticut,54895,4485
+1053,Mon 9/14,Delaware,18937,617
+1054,Mon 9/14,District of Columbia,14622,616
+1055,Mon 9/14,Florida,665722,12641
+1056,Mon 9/14,Georgia,278699,6211
+1057,Mon 9/14,Guam,2896,27
+1058,Mon 9/14,Hawaii,10887,98
+1059,Mon 9/14,Idaho,35984,420
+1060,Mon 9/14,Illinois,265869,8571
+1061,Mon 9/14,Indiana,108755,3439
+1062,Mon 9/14,Iowa,75069,1233
+1063,Mon 9/14,Kansas,50871,546
+1064,Mon 9/14,Kentucky,61182,1105
+1065,Mon 9/14,Louisiana,158882,5252
+1066,Mon 9/14,Maine,4903,136
+1067,Mon 9/14,Maryland,117147,3839
+1068,Mon 9/14,Massachusetts,125080,9219
+1069,Mon 9/14,Michigan,124276,6922
+1070,Mon 9/14,Minnesota,85001,1974
+1071,Mon 9/14,Mississippi,90018,2706
+1072,Mon 9/14,Missouri,106057,1812
+1073,Mon 9/14,Montana,9164,139
+1074,Mon 9/14,Nebraska,38642,450
+1075,Mon 9/14,Nevada,73889,1456
+1076,Mon 9/14,New Hampshire,7714,436
+1077,Mon 9/14,New Jersey,198757,16034
+1078,Mon 9/14,New Mexico,26842,823
+1079,Mon 9/14,New York,449658,32639
+1080,Mon 9/14,North Carolina,186447,3094
+1081,Mon 9/14,North Dakota,15834,173
+1082,Mon 9/14,Northern Mariana Islands,61,2
+1083,Mon 9/14,Ohio,138484,4419
+1084,Mon 9/14,Oklahoma,70223,905
+1085,Mon 9/14,Oregon,29488,511
+1086,Mon 9/14,Pennsylvania,150044,7940
+1087,Mon 9/14,Puerto Rico,37750,542
+1088,Mon 9/14,Rhode Island,23130,1075
+1089,Mon 9/14,South Carolina,132680,3077
+1090,Mon 9/14,South Dakota,16801,184
+1091,Mon 9/14,Tennessee,171498,2073
+1092,Mon 9/14,Texas,694547,14508
+1093,Mon 9/14,Utah,58451,436
+1094,Mon 9/14,Vermont,1696,58
+1095,Mon 9/14,Virgin Islands,1221,19
+1096,Mon 9/14,Virginia,134571,2743
+1097,Mon 9/14,Washington,83861,2095
+1098,Mon 9/14,West Virginia,12820,275
+1099,Mon 9/14,Wisconsin,95564,1219
+1100,Mon 9/14,Wyoming,4392,46
+1101,Tue 9/15,Alabama,140160,2387
+1102,Tue 9/15,Alaska,7256,41
+1103,Tue 9/15,Arizona,209215,5346
+1104,Tue 9/15,Arkansas,71497,1150
+1105,Tue 9/15,California,769917,14606
+1106,Tue 9/15,Colorado,62575,2006
+1107,Tue 9/15,Connecticut,55031,4485
+1108,Tue 9/15,Delaware,19137,618
+1109,Tue 9/15,District of Columbia,14687,616
+1110,Tue 9/15,Florida,668838,12786
+1111,Tue 9/15,Georgia,280356,6255
+1112,Tue 9/15,Guam,2935,29
+1113,Tue 9/15,Hawaii,10951,99
+1114,Tue 9/15,Idaho,36306,425
+1115,Tue 9/15,Illinois,267380,8589
+1116,Tue 9/15,Indiana,109445,3460
+1117,Tue 9/15,Iowa,75722,1234
+1118,Tue 9/15,Kansas,51006,555
+1119,Tue 9/15,Kentucky,61986,1112
+1120,Tue 9/15,Louisiana,159253,5278
+1121,Tue 9/15,Maine,4918,137
+1122,Tue 9/15,Maryland,117745,3849
+1123,Tue 9/15,Massachusetts,125393,9225
+1124,Tue 9/15,Michigan,124978,6933
+1125,Tue 9/15,Minnesota,85403,1979
+1126,Tue 9/15,Mississippi,90523,2734
+1127,Tue 9/15,Missouri,107687,1830
+1128,Tue 9/15,Montana,9281,141
+1129,Tue 9/15,Nebraska,38970,451
+1130,Tue 9/15,Nevada,74129,1484
+1131,Tue 9/15,New Hampshire,7748,438
+1132,Tue 9/15,New Jersey,199193,16043
+1133,Tue 9/15,New Mexico,26923,830
+1134,Tue 9/15,New York,450425,32655
+1135,Tue 9/15,North Carolina,187486,3135
+1136,Tue 9/15,North Dakota,16067,175
+1137,Tue 9/15,Northern Mariana Islands,61,2
+1138,Tue 9/15,Ohio,139485,4506
+1139,Tue 9/15,Oklahoma,71314,912
+1140,Tue 9/15,Oregon,29664,519
+1141,Tue 9/15,Pennsylvania,151081,7945
+1142,Tue 9/15,Puerto Rico,38172,551
+1143,Tue 9/15,Rhode Island,23250,1078
+1144,Tue 9/15,South Carolina,133470,3098
+1145,Tue 9/15,South Dakota,16994,184
+1146,Tue 9/15,Tennessee,172692,2102
+1147,Tue 9/15,Texas,701509,14661
+1148,Tue 9/15,Utah,59017,436
+1149,Tue 9/15,Vermont,1702,58
+1150,Tue 9/15,Virgin Islands,1232,19
+1151,Tue 9/15,Virginia,135514,2839
+1152,Tue 9/15,Washington,84222,2107
+1153,Tue 9/15,West Virginia,12976,280
+1154,Tue 9/15,Wisconsin,97002,1230
+1155,Tue 9/15,Wyoming,4438,46
+1156,Wed 9/16,Alabama,141087,2392
+1157,Wed 9/16,Alaska,7308,41
+1158,Wed 9/16,Arizona,209911,5376
+1159,Wed 9/16,Arkansas,72219,1157
+1160,Wed 9/16,California,773318,14716
+1161,Wed 9/16,Colorado,63068,2010
+1162,Wed 9/16,Connecticut,55166,4487
+1163,Wed 9/16,Delaware,19234,619
+1164,Wed 9/16,District of Columbia,14743,617
+1165,Wed 9/16,Florida,671193,12938
+1166,Wed 9/16,Georgia,282363,6276
+1167,Wed 9/16,Guam,2982,29
+1168,Wed 9/16,Hawaii,11052,102
+1169,Wed 9/16,Idaho,36594,430
+1170,Wed 9/16,Illinois,269282,8622
+1171,Wed 9/16,Indiana,110025,3472
+1172,Wed 9/16,Iowa,76680,1248
+1173,Wed 9/16,Kansas,51829,586
+1174,Wed 9/16,Kentucky,62723,1118
+1175,Wed 9/16,Louisiana,159865,5294
+1176,Wed 9/16,Maine,4941,138
+1177,Wed 9/16,Maryland,118387,3855
+1178,Wed 9/16,Massachusetts,125699,9245
+1179,Wed 9/16,Michigan,125782,6944
+1180,Wed 9/16,Minnesota,85865,1985
+1181,Wed 9/16,Mississippi,91234,2756
+1182,Wed 9/16,Missouri,108997,1844
+1183,Wed 9/16,Montana,9487,141
+1184,Wed 9/16,Nebraska,39419,455
+1185,Wed 9/16,Nevada,74377,1496
+1186,Wed 9/16,New Hampshire,7780,438
+1187,Wed 9/16,New Jersey,199583,16054
+1188,Wed 9/16,New Mexico,27041,832
+1189,Wed 9/16,New York,451078,32662
+1190,Wed 9/16,North Carolina,188800,3176
+1191,Wed 9/16,North Dakota,16336,180
+1192,Wed 9/16,Northern Mariana Islands,61,2
+1193,Wed 9/16,Ohio,140518,4555
+1194,Wed 9/16,Oklahoma,72284,924
+1195,Wed 9/16,Oregon,29856,521
+1196,Wed 9/16,Pennsylvania,151889,7963
+1197,Wed 9/16,Puerto Rico,38284,570
+1198,Wed 9/16,Rhode Island,23358,1081
+1199,Wed 9/16,South Carolina,134122,3132
+1200,Wed 9/16,South Dakota,17291,192
+1201,Wed 9/16,Tennessee,174400,2127
+1202,Wed 9/16,Texas,706034,14803
+1203,Wed 9/16,Utah,59770,437
+1204,Wed 9/16,Vermont,1702,58
+1205,Wed 9/16,Virgin Islands,1232,19
+1206,Wed 9/16,Virginia,136359,2884
+1207,Wed 9/16,Washington,84714,2113
+1208,Wed 9/16,West Virginia,13196,290
+1209,Wed 9/16,Wisconsin,98501,1238
+1210,Wed 9/16,Wyoming,4566,46
+1211,Thu 9/17,Alabama,141757,2401
+1212,Thu 9/17,Alaska,7413,41
+1213,Thu 9/17,Arizona,211663,5411
+1214,Thu 9/17,Arkansas,73211,1166
+1215,Thu 9/17,California,776944,14807
+1216,Thu 9/17,Colorado,63613,2016
+1217,Thu 9/17,Connecticut,55386,4488
+1218,Thu 9/17,Delaware,19318,619
+1219,Thu 9/17,District of Columbia,14790,619
+1220,Thu 9/17,Florida,674448,13085
+1221,Thu 9/17,Georgia,284219,6328
+1222,Thu 9/17,Guam,3014,31
+1223,Thu 9/17,Hawaii,11211,106
+1224,Thu 9/17,Idaho,36924,435
+1225,Thu 9/17,Illinois,271370,8643
+1226,Thu 9/17,Indiana,110863,3478
+1227,Thu 9/17,Iowa,77865,1257
+1228,Thu 9/17,Kansas,52039,586
+1229,Thu 9/17,Kentucky,63412,1127
+1230,Thu 9/17,Louisiana,160343,5311
+1231,Thu 9/17,Maine,4962,138
+1232,Thu 9/17,Maryland,119017,3861
+1233,Thu 9/17,Massachusetts,126128,9260
+1234,Thu 9/17,Michigan,126794,6956
+1235,Thu 9/17,Minnesota,86774,1994
+1236,Thu 9/17,Mississippi,91935,2780
+1237,Thu 9/17,Missouri,110554,1864
+1238,Thu 9/17,Montana,9721,143
+1239,Thu 9/17,Nebraska,39921,457
+1240,Thu 9/17,Nevada,74792,1509
+1241,Thu 9/17,New Hampshire,7814,438
+1242,Thu 9/17,New Jersey,200152,16057
+1243,Thu 9/17,New Mexico,27199,836
+1244,Thu 9/17,New York,451971,32669
+1245,Thu 9/17,North Carolina,190307,3208
+1246,Thu 9/17,North Dakota,16726,185
+1247,Thu 9/17,Northern Mariana Islands,62,2
+1248,Thu 9/17,Ohio,141585,4580
+1249,Thu 9/17,Oklahoma,73318,930
+1250,Thu 9/17,Oregon,30068,521
+1251,Thu 9/17,Pennsylvania,152813,7978
+1252,Thu 9/17,Puerto Rico,38867,588
+1253,Thu 9/17,Rhode Island,23488,1085
+1254,Thu 9/17,South Carolina,135446,3158
+1255,Thu 9/17,South Dakota,17686,193
+1256,Thu 9/17,Tennessee,175702,2141
+1257,Thu 9/17,Texas,710423,14909
+1258,Thu 9/17,Utah,60662,437
+1259,Thu 9/17,Vermont,1705,58
+1260,Thu 9/17,Virgin Islands,1238,19
+1261,Thu 9/17,Virginia,137460,2920
+1262,Thu 9/17,Washington,85101,2123
+1263,Thu 9/17,West Virginia,13430,294
+1264,Thu 9/17,Wisconsin,100619,1240
+1265,Thu 9/17,Wyoming,4652,49
+1266,Fri 9/18,Alabama,142863,2428
+1267,Fri 9/18,Alaska,7528,42
+1268,Fri 9/18,Arizona,213663,5455
+1269,Fri 9/18,Arkansas,74082,1173
+1270,Fri 9/18,California,781436,14912
+1271,Fri 9/18,Colorado,64277,2020
+1272,Fri 9/18,Connecticut,55527,4492
+1273,Fri 9/18,Delaware,19366,620
+1274,Fri 9/18,District of Columbia,14852,619
+1275,Fri 9/18,Florida,677652,13224
+1276,Fri 9/18,Georgia,286170,6390
+1277,Fri 9/18,Guam,3043,34
+1278,Fri 9/18,Hawaii,11348,119
+1279,Fri 9/18,Idaho,37358,439
+1280,Fri 9/18,Illinois,273596,8666
+1281,Fri 9/18,Indiana,111900,3495
+1282,Fri 9/18,Iowa,78839,1264
+1283,Fri 9/18,Kansas,53403,596
+1284,Fri 9/18,Kentucky,64155,1132
+1285,Fri 9/18,Louisiana,161322,5340
+1286,Fri 9/18,Maine,5005,138
+1287,Fri 9/18,Maryland,119559,3869
+1288,Fri 9/18,Massachusetts,126582,9269
+1289,Fri 9/18,Michigan,127558,6955
+1290,Fri 9/18,Minnesota,87859,2002
+1291,Fri 9/18,Mississippi,92432,2792
+1292,Fri 9/18,Missouri,112547,1892
+1293,Fri 9/18,Montana,9934,146
+1294,Fri 9/18,Nebraska,40387,457
+1295,Fri 9/18,Nevada,75153,1526
+1296,Fri 9/18,New Hampshire,7861,438
+1297,Fri 9/18,New Jersey,200639,16061
+1298,Fri 9/18,New Mexico,27350,841
+1299,Fri 9/18,New York,452764,32682
+1300,Fri 9/18,North Carolina,191672,3232
+1301,Fri 9/18,North Dakota,17233,187
+1302,Fri 9/18,Northern Mariana Islands,62,2
+1303,Fri 9/18,Ohio,142596,4608
+1304,Fri 9/18,Oklahoma,74567,939
+1305,Fri 9/18,Oregon,30351,524
+1306,Fri 9/18,Pennsylvania,153560,8006
+1307,Fri 9/18,Puerto Rico,39684,599
+1308,Fri 9/18,Rhode Island,23620,1088
+1309,Fri 9/18,South Carolina,136318,3177
+1310,Fri 9/18,South Dakota,18075,198
+1311,Fri 9/18,Tennessee,177707,2173
+1312,Fri 9/18,Texas,713652,15037
+1313,Fri 9/18,Utah,61786,437
+1314,Fri 9/18,Vermont,1706,58
+1315,Fri 9/18,Virgin Islands,1257,19
+1316,Fri 9/18,Virginia,138702,2949
+1317,Fri 9/18,Washington,85583,2130
+1318,Fri 9/18,West Virginia,13683,297
+1319,Fri 9/18,Wisconsin,103211,1247
+1320,Fri 9/18,Wyoming,4747,49
+1321,Sat 9/19,Alabama,144164,2437
+1322,Sat 9/19,Alaska,7613,42
+1323,Sat 9/19,Arizona,213551,5471
+1324,Sat 9/19,Arkansas,75160,1181
+1325,Sat 9/19,California,785076,15023
+1326,Sat 9/19,Colorado,64694,2022
+1327,Sat 9/19,Connecticut,55527,4492
+1328,Sat 9/19,Delaware,19449,621
+1329,Sat 9/19,District of Columbia,14902,619
+1330,Sat 9/19,Florida,681225,13286
+1331,Sat 9/19,Georgia,288059,6450
+1332,Sat 9/19,Guam,3043,35
+1333,Sat 9/19,Hawaii,11457,119
+1334,Sat 9/19,Idaho,37624,441
+1335,Sat 9/19,Illinois,276057,8688
+1336,Sat 9/19,Indiana,112982,3503
+1337,Sat 9/19,Iowa,79785,1265
+1338,Sat 9/19,Kansas,53420,596
+1339,Sat 9/19,Kentucky,65068,1137
+1340,Sat 9/19,Louisiana,161322,5340
+1341,Sat 9/19,Maine,5035,139
+1342,Sat 9/19,Maryland,120107,3876
+1343,Sat 9/19,Massachusetts,127181,9295
+1344,Sat 9/19,Michigan,128112,6970
+1345,Sat 9/19,Minnesota,88773,2015
+1346,Sat 9/19,Mississippi,93087,2809
+1347,Sat 9/19,Missouri,113794,1905
+1348,Sat 9/19,Montana,10193,156
+1349,Sat 9/19,Nebraska,40797,457
+1350,Sat 9/19,Nevada,75524,1528
+1351,Sat 9/19,New Hampshire,7920,438
+1352,Sat 9/19,New Jersey,201100,16064
+1353,Sat 9/19,New Mexico,27512,847
+1354,Sat 9/19,New York,453747,32679
+1355,Sat 9/19,North Carolina,192751,3260
+1356,Sat 9/19,North Dakota,17610,195
+1357,Sat 9/19,Northern Mariana Islands,68,2
+1358,Sat 9/19,Ohio,143547,4612
+1359,Sat 9/19,Oklahoma,75804,943
+1360,Sat 9/19,Oregon,30600,527
+1361,Sat 9/19,Pennsylvania,154261,8028
+1362,Sat 9/19,Puerto Rico,40993,605
+1363,Sat 9/19,Rhode Island,23620,1088
+1364,Sat 9/19,South Carolina,137240,3188
+1365,Sat 9/19,South Dakota,18444,200
+1366,Sat 9/19,Tennessee,179017,2193
+1367,Sat 9/19,Texas,716914,15124
+1368,Sat 9/19,Utah,62893,440
+1369,Sat 9/19,Vermont,1710,58
+1370,Sat 9/19,Virgin Islands,1257,19
+1371,Sat 9/19,Virginia,139655,2990
+1372,Sat 9/19,Washington,85886,2130
+1373,Sat 9/19,West Virginia,13874,308
+1374,Sat 9/19,Wisconsin,105609,1249
+1375,Sat 9/19,Wyoming,4780,49
+1376,Sun 9/20,Alabama,144962,2437
+1377,Sun 9/20,Alaska,7704,42
+1378,Sun 9/20,Arizona,214018,5480
+1379,Sun 9/20,Arkansas,75723,1181
+1380,Sun 9/20,California,788077,15018
+1381,Sun 9/20,Colorado,65248,2023
+1382,Sun 9/20,Connecticut,55527,4492
+1383,Sun 9/20,Delaware,19566,621
+1384,Sun 9/20,District of Columbia,14955,620
+1385,Sun 9/20,Florida,683746,13295
+1386,Sun 9/20,Georgia,289096,6453
+1387,Sun 9/20,Guam,3043,35
+1388,Sun 9/20,Hawaii,11534,119
+1389,Sun 9/20,Idaho,37768,443
+1390,Sun 9/20,Illinois,277373,8700
+1391,Sun 9/20,Indiana,113728,3506
+1392,Sun 9/20,Iowa,80410,1265
+1393,Sun 9/20,Kansas,53433,597
+1394,Sun 9/20,Kentucky,65413,1139
+1395,Sun 9/20,Louisiana,162258,5366
+1396,Sun 9/20,Maine,5079,139
+1397,Sun 9/20,Maryland,120656,3879
+1398,Sun 9/20,Massachusetts,127540,9310
+1399,Sun 9/20,Michigan,128148,6971
+1400,Sun 9/20,Minnesota,90069,2017
+1401,Sun 9/20,Mississippi,93364,2810
+1402,Sun 9/20,Missouri,115000,1896
+1403,Sun 9/20,Montana,10325,157
+1404,Sun 9/20,Nebraska,41083,457
+1405,Sun 9/20,Nevada,75914,1532
+1406,Sun 9/20,New Hampshire,7947,438
+1407,Sun 9/20,New Jersey,201553,16067
+1408,Sun 9/20,New Mexico,27579,849
+1409,Sun 9/20,New York,454612,32686
+1410,Sun 9/20,North Carolina,193978,3270
+1411,Sun 9/20,North Dakota,17961,195
+1412,Sun 9/20,Northern Mariana Islands,68,2
+1413,Sun 9/20,Ohio,144309,4615
+1414,Sun 9/20,Oklahoma,76807,946
+1415,Sun 9/20,Oregon,30802,528
+1416,Sun 9/20,Pennsylvania,154924,8049
+1417,Sun 9/20,Puerto Rico,41838,608
+1418,Sun 9/20,Rhode Island,23620,1088
+1419,Sun 9/20,South Carolina,137708,3199
+1420,Sun 9/20,South Dakota,18696,202
+1421,Sun 9/20,Tennessee,180621,2195
+1422,Sun 9/20,Texas,722460,15159
+1423,Sun 9/20,Utah,63774,440
+1424,Sun 9/20,Vermont,1715,58
+1425,Sun 9/20,Virgin Islands,1269,19
+1426,Sun 9/20,Virginia,140511,3015
+1427,Sun 9/20,Washington,86169,2130
+1428,Sun 9/20,West Virginia,14054,310
+1429,Sun 9/20,Wisconsin,107343,1250
+1430,Sun 9/20,Wyoming,4871,49
+1431,Mon 9/21,Alabama,145780,2439
+1432,Mon 9/21,Alaska,7775,42
+1433,Mon 9/21,Arizona,214251,5482
+1434,Mon 9/21,Arkansas,76364,1197
+1435,Mon 9/21,California,792217,15069
+1436,Mon 9/21,Colorado,65936,2031
+1437,Mon 9/21,Connecticut,56024,4495
+1438,Mon 9/21,Delaware,19667,627
+1439,Mon 9/21,District of Columbia,14978,621
+1440,Mon 9/21,Florida,685431,13316
+1441,Mon 9/21,Georgia,289975,6455
+1442,Mon 9/21,Guam,3116,36
+1443,Mon 9/21,Hawaii,11590,119
+1444,Mon 9/21,Idaho,38196,447
+1445,Mon 9/21,Illinois,279032,8717
+1446,Mon 9/21,Indiana,114251,3512
+1447,Mon 9/21,Iowa,81006,1284
+1448,Mon 9/21,Kansas,54956,604
+1449,Mon 9/21,Kentucky,65905,1141
+1450,Mon 9/21,Louisiana,162501,5375
+1451,Mon 9/21,Maine,5106,140
+1452,Mon 9/21,Maryland,121068,3883
+1453,Mon 9/21,Massachusetts,127796,9317
+1454,Mon 9/21,Michigan,129655,6982
+1455,Mon 9/21,Minnesota,90994,2021
+1456,Mon 9/21,Mississippi,93556,2810
+1457,Mon 9/21,Missouri,116814,1936
+1458,Mon 9/21,Montana,10509,160
+1459,Mon 9/21,Nebraska,41388,464
+1460,Mon 9/21,Nevada,76119,1531
+1461,Mon 9/21,New Hampshire,7952,438
+1462,Mon 9/21,New Jersey,201945,16069
+1463,Mon 9/21,New Mexico,27683,851
+1464,Mon 9/21,New York,455187,32691
+1465,Mon 9/21,North Carolina,195093,3283
+1466,Mon 9/21,North Dakota,18247,196
+1467,Mon 9/21,Northern Mariana Islands,69,2
+1468,Mon 9/21,Ohio,145165,4623
+1469,Mon 9/21,Oklahoma,77908,948
+1470,Mon 9/21,Oregon,30999,532
+1471,Mon 9/21,Pennsylvania,155729,8080
+1472,Mon 9/21,Puerto Rico,42476,609
+1473,Mon 9/21,Rhode Island,23932,1097
+1474,Mon 9/21,South Carolina,138124,3212
+1475,Mon 9/21,South Dakota,18869,202
+1476,Mon 9/21,Tennessee,181725,2209
+1477,Mon 9/21,Texas,744736,15212
+1478,Mon 9/21,Utah,64404,441
+1479,Mon 9/21,Vermont,1719,58
+1480,Mon 9/21,Virgin Islands,1269,19
+1481,Mon 9/21,Virginia,141138,3021
+1482,Mon 9/21,Washington,86803,2137
+1483,Mon 9/21,West Virginia,14171,312
+1484,Mon 9/21,Wisconsin,108656,1253
+1485,Mon 9/21,Wyoming,4944,49
+1486,Tue 9/22,Alabama,146584,2457
+1487,Tue 9/22,Alaska,7821,42
+1488,Tue 9/22,Arizona,214846,5501
+1489,Tue 9/22,Arkansas,76981,1209
+1490,Tue 9/22,California,795077,15209
+1491,Tue 9/22,Colorado,66552,2034
+1492,Tue 9/22,Connecticut,56160,4496
+1493,Tue 9/22,Delaware,19761,628
+1494,Tue 9/22,District of Columbia,15021,621
+1495,Tue 9/22,Florida,687901,13415
+1496,Tue 9/22,Georgia,290930,6524
+1497,Tue 9/22,Guam,3159,38
+1498,Tue 9/22,Hawaii,11653,119
+1499,Tue 9/22,Idaho,38676,452
+1500,Tue 9/22,Illinois,280511,8741
+1501,Tue 9/22,Indiana,114864,3520
+1502,Tue 9/22,Iowa,81674,1293
+1503,Tue 9/22,Kansas,55237,618
+1504,Tue 9/22,Kentucky,66624,1148
+1505,Tue 9/22,Louisiana,163253,5386
+1506,Tue 9/22,Maine,5146,140
+1507,Tue 9/22,Maryland,121409,3895
+1508,Tue 9/22,Massachusetts,127969,9328
+1509,Tue 9/22,Michigan,130406,6998
+1510,Tue 9/22,Minnesota,91474,2031
+1511,Tue 9/22,Mississippi,94021,2846
+1512,Tue 9/22,Missouri,118574,1974
+1513,Tue 9/22,Montana,10792,163
+1514,Tue 9/22,Nebraska,41828,473
+1515,Tue 9/22,Nevada,76376,1546
+1516,Tue 9/22,New Hampshire,7990,438
+1517,Tue 9/22,New Jersey,202371,16076
+1518,Tue 9/22,New Mexico,27790,854
+1519,Tue 9/22,New York,455938,32690
+1520,Tue 9/22,North Carolina,196258,3320
+1521,Tue 9/22,North Dakota,18511,199
+1522,Tue 9/22,Northern Mariana Islands,69,2
+1523,Tue 9/22,Ohio,145850,4635
+1524,Tue 9/22,Oklahoma,79072,962
+1525,Tue 9/22,Oregon,31323,535
+1526,Tue 9/22,Pennsylvania,156512,8099
+1527,Tue 9/22,Puerto Rico,42596,613
+1528,Tue 9/22,Rhode Island,24044,1099
+1529,Tue 9/22,South Carolina,140789,3243
+1530,Tue 9/22,South Dakota,19189,202
+1531,Tue 9/22,Tennessee,182546,2236
+1532,Tue 9/22,Texas,749069,15322
+1533,Tue 9/22,Utah,65058,443
+1534,Tue 9/22,Vermont,1721,58
+1535,Tue 9/22,Virgin Islands,1278,19
+1536,Tue 9/22,Virginia,142010,3060
+1537,Tue 9/22,Washington,87233,2163
+1538,Tue 9/22,West Virginia,14384,317
+1539,Tue 9/22,Wisconsin,110393,1259
+1540,Tue 9/22,Wyoming,5016,49
+1541,Wed 9/23,Alabama,147153,2488
+1542,Wed 9/23,Alaska,7875,42
+1543,Wed 9/23,Arizona,215284,5526
+1544,Wed 9/23,Arkansas,77963,1229
+1545,Wed 9/23,California,798350,15313
+1546,Wed 9/23,Colorado,67186,2038
+1547,Wed 9/23,Connecticut,56315,4497
+1548,Wed 9/23,Delaware,19830,629
+1549,Wed 9/23,District of Columbia,15050,621
+1550,Wed 9/23,Florida,690491,13617
+1551,Wed 9/23,Georgia,292797,6620
+1552,Wed 9/23,Guam,3204,38
+1553,Wed 9/23,Hawaii,11820,121
+1554,Wed 9/23,Idaho,39030,454
+1555,Wed 9/23,Illinois,282331,8762
+1556,Wed 9/23,Indiana,115578,3530
+1557,Wed 9/23,Iowa,82956,1298
+1558,Wed 9/23,Kansas,56355,629
+1559,Wed 9/23,Kentucky,67590,1161
+1560,Wed 9/23,Louisiana,163869,5407
+1561,Wed 9/23,Maine,5171,140
+1562,Wed 9/23,Maryland,121793,3902
+1563,Wed 9/23,Massachusetts,128512,9347
+1564,Wed 9/23,Michigan,131292,7013
+1565,Wed 9/23,Minnesota,92152,2037
+1566,Wed 9/23,Mississippi,94573,2870
+1567,Wed 9/23,Missouri,120124,2035
+1568,Wed 9/23,Montana,11034,165
+1569,Wed 9/23,Nebraska,42278,477
+1570,Wed 9/23,Nevada,76907,1556
+1571,Wed 9/23,New Hampshire,8007,438
+1572,Wed 9/23,New Jersey,202779,16082
+1573,Wed 9/23,New Mexico,27987,857
+1574,Wed 9/23,New York,456604,32691
+1575,Wed 9/23,North Carolina,197431,3345
+1576,Wed 9/23,North Dakota,18984,206
+1577,Wed 9/23,Northern Mariana Islands,69,2
+1578,Wed 9/23,Ohio,146753,4687
+1579,Wed 9/23,Oklahoma,80161,970
+1580,Wed 9/23,Oregon,31513,538
+1581,Wed 9/23,Pennsylvania,157373,8137
+1582,Wed 9/23,Puerto Rico,42660,617
+1583,Wed 9/23,Rhode Island,24177,1102
+1584,Wed 9/23,South Carolina,141686,3262
+1585,Wed 9/23,South Dakota,19634,202
+1586,Wed 9/23,Tennessee,184068,2252
+1587,Wed 9/23,Texas,753551,15455
+1588,Wed 9/23,Utah,65948,444
+1589,Wed 9/23,Vermont,1722,58
+1590,Wed 9/23,Virgin Islands,1290,19
+1591,Wed 9/23,Virginia,142590,3089
+1592,Wed 9/23,Washington,88042,2175
+1593,Wed 9/23,West Virginia,14504,319
+1594,Wed 9/23,Wisconsin,112276,1269
+1595,Wed 9/23,Wyoming,5169,50
+1596,Thu 9/24,Alabama,148206,2506
+1597,Thu 9/24,Alaska,8015,43
+1598,Thu 9/24,Arizona,215852,5560
+1599,Thu 9/24,Arkansas,79049,1246
+1600,Thu 9/24,California,801671,15389
+1601,Thu 9/24,Colorado,67745,2042
+1602,Thu 9/24,Connecticut,56472,4499
+1603,Thu 9/24,Delaware,19947,630
+1604,Thu 9/24,District of Columbia,15106,621
+1605,Thu 9/24,Florida,693032,13794
+1606,Thu 9/24,Georgia,294334,6667
+1607,Thu 9/24,Guam,3232,39
+1608,Thu 9/24,Hawaii,11908,123
+1609,Thu 9/24,Idaho,39547,458
+1610,Thu 9/24,Illinois,284620,8793
+1611,Thu 9/24,Indiana,116481,3548
+1612,Thu 9/24,Iowa,83993,1303
+1613,Thu 9/24,Kansas,56461,633
+1614,Thu 9/24,Kentucky,68230,1166
+1615,Thu 9/24,Louisiana,164446,5423
+1616,Thu 9/24,Maine,5215,140
+1617,Thu 9/24,Maryland,122293,3909
+1618,Thu 9/24,Massachusetts,128993,9362
+1619,Thu 9/24,Michigan,132400,7020
+1620,Thu 9/24,Minnesota,93064,2040
+1621,Thu 9/24,Mississippi,95310,2874
+1622,Thu 9/24,Missouri,121485,2055
+1623,Thu 9/24,Montana,11381,165
+1624,Thu 9/24,Nebraska,42731,478
+1625,Thu 9/24,Nevada,77338,1565
+1626,Thu 9/24,New Hampshire,8044,438
+1627,Thu 9/24,New Jersey,203343,16091
+1628,Thu 9/24,New Mexico,28224,859
+1629,Thu 9/24,New York,457557,32696
+1630,Thu 9/24,North Carolina,199236,3380
+1631,Thu 9/24,North Dakota,19454,215
+1632,Thu 9/24,Northern Mariana Islands,69,2
+1633,Thu 9/24,Ohio,147744,4715
+1634,Thu 9/24,Oklahoma,81244,981
+1635,Thu 9/24,Oregon,31869,540
+1636,Thu 9/24,Pennsylvania,158221,8150
+1637,Thu 9/24,Puerto Rico,43842,627
+1638,Thu 9/24,Rhode Island,24311,1106
+1639,Thu 9/24,South Carolina,142707,3279
+1640,Thu 9/24,South Dakota,20097,210
+1641,Thu 9/24,Tennessee,185121,2287
+1642,Thu 9/24,Texas,758379,15587
+1643,Thu 9/24,Utah,67167,444
+1644,Thu 9/24,Vermont,1724,58
+1645,Thu 9/24,Virgin Islands,1290,19
+1646,Thu 9/24,Virginia,143492,3113
+1647,Thu 9/24,Washington,88597,2175
+1648,Thu 9/24,West Virginia,14706,325
+1649,Thu 9/24,Wisconsin,114743,1275
+1650,Thu 9/24,Wyoming,5305,50
+1651,Fri 9/25,Alabama,150658,2491
+1652,Fri 9/25,Alaska,8133,48
+1653,Fri 9/25,Arizona,216367,5588
+1654,Fri 9/25,Arkansas,79946,1266
+1655,Fri 9/25,California,805733,15533
+1656,Fri 9/25,Colorado,68506,2045
+1657,Fri 9/25,Connecticut,56587,4501
+1658,Fri 9/25,Delaware,20085,631
+1659,Fri 9/25,District of Columbia,15163,623
+1660,Fri 9/25,Florida,695879,13914
+1661,Fri 9/25,Georgia,296089,6717
+1662,Fri 9/25,Guam,3255,40
+1663,Fri 9/25,Hawaii,12039,126
+1664,Fri 9/25,Idaho,40228,458
+1665,Fri 9/25,Illinois,287375,8826
+1666,Fri 9/25,Indiana,117656,3566
+1667,Fri 9/25,Iowa,85031,1312
+1668,Fri 9/25,Kansas,57852,634
+1669,Fri 9/25,Kentucky,69150,1179
+1670,Fri 9/25,Louisiana,165152,5444
+1671,Fri 9/25,Maine,5235,140
+1672,Fri 9/25,Maryland,122850,3917
+1673,Fri 9/25,Massachusetts,129481,9373
+1674,Fri 9/25,Michigan,133443,7028
+1675,Fri 9/25,Minnesota,94241,2046
+1676,Fri 9/25,Mississippi,96032,2894
+1677,Fri 9/25,Missouri,123544,2075
+1678,Fri 9/25,Montana,11656,170
+1679,Fri 9/25,Nebraska,43162,483
+1680,Fri 9/25,Nevada,77930,1573
+1681,Fri 9/25,New Hampshire,8085,438
+1682,Fri 9/25,New Jersey,203891,16097
+1683,Fri 9/25,New Mexico,28487,865
+1684,Fri 9/25,New York,458466,32708
+1685,Fri 9/25,North Carolina,204658,3427
+1686,Fri 9/25,North Dakota,19888,222
+1687,Fri 9/25,Northern Mariana Islands,69,2
+1688,Fri 9/25,Ohio,148894,4734
+1689,Fri 9/25,Oklahoma,82520,993
+1690,Fri 9/25,Oregon,32328,545
+1691,Fri 9/25,Pennsylvania,159051,8157
+1692,Fri 9/25,Puerto Rico,44905,635
+1693,Fri 9/25,Rhode Island,24181,1107
+1694,Fri 9/25,South Carolina,143902,3297
+1695,Fri 9/25,South Dakota,20554,216
+1696,Fri 9/25,Tennessee,186769,2326
+1697,Fri 9/25,Texas,761644,15637
+1698,Fri 9/25,Utah,68537,448
+1699,Fri 9/25,Vermont,1731,58
+1700,Fri 9/25,Virgin Islands,1296,19
+1701,Fri 9/25,Virginia,144433,3136
+1702,Fri 9/25,Washington,89149,2193
+1703,Fri 9/25,West Virginia,14953,330
+1704,Fri 9/25,Wisconsin,117355,1285
+1705,Fri 9/25,Wyoming,5420,50
+1706,Sat 9/26,Alabama,151591,2501
+1707,Sat 9/26,Alaska,8244,48
+1708,Sat 9/26,Arizona,216826,5623
+1709,Sat 9/26,Arkansas,80755,1285
+1710,Sat 9/26,California,809214,15588
+1711,Sat 9/26,Colorado,68973,2047
+1712,Sat 9/26,Connecticut,56587,4501
+1713,Sat 9/26,Delaware,20156,633
+1714,Sat 9/26,District of Columbia,15215,624
+1715,Sat 9/26,Florida,698674,14021
+1716,Sat 9/26,Georgia,297553,6758
+1717,Sat 9/26,Guam,3255,40
+1718,Sat 9/26,Hawaii,12166,130
+1719,Sat 9/26,Idaho,40411,460
+1720,Sat 9/26,Illinois,289683,8847
+1721,Sat 9/26,Indiana,118819,3577
+1722,Sat 9/26,Iowa,85908,1314
+1723,Sat 9/26,Kansas,57852,634
+1724,Sat 9/26,Kentucky,70038,1185
+1725,Sat 9/26,Louisiana,165152,5444
+1726,Sat 9/26,Maine,5260,140
+1727,Sat 9/26,Maryland,123328,3925
+1728,Sat 9/26,Massachusetts,130050,9391
+1729,Sat 9/26,Michigan,134372,7044
+1730,Sat 9/26,Minnesota,95711,2056
+1731,Sat 9/26,Mississippi,96677,2911
+1732,Sat 9/26,Missouri,124939,2118
+1733,Sat 9/26,Montana,11943,171
+1734,Sat 9/26,Nebraska,43596,484
+1735,Sat 9/26,Nevada,78464,1583
+1736,Sat 9/26,New Hampshire,8121,439
+1737,Sat 9/26,New Jersey,204641,16103
+1738,Sat 9/26,New Mexico,28692,870
+1739,Sat 9/26,New York,459472,32713
+1740,Sat 9/26,North Carolina,206241,3458
+1741,Sat 9/26,North Dakota,20383,230
+1742,Sat 9/26,Northern Mariana Islands,69,2
+1743,Sat 9/26,Ohio,150009,4740
+1744,Sat 9/26,Oklahoma,83510,1004
+1745,Sat 9/26,Oregon,32581,549
+1746,Sat 9/26,Pennsylvania,159937,8177
+1747,Sat 9/26,Puerto Rico,45413,642
+1748,Sat 9/26,Rhode Island,24181,1107
+1749,Sat 9/26,South Carolina,145273,3323
+1750,Sat 9/26,South Dakota,21133,218
+1751,Sat 9/26,Tennessee,188205,2347
+1752,Sat 9/26,Texas,764642,15792
+1753,Sat 9/26,Utah,69556,448
+1754,Sat 9/26,Vermont,1739,58
+1755,Sat 9/26,Virgin Islands,1317,19
+1756,Sat 9/26,Virginia,145408,3144
+1757,Sat 9/26,Washington,89514,2196
+1758,Sat 9/26,West Virginia,15158,332
+1759,Sat 9/26,Wisconsin,120249,1291
+1760,Sat 9/26,Wyoming,5465,50
+1761,Sun 9/27,Alabama,152321,2502
+1762,Sun 9/27,Alaska,8359,52
+1763,Sun 9/27,Arizona,217237,5623
+1764,Sun 9/27,Arkansas,81242,1308
+1765,Sun 9/27,California,811698,15608
+1766,Sun 9/27,Colorado,69472,2048
+1767,Sun 9/27,Connecticut,56587,4501
+1768,Sun 9/27,Delaware,20260,633
+1769,Sun 9/27,District of Columbia,15250,624
+1770,Sun 9/27,Florida,700556,14031
+1771,Sun 9/27,Georgia,298321,6789
+1772,Sun 9/27,Guam,3255,40
+1773,Sun 9/27,Hawaii,12264,131
+1774,Sun 9/27,Idaho,40501,460
+1775,Sun 9/27,Illinois,291271,8859
+1776,Sun 9/27,Indiana,119721,3580
+1777,Sun 9/27,Iowa,86624,1316
+1778,Sun 9/27,Kansas,57978,636
+1779,Sun 9/27,Kentucky,70385,1189
+1780,Sun 9/27,Louisiana,166075,5465
+1781,Sun 9/27,Maine,5288,140
+1782,Sun 9/27,Maryland,123895,3935
+1783,Sun 9/27,Massachusetts,130642,9404
+1784,Sun 9/27,Michigan,134409,7044
+1785,Sun 9/27,Minnesota,96786,2060
+1786,Sun 9/27,Mississippi,96859,2919
+1787,Sun 9/27,Missouri,126115,2117
+1788,Sun 9/27,Montana,12126,173
+1789,Sun 9/27,Nebraska,44063,485
+1790,Sun 9/27,Nevada,78820,1585
+1791,Sun 9/27,New Hampshire,8172,439
+1792,Sun 9/27,New Jersey,205339,16106
+1793,Sun 9/27,New Mexico,28844,870
+1794,Sun 9/27,New York,460340,32722
+1795,Sun 9/27,North Carolina,207407,3460
+1796,Sun 9/27,North Dakota,20727,234
+1797,Sun 9/27,Northern Mariana Islands,69,2
+1798,Sun 9/27,Ohio,150809,4741
+1799,Sun 9/27,Oklahoma,84333,1006
+1800,Sun 9/27,Oregon,32820,549
+1801,Sun 9/27,Pennsylvania,160770,8180
+1802,Sun 9/27,Puerto Rico,46304,644
+1803,Sun 9/27,Rhode Island,24181,1107
+1804,Sun 9/27,South Carolina,145887,3326
+1805,Sun 9/27,South Dakota,21541,218
+1806,Sun 9/27,Tennessee,190037,2350
+1807,Sun 9/27,Texas,770539,15831
+1808,Sun 9/27,Utah,70616,453
+1809,Sun 9/27,Vermont,1742,58
+1810,Sun 9/27,Virgin Islands,1317,19
+1811,Sun 9/27,Virginia,146144,3159
+1812,Sun 9/27,Washington,89822,2196
+1813,Sun 9/27,West Virginia,15348,334
+1814,Sun 9/27,Wisconsin,122498,1291
+1815,Sun 9/27,Wyoming,5633,50
+1816,Mon 9/28,Alabama,152983,2501
+1817,Mon 9/28,Alaska,8477,52
+1818,Mon 9/28,Arizona,217513,5624
+1819,Mon 9/28,Arkansas,82049,1329
+1820,Mon 9/28,California,814796,15641
+1821,Mon 9/28,Colorado,69967,2052
+1822,Mon 9/28,Connecticut,57147,4503
+1823,Mon 9/28,Delaware,20389,634
+1824,Mon 9/28,District of Columbia,15264,624
+1825,Mon 9/28,Florida,701294,14036
+1826,Mon 9/28,Georgia,298963,6803
+1827,Mon 9/28,Guam,3255,40
+1828,Mon 9/28,Hawaii,12351,131
+1829,Mon 9/28,Idaho,41386,460
+1830,Mon 9/28,Illinois,293169,8877
+1831,Mon 9/28,Indiana,120581,3591
+1832,Mon 9/28,Iowa,87256,1324
+1833,Mon 9/28,Kansas,59793,641
+1834,Mon 9/28,Kentucky,71003,1195
+1835,Mon 9/28,Louisiana,166315,5480
+1836,Mon 9/28,Maine,5300,140
+1837,Mon 9/28,Maryland,124371,3938
+1838,Mon 9/28,Massachusetts,131072,9415
+1839,Mon 9/28,Michigan,135782,7052
+1840,Mon 9/28,Minnesota,97690,2067
+1841,Mon 9/28,Mississippi,97049,2921
+1842,Mon 9/28,Missouri,127894,2132
+1843,Mon 9/28,Montana,12538,174
+1844,Mon 9/28,Nebraska,44578,487
+1845,Mon 9/28,Nevada,79313,1586
+1846,Mon 9/28,New Hampshire,8208,439
+1847,Mon 9/28,New Jersey,205898,16107
+1848,Mon 9/28,New Mexico,28985,873
+1849,Mon 9/28,New York,461176,32737
+1850,Mon 9/28,North Carolina,208497,3469
+1851,Mon 9/28,North Dakota,20986,237
+1852,Mon 9/28,Northern Mariana Islands,69,2
+1853,Mon 9/28,Ohio,151802,4746
+1854,Mon 9/28,Oklahoma,85194,1007
+1855,Mon 9/28,Oregon,32995,549
+1856,Mon 9/28,Pennsylvania,161642,8181
+1857,Mon 9/28,Puerto Rico,47422,648
+1858,Mon 9/28,Rhode Island,24424,1110
+1859,Mon 9/28,South Carolina,146455,3337
+1860,Mon 9/28,South Dakota,21738,218
+1861,Mon 9/28,Tennessee,190991,2362
+1862,Mon 9/28,Texas,773679,15898
+1863,Mon 9/28,Utah,71442,453
+1864,Mon 9/28,Vermont,1745,58
+1865,Mon 9/28,Virgin Islands,1318,20
+1866,Mon 9/28,Virginia,146593,3172
+1867,Mon 9/28,Washington,90596,2199
+1868,Mon 9/28,West Virginia,15512,337
+1869,Mon 9/28,Wisconsin,124320,1293
+1870,Mon 9/28,Wyoming,5754,50
+1871,Tue 9/29,Alabama,153554,2517
+1872,Tue 9/29,Alaska,8602,52
+1873,Tue 9/29,Arizona,218185,5632
+1874,Tue 9/29,Arkansas,82755,1350
+1875,Tue 9/29,California,817939,15791
+1876,Tue 9/29,Colorado,70458,2058
+1877,Tue 9/29,Connecticut,57329,4505
+1878,Tue 9/29,Delaware,20531,635
+1879,Tue 9/29,District of Columbia,15300,626
+1880,Tue 9/29,Florida,704560,14142
+1881,Tue 9/29,Georgia,300019,6836
+1882,Tue 9/29,Guam,3412,48
+1883,Tue 9/29,Hawaii,12436,133
+1884,Tue 9/29,Idaho,41854,466
+1885,Tue 9/29,Illinois,294673,8901
+1886,Tue 9/29,Indiana,121327,3612
+1887,Tue 9/29,Iowa,88234,1341
+1888,Tue 9/29,Kansas,59951,650
+1889,Tue 9/29,Kentucky,71921,1205
+1890,Tue 9/29,Louisiana,166848,5490
+1891,Tue 9/29,Maine,5337,141
+1892,Tue 9/29,Maryland,124805,3946
+1893,Tue 9/29,Massachusetts,131584,9423
+1894,Tue 9/29,Michigan,136899,7073
+1895,Tue 9/29,Minnesota,98499,2072
+1896,Tue 9/29,Mississippi,97638,2957
+1897,Tue 9/29,Missouri,128816,2148
+1898,Tue 9/29,Montana,12825,177
+1899,Tue 9/29,Nebraska,45044,493
+1900,Tue 9/29,Nevada,79691,1594
+1901,Tue 9/29,New Hampshire,8233,439
+1902,Tue 9/29,New Jersey,206354,16117
+1903,Tue 9/29,New Mexico,29157,875
+1904,Tue 9/29,New York,462364,32743
+1905,Tue 9/29,North Carolina,209384,3511
+1906,Tue 9/29,North Dakota,21404,242
+1907,Tue 9/29,Northern Mariana Islands,69,2
+1908,Tue 9/29,Ohio,152907,4783
+1909,Tue 9/29,Oklahoma,86219,1018
+1910,Tue 9/29,Oregon,33297,555
+1911,Tue 9/29,Pennsylvania,163219,8196
+1912,Tue 9/29,Puerto Rico,48467,654
+1913,Tue 9/29,Rhode Island,24556,1113
+1914,Tue 9/29,South Carolina,147634,3359
+1915,Tue 9/29,South Dakota,21997,223
+1916,Tue 9/29,Tennessee,191859,2393
+1917,Tue 9/29,Texas,780543,15994
+1918,Tue 9/29,Utah,72136,457
+1919,Tue 9/29,Vermont,1749,58
+1920,Tue 9/29,Virgin Islands,1318,20
+1921,Tue 9/29,Virginia,147516,3187
+1922,Tue 9/29,Washington,91011,2218
+1923,Tue 9/29,West Virginia,15692,345
+1924,Tue 9/29,Wisconsin,126744,1312
+1925,Tue 9/29,Wyoming,5821,50
+1926,Wed 9/30,Alabama,154701,2540
+1927,Wed 9/30,Alaska,8707,52
+1928,Wed 9/30,Arizona,218511,5654
+1929,Wed 9/30,Arkansas,83697,1369
+1930,Wed 9/30,California,821125,15898
+1931,Wed 9/30,Colorado,71090,2061
+1932,Wed 9/30,Connecticut,57550,4508
+1933,Wed 9/30,Delaware,20613,636
+1934,Wed 9/30,District of Columbia,15326,627
+1935,Wed 9/30,Florida,706508,14316
+1936,Wed 9/30,Georgia,301485,6861
+1937,Wed 9/30,Guam,3457,50
+1938,Wed 9/30,Hawaii,12555,135
+1939,Wed 9/30,Idaho,42549,469
+1940,Wed 9/30,Illinois,296935,8935
+1941,Wed 9/30,Indiana,122295,3632
+1942,Wed 9/30,Iowa,89248,1358
+1943,Wed 9/30,Kansas,60957,678
+1944,Wed 9/30,Kentucky,72830,1208
+1945,Wed 9/30,Louisiana,167458,5511
+1946,Wed 9/30,Maine,5391,141
+1947,Wed 9/30,Maryland,125217,3949
+1948,Wed 9/30,Massachusetts,132116,9456
+1949,Wed 9/30,Michigan,138074,7084
+1950,Wed 9/30,Minnesota,99187,2089
+1951,Wed 9/30,Mississippi,98190,2969
+1952,Wed 9/30,Missouri,130065,2157
+1953,Wed 9/30,Montana,13179,180
+1954,Wed 9/30,Nebraska,45564,493
+1955,Wed 9/30,Nevada,80084,1600
+1956,Wed 9/30,New Hampshire,8266,439
+1957,Wed 9/30,New Jersey,207062,16122
+1958,Wed 9/30,New Mexico,29435,877
+1959,Wed 9/30,New York,463369,32757
+1960,Wed 9/30,North Carolina,211004,3565
+1961,Wed 9/30,North Dakota,21849,250
+1962,Wed 9/30,Northern Mariana Islands,70,2
+1963,Wed 9/30,Ohio,153987,4804
+1964,Wed 9/30,Oklahoma,87199,1031
+1965,Wed 9/30,Oregon,33554,560
+1966,Wed 9/30,Pennsylvania,164135,8216
+1967,Wed 9/30,Puerto Rico,48755,661
+1968,Wed 9/30,Rhode Island,24748,1114
+1969,Wed 9/30,South Carolina,147942,3378
+1970,Wed 9/30,South Dakota,22389,223
+1971,Wed 9/30,Tennessee,193357,2429
+1972,Wed 9/30,Texas,784027,16102
+1973,Wed 9/30,Utah,73053,460
+1974,Wed 9/30,Vermont,1752,58
+1975,Wed 9/30,Virgin Islands,1318,20
+1976,Wed 9/30,Virginia,148271,3208
+1977,Wed 9/30,Washington,91560,2222
+1978,Wed 9/30,West Virginia,15848,350
+1979,Wed 9/30,Wisconsin,129172,1338
+1980,Wed 9/30,Wyoming,5948,50
+1981,Thu 10/1,Alabama,155744,2548
+1982,Thu 10/1,Alaska,8838,53
+1983,Thu 10/1,Arizona,219214,5674
+1984,Thu 10/1,Arkansas,84821,1384
+1985,Thu 10/1,California,824306,15989
+1986,Thu 10/1,Colorado,71723,2064
+1987,Thu 10/1,Connecticut,57742,4511
+1988,Thu 10/1,Delaware,20787,636
+1989,Thu 10/1,District of Columbia,15358,628
+1990,Thu 10/1,Florida,709136,14443
+1991,Thu 10/1,Georgia,303010,6903
+1992,Thu 10/1,Guam,3519,50
+1993,Thu 10/1,Hawaii,12660,138
+1994,Thu 10/1,Idaho,42915,473
+1995,Thu 10/1,Illinois,299111,8956
+1996,Thu 10/1,Indiana,123459,3645
+1997,Thu 10/1,Iowa,90483,1366
+1998,Thu 10/1,Kansas,61103,678
+1999,Thu 10/1,Kentucky,73619,1225
+2000,Thu 10/1,Louisiana,168009,5519
+2001,Thu 10/1,Maine,5431,142
+2002,Thu 10/1,Maryland,125997,3949
+2003,Thu 10/1,Massachusetts,132870,9480
+2004,Thu 10/1,Michigan,139064,7103
+2005,Thu 10/1,Minnesota,100253,2102
+2006,Thu 10/1,Mississippi,98886,2979
+2007,Thu 10/1,Missouri,131778,2184
+2008,Thu 10/1,Montana,13626,181
+2009,Thu 10/1,Nebraska,46185,497
+2010,Thu 10/1,Nevada,80507,1603
+2011,Thu 10/1,New Hampshire,8317,441
+2012,Thu 10/1,New Jersey,207676,16127
+2013,Thu 10/1,New Mexico,29661,882
+2014,Thu 10/1,New York,464752,32768
+2015,Thu 10/1,North Carolina,213218,3601
+2016,Thu 10/1,North Dakota,22221,259
+2017,Thu 10/1,Northern Mariana Islands,70,2
+2018,Thu 10/1,Ohio,155314,4817
+2019,Thu 10/1,Oklahoma,88369,1035
+2020,Thu 10/1,Oregon,33865,561
+2021,Thu 10/1,Pennsylvania,165078,8234
+2022,Thu 10/1,Puerto Rico,49067,665
+2023,Thu 10/1,Rhode Island,24914,1117
+2024,Thu 10/1,South Carolina,148323,3400
+2025,Thu 10/1,South Dakota,23136,236
+2026,Thu 10/1,Tennessee,194601,2473
+2027,Thu 10/1,Texas,788066,16220
+2028,Thu 10/1,Utah,74099,460
+2029,Thu 10/1,Vermont,1755,58
+2030,Thu 10/1,Virgin Islands,1326,20
+2031,Thu 10/1,Virginia,148721,3228
+2032,Thu 10/1,Washington,92166,2227
+2033,Thu 10/1,West Virginia,16024,354
+2034,Thu 10/1,Wisconsin,132176,1358
+2035,Thu 10/1,Wyoming,6083,53
+2036,Fri 10/2,Alabama,156698,2550
+2037,Fri 10/2,Alaska,8964,53
+2038,Fri 10/2,Arizona,219778,5693
+2039,Fri 10/2,Arkansas,85779,1391
+2040,Fri 10/2,California,828364,16074
+2041,Fri 10/2,Colorado,72454,2069
+2042,Fri 10/2,Connecticut,58297,4513
+2043,Fri 10/2,Delaware,20937,642
+2044,Fri 10/2,District of Columbia,15423,629
+2045,Fri 10/2,Florida,711796,14553
+2046,Fri 10/2,Georgia,304406,6945
+2047,Fri 10/2,Guam,3586,51
+2048,Fri 10/2,Hawaii,12754,141
+2049,Fri 10/2,Idaho,43528,478
+2050,Fri 10/2,Illinois,301540,9007
+2051,Fri 10/2,Indiana,124959,3656
+2052,Fri 10/2,Iowa,91483,1377
+2053,Fri 10/2,Kansas,62424,699
+2054,Fri 10/2,Kentucky,74566,1232
+2055,Fri 10/2,Louisiana,168826,5545
+2056,Fri 10/2,Maine,5468,142
+2057,Fri 10/2,Maryland,126711,3950
+2058,Fri 10/2,Massachusetts,133631,9490
+2059,Fri 10/2,Michigan,140057,7110
+2060,Fri 10/2,Minnesota,101419,2112
+2061,Fri 10/2,Mississippi,99558,2999
+2062,Fri 10/2,Missouri,133725,2207
+2063,Fri 10/2,Montana,14044,186
+2064,Fri 10/2,Nebraska,46977,498
+2065,Fri 10/2,Nevada,81285,1611
+2066,Fri 10/2,New Hampshire,8534,442
+2067,Fri 10/2,New Jersey,208416,16131
+2068,Fri 10/2,New Mexico,30000,887
+2069,Fri 10/2,New York,466353,32789
+2070,Fri 10/2,North Carolina,215035,3628
+2071,Fri 10/2,North Dakota,22697,267
+2072,Fri 10/2,Northern Mariana Islands,70,2
+2073,Fri 10/2,Ohio,156809,4905
+2074,Fri 10/2,Oklahoma,89559,1044
+2075,Fri 10/2,Oregon,34180,566
+2076,Fri 10/2,Pennsylvania,166270,8254
+2077,Fri 10/2,Puerto Rico,49747,673
+2078,Fri 10/2,Rhode Island,25076,1118
+2079,Fri 10/2,South Carolina,149185,3409
+2080,Fri 10/2,South Dakota,23522,237
+2081,Fri 10/2,Tennessee,195680,2489
+2082,Fri 10/2,Texas,793962,16307
+2083,Fri 10/2,Utah,75175,474
+2084,Fri 10/2,Vermont,1768,58
+2085,Fri 10/2,Virgin Islands,1326,20
+2086,Fri 10/2,Virginia,149687,3250
+2087,Fri 10/2,Washington,92727,2239
+2088,Fri 10/2,West Virginia,16307,355
+2089,Fri 10/2,Wisconsin,134996,1364
+2090,Fri 10/2,Wyoming,6214,53
+2091,Sat 10/3,Alabama,158380,2558
+2092,Sat 10/3,Alaska,9111,54
+2093,Sat 10/3,Arizona,220403,5705
+2094,Sat 10/3,Arkansas,86525,1407
+2095,Sat 10/3,California,831494,16122
+2096,Sat 10/3,Colorado,72929,2071
+2097,Sat 10/3,Connecticut,58297,4513
+2098,Sat 10/3,Delaware,21125,645
+2099,Sat 10/3,District of Columbia,15473,629
+2100,Sat 10/3,Florida,714583,14627
+2101,Sat 10/3,Georgia,305941,6972
+2102,Sat 10/3,Guam,3668,52
+2103,Sat 10/3,Hawaii,12887,152
+2104,Sat 10/3,Idaho,43702,480
+2105,Sat 10/3,Illinois,303807,9033
+2106,Sat 10/3,Indiana,126414,3669
+2107,Sat 10/3,Iowa,92302,1381
+2108,Sat 10/3,Kansas,62446,698
+2109,Sat 10/3,Kentucky,75576,1239
+2110,Sat 10/3,Louisiana,168826,5545
+2111,Sat 10/3,Maine,5486,142
+2112,Sat 10/3,Maryland,127194,3957
+2113,Sat 10/3,Massachusetts,134303,9507
+2114,Sat 10/3,Michigan,141236,7125
+2115,Sat 10/3,Minnesota,102840,2126
+2116,Sat 10/3,Mississippi,100167,3011
+2117,Sat 10/3,Missouri,134826,2220
+2118,Sat 10/3,Montana,14490,186
+2119,Sat 10/3,Nebraska,47403,503
+2120,Sat 10/3,Nevada,81829,1623
+2121,Sat 10/3,New Hampshire,8597,442
+2122,Sat 10/3,New Jersey,209363,16135
+2123,Sat 10/3,New Mexico,30296,890
+2124,Sat 10/3,New York,468081,32794
+2125,Sat 10/3,North Carolina,217049,3647
+2126,Sat 10/3,North Dakota,23137,274
+2127,Sat 10/3,Northern Mariana Islands,70,2
+2128,Sat 10/3,Ohio,157966,4925
+2129,Sat 10/3,Oklahoma,90748,1051
+2130,Sat 10/3,Oregon,34512,572
+2131,Sat 10/3,Pennsylvania,166270,8271
+2132,Sat 10/3,Puerto Rico,50375,681
+2133,Sat 10/3,Rhode Island,25076,1118
+2134,Sat 10/3,South Carolina,150891,3442
+2135,Sat 10/3,South Dakota,23986,248
+2136,Sat 10/3,Tennessee,196870,2534
+2137,Sat 10/3,Texas,799411,16440
+2138,Sat 10/3,Utah,76231,476
+2139,Sat 10/3,Vermont,1778,58
+2140,Sat 10/3,Virgin Islands,1327,20
+2141,Sat 10/3,Virginia,150803,3270
+2142,Sat 10/3,Washington,93160,2238
+2143,Sat 10/3,West Virginia,16468,357
+2144,Sat 10/3,Wisconsin,138018,1383
+2145,Sat 10/3,Wyoming,6365,53
+2146,Sun 10/4,Alabama,159169,2558
+2147,Sun 10/4,Alaska,9300,54
+2148,Sun 10/4,Arizona,220757,5706
+2149,Sun 10/4,Arkansas,87013,1425
+2150,Sun 10/4,California,834635,16150
+2151,Sun 10/4,Colorado,73389,2077
+2152,Sun 10/4,Connecticut,58297,4513
+2153,Sun 10/4,Delaware,21243,645
+2154,Sun 10/4,District of Columbia,15519,631
+2155,Sun 10/4,Florida,716451,14670
+2156,Sun 10/4,Georgia,306778,6999
+2157,Sun 10/4,Guam,3586,53
+2158,Sun 10/4,Hawaii,12957,155
+2159,Sun 10/4,Idaho,43964,482
+2160,Sun 10/4,Illinois,305218,9050
+2161,Sun 10/4,Indiana,127501,3674
+2162,Sun 10/4,Iowa,92744,1387
+2163,Sun 10/4,Kansas,62479,698
+2164,Sun 10/4,Kentucky,76086,1242
+2165,Sun 10/4,Louisiana,169719,5577
+2166,Sun 10/4,Maine,5519,142
+2167,Sun 10/4,Maryland,127785,3958
+2168,Sun 10/4,Massachusetts,134947,9510
+2169,Sun 10/4,Michigan,141287,7125
+2170,Sun 10/4,Minnesota,103879,2133
+2171,Sun 10/4,Mississippi,100488,3013
+2172,Sun 10/4,Missouri,135691,2220
+2173,Sun 10/4,Montana,14738,187
+2174,Sun 10/4,Nebraska,47807,504
+2175,Sun 10/4,Nevada,82134,1623
+2176,Sun 10/4,New Hampshire,8645,443
+2177,Sun 10/4,New Jersey,209989,16136
+2178,Sun 10/4,New Mexico,30477,892
+2179,Sun 10/4,New York,469307,32813
+2180,Sun 10/4,North Carolina,217641,3653
+2181,Sun 10/4,North Dakota,23553,277
+2182,Sun 10/4,Northern Mariana Islands,73,2
+2183,Sun 10/4,Ohio,158907,4925
+2184,Sun 10/4,Oklahoma,91317,1052
+2185,Sun 10/4,Oregon,34771,573
+2186,Sun 10/4,Pennsylvania,168161,8287
+2187,Sun 10/4,Puerto Rico,50675,686
+2188,Sun 10/4,Rhode Island,25076,1118
+2189,Sun 10/4,South Carolina,151582,3453
+2190,Sun 10/4,South Dakota,24418,248
+2191,Sun 10/4,Tennessee,198262,2550
+2192,Sun 10/4,Texas,802440,16471
+2193,Sun 10/4,Utah,77618,478
+2194,Sun 10/4,Vermont,1785,58
+2195,Sun 10/4,Virgin Islands,1327,20
+2196,Sun 10/4,Virginia,151870,3273
+2197,Sun 10/4,Washington,93527,2238
+2198,Sun 10/4,West Virginia,16628,358
+2199,Sun 10/4,Wisconsin,139941,1388
+2200,Sun 10/4,Wyoming,6504,53
+2201,Mon 10/5,Alabama,159713,2559
+2202,Mon 10/5,Alaska,9511,54
+2203,Mon 10/5,Arizona,221091,5707
+2204,Mon 10/5,Arkansas,87430,1447
+2205,Mon 10/5,California,837720,16179
+2206,Mon 10/5,Colorado,74029,2085
+2207,Mon 10/5,Connecticut,59120,4517
+2208,Mon 10/5,Delaware,21363,645
+2209,Mon 10/5,District of Columbia,15547,631
+2210,Mon 10/5,Florida,717866,14711
+2211,Mon 10/5,Georgia,328127,7028
+2212,Mon 10/5,Guam,3722,56
+2213,Mon 10/5,Hawaii,13007,156
+2214,Mon 10/5,Idaho,44832,487
+2215,Mon 10/5,Illinois,307428,9071
+2216,Mon 10/5,Indiana,128285,3681
+2217,Mon 10/5,Iowa,93261,1399
+2218,Mon 10/5,Kansas,63817,706
+2219,Mon 10/5,Kentucky,76787,1248
+2220,Mon 10/5,Louisiana,169937,5586
+2221,Mon 10/5,Maine,5545,142
+2222,Mon 10/5,Maryland,128277,3961
+2223,Mon 10/5,Massachusetts,135462,9530
+2224,Mon 10/5,Michigan,142757,7141
+2225,Mon 10/5,Minnesota,104852,2136
+2226,Mon 10/5,Mississippi,100703,3013
+2227,Mon 10/5,Missouri,137297,2229
+2228,Mon 10/5,Montana,15127,190
+2229,Mon 10/5,Nebraska,48259,509
+2230,Mon 10/5,Nevada,82544,1624
+2231,Mon 10/5,New Hampshire,8680,444
+2232,Mon 10/5,New Jersey,210500,16138
+2233,Mon 10/5,New Mexico,30632,894
+2234,Mon 10/5,New York,470244,32827
+2235,Mon 10/5,North Carolina,220045,3656
+2236,Mon 10/5,North Dakota,23865,280
+2237,Mon 10/5,Northern Mariana Islands,75,2
+2238,Mon 10/5,Ohio,159964,4931
+2239,Mon 10/5,Oklahoma,91982,1055
+2240,Mon 10/5,Oregon,35056,574
+2241,Mon 10/5,Pennsylvania,169126,8300
+2242,Mon 10/5,Puerto Rico,51305,695
+2243,Mon 10/5,Rhode Island,25419,1121
+2244,Mon 10/5,South Carolina,152159,3456
+2245,Mon 10/5,South Dakota,24598,248
+2246,Mon 10/5,Tennessee,200603,2570
+2247,Mon 10/5,Texas,806505,16519
+2248,Mon 10/5,Utah,78733,483
+2249,Mon 10/5,Vermont,1817,58
+2250,Mon 10/5,Virgin Islands,1322,20
+2251,Mon 10/5,Virginia,152557,3276
+2252,Mon 10/5,Washington,94202,2253
+2253,Mon 10/5,West Virginia,16742,361
+2254,Mon 10/5,Wisconsin,141780,1393
+2255,Mon 10/5,Wyoming,6629,53
+2256,Tue 10/6,Alabama,160477,2580
+2257,Tue 10/6,Alaska,9656,54
+2258,Tue 10/6,Arizona,221937,5713
+2259,Tue 10/6,Arkansas,88071,1469
+2260,Tue 10/6,California,840322,16251
+2261,Tue 10/6,Colorado,74535,2094
+2262,Tue 10/6,Connecticut,59241,4521
+2263,Tue 10/6,Delaware,21466,646
+2264,Tue 10/6,District of Columbia,15652,631
+2265,Tue 10/6,Florida,720117,14766
+2266,Tue 10/6,Georgia,329101,7062
+2267,Tue 10/6,Guam,3787,56
+2268,Tue 10/6,Hawaii,13090,159
+2269,Tue 10/6,Idaho,45487,494
+2270,Tue 10/6,Illinois,308990,9100
+2271,Tue 10/6,Indiana,129281,3711
+2272,Tue 10/6,Iowa,93909,1414
+2273,Tue 10/6,Kansas,64077,706
+2274,Tue 10/6,Kentucky,77741,1255
+2275,Tue 10/6,Louisiana,170469,5592
+2276,Tue 10/6,Maine,5565,142
+2277,Tue 10/6,Maryland,128691,3967
+2278,Tue 10/6,Massachusetts,135957,9538
+2279,Tue 10/6,Michigan,143901,7163
+2280,Tue 10/6,Minnesota,105793,2140
+2281,Tue 10/6,Mississippi,101678,3027
+2282,Tue 10/6,Missouri,139172,2258
+2283,Tue 10/6,Montana,15633,192
+2284,Tue 10/6,Nebraska,48757,511
+2285,Tue 10/6,Nevada,83036,1630
+2286,Tue 10/6,New Hampshire,8731,446
+2287,Tue 10/6,New Jersey,211129,16147
+2288,Tue 10/6,New Mexico,30947,894
+2289,Tue 10/6,New York,471638,32836
+2290,Tue 10/6,North Carolina,221438,3691
+2291,Tue 10/6,North Dakota,24368,284
+2292,Tue 10/6,Northern Mariana Islands,75,2
+2293,Tue 10/6,Ohio,161299,4947
+2294,Tue 10/6,Oklahoma,93346,1066
+2295,Tue 10/6,Oregon,35347,581
+2296,Tue 10/6,Pennsylvania,170255,8318
+2297,Tue 10/6,Puerto Rico,51737,696
+2298,Tue 10/6,Rhode Island,25596,1125
+2299,Tue 10/6,South Carolina,152970,3471
+2300,Tue 10/6,South Dakota,24876,248
+2301,Tue 10/6,Tennessee,202257,2594
+2302,Tue 10/6,Texas,811184,16622
+2303,Tue 10/6,Utah,79449,489
+2304,Tue 10/6,Vermont,1821,58
+2305,Tue 10/6,Virgin Islands,1321,20
+2306,Tue 10/6,Virginia,153182,3291
+2307,Tue 10/6,Washington,94694,2261
+2308,Tue 10/6,West Virginia,16936,364
+2309,Tue 10/6,Wisconsin,143886,1410
+2310,Tue 10/6,Wyoming,6770,53
+2311,Wed 10/7,Alabama,161418,2601
+2312,Wed 10/7,Alaska,9784,55
+2313,Wed 10/7,Arizona,222558,5733
+2314,Wed 10/7,Arkansas,88880,1482
+2315,Wed 10/7,California,843732,16358
+2316,Wed 10/7,Colorado,75410,2097
+2317,Wed 10/7,Connecticut,59364,4522
+2318,Wed 10/7,Delaware,21550,649
+2319,Wed 10/7,District of Columbia,15697,632
+2320,Wed 10/7,Florida,722699,14903
+2321,Wed 10/7,Georgia,330769,7089
+2322,Wed 10/7,Guam,3837,58
+2323,Wed 10/7,Hawaii,13196,162
+2324,Wed 10/7,Idaho,46233,502
+2325,Wed 10/7,Illinois,311614,9138
+2326,Wed 10/7,Indiana,130569,3727
+2327,Wed 10/7,Iowa,95205,1419
+2328,Wed 10/7,Kansas,65131,725
+2329,Wed 10/7,Kentucky,78669,1261
+2330,Wed 10/7,Louisiana,172625,5604
+2331,Wed 10/7,Maine,5604,142
+2332,Wed 10/7,Maryland,129158,3973
+2333,Wed 10/7,Massachusetts,136492,9557
+2334,Wed 10/7,Michigan,145131,7171
+2335,Wed 10/7,Minnesota,106704,2154
+2336,Wed 10/7,Mississippi,102241,3051
+2337,Wed 10/7,Missouri,141262,2334
+2338,Wed 10/7,Montana,16194,193
+2339,Wed 10/7,Nebraska,49396,516
+2340,Wed 10/7,Nevada,83500,1639
+2341,Wed 10/7,New Hampshire,8800,448
+2342,Wed 10/7,New Jersey,211638,16152
+2343,Wed 10/7,New Mexico,31372,896
+2344,Wed 10/7,New York,472994,32850
+2345,Wed 10/7,North Carolina,223349,3716
+2346,Wed 10/7,North Dakota,24861,308
+2347,Wed 10/7,Northern Mariana Islands,75,2
+2348,Wed 10/7,Ohio,162723,4970
+2349,Wed 10/7,Oklahoma,94352,1075
+2350,Wed 10/7,Oregon,35646,585
+2351,Wed 10/7,Pennsylvania,171550,8347
+2352,Wed 10/7,Puerto Rico,51768,705
+2353,Wed 10/7,Rhode Island,25776,1126
+2354,Wed 10/7,South Carolina,153705,3502
+2355,Wed 10/7,South Dakota,25906,258
+2356,Wed 10/7,Tennessee,204286,2615
+2357,Wed 10/7,Texas,817157,16747
+2358,Wed 10/7,Utah,80522,499
+2359,Wed 10/7,Vermont,1827,58
+2360,Wed 10/7,Virgin Islands,1322,20
+2361,Wed 10/7,Virginia,153691,3303
+2362,Wed 10/7,Washington,95500,2274
+2363,Wed 10/7,West Virginia,17139,369
+2364,Wed 10/7,Wisconsin,146376,1427
+2365,Wed 10/7,Wyoming,6899,53
+2366,Thu 10/8,Alabama,161975,2637
+2367,Thu 10/8,Alaska,9919,56
+2368,Thu 10/8,Arizona,223407,5743
+2369,Thu 10/8,Arkansas,90145,1503
+2370,Thu 10/8,California,847384,16425
+2371,Thu 10/8,Colorado,76186,2107
+2372,Thu 10/8,Connecticut,59748,4527
+2373,Thu 10/8,Delaware,21682,651
+2374,Thu 10/8,District of Columbia,15765,634
+2375,Thu 10/8,Florida,726005,15067
+2376,Thu 10/8,Georgia,332142,7125
+2377,Thu 10/8,Guam,3903,59
+2378,Thu 10/8,Hawaii,13297,163
+2379,Thu 10/8,Idaho,46848,504
+2380,Thu 10/8,Illinois,314725,9173
+2381,Thu 10/8,Indiana,132030,3742
+2382,Thu 10/8,Iowa,96749,1433
+2383,Thu 10/8,Kansas,65296,741
+2384,Thu 10/8,Kentucky,79550,1272
+2385,Thu 10/8,Louisiana,173149,5609
+2386,Thu 10/8,Maine,5639,142
+2387,Thu 10/8,Maryland,129919,3979
+2388,Thu 10/8,Massachusetts,136936,9565
+2389,Thu 10/8,Michigan,146548,7194
+2390,Thu 10/8,Minnesota,107975,2160
+2391,Thu 10/8,Mississippi,102819,3074
+2392,Thu 10/8,Missouri,142732,2360
+2393,Thu 10/8,Montana,16766,197
+2394,Thu 10/8,Nebraska,50059,518
+2395,Thu 10/8,Nevada,83971,1650
+2396,Thu 10/8,New Hampshire,8878,448
+2397,Thu 10/8,New Jersey,212936,16161
+2398,Thu 10/8,New Mexico,31756,899
+2399,Thu 10/8,New York,474829,32859
+2400,Thu 10/8,North Carolina,225738,3744
+2401,Thu 10/8,North Dakota,25388,314
+2402,Thu 10/8,Northern Mariana Islands,75,2
+2403,Thu 10/8,Ohio,164262,4983
+2404,Thu 10/8,Oklahoma,95564,1085
+2405,Thu 10/8,Oregon,36121,596
+2406,Thu 10/8,Pennsylvania,172971,8372
+2407,Thu 10/8,Puerto Rico,52294,715
+2408,Thu 10/8,Rhode Island,26045,1127
+2409,Thu 10/8,South Carolina,154755,3514
+2410,Thu 10/8,South Dakota,26441,272
+2411,Thu 10/8,Tennessee,206265,2676
+2412,Thu 10/8,Texas,821715,16853
+2413,Thu 10/8,Utah,81975,504
+2414,Thu 10/8,Vermont,1838,58
+2415,Thu 10/8,Virgin Islands,1324,20
+2416,Thu 10/8,Virginia,155535,3328
+2417,Thu 10/8,Washington,96227,2280
+2418,Thu 10/8,West Virginia,17325,370
+2419,Thu 10/8,Wisconsin,149613,1436
+2420,Thu 10/8,Wyoming,7092,54
+2421,Fri 10/9,Alabama,163465,2653
+2422,Fri 10/9,Alaska,10099,56
+2423,Fri 10/9,Arizona,224101,5746
+2424,Fri 10/9,Arkansas,91312,1530
+2425,Fri 10/9,California,851228,16502
+2426,Fri 10/9,Colorado,77068,2115
+2427,Fri 10/9,Connecticut,60038,4530
+2428,Fri 10/9,Delaware,21827,651
+2429,Fri 10/9,District of Columbia,15843,634
+2430,Fri 10/9,Florida,728913,15185
+2431,Fri 10/9,Georgia,333934,7178
+2432,Fri 10/9,Guam,3958,59
+2433,Fri 10/9,Hawaii,13461,165
+2434,Fri 10/9,Idaho,47674,506
+2435,Fri 10/9,Illinois,317501,9207
+2436,Fri 10/9,Indiana,133864,3761
+2437,Fri 10/9,Iowa,98023,1454
+2438,Fri 10/9,Kansas,67086,765
+2439,Fri 10/9,Kentucky,80633,1283
+2440,Fri 10/9,Louisiana,173406,5635
+2441,Fri 10/9,Maine,5666,143
+2442,Fri 10/9,Maryland,130652,3990
+2443,Fri 10/9,Massachusetts,137701,9577
+2444,Fri 10/9,Michigan,147880,7202
+2445,Fri 10/9,Minnesota,109365,2174
+2446,Fri 10/9,Mississippi,103681,3080
+2447,Fri 10/9,Missouri,145034,2463
+2448,Fri 10/9,Montana,17478,206
+2449,Fri 10/9,Nebraska,50168,522
+2450,Fri 10/9,Nevada,84785,1658
+2451,Fri 10/9,New Hampshire,8970,450
+2452,Fri 10/9,New Jersey,213801,16164
+2453,Fri 10/9,New Mexico,32241,902
+2454,Fri 10/9,New York,476422,32867
+2455,Fri 10/9,North Carolina,227756,3768
+2456,Fri 10/9,North Dakota,26044,325
+2457,Fri 10/9,Northern Mariana Islands,75,2
+2458,Fri 10/9,Ohio,166102,4994
+2459,Fri 10/9,Oklahoma,97088,1091
+2460,Fri 10/9,Oregon,36538,600
+2461,Fri 10/9,Pennsylvania,174352,8387
+2462,Fri 10/9,Puerto Rico,52892,720
+2463,Fri 10/9,Rhode Island,26294,1130
+2464,Fri 10/9,South Carolina,155676,3530
+2465,Fri 10/9,South Dakota,27215,277
+2466,Fri 10/9,Tennessee,207823,2702
+2467,Fri 10/9,Texas,826221,16955
+2468,Fri 10/9,Utah,83307,508
+2469,Fri 10/9,Vermont,1846,58
+2470,Fri 10/9,Virgin Islands,1324,20
+2471,Fri 10/9,Virginia,156649,3344
+2472,Fri 10/9,Washington,96837,2288
+2473,Fri 10/9,West Virginia,17707,376
+2474,Fri 10/9,Wisconsin,152831,1453
+2475,Fri 10/9,Wyoming,7335,54
+2476,Sat 10/10,Alabama,164526,2664
+2477,Sat 10/10,Alaska,10350,56
+2478,Sat 10/10,Arizona,224985,5759
+2479,Sat 10/10,Arkansas,92220,1552
+2480,Sat 10/10,California,854302,16568
+2481,Sat 10/10,Colorado,78047,2121
+2482,Sat 10/10,Connecticut,60038,4530
+2483,Sat 10/10,Delaware,21998,653
+2484,Sat 10/10,District of Columbia,15918,636
+2485,Sat 10/10,Florida,728913,15185
+2486,Sat 10/10,Georgia,335351,7223
+2487,Sat 10/10,Guam,4025,60
+2488,Sat 10/10,Hawaii,13532,167
+2489,Sat 10/10,Idaho,47927,508
+2490,Sat 10/10,Illinois,320283,9235
+2491,Sat 10/10,Indiana,135789,3782
+2492,Sat 10/10,Iowa,99099,1460
+2493,Sat 10/10,Kansas,67193,768
+2494,Sat 10/10,Kentucky,81630,1293
+2495,Sat 10/10,Louisiana,173406,5635
+2496,Sat 10/10,Maine,5696,143
+2497,Sat 10/10,Maryland,131169,3995
+2498,Sat 10/10,Massachusetts,138340,9587
+2499,Sat 10/10,Michigan,149406,7221
+2500,Sat 10/10,Minnesota,110881,2184
+2501,Sat 10/10,Mississippi,104638,3096
+2502,Sat 10/10,Missouri,148199,2483
+2503,Sat 10/10,Montana,18118,209
+2504,Sat 10/10,Nebraska,51887,525
+2505,Sat 10/10,Nevada,85463,1659
+2506,Sat 10/10,New Hampshire,9092,455
+2507,Sat 10/10,New Jersey,214665,16171
+2508,Sat 10/10,New Mexico,32722,907
+2509,Sat 10/10,New York,477870,32875
+2510,Sat 10/10,North Carolina,229959,3786
+2511,Sat 10/10,North Dakota,26632,340
+2512,Sat 10/10,Northern Mariana Islands,77,2
+2513,Sat 10/10,Ohio,167458,4997
+2514,Sat 10/10,Oklahoma,98621,1095
+2515,Sat 10/10,Oregon,36925,600
+2516,Sat 10/10,Pennsylvania,175804,8421
+2517,Sat 10/10,Puerto Rico,53364,728
+2518,Sat 10/10,Rhode Island,26294,1130
+2519,Sat 10/10,South Carolina,156621,3551
+2520,Sat 10/10,South Dakota,27947,286
+2521,Sat 10/10,Tennessee,209593,2729
+2522,Sat 10/10,Texas,829738,17019
+2523,Sat 10/10,Utah,84697,512
+2524,Sat 10/10,Vermont,1857,58
+2525,Sat 10/10,Virgin Islands,1325,20
+2526,Sat 10/10,Virginia,157905,3354
+2527,Sat 10/10,Washington,97223,2289
+2528,Sat 10/10,West Virginia,17913,381
+2529,Sat 10/10,Wisconsin,155752,1470
+2530,Sat 10/10,Wyoming,7455,54
+2531,Sun 10/11,Alabama,165342,2664
+2532,Sun 10/11,Alaska,10608,56
+2533,Sun 10/11,Arizona,225575,5759
+2534,Sun 10/11,Arkansas,92833,1569
+2535,Sun 10/11,California,857076,16581
+2536,Sun 10/11,Colorado,78752,2134
+2537,Sun 10/11,Connecticut,60038,4530
+2538,Sun 10/11,Delaware,22130,654
+2539,Sun 10/11,District of Columbia,15984,637
+2540,Sun 10/11,Florida,734483,15363
+2541,Sun 10/11,Georgia,336586,7246
+2542,Sun 10/11,Guam,4047,61
+2543,Sun 10/11,Hawaii,13633,168
+2544,Sun 10/11,Idaho,48155,508
+2545,Sun 10/11,Illinois,322985,9245
+2546,Sun 10/11,Indiana,137359,3789
+2547,Sun 10/11,Iowa,99941,1462
+2548,Sun 10/11,Kansas,67231,769
+2549,Sun 10/11,Kentucky,82358,1295
+2550,Sun 10/11,Louisiana,174587,5655
+2551,Sun 10/11,Maine,5723,143
+2552,Sun 10/11,Maryland,131853,3999
+2553,Sun 10/11,Massachusetts,138903,9604
+2554,Sun 10/11,Michigan,149448,7221
+2555,Sun 10/11,Minnesota,112321,2194
+2556,Sun 10/11,Mississippi,104932,3101
+2557,Sun 10/11,Missouri,148481,2483
+2558,Sun 10/11,Montana,18733,210
+2559,Sun 10/11,Nebraska,52382,525
+2560,Sun 10/11,Nevada,85922,1663
+2561,Sun 10/11,New Hampshire,9143,456
+2562,Sun 10/11,New Jersey,215416,16174
+2563,Sun 10/11,New Mexico,32983,911
+2564,Sun 10/11,New York,479013,32879
+2565,Sun 10/11,North Carolina,231564,3791
+2566,Sun 10/11,North Dakota,27269,343
+2567,Sun 10/11,Northern Mariana Islands,77,2
+2568,Sun 10/11,Ohio,168749,4999
+2569,Sun 10/11,Oklahoma,99387,1098
+2570,Sun 10/11,Oregon,37263,600
+2571,Sun 10/11,Pennsylvania,176820,8426
+2572,Sun 10/11,Puerto Rico,53671,730
+2573,Sun 10/11,Rhode Island,26294,1130
+2574,Sun 10/11,South Carolina,157406,3552
+2575,Sun 10/11,South Dakota,28564,286
+2576,Sun 10/11,Tennessee,211426,2738
+2577,Sun 10/11,Texas,832730,17047
+2578,Sun 10/11,Utah,85844,518
+2579,Sun 10/11,Vermont,1868,58
+2580,Sun 10/11,Virgin Islands,1325,20
+2581,Sun 10/11,Virginia,158716,3358
+2582,Sun 10/11,Washington,97527,2289
+2583,Sun 10/11,West Virginia,18128,382
+2584,Sun 10/11,Wisconsin,158426,1477
+2585,Sun 10/11,Wyoming,7611,54
+2586,Mon 10/12,Alabama,166076,2665
+2587,Mon 10/12,Alaska,10805,56
+2588,Mon 10/12,Arizona,226072,5759
+2589,Mon 10/12,Arkansas,93487,1586
+2590,Mon 10/12,California,859959,16594
+2591,Mon 10/12,Colorado,79499,2144
+2592,Mon 10/12,Connecticut,61377,4532
+2593,Mon 10/12,Delaware,22289,656
+2594,Mon 10/12,District of Columbia,16022,637
+2595,Mon 10/12,Florida,736016,15411
+2596,Mon 10/12,Georgia,339577,7259
+2597,Mon 10/12,Guam,4139,61
+2598,Mon 10/12,Hawaii,13675,168
+2599,Mon 10/12,Idaho,48663,511
+2600,Mon 10/12,Illinois,325755,9258
+2601,Mon 10/12,Indiana,138933,3795
+2602,Mon 10/12,Iowa,100451,1481
+2603,Mon 10/12,Kansas,69158,774
+2604,Mon 10/12,Kentucky,83074,1300
+2605,Mon 10/12,Louisiana,174647,5669
+2606,Mon 10/12,Maine,5752,143
+2607,Mon 10/12,Maryland,132357,4003
+2608,Mon 10/12,Massachusetts,139663,9617
+2609,Mon 10/12,Michigan,151284,7227
+2610,Mon 10/12,Minnesota,113492,2197
+2611,Mon 10/12,Mississippi,105228,3101
+2612,Mon 10/12,Missouri,149460,2484
+2613,Mon 10/12,Montana,19205,212
+2614,Mon 10/12,Nebraska,52839,529
+2615,Mon 10/12,Nevada,86433,1670
+2616,Mon 10/12,New Hampshire,9208,456
+2617,Mon 10/12,New Jersey,215885,16175
+2618,Mon 10/12,New Mexico,33362,915
+2619,Mon 10/12,New York,480045,32896
+2620,Mon 10/12,North Carolina,233059,3799
+2621,Mon 10/12,North Dakota,27742,350
+2622,Mon 10/12,Northern Mariana Islands,77,2
+2623,Mon 10/12,Ohio,170179,5005
+2624,Mon 10/12,Oklahoma,100184,1104
+2625,Mon 10/12,Oregon,37472,600
+2626,Mon 10/12,Pennsylvania,177844,8444
+2627,Mon 10/12,Puerto Rico,54234,735
+2628,Mon 10/12,Rhode Island,26294,1130
+2629,Mon 10/12,South Carolina,158055,3559
+2630,Mon 10/12,South Dakota,28925,288
+2631,Mon 10/12,Tennessee,214245,2745
+2632,Mon 10/12,Texas,836787,17073
+2633,Mon 10/12,Utah,86879,524
+2634,Mon 10/12,Vermont,1876,58
+2635,Mon 10/12,Virgin Islands,1325,20
+2636,Mon 10/12,Virginia,159570,3361
+2637,Mon 10/12,Washington,98265,2292
+2638,Mon 10/12,West Virginia,18281,385
+2639,Mon 10/12,Wisconsin,160655,1488
+2640,Mon 10/12,Wyoming,7802,54
+2641,Tue 10/13,Alabama,167193,2665
+2642,Tue 10/13,Alaska,10960,56
+2643,Tue 10/13,Arizona,226749,5767
+2644,Tue 10/13,Arkansas,94167,1611
+2645,Tue 10/13,California,863614,16650
+2646,Tue 10/13,Colorado,80414,2181
+2647,Tue 10/13,Connecticut,61697,4533
+2648,Tue 10/13,Delaware,22394,659
+2649,Tue 10/13,District of Columbia,16068,637
+2650,Tue 10/13,Florida,738741,15530
+2651,Tue 10/13,Georgia,340758,7282
+2652,Tue 10/13,Guam,4235,62
+2653,Tue 10/13,Hawaii,13736,172
+2654,Tue 10/13,Idaho,49987,514
+2655,Tue 10/13,Illinois,329160,9288
+2656,Tue 10/13,Indiana,140505,3822
+2657,Tue 10/13,Iowa,101531,1491
+2658,Tue 10/13,Kansas,69392,786
+2659,Tue 10/13,Kentucky,83967,1318
+2660,Tue 10/13,Louisiana,175329,5679
+2661,Tue 10/13,Maine,5780,143
+2662,Tue 10/13,Maryland,132839,4012
+2663,Tue 10/13,Massachusetts,140412,9630
+2664,Tue 10/13,Michigan,152842,7257
+2665,Tue 10/13,Minnesota,114627,2204
+2666,Tue 10/13,Mississippi,105941,3115
+2667,Tue 10/13,Missouri,150496,2495
+2668,Tue 10/13,Montana,19682,217
+2669,Tue 10/13,Nebraska,53543,533
+2670,Tue 10/13,Nevada,86970,1677
+2671,Tue 10/13,New Hampshire,9279,456
+2672,Tue 10/13,New Jersey,216873,16182
+2673,Tue 10/13,New Mexico,33713,918
+2674,Tue 10/13,New York,481436,32905
+2675,Tue 10/13,North Carolina,234842,3849
+2676,Tue 10/13,North Dakota,28250,362
+2677,Tue 10/13,Northern Mariana Islands,77,2
+2678,Tue 10/13,Ohio,171626,5017
+2679,Tue 10/13,Oklahoma,101493,1119
+2680,Tue 10/13,Oregon,37788,605
+2681,Tue 10/13,Pennsylvania,179673,8458
+2682,Tue 10/13,Puerto Rico,54540,738
+2683,Tue 10/13,Rhode Island,26960,1139
+2684,Tue 10/13,South Carolina,158883,3576
+2685,Tue 10/13,South Dakota,29339,288
+2686,Tue 10/13,Tennessee,215423,2768
+2687,Tue 10/13,Texas,842261,17165
+2688,Tue 10/13,Utah,87825,524
+2689,Tue 10/13,Vermont,1886,58
+2690,Tue 10/13,Virgin Islands,1328,20
+2691,Tue 10/13,Virginia,160805,3372
+2692,Tue 10/13,Washington,99311,2311
+2693,Tue 10/13,West Virginia,18555,387
+2694,Tue 10/13,Wisconsin,164137,1521
+2695,Tue 10/13,Wyoming,7964,57
+2696,Wed 10/14,Alabama,167977,2706
+2697,Wed 10/14,Alaska,11103,60
+2698,Wed 10/14,Arizona,227660,5772
+2699,Wed 10/14,Arkansas,95246,1634
+2700,Wed 10/14,California,867094,16752
+2701,Wed 10/14,Colorado,81205,2186
+2702,Wed 10/14,Connecticut,61861,4537
+2703,Wed 10/14,Delaware,22465,660
+2704,Wed 10/14,District of Columbia,16132,638
+2705,Wed 10/14,Florida,741624,15594
+2706,Wed 10/14,Georgia,342302,7298
+2707,Wed 10/14,Guam,4310,62
+2708,Wed 10/14,Hawaii,13834,182
+2709,Wed 10/14,Idaho,50534,520
+2710,Wed 10/14,Illinois,332124,9335
+2711,Wed 10/14,Indiana,141670,3836
+2712,Wed 10/14,Iowa,102905,1505
+2713,Wed 10/14,Kansas,70665,838
+2714,Wed 10/14,Kentucky,85278,1325
+2715,Wed 10/14,Louisiana,176209,5695
+2716,Wed 10/14,Maine,5816,143
+2717,Wed 10/14,Maryland,133413,4022
+2718,Wed 10/14,Massachusetts,140992,9647
+2719,Wed 10/14,Michigan,154409,7270
+2720,Wed 10/14,Minnesota,115996,2233
+2721,Wed 10/14,Mississippi,106817,3140
+2722,Wed 10/14,Missouri,154213,2598
+2723,Wed 10/14,Montana,20321,225
+2724,Wed 10/14,Nebraska,54467,536
+2725,Wed 10/14,Nevada,87527,1694
+2726,Wed 10/14,New Hampshire,9349,458
+2727,Wed 10/14,New Jersey,217812,16191
+2728,Wed 10/14,New Mexico,34290,921
+2729,Wed 10/14,New York,482671,32916
+2730,Wed 10/14,North Carolina,236812,3882
+2731,Wed 10/14,North Dakota,28952,370
+2732,Wed 10/14,Northern Mariana Islands,77,2
+2733,Wed 10/14,Ohio,173665,5033
+2734,Wed 10/14,Oklahoma,102615,1132
+2735,Wed 10/14,Oregon,38175,609
+2736,Wed 10/14,Pennsylvania,180956,8481
+2737,Wed 10/14,Puerto Rico,55516,742
+2738,Wed 10/14,Rhode Island,27164,1147
+2739,Wed 10/14,South Carolina,159809,3593
+2740,Wed 10/14,South Dakota,30215,291
+2741,Wed 10/14,Tennessee,217140,2801
+2742,Wed 10/14,Texas,848153,17276
+2743,Wed 10/14,Utah,89018,529
+2744,Wed 10/14,Vermont,1889,58
+2745,Wed 10/14,Virgin Islands,1328,20
+2746,Wed 10/14,Virginia,161610,3381
+2747,Wed 10/14,Washington,100068,2319
+2748,Wed 10/14,West Virginia,18818,391
+2749,Wed 10/14,Wisconsin,167441,1549
+2750,Wed 10/14,Wyoming,8177,57
+2751,Thu 10/15,Alabama,169162,2756
+2752,Thu 10/15,Alaska,11268,61
+2753,Thu 10/15,Arizona,228748,5789
+2754,Thu 10/15,Arkansas,96524,1645
+2755,Thu 10/15,California,870380,16839
+2756,Thu 10/15,Colorado,82443,2187
+2757,Thu 10/15,Connecticut,62028,4540
+2758,Thu 10/15,Delaware,22560,661
+2759,Thu 10/15,District of Columbia,16166,638
+2760,Thu 10/15,Florida,744980,15735
+2761,Thu 10/15,Georgia,344093,7320
+2762,Thu 10/15,Guam,4396,62
+2763,Thu 10/15,Hawaii,13922,183
+2764,Thu 10/15,Idaho,51471,521
+2765,Thu 10/15,Illinois,336211,9392
+2766,Thu 10/15,Indiana,143617,3864
+2767,Thu 10/15,Iowa,104232,1516
+2768,Thu 10/15,Kansas,70815,838
+2769,Thu 10/15,Kentucky,86410,1341
+2770,Thu 10/15,Louisiana,176952,5707
+2771,Thu 10/15,Maine,5836,144
+2772,Thu 10/15,Maryland,134042,4028
+2773,Thu 10/15,Massachusetts,141579,9672
+2774,Thu 10/15,Michigan,156926,7304
+2775,Thu 10/15,Minnesota,117159,2252
+2776,Thu 10/15,Mississippi,108139,3152
+2777,Thu 10/15,Missouri,156142,2531
+2778,Thu 10/15,Montana,21043,230
+2779,Thu 10/15,Nebraska,55428,546
+2780,Thu 10/15,Nevada,88081,1700
+2781,Thu 10/15,New Hampshire,9426,463
+2782,Thu 10/15,New Jersey,218783,16197
+2783,Thu 10/15,New Mexico,34958,922
+2784,Thu 10/15,New York,484135,32935
+2785,Thu 10/15,North Carolina,239338,3899
+2786,Thu 10/15,North Dakota,29658,375
+2787,Thu 10/15,Northern Mariana Islands,80,2
+2788,Thu 10/15,Ohio,175843,5038
+2789,Thu 10/15,Oklahoma,103836,1143
+2790,Thu 10/15,Oregon,38536,613
+2791,Thu 10/15,Pennsylvania,182502,8496
+2792,Thu 10/15,Puerto Rico,56085,743
+2793,Thu 10/15,Rhode Island,27438,1149
+2794,Thu 10/15,South Carolina,161106,3607
+2795,Thu 10/15,South Dakota,31012,304
+2796,Thu 10/15,Tennessee,219355,2836
+2797,Thu 10/15,Texas,853949,17362
+2798,Thu 10/15,Utah,90488,531
+2799,Thu 10/15,Vermont,1903,58
+2800,Thu 10/15,Virgin Islands,1329,21
+2801,Thu 10/15,Virginia,162941,3388
+2802,Thu 10/15,Washington,100838,2331
+2803,Thu 10/15,West Virginia,19082,393
+2804,Thu 10/15,Wisconsin,171480,1568
+2805,Thu 10/15,Wyoming,8375,57
+2806,Fri 10/16,Alabama,170374,2786
+2807,Fri 10/16,Alaska,11496,62
+2808,Fri 10/16,Arizona,229508,5806
+2809,Fri 10/16,Arkansas,97539,1665
+2810,Fri 10/16,California,874101,16901
+2811,Fri 10/16,Colorado,83712,2196
+2812,Fri 10/16,Connecticut,62830,4542
+2813,Fri 10/16,Delaware,22724,662
+2814,Fri 10/16,District of Columbia,16255,641
+2815,Fri 10/16,Florida,748429,15829
+2816,Fri 10/16,Georgia,345879,7382
+2817,Fri 10/16,Guam,4507,64
+2818,Fri 10/16,Hawaii,14007,184
+2819,Fri 10/16,Idaho,52234,529
+2820,Fri 10/16,Illinois,341219,9447
+2821,Fri 10/16,Indiana,145915,3887
+2822,Fri 10/16,Iowa,105746,1524
+2823,Fri 10/16,Kansas,72509,859
+2824,Fri 10/16,Kentucky,87764,1349
+2825,Fri 10/16,Louisiana,177726,5727
+2826,Fri 10/16,Maine,5865,145
+2827,Fri 10/16,Maryland,134822,4032
+2828,Fri 10/16,Massachusetts,142346,9702
+2829,Fri 10/16,Michigan,159144,7320
+2830,Fri 10/16,Minnesota,119449,2265
+2831,Fri 10/16,Mississippi,109255,3160
+2832,Fri 10/16,Missouri,158764,2550
+2833,Fri 10/16,Montana,21674,235
+2834,Fri 10/16,Nebraska,56724,556
+2835,Fri 10/16,Nevada,88832,1707
+2836,Fri 10/16,New Hampshire,9514,465
+2837,Fri 10/16,New Jersey,219593,16202
+2838,Fri 10/16,New Mexico,35770,928
+2839,Fri 10/16,New York,485838,32944
+2840,Fri 10/16,North Carolina,242032,3938
+2841,Fri 10/16,North Dakota,30522,393
+2842,Fri 10/16,Northern Mariana Islands,80,2
+2843,Fri 10/16,Ohio,177991,5054
+2844,Fri 10/16,Oklahoma,105308,1154
+2845,Fri 10/16,Oregon,38947,620
+2846,Fri 10/16,Pennsylvania,184185,8524
+2847,Fri 10/16,Puerto Rico,56412,758
+2848,Fri 10/16,Rhode Island,27691,1152
+2849,Fri 10/16,South Carolina,162253,3615
+2850,Fri 10/16,South Dakota,31805,307
+2851,Fri 10/16,Tennessee,220099,2847
+2852,Fri 10/16,Texas,859553,17454
+2853,Fri 10/16,Utah,91966,539
+2854,Fri 10/16,Vermont,1915,58
+2855,Fri 10/16,Virgin Islands,1329,21
+2856,Fri 10/16,Virginia,164124,3408
+2857,Fri 10/16,Washington,101533,2338
+2858,Fri 10/16,West Virginia,19580,396
+2859,Fri 10/16,Wisconsin,175652,1588
+2860,Fri 10/16,Wyoming,8665,57
+2861,Sat 10/17,Alabama,171662,2788
+2862,Sat 10/17,Alaska,11710,63
+2863,Sat 10/17,Arizona,230412,5824
+2864,Sat 10/17,Arkansas,98422,1684
+2865,Sat 10/17,California,876257,16940
+2866,Sat 10/17,Colorado,84804,2199
+2867,Sat 10/17,Connecticut,62830,4542
+2868,Sat 10/17,Delaware,22942,664
+2869,Sat 10/17,District of Columbia,16334,641
+2870,Sat 10/17,Florida,752473,15916
+2871,Sat 10/17,Georgia,347468,7429
+2872,Sat 10/17,Guam,4507,64
+2873,Sat 10/17,Hawaii,14101,185
+2874,Sat 10/17,Idaho,52582,532
+2875,Sat 10/17,Illinois,344787,9474
+2876,Sat 10/17,Indiana,148400,3918
+2877,Sat 10/17,Iowa,106698,1528
+2878,Sat 10/17,Kansas,72616,859
+2879,Sat 10/17,Kentucky,88823,1363
+2880,Sat 10/17,Louisiana,177726,5727
+2881,Sat 10/17,Maine,5913,146
+2882,Sat 10/17,Maryland,135463,4036
+2883,Sat 10/17,Massachusetts,142930,9723
+2884,Sat 10/17,Michigan,159259,7323
+2885,Sat 10/17,Minnesota,121143,2270
+2886,Sat 10/17,Mississippi,110006,3171
+2887,Sat 10/17,Missouri,160654,2645
+2888,Sat 10/17,Montana,22284,240
+2889,Sat 10/17,Nebraska,57334,557
+2890,Sat 10/17,Nevada,89848,1709
+2891,Sat 10/17,New Hampshire,9625,466
+2892,Sat 10/17,New Jersey,220527,16204
+2893,Sat 10/17,New Mexico,36343,929
+2894,Sat 10/17,New York,487626,32959
+2895,Sat 10/17,North Carolina,244020,3955
+2896,Sat 10/17,North Dakota,31266,404
+2897,Sat 10/17,Northern Mariana Islands,86,2
+2898,Sat 10/17,Ohio,180225,5067
+2899,Sat 10/17,Oklahoma,106503,1168
+2900,Sat 10/17,Oregon,39316,622
+2901,Sat 10/17,Pennsylvania,185670,8535
+2902,Sat 10/17,Puerto Rico,56650,761
+2903,Sat 10/17,Rhode Island,27691,1152
+2904,Sat 10/17,South Carolina,163214,3637
+2905,Sat 10/17,South Dakota,32611,315
+2906,Sat 10/17,Tennessee,222608,2875
+2907,Sat 10/17,Texas,863979,17518
+2908,Sat 10/17,Utah,93297,541
+2909,Sat 10/17,Vermont,1926,58
+2910,Sat 10/17,Virgin Islands,1335,21
+2911,Sat 10/17,Virginia,165238,3422
+2912,Sat 10/17,Washington,102054,2339
+2913,Sat 10/17,West Virginia,19801,399
+2914,Sat 10/17,Wisconsin,175652,1588
+2915,Sat 10/17,Wyoming,8816,57
+2916,Sun 10/18,Alabama,172626,2788
+2917,Sun 10/18,Alaska,11934,63
+2918,Sun 10/18,Arizona,231149,5827
+2919,Sun 10/18,Arkansas,99066,1704
+2920,Sun 10/18,California,878394,16979
+2921,Sun 10/18,Colorado,85803,2199
+2922,Sun 10/18,Connecticut,62830,4542
+2923,Sun 10/18,Delaware,23093,665
+2924,Sun 10/18,District of Columbia,16370,641
+2925,Sun 10/18,Florida,755012,15966
+2926,Sun 10/18,Georgia,348773,7460
+2927,Sun 10/18,Guam,4507,64
+2928,Sun 10/18,Hawaii,14183,186
+2929,Sun 10/18,Idaho,53092,532
+2930,Sun 10/18,Illinois,348870,9491
+2931,Sun 10/18,Indiana,150005,3937
+2932,Sun 10/18,Iowa,107334,1532
+2933,Sun 10/18,Kansas,72722,859
+2934,Sun 10/18,Kentucky,89538,1372
+2935,Sun 10/18,Louisiana,178869,5750
+2936,Sun 10/18,Maine,5939,146
+2937,Sun 10/18,Maryland,136149,4037
+2938,Sun 10/18,Massachusetts,143660,9737
+2939,Sun 10/18,Michigan,159337,7323
+2940,Sun 10/18,Minnesota,122865,2287
+2941,Sun 10/18,Mississippi,110239,3171
+2942,Sun 10/18,Missouri,162156,2648
+2943,Sun 10/18,Montana,22821,241
+2944,Sun 10/18,Nebraska,58068,557
+2945,Sun 10/18,Nevada,90374,1711
+2946,Sun 10/18,New Hampshire,9694,467
+2947,Sun 10/18,New Jersey,221802,16211
+2948,Sun 10/18,New Mexico,36788,934
+2949,Sun 10/18,New York,489016,32972
+2950,Sun 10/18,North Carolina,246116,3961
+2951,Sun 10/18,North Dakota,31983,409
+2952,Sun 10/18,Northern Mariana Islands,86,2
+2953,Sun 10/18,Ohio,181787,5067
+2954,Sun 10/18,Oklahoma,107299,1171
+2955,Sun 10/18,Oregon,39532,622
+2956,Sun 10/18,Pennsylvania,186772,8555
+2957,Sun 10/18,Puerto Rico,57293,766
+2958,Sun 10/18,Rhode Island,27691,1152
+2959,Sun 10/18,South Carolina,163990,3650
+2960,Sun 10/18,South Dakota,33269,323
+2961,Sun 10/18,Tennessee,225126,2884
+2962,Sun 10/18,Texas,869362,17541
+2963,Sun 10/18,Utah,94394,544
+2964,Sun 10/18,Vermont,1937,58
+2965,Sun 10/18,Virgin Islands,1335,21
+2966,Sun 10/18,Virginia,166138,3433
+2967,Sun 10/18,Washington,102403,2339
+2968,Sun 10/18,West Virginia,20081,399
+2969,Sun 10/18,Wisconsin,175652,1588
+2970,Sun 10/18,Wyoming,9025,57
+2971,Mon 10/19,Alabama,173485,2789
+2972,Mon 10/19,Alaska,12138,63
+2973,Mon 10/19,Arizona,231933,5830
+2974,Mon 10/19,Arkansas,99597,1714
+2975,Mon 10/19,California,882665,16987
+2976,Mon 10/19,Colorado,86727,2207
+2977,Mon 10/19,Connecticut,64021,4554
+2978,Mon 10/19,Delaware,23196,666
+2979,Mon 10/19,District of Columbia,16395,641
+2980,Mon 10/19,Florida,756719,16020
+2981,Mon 10/19,Georgia,350654,7479
+2982,Mon 10/19,Guam,4725,67
+2983,Mon 10/19,Hawaii,14218,186
+2984,Mon 10/19,Idaho,54123,535
+2985,Mon 10/19,Illinois,352449,9520
+2986,Mon 10/19,Indiana,151588,3960
+2987,Mon 10/19,Iowa,108114,1548
+2988,Mon 10/19,Kansas,74616,872
+2989,Mon 10/19,Kentucky,90443,1381
+2990,Mon 10/19,Louisiana,179070,5766
+2991,Mon 10/19,Maine,5962,146
+2992,Mon 10/19,Maryland,136643,4041
+2993,Mon 10/19,Massachusetts,144488,9753
+2994,Mon 10/19,Michigan,164055,7364
+2995,Mon 10/19,Minnesota,124492,2292
+2996,Mon 10/19,Mississippi,110592,3171
+2997,Mon 10/19,Missouri,164249,2660
+2998,Mon 10/19,Montana,23503,242
+2999,Mon 10/19,Nebraska,58817,568
+3000,Mon 10/19,Nevada,90978,1714
+3001,Mon 10/19,New Hampshire,9746,468
+3002,Mon 10/19,New Jersey,222994,16214
+3003,Mon 10/19,New Mexico,37302,935
+3004,Mon 10/19,New York,490015,32990
+3005,Mon 10/19,North Carolina,247551,3969
+3006,Mon 10/19,North Dakota,32642,413
+3007,Mon 10/19,Northern Mariana Islands,86,2
+3008,Mon 10/19,Ohio,183624,5075
+3009,Mon 10/19,Oklahoma,108073,1173
+3010,Mon 10/19,Oregon,39799,630
+3011,Mon 10/19,Pennsylvania,188442,8562
+3012,Mon 10/19,Puerto Rico,57950,768
+3013,Mon 10/19,Rhode Island,28347,1159
+3014,Mon 10/19,South Carolina,164609,3661
+3015,Mon 10/19,South Dakota,33836,323
+3016,Mon 10/19,Tennessee,228267,2896
+3017,Mon 10/19,Texas,874057,17564
+3018,Mon 10/19,Utah,95572,547
+3019,Mon 10/19,Vermont,1946,58
+3020,Mon 10/19,Virgin Islands,1335,21
+3021,Mon 10/19,Virginia,166828,3457
+3022,Mon 10/19,Washington,103323,2357
+3023,Mon 10/19,West Virginia,20293,399
+3024,Mon 10/19,Wisconsin,183177,1624
+3025,Mon 10/19,Wyoming,9311,57
+3026,Tue 10/20,Alabama,174528,2805
+3027,Tue 10/20,Alaska,12349,63
+3028,Tue 10/20,Arizona,232939,5837
+3029,Tue 10/20,Arkansas,100441,1728
+3030,Tue 10/20,California,887093,17067
+3031,Tue 10/20,Colorado,87966,2212
+3032,Tue 10/20,Connecticut,64455,4559
+3033,Tue 10/20,Delaware,23325,668
+3034,Tue 10/20,District of Columbia,16445,642
+3035,Tue 10/20,Florida,760381,16104
+3036,Tue 10/20,Georgia,351990,7494
+3037,Tue 10/20,Guam,4855,67
+3038,Tue 10/20,Hawaii,14302,188
+3039,Tue 10/20,Idaho,55153,541
+3040,Tue 10/20,Illinois,356151,9562
+3041,Tue 10/20,Indiana,153088,4008
+3042,Tue 10/20,Iowa,109210,1576
+3043,Tue 10/20,Kansas,74883,902
+3044,Tue 10/20,Kentucky,91731,1403
+3045,Tue 10/20,Louisiana,179769,5772
+3046,Tue 10/20,Maine,5989,146
+3047,Tue 10/20,Maryland,137229,4050
+3048,Tue 10/20,Massachusetts,145464,9758
+3049,Tue 10/20,Michigan,165949,7386
+3050,Tue 10/20,Minnesota,125584,2299
+3051,Tue 10/20,Mississippi,111322,3202
+3052,Tue 10/20,Missouri,164891,2668
+3053,Tue 10/20,Montana,24201,252
+3054,Tue 10/20,Nebraska,59409,575
+3055,Tue 10/20,Nevada,91679,1728
+3056,Tue 10/20,New Hampshire,9828,468
+3057,Tue 10/20,New Jersey,223982,16227
+3058,Tue 10/20,New Mexico,37896,942
+3059,Tue 10/20,New York,491216,32998
+3060,Tue 10/20,North Carolina,249158,4018
+3061,Tue 10/20,North Dakota,33671,417
+3062,Tue 10/20,Northern Mariana Islands,88,2
+3063,Tue 10/20,Ohio,185639,5083
+3064,Tue 10/20,Oklahoma,109548,1191
+3065,Tue 10/20,Oregon,40149,636
+3066,Tue 10/20,Pennsylvania,189988,8591
+3067,Tue 10/20,Puerto Rico,58643,769
+3068,Tue 10/20,Rhode Island,28649,1164
+3069,Tue 10/20,South Carolina,165493,3696
+3070,Tue 10/20,South Dakota,34457,330
+3071,Tue 10/20,Tennessee,229794,2924
+3072,Tue 10/20,Texas,879939,17644
+3073,Tue 10/20,Utah,96643,552
+3074,Tue 10/20,Vermont,1956,58
+3075,Tue 10/20,Virgin Islands,1337,21
+3076,Tue 10/20,Virginia,167754,3485
+3077,Tue 10/20,Washington,103845,2380
+3078,Tue 10/20,West Virginia,20519,408
+3079,Tue 10/20,Wisconsin,187898,1660
+3080,Tue 10/20,Wyoming,9526,61
+3081,Wed 10/21,Alabama,175674,2828
+3082,Wed 10/21,Alaska,12559,64
+3083,Wed 10/21,Arizona,233948,5854
+3084,Wed 10/21,Arkansas,101596,1751
+3085,Wed 10/21,California,890153,17189
+3086,Wed 10/21,Colorado,89245,2220
+3087,Wed 10/21,Connecticut,64871,4567
+3088,Wed 10/21,Delaware,23375,670
+3089,Wed 10/21,District of Columbia,16498,642
+3090,Wed 10/21,Florida,762525,16209
+3091,Wed 10/21,Georgia,353449,7523
+3092,Wed 10/21,Guam,4937,69
+3093,Wed 10/21,Hawaii,14379,202
+3094,Wed 10/21,Idaho,55922,551
+3095,Wed 10/21,Illinois,360160,9622
+3096,Wed 10/21,Indiana,154822,4023
+3097,Wed 10/21,Iowa,110444,1594
+3098,Wed 10/21,Kansas,76299,952
+3099,Wed 10/21,Kentucky,93110,1424
+3100,Wed 10/21,Louisiana,181132,5790
+3101,Wed 10/21,Maine,6027,146
+3102,Wed 10/21,Maryland,137720,4058
+3103,Wed 10/21,Massachusetts,146166,9780
+3104,Wed 10/21,Michigan,167857,7420
+3105,Wed 10/21,Minnesota,126644,2334
+3106,Wed 10/21,Mississippi,112123,3223
+3107,Wed 10/21,Missouri,167435,2716
+3108,Wed 10/21,Montana,24818,276
+3109,Wed 10/21,Nebraska,60308,586
+3110,Wed 10/21,Nevada,92193,1735
+3111,Wed 10/21,New Hampshire,9917,469
+3112,Wed 10/21,New Jersey,225012,16245
+3113,Wed 10/21,New Mexico,38715,950
+3114,Wed 10/21,New York,493245,33005
+3115,Wed 10/21,North Carolina,251010,4063
+3116,Wed 10/21,North Dakota,34170,427
+3117,Wed 10/21,Northern Mariana Islands,88,2
+3118,Wed 10/21,Ohio,188005,5149
+3119,Wed 10/21,Oklahoma,110855,1210
+3120,Wed 10/21,Oregon,40458,638
+3121,Wed 10/21,Pennsylvania,191347,8629
+3122,Wed 10/21,Puerto Rico,58830,774
+3123,Wed 10/21,Rhode Island,29123,1169
+3124,Wed 10/21,South Carolina,166357,3708
+3125,Wed 10/21,South Dakota,35044,333
+3126,Wed 10/21,Tennessee,232100,2946
+3127,Wed 10/21,Texas,886403,17743
+3128,Wed 10/21,Utah,98037,558
+3129,Wed 10/21,Vermont,1971,58
+3130,Wed 10/21,Virgin Islands,1337,21
+3131,Wed 10/21,Virginia,168772,3515
+3132,Wed 10/21,Washington,104624,2384
+3133,Wed 10/21,West Virginia,20734,413
+3134,Wed 10/21,Wisconsin,192225,1707
+3135,Wed 10/21,Wyoming,9848,61
+3136,Thu 10/22,Alabama,177064,2843
+3137,Thu 10/22,Alaska,12790,64
+3138,Thu 10/22,Arizona,234914,5859
+3139,Thu 10/22,Arkansas,102798,1772
+3140,Thu 10/22,California,896424,17266
+3141,Thu 10/22,Colorado,90639,2224
+3142,Thu 10/22,Connecticut,65373,4569
+3143,Thu 10/22,Delaware,23528,670
+3144,Thu 10/22,District of Columbia,16537,642
+3145,Thu 10/22,Florida,768083,16266
+3146,Thu 10/22,Georgia,355156,7547
+3147,Thu 10/22,Guam,5025,70
+3148,Thu 10/22,Hawaii,14478,205
+3149,Thu 10/22,Idaho,56944,560
+3150,Thu 10/22,Illinois,365120,9663
+3151,Thu 10/22,Indiana,157678,4065
+3152,Thu 10/22,Iowa,112242,1617
+3153,Thu 10/22,Kansas,76546,952
+3154,Thu 10/22,Kentucky,94582,1439
+3155,Thu 10/22,Louisiana,181904,5799
+3156,Thu 10/22,Maine,6064,146
+3157,Thu 10/22,Maryland,138473,4070
+3158,Thu 10/22,Massachusetts,147215,9810
+3159,Thu 10/22,Michigan,170102,7465
+3160,Thu 10/22,Minnesota,128205,2354
+3161,Thu 10/22,Mississippi,113081,3231
+3162,Thu 10/22,Missouri,169311,2734
+3163,Thu 10/22,Montana,25736,279
+3164,Thu 10/22,Nebraska,61285,589
+3165,Thu 10/22,Nevada,93028,1736
+3166,Thu 10/22,New Hampshire,9994,470
+3167,Thu 10/22,New Jersey,226174,16263
+3168,Thu 10/22,New Mexico,39377,953
+3169,Thu 10/22,New York,494874,33022
+3170,Thu 10/22,North Carolina,253418,4110
+3171,Thu 10/22,North Dakota,35057,436
+3172,Thu 10/22,Northern Mariana Islands,88,2
+3173,Thu 10/22,Ohio,190430,5161
+3174,Thu 10/22,Oklahoma,112483,1221
+3175,Thu 10/22,Oregon,40825,647
+3176,Thu 10/22,Pennsylvania,193401,8660
+3177,Thu 10/22,Puerto Rico,59037,783
+3178,Thu 10/22,Rhode Island,29594,1173
+3179,Thu 10/22,South Carolina,167485,3755
+3180,Thu 10/22,South Dakota,36017,347
+3181,Thu 10/22,Tennessee,234079,2983
+3182,Thu 10/22,Texas,891656,17760
+3183,Thu 10/22,Utah,99563,563
+3184,Thu 10/22,Vermont,1987,58
+3185,Thu 10/22,Virgin Islands,1343,21
+3186,Thu 10/22,Virginia,170104,3524
+3187,Thu 10/22,Washington,105364,2389
+3188,Thu 10/22,West Virginia,21057,418
+3189,Thu 10/22,Wisconsin,195853,1730
+3190,Thu 10/22,Wyoming,10119,68
+3191,Fri 10/23,Alabama,180916,2859
+3192,Fri 10/23,Alaska,13067,64
+3193,Fri 10/23,Arizona,235910,5865
+3194,Fri 10/23,Arkansas,104135,1782
+3195,Fri 10/23,California,902325,17316
+3196,Fri 10/23,Colorado,92067,2233
+3197,Fri 10/23,Connecticut,66052,4577
+3198,Fri 10/23,Delaware,23687,678
+3199,Fri 10/23,District of Columbia,16609,642
+3200,Fri 10/23,Florida,771772,16339
+3201,Fri 10/23,Georgia,357319,7584
+3202,Fri 10/23,Guam,5110,70
+3203,Fri 10/23,Hawaii,14617,208
+3204,Fri 10/23,Idaho,58083,568
+3205,Fri 10/23,Illinois,370134,9704
+3206,Fri 10/23,Indiana,160145,4092
+3207,Fri 10/23,Iowa,113596,1629
+3208,Fri 10/23,Kansas,78122,975
+3209,Fri 10/23,Kentucky,96043,1462
+3210,Fri 10/23,Louisiana,182603,5820
+3211,Fri 10/23,Maine,6095,146
+3212,Fri 10/23,Maryland,139185,4078
+3213,Fri 10/23,Massachusetts,148285,9830
+3214,Fri 10/23,Michigan,172128,7485
+3215,Fri 10/23,Minnesota,129916,2367
+3216,Fri 10/23,Mississippi,113876,3238
+3217,Fri 10/23,Missouri,171871,2764
+3218,Fri 10/23,Montana,26600,283
+3219,Fri 10/23,Nebraska,62511,594
+3220,Fri 10/23,Nevada,94044,1739
+3221,Fri 10/23,New Hampshire,10112,471
+3222,Fri 10/23,New Jersey,227219,16273
+3223,Fri 10/23,New Mexico,40168,960
+3224,Fri 10/23,New York,496510,33038
+3225,Fri 10/23,North Carolina,255534,4140
+3226,Fri 10/23,North Dakota,35944,445
+3227,Fri 10/23,Northern Mariana Islands,88,2
+3228,Fri 10/23,Ohio,192948,5184
+3229,Fri 10/23,Oklahoma,113856,1234
+3230,Fri 10/23,Oregon,41357,651
+3231,Fri 10/23,Pennsylvania,195659,8695
+3232,Fri 10/23,Puerto Rico,60984,791
+3233,Fri 10/23,Rhode Island,30118,1177
+3234,Fri 10/23,South Carolina,168549,3777
+3235,Fri 10/23,South Dakota,37202,356
+3236,Fri 10/23,Tennessee,237607,3043
+3237,Fri 10/23,Texas,899313,17873
+3238,Fri 10/23,Utah,101574,567
+3239,Fri 10/23,Vermont,2016,58
+3240,Fri 10/23,Virgin Islands,1346,21
+3241,Fri 10/23,Virginia,171284,3539
+3242,Fri 10/23,Washington,106189,2396
+3243,Fri 10/23,West Virginia,21392,422
+3244,Fri 10/23,Wisconsin,200479,1776
+3245,Fri 10/23,Wyoming,10545,68
+3246,Sat 10/24,Alabama,183276,2866
+3247,Sat 10/24,Alaska,13439,64
+3248,Sat 10/24,Arizona,236898,5870
+3249,Sat 10/24,Arkansas,105318,1797
+3250,Sat 10/24,California,906644,17345
+3251,Sat 10/24,Colorado,93989,2241
+3252,Sat 10/24,Connecticut,66052,4577
+3253,Sat 10/24,Delaware,23847,680
+3254,Sat 10/24,District of Columbia,16706,642
+3255,Sat 10/24,Florida,776243,16416
+3256,Sat 10/24,Georgia,359001,7625
+3257,Sat 10/24,Guam,5144,72
+3258,Sat 10/24,Hawaii,14706,211
+3259,Sat 10/24,Idaho,58964,573
+3260,Sat 10/24,Illinois,376034,9765
+3261,Sat 10/24,Indiana,162886,4118
+3262,Sat 10/24,Iowa,114952,1634
+3263,Sat 10/24,Kansas,78177,975
+3264,Sat 10/24,Kentucky,97501,1469
+3265,Sat 10/24,Louisiana,182603,5820
+3266,Sat 10/24,Maine,6137,146
+3267,Sat 10/24,Maryland,139859,4091
+3268,Sat 10/24,Massachusetts,149488,9839
+3269,Sat 10/24,Michigan,175385,7522
+3270,Sat 10/24,Minnesota,132175,2381
+3271,Sat 10/24,Mississippi,115088,3255
+3272,Sat 10/24,Missouri,173746,2854
+3273,Sat 10/24,Montana,27149,295
+3274,Sat 10/24,Nebraska,63215,603
+3275,Sat 10/24,Nevada,94935,1746
+3276,Sat 10/24,New Hampshire,10238,473
+3277,Sat 10/24,New Jersey,229128,16281
+3278,Sat 10/24,New Mexico,41040,965
+3279,Sat 10/24,New York,498568,33049
+3280,Sat 10/24,North Carolina,258439,4170
+3281,Sat 10/24,North Dakota,36879,453
+3282,Sat 10/24,Northern Mariana Islands,88,2
+3283,Sat 10/24,Ohio,195806,5206
+3284,Sat 10/24,Oklahoma,115685,1245
+3285,Sat 10/24,Oregon,41739,654
+3286,Sat 10/24,Pennsylvania,197370,8721
+3287,Sat 10/24,Puerto Rico,61280,794
+3288,Sat 10/24,Rhode Island,30118,1177
+3289,Sat 10/24,South Carolina,169341,3793
+3290,Sat 10/24,South Dakota,38141,366
+3291,Sat 10/24,Tennessee,240191,3067
+3292,Sat 10/24,Texas,906638,17998
+3293,Sat 10/24,Utah,103137,568
+3294,Sat 10/24,Vermont,2043,58
+3295,Sat 10/24,Virgin Islands,1346,21
+3296,Sat 10/24,Virginia,172372,3578
+3297,Sat 10/24,Washington,106772,2396
+3298,Sat 10/24,West Virginia,21712,422
+3299,Sat 10/24,Wisconsin,205139,1804
+3300,Sat 10/24,Wyoming,10805,68
+3301,Sun 10/25,Alabama,184355,2866
+3302,Sun 10/25,Alaska,13968,64
+3303,Sun 10/25,Arizona,238200,5874
+3304,Sun 10/25,Arkansas,106115,1812
+3305,Sun 10/25,California,909344,17358
+3306,Sun 10/25,Colorado,95742,2244
+3307,Sun 10/25,Connecticut,66052,4577
+3308,Sun 10/25,Delaware,23961,681
+3309,Sun 10/25,District of Columbia,16767,642
+3310,Sun 10/25,Florida,778628,16428
+3311,Sun 10/25,Georgia,360344,7626
+3312,Sun 10/25,Guam,5185,72
+3313,Sun 10/25,Hawaii,14823,211
+3314,Sun 10/25,Idaho,59344,574
+3315,Sun 10/25,Illinois,380065,9788
+3316,Sun 10/25,Indiana,165038,4130
+3317,Sun 10/25,Iowa,116238,1635
+3318,Sun 10/25,Kansas,78241,975
+3319,Sun 10/25,Kentucky,98730,1472
+3320,Sun 10/25,Louisiana,183575,5837
+3321,Sun 10/25,Maine,6201,146
+3322,Sun 10/25,Maryland,140770,4096
+3323,Sun 10/25,Massachusetts,150565,9864
+3324,Sun 10/25,Michigan,175515,7522
+3325,Sun 10/25,Minnesota,133855,2402
+3326,Sun 10/25,Mississippi,115088,3255
+3327,Sun 10/25,Missouri,175243,2857
+3328,Sun 10/25,Montana,27880,298
+3329,Sun 10/25,Nebraska,63797,604
+3330,Sun 10/25,Nevada,95798,1748
+3331,Sun 10/25,New Hampshire,10328,473
+3332,Sun 10/25,New Jersey,230257,16285
+3333,Sun 10/25,New Mexico,41863,967
+3334,Sun 10/25,New York,500201,33059
+3335,Sun 10/25,North Carolina,260128,4183
+3336,Sun 10/25,North Dakota,37724,461
+3337,Sun 10/25,Northern Mariana Islands,88,2
+3338,Sun 10/25,Ohio,198115,5206
+3339,Sun 10/25,Oklahoma,116736,1249
+3340,Sun 10/25,Oregon,42101,654
+3341,Sun 10/25,Pennsylvania,198756,8730
+3342,Sun 10/25,Puerto Rico,62503,801
+3343,Sun 10/25,Rhode Island,30118,1177
+3344,Sun 10/25,South Carolina,170678,3802
+3345,Sun 10/25,South Dakota,39203,375
+3346,Sun 10/25,Tennessee,243508,3105
+3347,Sun 10/25,Texas,910573,18042
+3348,Sun 10/25,Utah,105053,572
+3349,Sun 10/25,Vermont,2073,58
+3350,Sun 10/25,Virgin Islands,1346,21
+3351,Sun 10/25,Virginia,173371,3579
+3352,Sun 10/25,Washington,107270,2396
+3353,Sun 10/25,West Virginia,21906,423
+3354,Sun 10/25,Wisconsin,208917,1814
+3355,Sun 10/25,Wyoming,11041,68
+3356,Mon 10/26,Alabama,185322,2866
+3357,Mon 10/26,Alaska,14316,64
+3358,Mon 10/26,Arizona,239193,5875
+3359,Mon 10/26,Arkansas,106727,1833
+3360,Mon 10/26,California,913699,17398
+3361,Mon 10/26,Colorado,97686,2255
+3362,Mon 10/26,Connecticut,68099,4589
+3363,Mon 10/26,Delaware,24168,685
+3364,Mon 10/26,District of Columbia,16812,642
+3365,Mon 10/26,Florida,782005,16448
+3366,Mon 10/26,Georgia,364275,7644
+3367,Mon 10/26,Guam,5305,76
+3368,Mon 10/26,Hawaii,14858,211
+3369,Mon 10/26,Idaho,60400,582
+3370,Mon 10/26,Illinois,385084,9811
+3371,Mon 10/26,Indiana,167010,4143
+3372,Mon 10/26,Iowa,117198,1657
+3373,Mon 10/26,Kansas,80473,976
+3374,Mon 10/26,Kentucky,99965,1480
+3375,Mon 10/26,Louisiana,183802,5854
+3376,Mon 10/26,Maine,6254,146
+3377,Mon 10/26,Maryland,141334,4099
+3378,Mon 10/26,Massachusetts,151777,9881
+3379,Mon 10/26,Michigan,179624,7551
+3380,Mon 10/26,Minnesota,135425,2406
+3381,Mon 10/26,Mississippi,115763,3263
+3382,Mon 10/26,Missouri,177733,2869
+3383,Mon 10/26,Montana,28580,304
+3384,Mon 10/26,Nebraska,64506,609
+3385,Mon 10/26,Nevada,96330,1751
+3386,Mon 10/26,New Hampshire,10397,475
+3387,Mon 10/26,New Jersey,231473,16292
+3388,Mon 10/26,New Mexico,42586,976
+3389,Mon 10/26,New York,501393,33073
+3390,Mon 10/26,North Carolina,262159,4200
+3391,Mon 10/26,North Dakota,38246,466
+3392,Mon 10/26,Northern Mariana Islands,92,2
+3393,Mon 10/26,Ohio,200231,5217
+3394,Mon 10/26,Oklahoma,117399,1251
+3395,Mon 10/26,Oregon,42454,657
+3396,Mon 10/26,Pennsylvania,201248,8737
+3397,Mon 10/26,Puerto Rico,63135,804
+3398,Mon 10/26,Rhode Island,31024,1184
+3399,Mon 10/26,South Carolina,171501,3823
+3400,Mon 10/26,South Dakota,39741,375
+3401,Mon 10/26,Tennessee,245760,3132
+3402,Mon 10/26,Texas,917167,18077
+3403,Mon 10/26,Utah,106083,575
+3404,Mon 10/26,Vermont,2083,58
+3405,Mon 10/26,Virgin Islands,1348,21
+3406,Mon 10/26,Virginia,174275,3581
+3407,Mon 10/26,Washington,108393,2428
+3408,Mon 10/26,West Virginia,22223,424
+3409,Mon 10/26,Wisconsin,212116,1825
+3410,Mon 10/26,Wyoming,11477,77
+3411,Tue 10/27,Alabama,186437,2892
+3412,Tue 10/27,Alaska,14699,66
+3413,Tue 10/27,Arizona,240158,5891
+3414,Tue 10/27,Arkansas,107679,1857
+3415,Tue 10/27,California,918627,17478
+3416,Tue 10/27,Colorado,99111,2265
+3417,Tue 10/27,Connecticut,68637,4595
+3418,Tue 10/27,Delaware,24249,686
+3419,Tue 10/27,District of Columbia,16906,644
+3420,Tue 10/27,Florida,786303,16504
+3421,Tue 10/27,Georgia,365498,7661
+3422,Tue 10/27,Guam,5387,76
+3423,Tue 10/27,Hawaii,14920,214
+3424,Tue 10/27,Idaho,61282,588
+3425,Tue 10/27,Illinois,389088,9860
+3426,Tue 10/27,Indiana,168996,4194
+3427,Tue 10/27,Iowa,118852,1680
+3428,Tue 10/27,Kansas,80761,979
+3429,Tue 10/27,Kentucky,101700,1493
+3430,Tue 10/27,Louisiana,184724,5872
+3431,Tue 10/27,Maine,6311,146
+3432,Tue 10/27,Maryland,142237,4108
+3433,Tue 10/27,Massachusetts,153037,9888
+3434,Tue 10/27,Michigan,182284,7585
+3435,Tue 10/27,Minnesota,137589,2421
+3436,Tue 10/27,Mississippi,116617,3283
+3437,Tue 10/27,Missouri,179457,2912
+3438,Tue 10/27,Montana,29422,309
+3439,Tue 10/27,Nebraska,65376,623
+3440,Tue 10/27,Nevada,97138,1757
+3441,Tue 10/27,New Hampshire,10530,475
+3442,Tue 10/27,New Jersey,233120,16306
+3443,Tue 10/27,New Mexico,43169,980
+3444,Tue 10/27,New York,503387,33092
+3445,Tue 10/27,North Carolina,264334,4236
+3446,Tue 10/27,North Dakota,39135,481
+3447,Tue 10/27,Northern Mariana Islands,92,2
+3448,Tue 10/27,Ohio,202740,5239
+3449,Tue 10/27,Oklahoma,118409,1273
+3450,Tue 10/27,Oregon,42821,665
+3451,Tue 10/27,Pennsylvania,203520,8760
+3452,Tue 10/27,Puerto Rico,63497,808
+3453,Tue 10/27,Rhode Island,31445,1188
+3454,Tue 10/27,South Carolina,172579,3842
+3455,Tue 10/27,South Dakota,40730,375
+3456,Tue 10/27,Tennessee,247688,3176
+3457,Tue 10/27,Texas,924458,18155
+3458,Tue 10/27,Utah,107246,579
+3459,Tue 10/27,Vermont,2113,58
+3460,Tue 10/27,Virgin Islands,1351,21
+3461,Tue 10/27,Virginia,175409,3600
+3462,Tue 10/27,Washington,108966,2438
+3463,Tue 10/27,West Virginia,22706,432
+3464,Tue 10/27,Wisconsin,217447,1896
+3465,Tue 10/27,Wyoming,11806,77
+3466,Wed 10/28,Alabama,187706,2911
+3467,Wed 10/28,Alaska,15053,67
+3468,Wed 10/28,Arizona,241259,5906
+3469,Wed 10/28,Arkansas,108640,1875
+3470,Wed 10/28,California,922680,17541
+3471,Wed 10/28,Colorado,100614,2277
+3472,Wed 10/28,Connecticut,69127,4604
+3473,Wed 10/28,Delaware,24392,688
+3474,Wed 10/28,District of Columbia,16973,644
+3475,Wed 10/28,Florida,790418,16570
+3476,Wed 10/28,Georgia,367126,7692
+3477,Wed 10/28,Guam,5435,77
+3478,Wed 10/28,Hawaii,14975,212
+3479,Wed 10/28,Idaho,62197,600
+3480,Wed 10/28,Illinois,395204,9912
+3481,Wed 10/28,Indiana,171566,4227
+3482,Wed 10/28,Iowa,120911,1691
+3483,Wed 10/28,Kansas,83485,1007
+3484,Wed 10/28,Kentucky,103685,1509
+3485,Wed 10/28,Louisiana,185822,5890
+3486,Wed 10/28,Maine,6387,146
+3487,Wed 10/28,Maryland,142918,4115
+3488,Wed 10/28,Massachusetts,154218,9924
+3489,Wed 10/28,Michigan,185818,7606
+3490,Wed 10/28,Minnesota,139497,2440
+3491,Wed 10/28,Mississippi,117617,3302
+3492,Wed 10/28,Missouri,181877,2940
+3493,Wed 10/28,Montana,30051,326
+3494,Wed 10/28,Nebraska,66545,629
+3495,Wed 10/28,Nevada,97824,1767
+3496,Wed 10/28,New Hampshire,10641,478
+3497,Wed 10/28,New Jersey,234790,16324
+3498,Wed 10/28,New Mexico,43826,991
+3499,Wed 10/28,New York,505416,33107
+3500,Wed 10/28,North Carolina,266566,4275
+3501,Wed 10/28,North Dakota,39912,493
+3502,Wed 10/28,Northern Mariana Islands,92,2
+3503,Wed 10/28,Ohio,205347,5256
+3504,Wed 10/28,Oklahoma,119152,1286
+3505,Wed 10/28,Oregon,43228,673
+3506,Wed 10/28,Pennsylvania,205852,8789
+3507,Wed 10/28,Puerto Rico,63587,813
+3508,Wed 10/28,Rhode Island,31944,1192
+3509,Wed 10/28,South Carolina,173491,3876
+3510,Wed 10/28,South Dakota,42000,384
+3511,Wed 10/28,Tennessee,250269,3209
+3512,Wed 10/28,Texas,932206,18251
+3513,Wed 10/28,Utah,108863,588
+3514,Wed 10/28,Vermont,2120,58
+3515,Wed 10/28,Virgin Islands,1353,21
+3516,Wed 10/28,Virginia,176754,3616
+3517,Wed 10/28,Washington,109865,2454
+3518,Wed 10/28,West Virginia,23064,436
+3519,Wed 10/28,Wisconsin,221578,1953
+3520,Wed 10/28,Wyoming,12146,77
+3521,Thu 10/29,Alabama,189149,2914
+3522,Thu 10/29,Alaska,15417,72
+3523,Thu 10/29,Arizona,242510,5920
+3524,Thu 10/29,Arkansas,109712,1894
+3525,Thu 10/29,California,926893,17567
+3526,Thu 10/29,Colorado,102665,2295
+3527,Thu 10/29,Connecticut,70446,4609
+3528,Thu 10/29,Delaware,24553,689
+3529,Thu 10/29,District of Columbia,17074,645
+3530,Thu 10/29,Florida,794616,16647
+3531,Thu 10/29,Georgia,368840,7737
+3532,Thu 10/29,Guam,5518,79
+3533,Thu 10/29,Hawaii,15046,214
+3534,Thu 10/29,Idaho,63195,618
+3535,Thu 10/29,Illinois,401622,9963
+3536,Thu 10/29,Indiana,175190,4260
+3537,Thu 10/29,Iowa,123232,1705
+3538,Thu 10/29,Kansas,83838,1008
+3539,Thu 10/29,Kentucky,105517,1524
+3540,Thu 10/29,Louisiana,186216,5908
+3541,Thu 10/29,Maine,6467,146
+3542,Thu 10/29,Maryland,143875,4127
+3543,Thu 10/29,Massachusetts,155564,9951
+3544,Thu 10/29,Michigan,189926,7651
+3545,Thu 10/29,Minnesota,142364,2472
+3546,Thu 10/29,Mississippi,118587,3310
+3547,Thu 10/29,Missouri,184847,2978
+3548,Thu 10/29,Montana,30932,339
+3549,Thu 10/29,Nebraska,68150,641
+3550,Thu 10/29,Nevada,98814,1770
+3551,Thu 10/29,New Hampshire,10768,482
+3552,Thu 10/29,New Jersey,236340,16332
+3553,Thu 10/29,New Mexico,44904,994
+3554,Thu 10/29,New York,507913,33128
+3555,Thu 10/29,North Carolina,269419,4307
+3556,Thu 10/29,North Dakota,41135,504
+3557,Thu 10/29,Northern Mariana Islands,92,2
+3558,Thu 10/29,Ohio,208937,5275
+3559,Thu 10/29,Oklahoma,120193,1306
+3560,Thu 10/29,Oregon,43793,674
+3561,Thu 10/29,Pennsylvania,208087,8828
+3562,Thu 10/29,Puerto Rico,64798,814
+3563,Thu 10/29,Rhode Island,32312,1195
+3564,Thu 10/29,South Carolina,174591,3889
+3565,Thu 10/29,South Dakota,43000,403
+3566,Thu 10/29,Tennessee,252727,3229
+3567,Thu 10/29,Texas,939292,18372
+3568,Thu 10/29,Utah,110666,598
+3569,Thu 10/29,Vermont,2141,58
+3570,Thu 10/29,Virgin Islands,1353,21
+3571,Thu 10/29,Virginia,178183,3636
+3572,Thu 10/29,Washington,110748,2463
+3573,Thu 10/29,West Virginia,23466,443
+3574,Thu 10/29,Wisconsin,226712,2008
+3575,Thu 10/29,Wyoming,12507,87
+3576,Fri 10/30,Alabama,190496,2932
+3577,Fri 10/30,Alaska,15803,76
+3578,Fri 10/30,Arizona,244099,5934
+3579,Fri 10/30,Arkansas,110874,1900
+3580,Fri 10/30,California,931826,17627
+3581,Fri 10/30,Colorado,104927,2302
+3582,Fri 10/30,Connecticut,71207,4616
+3583,Fri 10/30,Delaware,24751,704
+3584,Fri 10/30,District of Columbia,17144,646
+3585,Fri 10/30,Florida,800208,16719
+3586,Fri 10/30,Georgia,370157,7768
+3587,Fri 10/30,Guam,5597,80
+3588,Fri 10/30,Hawaii,15145,215
+3589,Fri 10/30,Idaho,64175,627
+3590,Fri 10/30,Illinois,410141,10012
+3591,Fri 10/30,Indiana,178372,4286
+3592,Fri 10/30,Iowa,125973,1714
+3593,Fri 10/30,Kansas,86768,1029
+3594,Fri 10/30,Kentucky,107620,1543
+3595,Fri 10/30,Louisiana,186649,5919
+3596,Fri 10/30,Maine,6570,146
+3597,Fri 10/30,Maryland,144800,4137
+3598,Fri 10/30,Massachusetts,157146,9975
+3599,Fri 10/30,Michigan,193360,7664
+3600,Fri 10/30,Minnesota,145519,2491
+3601,Fri 10/30,Mississippi,119336,3328
+3602,Fri 10/30,Missouri,187830,3014
+3603,Fri 10/30,Montana,31995,368
+3604,Fri 10/30,Nebraska,69645,646
+3605,Fri 10/30,Nevada,100038,1777
+3606,Fri 10/30,New Hampshire,10884,482
+3607,Fri 10/30,New Jersey,238316,16339
+3608,Fri 10/30,New Mexico,45909,1007
+3609,Fri 10/30,New York,510171,33143
+3610,Fri 10/30,North Carolina,272231,4354
+3611,Fri 10/30,North Dakota,42488,517
+3612,Fri 10/30,Northern Mariana Islands,92,2
+3613,Fri 10/30,Ohio,212782,5291
+3614,Fri 10/30,Oklahoma,121495,1326
+3615,Fri 10/30,Oregon,44388,677
+3616,Fri 10/30,Pennsylvania,210586,8860
+3617,Fri 10/30,Puerto Rico,65743,820
+3618,Fri 10/30,Rhode Island,32874,1201
+3619,Fri 10/30,South Carolina,175594,3896
+3620,Fri 10/30,South Dakota,44559,415
+3621,Fri 10/30,Tennessee,255332,3307
+3622,Fri 10/30,Texas,945948,18477
+3623,Fri 10/30,Utah,112932,601
+3624,Fri 10/30,Vermont,2155,58
+3625,Fri 10/30,Virgin Islands,1362,21
+3626,Fri 10/30,Virginia,179639,3643
+3627,Fri 10/30,Washington,111893,2468
+3628,Fri 10/30,West Virginia,23990,451
+3629,Fri 10/30,Wisconsin,232092,2034
+3630,Fri 10/30,Wyoming,13028,87
+3631,Sat 10/31,Alabama,192285,2967
+3632,Sat 10/31,Alaska,16247,77
+3633,Sat 10/31,Arizona,245962,5979
+3634,Sat 10/31,Arkansas,112190,1925
+3635,Sat 10/31,California,935248,17661
+3636,Sat 10/31,Colorado,107844,2309
+3637,Sat 10/31,Connecticut,71207,4616
+3638,Sat 10/31,Delaware,24951,708
+3639,Sat 10/31,District of Columbia,17266,646
+3640,Sat 10/31,Florida,802539,16760
+3641,Sat 10/31,Georgia,372631,7790
+3642,Sat 10/31,Guam,5650,80
+3643,Sat 10/31,Hawaii,15207,218
+3644,Sat 10/31,Idaho,64797,630
+3645,Sat 10/31,Illinois,416557,10030
+3646,Sat 10/31,Indiana,181837,4332
+3647,Sat 10/31,Iowa,128798,1716
+3648,Sat 10/31,Kansas,86771,1029
+3649,Sat 10/31,Kentucky,109244,1551
+3650,Sat 10/31,Louisiana,186649,5919
+3651,Sat 10/31,Maine,6668,147
+3652,Sat 10/31,Maryland,145593,4147
+3653,Sat 10/31,Massachusetts,158576,9991
+3654,Sat 10/31,Michigan,197164,7699
+3655,Sat 10/31,Minnesota,148526,2511
+3656,Sat 10/31,Mississippi,120160,3334
+3657,Sat 10/31,Missouri,189925,3090
+3658,Sat 10/31,Montana,32801,377
+3659,Sat 10/31,Nebraska,70732,652
+3660,Sat 10/31,Nevada,100844,1779
+3661,Sat 10/31,New Hampshire,11084,483
+3662,Sat 10/31,New Jersey,239679,16350
+3663,Sat 10/31,New Mexico,46490,1018
+3664,Sat 10/31,New York,512223,33152
+3665,Sat 10/31,North Carolina,274805,4400
+3666,Sat 10/31,North Dakota,43921,529
+3667,Sat 10/31,Northern Mariana Islands,92,2
+3668,Sat 10/31,Ohio,215697,5301
+3669,Sat 10/31,Oklahoma,122762,1337
+3670,Sat 10/31,Oregon,44923,690
+3671,Sat 10/31,Pennsylvania,212816,8883
+3672,Sat 10/31,Puerto Rico,66128,822
+3673,Sat 10/31,Rhode Island,32874,1201
+3674,Sat 10/31,South Carolina,176612,3935
+3675,Sat 10/31,South Dakota,45992,425
+3676,Sat 10/31,Tennessee,256923,3322
+3677,Sat 10/31,Texas,953439,18549
+3678,Sat 10/31,Utah,114670,604
+3679,Sat 10/31,Vermont,2179,58
+3680,Sat 10/31,Virgin Islands,1376,21
+3681,Sat 10/31,Virginia,181190,3654
+3682,Sat 10/31,Washington,112580,2468
+3683,Sat 10/31,West Virginia,24460,457
+3684,Sat 10/31,Wisconsin,237870,2092
+3685,Sat 10/31,Wyoming,13298,87
+3686,Sun 11/1,Alabama,193985,2973
+3687,Sun 11/1,Alaska,16597,78
+3688,Sun 11/1,Arizona,247484,5981
+3689,Sun 11/1,Arkansas,113057,1958
+3690,Sun 11/1,California,938883,17671
+3691,Sun 11/1,Colorado,110640,2312
+3692,Sun 11/1,Connecticut,71207,4616
+3693,Sun 11/1,Delaware,25126,710
+3694,Sun 11/1,District of Columbia,17369,646
+3695,Sun 11/1,Florida,807404,16788
+3696,Sun 11/1,Georgia,373700,7792
+3697,Sun 11/1,Guam,5659,80
+3698,Sun 11/1,Hawaii,15287,218
+3699,Sun 11/1,Idaho,65272,631
+3700,Sun 11/1,Illinois,424860,10091
+3701,Sun 11/1,Indiana,184589,4364
+3702,Sun 11/1,Iowa,131097,1733
+3703,Sun 11/1,Kansas,86809,1029
+3704,Sun 11/1,Kentucky,110600,1554
+3705,Sun 11/1,Louisiana,187720,5926
+3706,Sun 11/1,Maine,6715,147
+3707,Sun 11/1,Maryland,146627,4152
+3708,Sun 11/1,Massachusetts,159707,10013
+3709,Sun 11/1,Michigan,197501,7700
+3710,Sun 11/1,Minnesota,150726,2529
+3711,Sun 11/1,Mississippi,120500,3348
+3712,Sun 11/1,Missouri,192141,3091
+3713,Sun 11/1,Montana,33495,378
+3714,Sun 11/1,Nebraska,71666,658
+3715,Sun 11/1,Nevada,101594,1783
+3716,Sun 11/1,New Hampshire,11214,483
+3717,Sun 11/1,New Jersey,241422,16354
+3718,Sun 11/1,New Mexico,47232,1026
+3719,Sun 11/1,New York,514482,33174
+3720,Sun 11/1,North Carolina,276706,4405
+3721,Sun 11/1,North Dakota,45048,536
+3722,Sun 11/1,Northern Mariana Islands,96,2
+3723,Sun 11/1,Ohio,219000,5303
+3724,Sun 11/1,Oklahoma,124111,1345
+3725,Sun 11/1,Oregon,45419,691
+3726,Sun 11/1,Pennsylvania,214500,8888
+3727,Sun 11/1,Puerto Rico,66661,832
+3728,Sun 11/1,Rhode Island,32874,1201
+3729,Sun 11/1,South Carolina,178023,3936
+3730,Sun 11/1,South Dakota,47324,437
+3731,Sun 11/1,Tennessee,257658,3322
+3732,Sun 11/1,Texas,957789,18582
+3733,Sun 11/1,Utah,116510,614
+3734,Sun 11/1,Vermont,2196,58
+3735,Sun 11/1,Virgin Islands,1376,21
+3736,Sun 11/1,Virginia,182392,3655
+3737,Sun 11/1,Washington,113109,2468
+3738,Sun 11/1,West Virginia,24883,457
+3739,Sun 11/1,Wisconsin,241423,2110
+3740,Sun 11/1,Wyoming,13723,87
+3741,Mon 11/2,Alabama,194892,2973
+3742,Mon 11/2,Alaska,16948,79
+3743,Mon 11/2,Arizona,248293,5982
+3744,Mon 11/2,Arkansas,113641,1985
+3745,Mon 11/2,California,944141,17700
+3746,Mon 11/2,Colorado,112821,2320
+3747,Mon 11/2,Connecticut,73858,4627
+3748,Mon 11/2,Delaware,25311,710
+3749,Mon 11/2,District of Columbia,17438,647
+3750,Mon 11/2,Florida,812055,16833
+3751,Mon 11/2,Georgia,377261,7810
+3752,Mon 11/2,Guam,5662,80
+3753,Mon 11/2,Hawaii,15359,218
+3754,Mon 11/2,Idaho,66249,641
+3755,Mon 11/2,Illinois,431281,10115
+3756,Mon 11/2,Indiana,187665,4390
+3757,Mon 11/2,Iowa,132697,1755
+3758,Mon 11/2,Kansas,90613,1046
+3759,Mon 11/2,Kentucky,111816,1565
+3760,Mon 11/2,Louisiana,187995,5934
+3761,Mon 11/2,Maine,6799,148
+3762,Mon 11/2,Maryland,147477,4155
+3763,Mon 11/2,Massachusetts,160549,10023
+3764,Mon 11/2,Michigan,204135,7716
+3765,Mon 11/2,Minnesota,153674,2538
+3766,Mon 11/2,Mississippi,120865,3348
+3767,Mon 11/2,Missouri,195938,3101
+3768,Mon 11/2,Montana,34317,387
+3769,Mon 11/2,Nebraska,72631,659
+3770,Mon 11/2,Nevada,102243,1785
+3771,Mon 11/2,New Hampshire,11320,483
+3772,Mon 11/2,New Jersey,242790,16357
+3773,Mon 11/2,New Mexico,48104,1036
+3774,Mon 11/2,New York,516114,33187
+3775,Mon 11/2,North Carolina,278477,4413
+3776,Mon 11/2,North Dakota,46020,545
+3777,Mon 11/2,Northern Mariana Islands,96,2
+3778,Mon 11/2,Ohio,221909,5340
+3779,Mon 11/2,Oklahoma,125195,1354
+3780,Mon 11/2,Oregon,45978,694
+3781,Mon 11/2,Pennsylvania,217243,8893
+3782,Mon 11/2,Puerto Rico,68172,839
+3783,Mon 11/2,Rhode Island,34120,1210
+3784,Mon 11/2,South Carolina,178917,3946
+3785,Mon 11/2,South Dakota,47850,438
+3786,Mon 11/2,Tennessee,260275,3347
+3787,Mon 11/2,Texas,965727,18626
+3788,Mon 11/2,Utah,117767,614
+3789,Mon 11/2,Vermont,2219,58
+3790,Mon 11/2,Virgin Islands,1376,21
+3791,Mon 11/2,Virginia,183418,3658
+3792,Mon 11/2,Washington,114787,2484
+3793,Mon 11/2,West Virginia,25235,458
+3794,Mon 11/2,Wisconsin,244974,2117
+3795,Mon 11/2,Wyoming,14167,87
+3796,Tue 11/3,Alabama,195929,2987
+3797,Tue 11/3,Alaska,17339,79
+3798,Tue 11/3,Arizona,249841,6022
+3799,Tue 11/3,Arkansas,114519,2003
+3800,Tue 11/3,California,949383,17751
+3801,Tue 11/3,Colorado,115364,2337
+3802,Tue 11/3,Connecticut,74843,4635
+3803,Tue 11/3,Delaware,25426,712
+3804,Tue 11/3,District of Columbia,17524,647
+3805,Tue 11/3,Florida,816692,16889
+3806,Tue 11/3,Georgia,378894,7837
+3807,Tue 11/3,Guam,5781,81
+3808,Tue 11/3,Hawaii,15441,218
+3809,Tue 11/3,Idaho,67504,649
+3810,Tue 11/3,Illinois,437879,10177
+3811,Tue 11/3,Indiana,190555,4439
+3812,Tue 11/3,Iowa,134576,1780
+3813,Tue 11/3,Kansas,91072,1051
+3814,Tue 11/3,Kentucky,113457,1578
+3815,Tue 11/3,Louisiana,189148,5951
+3816,Tue 11/3,Maine,6926,148
+3817,Tue 11/3,Maryland,148249,4162
+3818,Tue 11/3,Massachusetts,161585,10035
+3819,Tue 11/3,Michigan,207799,7758
+3820,Tue 11/3,Minnesota,157150,2553
+3821,Tue 11/3,Mississippi,121509,3384
+3822,Tue 11/3,Missouri,198312,3136
+3823,Tue 11/3,Montana,35222,400
+3824,Tue 11/3,Nebraska,74060,662
+3825,Tue 11/3,Nevada,103305,1807
+3826,Tue 11/3,New Hampshire,11448,483
+3827,Tue 11/3,New Jersey,244614,16371
+3828,Tue 11/3,New Mexico,49240,1045
+3829,Tue 11/3,New York,518431,33198
+3830,Tue 11/3,North Carolina,280657,4481
+3831,Tue 11/3,North Dakota,47192,561
+3832,Tue 11/3,Northern Mariana Islands,96,2
+3833,Tue 11/3,Ohio,226138,5373
+3834,Tue 11/3,Oklahoma,126526,1375
+3835,Tue 11/3,Oregon,46460,701
+3836,Tue 11/3,Pennsylvania,220111,8926
+3837,Tue 11/3,Puerto Rico,68943,842
+3838,Tue 11/3,Rhode Island,34543,1212
+3839,Tue 11/3,South Carolina,179952,3968
+3840,Tue 11/3,South Dakota,48854,446
+3841,Tue 11/3,Tennessee,262053,3419
+3842,Tue 11/3,Texas,974228,18722
+3843,Tue 11/3,Utah,119375,620
+3844,Tue 11/3,Vermont,2237,58
+3845,Tue 11/3,Virgin Islands,1385,22
+3846,Tue 11/3,Virginia,184679,3666
+3847,Tue 11/3,Washington,115608,2507
+3848,Tue 11/3,West Virginia,25593,469
+3849,Tue 11/3,Wisconsin,251227,2179
+3850,Tue 11/3,Wyoming,14619,93
+3851,Wed 11/4,Alabama,197777,3006
+3852,Wed 11/4,Alaska,17750,79
+3853,Wed 11/4,Arizona,250853,6059
+3854,Wed 11/4,Arkansas,115812,2026
+3855,Wed 11/4,California,954624,17818
+3856,Wed 11/4,Colorado,118356,2366
+3857,Wed 11/4,Connecticut,75373,4645
+3858,Wed 11/4,Delaware,25534,712
+3859,Wed 11/4,District of Columbia,17601,647
+3860,Wed 11/4,Florida,821115,16921
+3861,Wed 11/4,Georgia,382113,8303
+3862,Wed 11/4,Guam,5872,84
+3863,Wed 11/4,Hawaii,15591,218
+3864,Wed 11/4,Idaho,68791,665
+3865,Wed 11/4,Illinois,445537,10239
+3866,Wed 11/4,Indiana,194261,4464
+3867,Wed 11/4,Iowa,137315,1801
+3868,Wed 11/4,Kansas,93967,1087
+3869,Wed 11/4,Kentucky,115426,1593
+3870,Wed 11/4,Louisiana,190164,5975
+3871,Wed 11/4,Maine,7077,150
+3872,Wed 11/4,Maryland,149232,4172
+3873,Wed 11/4,Massachusetts,163299,10062
+3874,Wed 11/4,Michigan,212126,7783
+3875,Wed 11/4,Minnesota,160977,2584
+3876,Wed 11/4,Mississippi,122275,3397
+3877,Wed 11/4,Missouri,201515,3166
+3878,Wed 11/4,Montana,36012,404
+3879,Wed 11/4,Nebraska,75888,673
+3880,Wed 11/4,Nevada,104514,1816
+3881,Wed 11/4,New Hampshire,11563,484
+3882,Wed 11/4,New Jersey,247057,16391
+3883,Wed 11/4,New Mexico,50251,1059
+3884,Wed 11/4,New York,520557,33222
+3885,Wed 11/4,North Carolina,283280,4535
+3886,Wed 11/4,North Dakota,48306,573
+3887,Wed 11/4,Northern Mariana Islands,96,2
+3888,Wed 11/4,Ohio,230209,5428
+3889,Wed 11/4,Oklahoma,127772,1392
+3890,Wed 11/4,Oregon,47049,707
+3891,Wed 11/4,Pennsylvania,222883,8967
+3892,Wed 11/4,Puerto Rico,69020,850
+3893,Wed 11/4,Rhode Island,35122,1214
+3894,Wed 11/4,South Carolina,180870,3985
+3895,Wed 11/4,South Dakota,49791,460
+3896,Wed 11/4,Tennessee,265407,3446
+3897,Wed 11/4,Texas,984900,18870
+3898,Wed 11/4,Utah,121563,625
+3899,Wed 11/4,Vermont,2267,58
+3900,Wed 11/4,Virgin Islands,1388,23
+3901,Wed 11/4,Virginia,185836,3677
+3902,Wed 11/4,Washington,117091,2526
+3903,Wed 11/4,West Virginia,25987,472
+3904,Wed 11/4,Wisconsin,257365,2237
+3905,Wed 11/4,Wyoming,15044,105
+3906,Thu 11/5,Alabama,199158,3026
+3907,Thu 11/5,Alaska,18064,79
+3908,Thu 11/5,Arizona,252843,6087
+3909,Thu 11/5,Arkansas,117360,2037
+3910,Thu 11/5,California,960884,17866
+3911,Thu 11/5,Colorado,122170,2383
+3912,Thu 11/5,Connecticut,77060,4656
+3913,Thu 11/5,Delaware,25753,716
+3914,Thu 11/5,District of Columbia,17682,650
+3915,Thu 11/5,Florida,827372,16960
+3916,Thu 11/5,Georgia,384531,8359
+3917,Thu 11/5,Guam,5973,84
+3918,Thu 11/5,Hawaii,15683,218
+3919,Thu 11/5,Idaho,70005,673
+3920,Thu 11/5,Illinois,455528,10334
+3921,Thu 11/5,Indiana,198684,4511
+3922,Thu 11/5,Iowa,142795,1814
+3923,Thu 11/5,Kansas,94427,1087
+3924,Thu 11/5,Kentucky,117654,1611
+3925,Thu 11/5,Louisiana,190845,5995
+3926,Thu 11/5,Maine,7260,150
+3927,Thu 11/5,Maryland,150424,4182
+3928,Thu 11/5,Massachusetts,165161,10085
+3929,Thu 11/5,Michigan,218136,7833
+3930,Thu 11/5,Minnesota,164919,2609
+3931,Thu 11/5,Mississippi,123887,3405
+3932,Thu 11/5,Missouri,205036,3197
+3933,Thu 11/5,Montana,37024,409
+3934,Thu 11/5,Nebraska,78012,678
+3935,Thu 11/5,Nevada,105706,1825
+3936,Thu 11/5,New Hampshire,11808,486
+3937,Thu 11/5,New Jersey,249019,16403
+3938,Thu 11/5,New Mexico,51110,1082
+3939,Thu 11/5,New York,523559,33247
+3940,Thu 11/5,North Carolina,286210,4572
+3941,Thu 11/5,North Dakota,49842,601
+3942,Thu 11/5,Northern Mariana Islands,96,2
+3943,Thu 11/5,Ohio,235170,5461
+3944,Thu 11/5,Oklahoma,129873,1413
+3945,Thu 11/5,Oregon,47839,710
+3946,Thu 11/5,Pennsylvania,225698,9009
+3947,Thu 11/5,Puerto Rico,69416,855
+3948,Thu 11/5,Rhode Island,35750,1222
+3949,Thu 11/5,South Carolina,181639,3992
+3950,Thu 11/5,South Dakota,51151,482
+3951,Thu 11/5,Tennessee,267557,3474
+3952,Thu 11/5,Texas,993873,19000
+3953,Thu 11/5,Utah,124366,632
+3954,Thu 11/5,Vermont,2303,58
+3955,Thu 11/5,Virgin Islands,1388,23
+3956,Thu 11/5,Virginia,187202,3688
+3957,Thu 11/5,Washington,118459,2542
+3958,Thu 11/5,West Virginia,26547,480
+3959,Thu 11/5,Wisconsin,263640,2273
+3960,Thu 11/5,Wyoming,15409,105
+3961,Fri 11/6,Alabama,200714,3049
+3962,Fri 11/6,Alaska,18589,79
+3963,Fri 11/6,Arizona,254961,6111
+3964,Fri 11/6,Arkansas,119230,2056
+3965,Fri 11/6,California,967597,17939
+3966,Fri 11/6,Colorado,125397,2404
+3967,Fri 11/6,Connecticut,78125,4671
+3968,Fri 11/6,Delaware,26035,716
+3969,Fri 11/6,District of Columbia,17792,652
+3970,Fri 11/6,Florida,832617,17013
+3971,Fri 11/6,Georgia,387202,8389
+3972,Fri 11/6,Guam,6046,89
+3973,Fri 11/6,Hawaii,15816,218
+3974,Fri 11/6,Idaho,71496,685
+3975,Fri 11/6,Illinois,466884,10412
+3976,Fri 11/6,Indiana,203332,4547
+3977,Fri 11/6,Iowa,146267,1828
+3978,Fri 11/6,Kansas,99605,1172
+3979,Fri 11/6,Kentucky,119952,1621
+3980,Fri 11/6,Louisiana,191715,6016
+3981,Fri 11/6,Maine,7444,150
+3982,Fri 11/6,Maryland,151964,4194
+3983,Fri 11/6,Massachusetts,167274,10123
+3984,Fri 11/6,Michigan,222423,7883
+3985,Fri 11/6,Minnesota,170361,2645
+3986,Fri 11/6,Mississippi,124854,3419
+3987,Fri 11/6,Missouri,210054,3217
+3988,Fri 11/6,Montana,38012,420
+3989,Fri 11/6,Nebraska,80693,705
+3990,Fri 11/6,Nevada,107258,1846
+3991,Fri 11/6,New Hampshire,12012,488
+3992,Fri 11/6,New Jersey,251180,16416
+3993,Fri 11/6,New Mexico,52394,1088
+3994,Fri 11/6,New York,526767,33267
+3995,Fri 11/6,North Carolina,289124,4608
+3996,Fri 11/6,North Dakota,51607,618
+3997,Fri 11/6,Northern Mariana Islands,98,2
+3998,Fri 11/6,Ohio,240178,5494
+3999,Fri 11/6,Oklahoma,131751,1429
+4000,Fri 11/6,Oregon,48608,716
+4001,Fri 11/6,Pennsylvania,229346,9052
+4002,Fri 11/6,Puerto Rico,70519,862
+4003,Fri 11/6,Rhode Island,36380,1224
+4004,Fri 11/6,South Carolina,182872,4005
+4005,Fri 11/6,South Dakota,52639,510
+4006,Fri 11/6,Tennessee,269292,3508
+4007,Fri 11/6,Texas,1003869,19125
+4008,Fri 11/6,Utah,127294,649
+4009,Fri 11/6,Vermont,2326,58
+4010,Fri 11/6,Virgin Islands,1390,23
+4011,Fri 11/6,Virginia,188770,3682
+4012,Fri 11/6,Washington,120123,2552
+4013,Fri 11/6,West Virginia,27087,487
+4014,Fri 11/6,Wisconsin,270074,2340
+4015,Fri 11/6,Wyoming,16405,105
+4016,Sat 11/7,Alabama,202482,3082
+4017,Sat 11/7,Alaska,19194,79
+4018,Sat 11/7,Arizona,257384,6147
+4019,Sat 11/7,Arkansas,120828,2068
+4020,Sat 11/7,California,972801,17964
+4021,Sat 11/7,Colorado,128611,2417
+4022,Sat 11/7,Connecticut,78125,4671
+4023,Sat 11/7,Delaware,26258,716
+4024,Sat 11/7,District of Columbia,17891,654
+4025,Sat 11/7,Florida,837069,17099
+4026,Sat 11/7,Georgia,389257,8427
+4027,Sat 11/7,Guam,6046,89
+4028,Sat 11/7,Hawaii,15939,219
+4029,Sat 11/7,Idaho,72528,685
+4030,Sat 11/7,Illinois,479061,10498
+4031,Sat 11/7,Indiana,208243,4592
+4032,Sat 11/7,Iowa,150639,1842
+4033,Sat 11/7,Kansas,99671,1166
+4034,Sat 11/7,Kentucky,122021,1640
+4035,Sat 11/7,Louisiana,191715,6016
+4036,Sat 11/7,Maine,7603,152
+4037,Sat 11/7,Maryland,153198,4201
+4038,Sat 11/7,Massachusetts,169576,10146
+4039,Sat 11/7,Michigan,228706,7943
+4040,Sat 11/7,Minnesota,175008,2679
+4041,Sat 11/7,Mississippi,125885,3433
+4042,Sat 11/7,Missouri,213645,3235
+4043,Sat 11/7,Montana,38948,445
+4044,Sat 11/7,Nebraska,82395,710
+4045,Sat 11/7,Nevada,109326,1851
+4046,Sat 11/7,New Hampshire,12241,489
+4047,Sat 11/7,New Jersey,254382,16425
+4048,Sat 11/7,New Mexico,53671,1104
+4049,Sat 11/7,New York,530354,33287
+4050,Sat 11/7,North Carolina,291563,4629
+4051,Sat 11/7,North Dakota,53209,633
+4052,Sat 11/7,Northern Mariana Islands,98,2
+4053,Sat 11/7,Ohio,245727,5506
+4054,Sat 11/7,Oklahoma,136258,1438
+4055,Sat 11/7,Oregon,49587,729
+4056,Sat 11/7,Pennsylvania,232582,9089
+4057,Sat 11/7,Puerto Rico,71532,862
+4058,Sat 11/7,Rhode Island,36380,1224
+4059,Sat 11/7,South Carolina,184742,4015
+4060,Sat 11/7,South Dakota,53976,523
+4061,Sat 11/7,Tennessee,273603,3556
+4062,Sat 11/7,Texas,1009798,19219
+4063,Sat 11/7,Utah,130238,658
+4064,Sat 11/7,Vermont,2347,59
+4065,Sat 11/7,Virgin Islands,1405,23
+4066,Sat 11/7,Virginia,190873,3704
+4067,Sat 11/7,Washington,121220,2552
+4068,Sat 11/7,West Virginia,27742,502
+4069,Sat 11/7,Wisconsin,277568,2385
+4070,Sat 11/7,Wyoming,16597,105
+4071,Sun 11/8,Alabama,203687,3084
+4072,Sun 11/8,Alaska,19712,79
+4073,Sun 11/8,Arizona,259299,6164
+4074,Sun 11/8,Arkansas,121866,2085
+4075,Sun 11/8,California,978844,17975
+4076,Sun 11/8,Colorado,131870,2421
+4077,Sun 11/8,Connecticut,78125,4671
+4078,Sun 11/8,Delaware,26603,718
+4079,Sun 11/8,District of Columbia,18001,654
+4080,Sun 11/8,Florida,843889,17120
+4081,Sun 11/8,Georgia,390617,8428
+4082,Sun 11/8,Guam,6046,89
+4083,Sun 11/8,Hawaii,16066,220
+4084,Sun 11/8,Idaho,73212,691
+4085,Sun 11/8,Illinois,488980,10548
+4086,Sun 11/8,Indiana,212895,4629
+4087,Sun 11/8,Iowa,155583,1845
+4088,Sun 11/8,Kansas,99805,1166
+4089,Sun 11/8,Kentucky,123195,1641
+4090,Sun 11/8,Louisiana,192981,6036
+4091,Sun 11/8,Maine,7693,152
+4092,Sun 11/8,Maryland,154451,4212
+4093,Sun 11/8,Massachusetts,171399,10166
+4094,Sun 11/8,Michigan,229085,7944
+4095,Sun 11/8,Minnesota,180916,2710
+4096,Sun 11/8,Mississippi,126689,3443
+4097,Sun 11/8,Missouri,216654,3238
+4098,Sun 11/8,Montana,39679,456
+4099,Sun 11/8,Nebraska,83969,710
+4100,Sun 11/8,Nevada,110308,1852
+4101,Sun 11/8,New Hampshire,12488,489
+4102,Sun 11/8,New Jersey,256395,16429
+4103,Sun 11/8,New Mexico,54881,1118
+4104,Sun 11/8,New York,533784,33314
+4105,Sun 11/8,North Carolina,293431,4630
+4106,Sun 11/8,North Dakota,54310,644
+4107,Sun 11/8,Northern Mariana Islands,98,2
+4108,Sun 11/8,Ohio,250268,5517
+4109,Sun 11/8,Oklahoma,136258,1438
+4110,Sun 11/8,Oregon,50448,730
+4111,Sun 11/8,Pennsylvania,235162,9093
+4112,Sun 11/8,Puerto Rico,71715,872
+4113,Sun 11/8,Rhode Island,36380,1224
+4114,Sun 11/8,South Carolina,185688,4036
+4115,Sun 11/8,South Dakota,55404,536
+4116,Sun 11/8,Tennessee,277073,3561
+4117,Sun 11/8,Texas,1016733,19256
+4118,Sun 11/8,Utah,132621,659
+4119,Sun 11/8,Vermont,2392,59
+4120,Sun 11/8,Virgin Islands,1405,23
+4121,Sun 11/8,Virginia,192175,3707
+4122,Sun 11/8,Washington,122310,2552
+4123,Sun 11/8,West Virginia,28404,502
+4124,Sun 11/8,Wisconsin,281910,2396
+4125,Sun 11/8,Wyoming,17310,114
+4126,Mon 11/9,Alabama,204857,3084
+4127,Mon 11/9,Alaska,20185,79
+4128,Mon 11/9,Arizona,260646,6164
+4129,Mon 11/9,Arkansas,122811,2108
+4130,Mon 11/9,California,985598,18035
+4131,Mon 11/9,Colorado,135747,2438
+4132,Mon 11/9,Connecticut,81463,4698
+4133,Mon 11/9,Delaware,26908,719
+4134,Mon 11/9,District of Columbia,18087,655
+4135,Mon 11/9,Florida,847813,17178
+4136,Mon 11/9,Georgia,392246,8457
+4137,Mon 11/9,Guam,6442,91
+4138,Mon 11/9,Hawaii,16124,220
+4139,Mon 11/9,Idaho,74713,704
+4140,Mon 11/9,Illinois,500015,10577
+4141,Mon 11/9,Indiana,217028,4664
+4142,Mon 11/9,Iowa,159910,1872
+4143,Mon 11/9,Kansas,105298,1181
+4144,Mon 11/9,Kentucky,125332,1655
+4145,Mon 11/9,Louisiana,193372,6048
+4146,Mon 11/9,Maine,7888,153
+4147,Mon 11/9,Maryland,155824,4221
+4148,Mon 11/9,Massachusetts,172727,10180
+4149,Mon 11/9,Michigan,238136,8008
+4150,Mon 11/9,Minnesota,184842,2729
+4151,Mon 11/9,Mississippi,127205,3443
+4152,Mon 11/9,Missouri,221874,3241
+4153,Mon 11/9,Montana,40118,463
+4154,Mon 11/9,Nebraska,85551,714
+4155,Mon 11/9,Nevada,111323,1853
+4156,Mon 11/9,New Hampshire,12699,489
+4157,Mon 11/9,New Jersey,258453,16440
+4158,Mon 11/9,New Mexico,56289,1130
+4159,Mon 11/9,New York,536933,33343
+4160,Mon 11/9,North Carolina,295105,4638
+4161,Mon 11/9,North Dakota,55463,649
+4162,Mon 11/9,Northern Mariana Islands,100,2
+4163,Mon 11/9,Ohio,254974,5524
+4164,Mon 11/9,Oklahoma,138455,1444
+4165,Mon 11/9,Oregon,51155,738
+4166,Mon 11/9,Pennsylvania,239724,9098
+4167,Mon 11/9,Puerto Rico,72196,882
+4168,Mon 11/9,Rhode Island,38009,1233
+4169,Mon 11/9,South Carolina,186391,4041
+4170,Mon 11/9,South Dakota,56311,537
+4171,Mon 11/9,Tennessee,282746,3577
+4172,Mon 11/9,Texas,1026477,19298
+4173,Mon 11/9,Utah,134868,661
+4174,Mon 11/9,Vermont,2415,59
+4175,Mon 11/9,Virgin Islands,1405,23
+4176,Mon 11/9,Virginia,193477,3713
+4177,Mon 11/9,Washington,124560,2577
+4178,Mon 11/9,West Virginia,28805,530
+4179,Mon 11/9,Wisconsin,286446,2421
+4180,Mon 11/9,Wyoming,18010,114
+4181,Tue 11/10,Alabama,206567,3120
+4182,Tue 11/10,Alaska,20715,87
+4183,Tue 11/10,Arizona,263445,6198
+4184,Tue 11/10,Arkansas,124235,2112
+4185,Tue 11/10,California,994341,18073
+4186,Tue 11/10,Colorado,139246,2469
+4187,Tue 11/10,Connecticut,82987,4707
+4188,Tue 11/10,Delaware,27112,722
+4189,Tue 11/10,District of Columbia,18173,657
+4190,Tue 11/10,Florida,852166,17247
+4191,Tue 11/10,Georgia,396498,8507
+4192,Tue 11/10,Guam,6623,92
+4193,Tue 11/10,Hawaii,16193,221
+4194,Tue 11/10,Idaho,76010,720
+4195,Tue 11/10,Illinois,512688,10658
+4196,Tue 11/10,Indiana,221894,4731
+4197,Tue 11/10,Iowa,163827,1898
+4198,Tue 11/10,Kansas,105760,1181
+4199,Tue 11/10,Kentucky,127472,1674
+4200,Tue 11/10,Louisiana,194702,6058
+4201,Tue 11/10,Maine,8060,156
+4202,Tue 11/10,Maryland,157149,4233
+4203,Tue 11/10,Massachusetts,174881,10201
+4204,Tue 11/10,Michigan,245005,8095
+4205,Tue 11/10,Minnesota,189735,2752
+4206,Tue 11/10,Mississippi,128138,3480
+4207,Tue 11/10,Missouri,226372,3375
+4208,Tue 11/10,Montana,41219,468
+4209,Tue 11/10,Nebraska,87733,741
+4210,Tue 11/10,Nevada,112602,1863
+4211,Tue 11/10,New Hampshire,12919,489
+4212,Tue 11/10,New Jersey,262230,16461
+4213,Tue 11/10,New Mexico,57547,1144
+4214,Tue 11/10,New York,540897,33373
+4215,Tue 11/10,North Carolina,298089,4685
+4216,Tue 11/10,North Dakota,56357,679
+4217,Tue 11/10,Northern Mariana Islands,100,2
+4218,Tue 11/10,Ohio,261482,5547
+4219,Tue 11/10,Oklahoma,140157,1451
+4220,Tue 11/10,Oregon,51909,741
+4221,Tue 11/10,Pennsylvania,244046,9156
+4222,Tue 11/10,Puerto Rico,72471,889
+4223,Tue 11/10,Rhode Island,38798,1237
+4224,Tue 11/10,South Carolina,187738,4062
+4225,Tue 11/10,South Dakota,57334,540
+4226,Tue 11/10,Tennessee,284725,3639
+4227,Tue 11/10,Texas,1038135,19423
+4228,Tue 11/10,Utah,137523,672
+4229,Tue 11/10,Vermont,2462,59
+4230,Tue 11/10,Virgin Islands,1413,23
+4231,Tue 11/10,Virginia,194912,3726
+4232,Tue 11/10,Washington,126091,2594
+4233,Tue 11/10,West Virginia,29316,546
+4234,Tue 11/10,Wisconsin,293862,2497
+4235,Tue 11/10,Wyoming,19242,127
+4236,Wed 11/11,Alabama,208637,3201
+4237,Wed 11/11,Alaska,21211,90
+4238,Wed 11/11,Arizona,265195,6228
+4239,Wed 11/11,Arkansas,126197,2126
+4240,Wed 11/11,California,999498,18109
+4241,Wed 11/11,Colorado,143553,2481
+4242,Wed 11/11,Connecticut,84741,4716
+4243,Wed 11/11,Delaware,27342,724
+4244,Wed 11/11,District of Columbia,18379,657
+4245,Wed 11/11,Florida,858004,17299
+4246,Wed 11/11,Georgia,398769,8582
+4247,Wed 11/11,Guam,6724,92
+4248,Wed 11/11,Hawaii,16309,221
+4249,Wed 11/11,Idaho,77536,738
+4250,Wed 11/11,Illinois,525072,10805
+4251,Wed 11/11,Indiana,226935,4762
+4252,Wed 11/11,Iowa,168457,1927
+4253,Wed 11/11,Kansas,110977,1215
+4254,Wed 11/11,Kentucky,130308,1689
+4255,Wed 11/11,Louisiana,194702,6058
+4256,Wed 11/11,Maine,8202,158
+4257,Wed 11/11,Maryland,158836,4249
+4258,Wed 11/11,Massachusetts,177541,10222
+4259,Wed 11/11,Michigan,251499,8137
+4260,Wed 11/11,Minnesota,194626,2810
+4261,Wed 11/11,Mississippi,129394,3497
+4262,Wed 11/11,Missouri,230003,3411
+4263,Wed 11/11,Montana,42132,475
+4264,Wed 11/11,Nebraska,89942,741
+4265,Wed 11/11,Nevada,113856,1877
+4266,Wed 11/11,New Hampshire,13148,492
+4267,Wed 11/11,New Jersey,265295,16476
+4268,Wed 11/11,New Mexico,59034,1158
+4269,Wed 11/11,New York,545718,33398
+4270,Wed 11/11,North Carolina,300725,4723
+4271,Wed 11/11,North Dakota,57378,691
+4272,Wed 11/11,Northern Mariana Islands,100,2
+4273,Wed 11/11,Ohio,267356,5623
+4274,Wed 11/11,Oklahoma,142334,1470
+4275,Wed 11/11,Oregon,52770,746
+4276,Wed 11/11,Pennsylvania,248144,9217
+4277,Wed 11/11,Puerto Rico,72735,901
+4278,Wed 11/11,Rhode Island,39776,1243
+4279,Wed 11/11,South Carolina,188995,4076
+4280,Wed 11/11,South Dakota,58696,567
+4281,Wed 11/11,Tennessee,288311,3727
+4282,Wed 11/11,Texas,1050992,19544
+4283,Wed 11/11,Utah,139815,678
+4284,Wed 11/11,Vermont,2535,59
+4285,Wed 11/11,Virgin Islands,1413,23
+4286,Wed 11/11,Virginia,196506,3741
+4287,Wed 11/11,Washington,126886,2595
+4288,Wed 11/11,West Virginia,30201,553
+4289,Wed 11/11,Wisconsin,301349,2562
+4290,Wed 11/11,Wyoming,19374,127
+4291,Thu 11/12,Alabama,210637,3213
+4292,Thu 11/12,Alaska,21689,90
+4293,Thu 11/12,Arizona,266644,6240
+4294,Thu 11/12,Arkansas,128006,2144
+4295,Thu 11/12,California,1009187,18141
+4296,Thu 11/12,Colorado,149262,2512
+4297,Thu 11/12,Connecticut,85899,4726
+4298,Thu 11/12,Delaware,27546,732
+4299,Thu 11/12,District of Columbia,18507,657
+4300,Thu 11/12,Florida,863611,17371
+4301,Thu 11/12,Georgia,401750,8655
+4302,Thu 11/12,Guam,6819,92
+4303,Thu 11/12,Hawaii,16403,221
+4304,Thu 11/12,Idaho,78877,753
+4305,Thu 11/12,Illinois,537860,10855
+4306,Thu 11/12,Indiana,233540,4813
+4307,Thu 11/12,Iowa,173401,1947
+4308,Thu 11/12,Kansas,111503,1215
+4309,Thu 11/12,Kentucky,132686,1702
+4310,Thu 11/12,Louisiana,198531,6097
+4311,Thu 11/12,Maine,8395,159
+4312,Thu 11/12,Maryland,160311,4261
+4313,Thu 11/12,Massachusetts,180189,10242
+4314,Thu 11/12,Michigan,258973,8187
+4315,Thu 11/12,Minnesota,201851,2849
+4316,Thu 11/12,Mississippi,130665,3514
+4317,Thu 11/12,Missouri,235341,3441
+4318,Thu 11/12,Montana,43084,478
+4319,Thu 11/12,Nebraska,92553,768
+4320,Thu 11/12,Nevada,115360,1880
+4321,Thu 11/12,New Hampshire,13470,495
+4322,Thu 11/12,New Jersey,268787,16495
+4323,Thu 11/12,New Mexico,60776,1176
+4324,Thu 11/12,New York,550516,33424
+4325,Thu 11/12,North Carolina,303931,4730
+4326,Thu 11/12,North Dakota,59179,703
+4327,Thu 11/12,Northern Mariana Islands,100,2
+4328,Thu 11/12,Ohio,274457,5658
+4329,Thu 11/12,Oklahoma,144691,1481
+4330,Thu 11/12,Oregon,53879,748
+4331,Thu 11/12,Pennsylvania,254167,9272
+4332,Thu 11/12,Puerto Rico,74067,909
+4333,Thu 11/12,Rhode Island,40764,1250
+4334,Thu 11/12,South Carolina,190490,4084
+4335,Thu 11/12,South Dakota,60716,567
+4336,Thu 11/12,Tennessee,291482,3751
+4337,Thu 11/12,Texas,1060668,19705
+4338,Thu 11/12,Utah,143639,689
+4339,Thu 11/12,Vermont,2651,59
+4340,Thu 11/12,Virgin Islands,1413,23
+4341,Thu 11/12,Virginia,198027,3758
+4342,Thu 11/12,Washington,129672,2619
+4343,Thu 11/12,West Virginia,30897,555
+4344,Thu 11/12,Wisconsin,309605,2626
+4345,Thu 11/12,Wyoming,20479,127
+4346,Fri 11/13,Alabama,213617,3231
+4347,Fri 11/13,Alaska,22282,91
+4348,Fri 11/13,Arizona,270596,6257
+4349,Fri 11/13,Arkansas,130318,2148
+4350,Fri 11/13,California,1019052,18218
+4351,Fri 11/13,Colorado,155761,2541
+4352,Fri 11/13,Connecticut,88645,4737
+4353,Fri 11/13,Delaware,28016,734
+4354,Fri 11/13,District of Columbia,18666,657
+4355,Fri 11/13,Florida,870544,17444
+4356,Fri 11/13,Georgia,404577,8678
+4357,Fri 11/13,Guam,6893,93
+4358,Fri 11/13,Hawaii,16514,221
+4359,Fri 11/13,Idaho,80440,756
+4360,Fri 11/13,Illinois,553083,10907
+4361,Fri 11/13,Indiana,239139,4863
+4362,Fri 11/13,Iowa,178890,1972
+4363,Fri 11/13,Kansas,117282,1256
+4364,Fri 11/13,Kentucky,135855,1729
+4365,Fri 11/13,Louisiana,201981,6121
+4366,Fri 11/13,Maine,8639,162
+4367,Fri 11/13,Maryland,162181,4273
+4368,Fri 11/13,Massachusetts,183095,10265
+4369,Fri 11/13,Michigan,268072,8312
+4370,Fri 11/13,Minnesota,207395,2895
+4371,Fri 11/13,Mississippi,131970,3519
+4372,Fri 11/13,Missouri,241236,3452
+4373,Fri 11/13,Montana,44297,483
+4374,Fri 11/13,Nebraska,94922,789
+4375,Fri 11/13,Nevada,117322,1896
+4376,Fri 11/13,New Hampshire,13929,498
+4377,Fri 11/13,New Jersey,272184,16522
+4378,Fri 11/13,New Mexico,62006,1198
+4379,Fri 11/13,New York,555917,33452
+4380,Fri 11/13,North Carolina,306498,4749
+4381,Fri 11/13,North Dakota,60608,713
+4382,Fri 11/13,Northern Mariana Islands,100,2
+4383,Fri 11/13,Ohio,282528,5700
+4384,Fri 11/13,Oklahoma,147358,1493
+4385,Fri 11/13,Oregon,54937,759
+4386,Fri 11/13,Pennsylvania,260001,9306
+4387,Fri 11/13,Puerto Rico,74734,914
+4388,Fri 11/13,Rhode Island,41529,1254
+4389,Fri 11/13,South Carolina,192101,4101
+4390,Fri 11/13,South Dakota,62327,568
+4391,Fri 11/13,Tennessee,295135,3814
+4392,Fri 11/13,Texas,1073230,19917
+4393,Fri 11/13,Utah,146155,703
+4394,Fri 11/13,Vermont,2743,59
+4395,Fri 11/13,Virgin Islands,1426,23
+4396,Fri 11/13,Virginia,199262,3785
+4397,Fri 11/13,Washington,132183,2634
+4398,Fri 11/13,West Virginia,31639,565
+4399,Fri 11/13,Wisconsin,318023,2694
+4400,Fri 11/13,Wyoming,21341,127
+4401,Sat 11/14,Alabama,215843,3246
+4402,Sat 11/14,Alaska,23029,92
+4403,Sat 11/14,Arizona,273400,6300
+4404,Sat 11/14,Arkansas,132166,2159
+4405,Sat 11/14,California,1027016,18254
+4406,Sat 11/14,Colorado,160459,2554
+4407,Sat 11/14,Connecticut,88645,4737
+4408,Sat 11/14,Delaware,28395,736
+4409,Sat 11/14,District of Columbia,18814,658
+4410,Sat 11/14,Florida,875088,17488
+4411,Sat 11/14,Georgia,407596,8729
+4412,Sat 11/14,Guam,6893,93
+4413,Sat 11/14,Hawaii,16619,221
+4414,Sat 11/14,Idaho,81625,763
+4415,Sat 11/14,Illinois,564086,11098
+4416,Sat 11/14,Indiana,247466,4888
+4417,Sat 11/14,Iowa,183557,1985
+4418,Sat 11/14,Kansas,117728,1256
+4419,Sat 11/14,Kentucky,138854,1739
+4420,Sat 11/14,Louisiana,201981,6121
+4421,Sat 11/14,Maine,8791,163
+4422,Sat 11/14,Maryland,164239,4293
+4423,Sat 11/14,Massachusetts,186142,10293
+4424,Sat 11/14,Michigan,275393,8375
+4425,Sat 11/14,Minnesota,216084,2930
+4426,Sat 11/14,Mississippi,133340,3540
+4427,Sat 11/14,Missouri,248400,3463
+4428,Sat 11/14,Montana,45919,519
+4429,Sat 11/14,Nebraska,96834,790
+4430,Sat 11/14,Nevada,119228,1908
+4431,Sat 11/14,New Hampshire,14311,499
+4432,Sat 11/14,New Jersey,276537,16548
+4433,Sat 11/14,New Mexico,63171,1208
+4434,Sat 11/14,New York,561308,33477
+4435,Sat 11/14,North Carolina,309703,4783
+4436,Sat 11/14,North Dakota,62878,732
+4437,Sat 11/14,Northern Mariana Islands,100,2
+4438,Sat 11/14,Ohio,290243,5714
+4439,Sat 11/14,Oklahoma,150205,1516
+4440,Sat 11/14,Oregon,56018,760
+4441,Sat 11/14,Pennsylvania,264396,9353
+4442,Sat 11/14,Puerto Rico,75387,921
+4443,Sat 11/14,Rhode Island,41529,1254
+4444,Sat 11/14,South Carolina,194014,4110
+4445,Sat 11/14,South Dakota,64182,621
+4446,Sat 11/14,Tennessee,299597,3839
+4447,Sat 11/14,Texas,1082980,20035
+4448,Sat 11/14,Utah,151141,712
+4449,Sat 11/14,Vermont,2843,59
+4450,Sat 11/14,Virgin Islands,1434,23
+4451,Sat 11/14,Virginia,200799,3799
+4452,Sat 11/14,Washington,133612,2638
+4453,Sat 11/14,West Virginia,32792,574
+4454,Sat 11/14,Wisconsin,323604,2748
+4455,Sat 11/14,Wyoming,21881,144
+4456,Sun 11/15,Alabama,217822,3248
+4457,Sun 11/15,Alaska,23688,92
+4458,Sun 11/15,Arizona,275523,6302
+4459,Sun 11/15,Arkansas,133040,2183
+4460,Sun 11/15,California,1035981,18265
+4461,Sun 11/15,Colorado,164408,2574
+4462,Sun 11/15,Connecticut,88645,4737
+4463,Sun 11/15,Delaware,28803,736
+4464,Sun 11/15,District of Columbia,18977,660
+4465,Sun 11/15,Florida,885193,17517
+4466,Sun 11/15,Georgia,409504,8730
+4467,Sun 11/15,Guam,6893,93
+4468,Sun 11/15,Hawaii,16619,221
+4469,Sun 11/15,Idaho,82545,763
+4470,Sun 11/15,Illinois,574722,11170
+4471,Sun 11/15,Indiana,254172,4910
+4472,Sun 11/15,Iowa,186314,1989
+4473,Sun 11/15,Kansas,117851,1256
+4474,Sun 11/15,Kentucky,140267,1742
+4475,Sun 11/15,Louisiana,204513,6132
+4476,Sun 11/15,Maine,8944,165
+4477,Sun 11/15,Maryland,166317,4302
+4478,Sun 11/15,Massachusetts,188275,10329
+4479,Sun 11/15,Michigan,275892,8378
+4480,Sun 11/15,Minnesota,223637,2961
+4481,Sun 11/15,Mississippi,134309,3543
+4482,Sun 11/15,Missouri,249608,3463
+4483,Sun 11/15,Montana,47158,525
+4484,Sun 11/15,Nebraska,98161,791
+4485,Sun 11/15,Nevada,120744,1913
+4486,Sun 11/15,New Hampshire,14671,499
+4487,Sun 11/15,New Jersey,281075,16566
+4488,Sun 11/15,New Mexico,64201,1215
+4489,Sun 11/15,New York,564952,33508
+4490,Sun 11/15,North Carolina,312406,4830
+4491,Sun 11/15,North Dakota,63802,742
+4492,Sun 11/15,Northern Mariana Islands,100,2
+4493,Sun 11/15,Ohio,298096,5722
+4494,Sun 11/15,Oklahoma,154128,1528
+4495,Sun 11/15,Oregon,56880,762
+4496,Sun 11/15,Pennsylvania,269043,9385
+4497,Sun 11/15,Puerto Rico,76094,935
+4498,Sun 11/15,Rhode Island,41529,1254
+4499,Sun 11/15,South Carolina,195507,4112
+4500,Sun 11/15,South Dakota,65381,644
+4501,Sun 11/15,Tennessee,305211,3856
+4502,Sun 11/15,Texas,1090348,20110
+4503,Sun 11/15,Utah,153808,718
+4504,Sun 11/15,Vermont,2889,59
+4505,Sun 11/15,Virgin Islands,1434,23
+4506,Sun 11/15,Virginia,201960,3800
+4507,Sun 11/15,Washington,135365,2638
+4508,Sun 11/15,West Virginia,33659,582
+4509,Sun 11/15,Wisconsin,329924,2759
+4510,Sun 11/15,Wyoming,22494,144
+4511,Mon 11/16,Alabama,219232,3249
+4512,Mon 11/16,Alaska,24268,92
+4513,Mon 11/16,Arizona,277179,6302
+4514,Mon 11/16,Arkansas,134348,2225
+4515,Mon 11/16,California,1047360,18304
+4516,Mon 11/16,Colorado,168890,2605
+4517,Mon 11/16,Connecticut,93284,4759
+4518,Mon 11/16,Delaware,29200,736
+4519,Mon 11/16,District of Columbia,19064,660
+4520,Mon 11/16,Florida,889856,17558
+4521,Mon 11/16,Georgia,410581,8740
+4522,Mon 11/16,Guam,7144,99
+4523,Mon 11/16,Hawaii,16711,221
+4524,Mon 11/16,Idaho,83906,773
+4525,Mon 11/16,Illinois,586569,11217
+4526,Mon 11/16,Indiana,259318,4936
+4527,Mon 11/16,Iowa,189597,2023
+4528,Mon 11/16,Kansas,124697,1266
+4529,Mon 11/16,Kentucky,142277,1750
+4530,Mon 11/16,Louisiana,205059,6139
+4531,Mon 11/16,Maine,9117,165
+4532,Mon 11/16,Maryland,168041,4309
+4533,Mon 11/16,Massachusetts,190439,10340
+4534,Mon 11/16,Michigan,288543,8437
+4535,Mon 11/16,Minnesota,231074,2973
+4536,Mon 11/16,Mississippi,134898,3545
+4537,Mon 11/16,Missouri,255942,3485
+4538,Mon 11/16,Montana,48101,528
+4539,Mon 11/16,Nebraska,101601,805
+4540,Mon 11/16,Nevada,122441,1919
+4541,Mon 11/16,New Hampshire,15029,500
+4542,Mon 11/16,New Jersey,283294,16580
+4543,Mon 11/16,New Mexico,65454,1236
+4544,Mon 11/16,New York,568450,33540
+4545,Mon 11/16,North Carolina,315314,4843
+4546,Mon 11/16,North Dakota,64891,749
+4547,Mon 11/16,Northern Mariana Islands,102,2
+4548,Mon 11/16,Ohio,305364,5742
+4549,Mon 11/16,Oklahoma,156857,1538
+4550,Mon 11/16,Oregon,57646,772
+4551,Mon 11/16,Pennsylvania,275257,9399
+4552,Mon 11/16,Puerto Rico,76631,942
+4553,Mon 11/16,Rhode Island,43923,1270
+4554,Mon 11/16,South Carolina,196617,4143
+4555,Mon 11/16,South Dakota,66278,644
+4556,Mon 11/16,Tennessee,312710,3884
+4557,Mon 11/16,Texas,1101719,20157
+4558,Mon 11/16,Utah,155779,725
+4559,Mon 11/16,Vermont,3008,59
+4560,Mon 11/16,Virgin Islands,1434,23
+4561,Mon 11/16,Virginia,204637,3806
+4562,Mon 11/16,Washington,138602,2661
+4563,Mon 11/16,West Virginia,34460,585
+4564,Mon 11/16,Wisconsin,334640,2775
+4565,Mon 11/16,Wyoming,23193,144
+4566,Tue 11/17,Alabama,220848,3301
+4567,Tue 11/17,Alaska,24909,94
+4568,Tue 11/17,Arizona,281284,6320
+4569,Tue 11/17,Arkansas,135902,2245
+4570,Tue 11/17,California,1058096,18360
+4571,Tue 11/17,Colorado,173220,2626
+4572,Tue 11/17,Connecticut,94986,4771
+4573,Tue 11/17,Delaware,29552,739
+4574,Tue 11/17,District of Columbia,19309,660
+4575,Tue 11/17,Florida,897315,17643
+4576,Tue 11/17,Georgia,414821,8778
+4577,Tue 11/17,Guam,7203,101
+4578,Tue 11/17,Hawaii,16755,221
+4579,Tue 11/17,Idaho,85383,803
+4580,Tue 11/17,Illinois,599358,11327
+4581,Tue 11/17,Indiana,264810,5025
+4582,Tue 11/17,Iowa,193196,2064
+4583,Tue 11/17,Kansas,125668,1266
+4584,Tue 11/17,Kentucky,145220,1787
+4585,Tue 11/17,Louisiana,207685,6156
+4586,Tue 11/17,Maine,9363,166
+4587,Tue 11/17,Maryland,170193,4335
+4588,Tue 11/17,Massachusetts,192964,10360
+4589,Tue 11/17,Michigan,296436,8513
+4590,Tue 11/17,Minnesota,237005,2999
+4591,Tue 11/17,Mississippi,135803,3581
+4592,Tue 11/17,Missouri,261105,3552
+4593,Tue 11/17,Montana,49496,548
+4594,Tue 11/17,Nebraska,103805,827
+4595,Tue 11/17,Nevada,124082,1946
+4596,Tue 11/17,New Hampshire,15303,502
+4597,Tue 11/17,New Jersey,287320,16618
+4598,Tue 11/17,New Mexico,67559,1264
+4599,Tue 11/17,New York,573544,33576
+4600,Tue 11/17,North Carolina,318537,4881
+4601,Tue 11/17,North Dakota,65973,775
+4602,Tue 11/17,Northern Mariana Islands,103,2
+4603,Tue 11/17,Ohio,312443,5772
+4604,Tue 11/17,Oklahoma,158408,1544
+4605,Tue 11/17,Oregon,58570,779
+4606,Tue 11/17,Pennsylvania,280978,9433
+4607,Tue 11/17,Puerto Rico,77200,951
+4608,Tue 11/17,Rhode Island,44528,1278
+4609,Tue 11/17,South Carolina,197900,4156
+4610,Tue 11/17,South Dakota,67284,644
+4611,Tue 11/17,Tennessee,314553,3953
+4612,Tue 11/17,Texas,1112576,20278
+4613,Tue 11/17,Utah,159006,734
+4614,Tue 11/17,Vermont,3104,59
+4615,Tue 11/17,Virgin Islands,1450,23
+4616,Tue 11/17,Virginia,206762,3835
+4617,Tue 11/17,Washington,140923,2686
+4618,Tue 11/17,West Virginia,35324,598
+4619,Tue 11/17,Wisconsin,342155,2876
+4620,Tue 11/17,Wyoming,24453,155
+4621,Wed 11/18,Alabama,223486,3347
+4622,Wed 11/18,Alaska,25454,94
+4623,Wed 11/18,Arizona,284554,6365
+4624,Wed 11/18,Arkansas,137617,2275
+4625,Wed 11/18,California,1069517,18467
+4626,Wed 11/18,Colorado,178224,2669
+4627,Wed 11/18,Connecticut,97028,4784
+4628,Wed 11/18,Delaware,29755,742
+4629,Wed 11/18,District of Columbia,19465,665
+4630,Wed 11/18,Florida,905240,17730
+4631,Wed 11/18,Georgia,417934,8833
+4632,Wed 11/18,Guam,7315,101
+4633,Wed 11/18,Hawaii,16817,222
+4634,Wed 11/18,Idaho,87020,815
+4635,Wed 11/18,Illinois,608056,11488
+4636,Wed 11/18,Indiana,270847,5084
+4637,Wed 11/18,Iowa,197532,2102
+4638,Wed 11/18,Kansas,131051,1326
+4639,Wed 11/18,Kentucky,148069,1816
+4640,Wed 11/18,Louisiana,209914,6184
+4641,Wed 11/18,Maine,9519,170
+4642,Wed 11/18,Maryland,172204,4351
+4643,Wed 11/18,Massachusetts,195868,10407
+4644,Wed 11/18,Michigan,302541,8576
+4645,Wed 11/18,Minnesota,242099,3066
+4646,Wed 11/18,Mississippi,137396,3601
+4647,Wed 11/18,Missouri,266187,3591
+4648,Wed 11/18,Montana,50650,568
+4649,Wed 11/18,Nebraska,106617,838
+4650,Wed 11/18,Nevada,126106,1947
+4651,Wed 11/18,New Hampshire,15749,504
+4652,Wed 11/18,New Jersey,291374,16655
+4653,Wed 11/18,New Mexico,70452,1290
+4654,Wed 11/18,New York,578826,33607
+4655,Wed 11/18,North Carolina,322258,4927
+4656,Wed 11/18,North Dakota,67236,791
+4657,Wed 11/18,Northern Mariana Islands,103,2
+4658,Wed 11/18,Ohio,318828,5827
+4659,Wed 11/18,Oklahoma,161425,1570
+4660,Wed 11/18,Oregon,59670,791
+4661,Wed 11/18,Pennsylvania,287464,9541
+4662,Wed 11/18,Puerto Rico,77525,971
+4663,Wed 11/18,Rhode Island,45911,1284
+4664,Wed 11/18,South Carolina,199447,4182
+4665,Wed 11/18,South Dakota,68671,674
+4666,Wed 11/18,Tennessee,319021,4005
+4667,Wed 11/18,Texas,1125758,20471
+4668,Wed 11/18,Utah,162091,742
+4669,Wed 11/18,Vermont,3161,60
+4670,Wed 11/18,Virgin Islands,1463,23
+4671,Wed 11/18,Virginia,208833,3860
+4672,Wed 11/18,Washington,142511,2704
+4673,Wed 11/18,West Virginia,36277,612
+4674,Wed 11/18,Wisconsin,350665,2939
+4675,Wed 11/18,Wyoming,25275,155
+4676,Thu 11/19,Alabama,225910,3419
+4677,Thu 11/19,Alaska,25946,95
+4678,Thu 11/19,Arizona,288807,6384
+4679,Thu 11/19,Arkansas,139855,2297
+4680,Thu 11/19,California,1082674,18555
+4681,Thu 11/19,Colorado,184260,2734
+4682,Thu 11/19,Connecticut,99381,4805
+4683,Thu 11/19,Delaware,30153,742
+4684,Thu 11/19,District of Columbia,19678,667
+4685,Thu 11/19,Florida,914325,17809
+4686,Thu 11/19,Georgia,421381,8867
+4687,Thu 11/19,Guam,7385,102
+4688,Thu 11/19,Hawaii,16917,222
+4689,Thu 11/19,Idaho,88642,838
+4690,Thu 11/19,Illinois,622869,11671
+4691,Thu 11/19,Indiana,278142,5143
+4692,Thu 11/19,Iowa,201572,2127
+4693,Thu 11/19,Kansas,131408,1326
+4694,Thu 11/19,Kentucky,151706,1843
+4695,Thu 11/19,Louisiana,211966,6199
+4696,Thu 11/19,Maine,9734,171
+4697,Thu 11/19,Maryland,175092,4372
+4698,Thu 11/19,Massachusetts,198550,10435
+4699,Thu 11/19,Michigan,310396,8717
+4700,Thu 11/19,Minnesota,249962,3138
+4701,Thu 11/19,Mississippi,138791,3619
+4702,Thu 11/19,Missouri,270486,3618
+4703,Thu 11/19,Montana,51872,569
+4704,Thu 11/19,Nebraska,109280,863
+4705,Thu 11/19,Nevada,128234,1958
+4706,Thu 11/19,New Hampshire,16277,506
+4707,Thu 11/19,New Jersey,295556,16689
+4708,Thu 11/19,New Mexico,74116,1302
+4709,Thu 11/19,New York,584128,33648
+4710,Thu 11/19,North Carolina,325658,4968
+4711,Thu 11/19,North Dakota,68618,801
+4712,Thu 11/19,Northern Mariana Islands,103,2
+4713,Thu 11/19,Ohio,326615,5890
+4714,Thu 11/19,Oklahoma,164340,1588
+4715,Thu 11/19,Oregon,60874,809
+4716,Thu 11/19,Pennsylvania,294345,9643
+4717,Thu 11/19,Puerto Rico,78046,982
+4718,Thu 11/19,Rhode Island,46951,1288
+4719,Thu 11/19,South Carolina,201160,4201
+4720,Thu 11/19,South Dakota,69742,705
+4721,Thu 11/19,Tennessee,321832,4082
+4722,Thu 11/19,Texas,1139526,20689
+4723,Thu 11/19,Utah,166040,758
+4724,Thu 11/19,Vermont,3310,61
+4725,Thu 11/19,Virgin Islands,1469,23
+4726,Thu 11/19,Virginia,210787,3896
+4727,Thu 11/19,Washington,144968,2717
+4728,Thu 11/19,West Virginia,37399,623
+4729,Thu 11/19,Wisconsin,358113,3021
+4730,Thu 11/19,Wyoming,26169,176
+4731,Fri 11/20,Alabama,228373,3451
+4732,Fri 11/20,Alaska,26403,95
+4733,Fri 11/20,Arizona,292880,6427
+4734,Fri 11/20,Arkansas,141916,2321
+4735,Fri 11/20,California,1096401,18649
+4736,Fri 11/20,Colorado,190100,2752
+4737,Fri 11/20,Connecticut,101469,4828
+4738,Fri 11/20,Delaware,30816,746
+4739,Fri 11/20,District of Columbia,19808,669
+4740,Fri 11/20,Florida,923410,17888
+4741,Fri 11/20,Georgia,424759,8904
+4742,Fri 11/20,Guam,7421,104
+4743,Fri 11/20,Hawaii,17029,222
+4744,Fri 11/20,Idaho,90346,849
+4745,Fri 11/20,Illinois,635823,11814
+4746,Fri 11/20,Indiana,284960,5206
+4747,Fri 11/20,Iowa,205918,2159
+4748,Fri 11/20,Kansas,137224,1410
+4749,Fri 11/20,Kentucky,155625,1862
+4750,Fri 11/20,Louisiana,216709,6233
+4751,Fri 11/20,Maine,9958,173
+4752,Fri 11/20,Maryland,177239,4398
+4753,Fri 11/20,Massachusetts,200949,10469
+4754,Fri 11/20,Michigan,320621,8776
+4755,Fri 11/20,Minnesota,256756,3206
+4756,Fri 11/20,Mississippi,140429,3642
+4757,Fri 11/20,Missouri,275992,3675
+4758,Fri 11/20,Montana,53346,575
+4759,Fri 11/20,Nebraska,111661,917
+4760,Fri 11/20,Nevada,130102,1987
+4761,Fri 11/20,New Hampshire,16797,507
+4762,Fri 11/20,New Jersey,299182,16712
+4763,Fri 11/20,New Mexico,77098,1327
+4764,Fri 11/20,New York,589605,33696
+4765,Fri 11/20,North Carolina,330021,5012
+4766,Fri 11/20,North Dakota,70022,824
+4767,Fri 11/20,Northern Mariana Islands,103,2
+4768,Fri 11/20,Ohio,335423,5955
+4769,Fri 11/20,Oklahoma,167261,1603
+4770,Fri 11/20,Oregon,62176,815
+4771,Fri 11/20,Pennsylvania,301373,9748
+4772,Fri 11/20,Puerto Rico,78950,991
+4773,Fri 11/20,Rhode Island,48001,1294
+4774,Fri 11/20,South Carolina,203161,4231
+4775,Fri 11/20,South Dakota,71070,741
+4776,Fri 11/20,Tennessee,325282,4156
+4777,Fri 11/20,Texas,1153215,20872
+4778,Fri 11/20,Utah,170644,776
+4779,Fri 11/20,Vermont,3459,62
+4780,Fri 11/20,Virgin Islands,1482,23
+4781,Fri 11/20,Virginia,213331,3912
+4782,Fri 11/20,Washington,147251,2738
+4783,Fri 11/20,West Virginia,38480,639
+4784,Fri 11/20,Wisconsin,365190,3106
+4785,Fri 11/20,Wyoming,27129,176
+4786,Sat 11/21,Alabama,230708,3457
+4787,Sat 11/21,Alaska,27079,95
+4788,Sat 11/21,Arizona,296997,6459
+4789,Sat 11/21,Arkansas,143821,2337
+4790,Sat 11/21,California,1109844,18709
+4791,Sat 11/21,Colorado,195220,2791
+4792,Sat 11/21,Connecticut,101469,4828
+4793,Sat 11/21,Delaware,31321,746
+4794,Sat 11/21,District of Columbia,19961,670
+4795,Sat 11/21,Florida,931819,17929
+4796,Sat 11/21,Georgia,430687,8940
+4797,Sat 11/21,Guam,7421,104
+4798,Sat 11/21,Hawaii,17182,229
+4799,Sat 11/21,Idaho,91312,851
+4800,Sat 11/21,Illinois,647474,11967
+4801,Sat 11/21,Indiana,291838,5246
+4802,Sat 11/21,Iowa,209203,2191
+4803,Sat 11/21,Kansas,137295,1411
+4804,Sat 11/21,Kentucky,159035,1886
+4805,Sat 11/21,Louisiana,216709,6233
+4806,Sat 11/21,Maine,10123,174
+4807,Sat 11/21,Maryland,180125,4415
+4808,Sat 11/21,Massachusetts,204155,10488
+4809,Sat 11/21,Michigan,328178,8874
+4810,Sat 11/21,Minnesota,263008,3257
+4811,Sat 11/21,Mississippi,142401,3657
+4812,Sat 11/21,Missouri,279987,3684
+4813,Sat 11/21,Montana,54542,604
+4814,Sat 11/21,Nebraska,113029,929
+4815,Sat 11/21,Nevada,132610,2017
+4816,Sat 11/21,New Hampshire,17281,508
+4817,Sat 11/21,New Jersey,303851,16746
+4818,Sat 11/21,New Mexico,79440,1352
+4819,Sat 11/21,New York,595581,33737
+4820,Sat 11/21,North Carolina,333074,5035
+4821,Sat 11/21,North Dakota,71546,840
+4822,Sat 11/21,Northern Mariana Islands,103,2
+4823,Sat 11/21,Ohio,343286,5984
+4824,Sat 11/21,Oklahoma,170924,1624
+4825,Sat 11/21,Oregon,63668,822
+4826,Sat 11/21,Pennsylvania,307247,9862
+4827,Sat 11/21,Puerto Rico,80049,1012
+4828,Sat 11/21,Rhode Island,48001,1294
+4829,Sat 11/21,South Carolina,205018,4274
+4830,Sat 11/21,South Dakota,72214,777
+4831,Sat 11/21,Tennessee,329490,4163
+4832,Sat 11/21,Texas,1164130,21004
+4833,Sat 11/21,Utah,173987,789
+4834,Sat 11/21,Vermont,3546,63
+4835,Sat 11/21,Virgin Islands,1491,23
+4836,Sat 11/21,Virginia,215679,3938
+4837,Sat 11/21,Washington,148691,2738
+4838,Sat 11/21,West Virginia,39598,658
+4839,Sat 11/21,Wisconsin,372219,3155
+4840,Sat 11/21,Wyoming,27410,176
+4841,Sun 11/22,Alabama,232506,3457
+4842,Sun 11/22,Alaska,27629,97
+4843,Sun 11/22,Arizona,299698,6464
+4844,Sun 11/22,Arkansas,145173,2357
+4845,Sun 11/22,California,1118652,18726
+4846,Sun 11/22,Colorado,199296,2811
+4847,Sun 11/22,Connecticut,101469,4828
+4848,Sun 11/22,Delaware,31808,748
+4849,Sun 11/22,District of Columbia,20151,670
+4850,Sun 11/22,Florida,938406,17990
+4851,Sun 11/22,Georgia,432954,8955
+4852,Sun 11/22,Guam,7518,107
+4853,Sun 11/22,Hawaii,17302,231
+4854,Sun 11/22,Idaho,91935,852
+4855,Sun 11/22,Illinois,657402,12064
+4856,Sun 11/22,Indiana,298021,5305
+4857,Sun 11/22,Iowa,211664,2202
+4858,Sun 11/22,Kansas,137530,1410
+4859,Sun 11/22,Kentucky,161222,1887
+4860,Sun 11/22,Louisiana,220192,6260
+4861,Sun 11/22,Maine,10359,176
+4862,Sun 11/22,Maryland,182482,4434
+4863,Sun 11/22,Massachusetts,206850,10512
+4864,Sun 11/22,Michigan,328833,8874
+4865,Sun 11/22,Minnesota,270213,3297
+4866,Sun 11/22,Mississippi,143180,3676
+4867,Sun 11/22,Missouri,283756,3688
+4868,Sun 11/22,Montana,55680,607
+4869,Sun 11/22,Nebraska,114061,933
+4870,Sun 11/22,Nevada,134761,2022
+4871,Sun 11/22,New Hampshire,17598,512
+4872,Sun 11/22,New Jersey,307819,16761
+4873,Sun 11/22,New Mexico,81896,1385
+4874,Sun 11/22,New York,600967,33767
+4875,Sun 11/22,North Carolina,336983,5062
+4876,Sun 11/22,North Dakota,72689,846
+4877,Sun 11/22,Northern Mariana Islands,104,2
+4878,Sun 11/22,Ohio,351419,5996
+4879,Sun 11/22,Oklahoma,174330,1634
+4880,Sun 11/22,Oregon,65170,822
+4881,Sun 11/22,Pennsylvania,313788,9901
+4882,Sun 11/22,Puerto Rico,81074,1017
+4883,Sun 11/22,Rhode Island,48001,1294
+4884,Sun 11/22,South Carolina,206295,4283
+4885,Sun 11/22,South Dakota,73065,819
+4886,Sun 11/22,Tennessee,333853,4218
+4887,Sun 11/22,Texas,1172664,21083
+4888,Sun 11/22,Utah,177176,793
+4889,Sun 11/22,Vermont,3629,63
+4890,Sun 11/22,Virgin Islands,1504,23
+4891,Sun 11/22,Virginia,217796,3938
+4892,Sun 11/22,Washington,149703,2738
+4893,Sun 11/22,West Virginia,40478,662
+4894,Sun 11/22,Wisconsin,376238,3162
+4895,Sun 11/22,Wyoming,28169,176
+4896,Mon 11/23,Alabama,234080,3459
+4897,Mon 11/23,Alaska,28128,97
+4898,Mon 11/23,Arizona,303188,6465
+4899,Mon 11/23,Arkansas,146190,2387
+4900,Mon 11/23,California,1136224,18768
+4901,Mon 11/23,Colorado,203578,2821
+4902,Mon 11/23,Connecticut,106740,4871
+4903,Mon 11/23,Delaware,32211,752
+4904,Mon 11/23,District of Columbia,20290,672
+4905,Mon 11/23,Florida,944737,18084
+4906,Mon 11/23,Georgia,434916,8972
+4907,Mon 11/23,Guam,7571,107
+4908,Mon 11/23,Hawaii,17405,231
+4909,Mon 11/23,Idaho,93602,869
+4910,Mon 11/23,Illinois,665865,12141
+4911,Mon 11/23,Indiana,303575,5332
+4912,Mon 11/23,Iowa,214792,2222
+4913,Mon 11/23,Kansas,144831,1456
+4914,Mon 11/23,Kentucky,163767,1906
+4915,Mon 11/23,Louisiana,221160,6284
+4916,Mon 11/23,Maine,10544,177
+4917,Mon 11/23,Maryland,184140,4448
+4918,Mon 11/23,Massachusetts,208623,10531
+4919,Mon 11/23,Michigan,340223,8937
+4920,Mon 11/23,Minnesota,276556,3321
+4921,Mon 11/23,Mississippi,143879,3676
+4922,Mon 11/23,Missouri,288337,3697
+4923,Mon 11/23,Montana,56428,615
+4924,Mon 11/23,Nebraska,115921,958
+4925,Mon 11/23,Nevada,136672,2030
+4926,Mon 11/23,New Hampshire,18042,512
+4927,Mon 11/23,New Jersey,311400,16772
+4928,Mon 11/23,New Mexico,84148,1402
+4929,Mon 11/23,New York,606878,33804
+4930,Mon 11/23,North Carolina,339672,5076
+4931,Mon 11/23,North Dakota,73403,852
+4932,Mon 11/23,Northern Mariana Islands,104,2
+4933,Mon 11/23,Ohio,363304,6020
+4934,Mon 11/23,Oklahoma,177874,1649
+4935,Mon 11/23,Oregon,66334,830
+4936,Mon 11/23,Pennsylvania,320250,9932
+4937,Mon 11/23,Puerto Rico,81815,1032
+4938,Mon 11/23,Rhode Island,50573,1309
+4939,Mon 11/23,South Carolina,207552,4288
+4940,Mon 11/23,South Dakota,73848,819
+4941,Mon 11/23,Tennessee,337637,4254
+4942,Mon 11/23,Texas,1183796,21144
+4943,Mon 11/23,Utah,179420,799
+4944,Mon 11/23,Vermont,3714,63
+4945,Mon 11/23,Virgin Islands,1507,23
+4946,Mon 11/23,Virginia,221038,3942
+4947,Mon 11/23,Washington,155336,2775
+4948,Mon 11/23,West Virginia,41114,667
+4949,Mon 11/23,Wisconsin,379693,3175
+4950,Mon 11/23,Wyoming,29431,202
