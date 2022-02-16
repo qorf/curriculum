@@ -49,6 +49,8 @@ chart:SetTitle("How Expensive are Night Outs Per Country")
 // label the x and y axis
 chart:SetXAxisTitle("Countries")
 chart:SetYAxisTitle("Cost (in USD $)")
+// add subtitle for more description
+chart:SetSubtitle("Various nightly activities cost in different countries")
 
 // display chart
 chart:Display()

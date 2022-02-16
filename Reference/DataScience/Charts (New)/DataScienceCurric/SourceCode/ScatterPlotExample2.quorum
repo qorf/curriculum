@@ -26,9 +26,16 @@ chart:SetTitle("Student Scores based if they took a Test Prep Course")
 chart:SetXAxisTitle("Math Score")
 chart:SetYAxisTitle("Reading Score")
 chart:SetLegendTitle("Take Test Prep Course?")
+// add subtitle for more description
+chart:SetSubtitle("How much of a difference extra courses impact test taking")
 
 // this will adjust the sizes of the points in the scatter plot
 chart:SetPointDensity(5)
+
+// show regression line trends
+chart:ShowLinearRegression(true) 
+// adjust the line thickness
+chart: SetRegressionLineDensity(3)
 
 // sets color palette
 chart:SetColorPaletteToSerious()

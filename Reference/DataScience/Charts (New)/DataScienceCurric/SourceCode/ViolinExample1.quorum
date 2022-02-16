@@ -25,6 +25,8 @@ chart:SetXAxisTitle("Type of extrema")
 chart:SetYAxisTitle("Age")
 chart:SetLegendTitle("Life Span")
 chart:SetLegendLocation("bottom")
+// add subtitle for more description
+chart:SetSubtitle("How long do cats live")
 
 
 // customization features

@@ -50,9 +50,14 @@ chart:SetTitle("Nutrition Levels on Various Foods")
 // label the x and y axis
 chart:SetXAxisTitle("Food Types")
 chart:SetYAxisTitle("Nutrition (in grams)")
+// add subtitle to add more description
+chart:SetSubtitle("How healthy certain foods are")
 
 // display chart
 chart:Display()
+
+// text based bar chart svg
+// output chart:ConvertToScalableVectorGraphics()
 
 // save chart image
 chart:Save("barchart2.svg")

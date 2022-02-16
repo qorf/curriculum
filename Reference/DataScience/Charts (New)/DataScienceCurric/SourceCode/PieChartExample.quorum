@@ -24,6 +24,8 @@ chart:SetTitle("Genres of the Most Streamed Songs on Spotify")
 chart:SetLegendTitle("Genres")
 // set the legend location, choices are left, right, top and bottom
 chart:SetLegendLocation("bottom")
+// add subtitle for more description
+chart:SetSubtitle("Most Popular Music Genres in Spotify")
 
 // creates a hole in the middle of the pie chart (optional feature)
 chart:SetDonutHolePercent(0.1)

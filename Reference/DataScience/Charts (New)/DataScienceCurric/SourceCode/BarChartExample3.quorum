@@ -54,6 +54,8 @@ chart:SetTitle("Cost of Theme Park Tickets Over the Years")
 // label the x and y axis
 chart:SetXAxisTitle("Year")
 chart:SetYAxisTitle("Cost (in USD $)")
+// add subtitle for more description
+chart:SetSubtitle("Prices of Tickets With Theme Parks")
 
 // display chart
 chart:Display()

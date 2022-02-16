@@ -23,9 +23,14 @@ chart:SetXAxisTitle("Body Mass Index (BMI)")
 chart:SetYAxisTitle("Insurance Cost (in $)")
 chart:SetLegendTitle("Age Group")
 chart:SetTitle("Charges of Insurance Based Off of BMI and Age")
+// add subtitle for more description
+chart:SetSubtitle("Does body weight and age affect cost of insurance?")
 
 // set the legend location, choices are left, right, top and bottom
 chart:SetLegendLocation("bottom")
+
+// show regression line trends
+chart:ShowLinearRegression(true) 
 
 // color palette contains yellows, oranges, browns, and greens
 chart:SetColorPaletteToDisturbing()

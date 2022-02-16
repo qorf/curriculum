@@ -18,6 +18,8 @@ PieChart chart = frame:PieChart()
 
 // create title to describe graph
 chart:SetTitle("Movie Genres with the Most Revenue")
+// add subtitle for more description
+chart:SetSubtitle("Most Popular Movie Genres")
 
 // label your legend to show users what is being categorized
 chart:SetLegendTitle("Genres")

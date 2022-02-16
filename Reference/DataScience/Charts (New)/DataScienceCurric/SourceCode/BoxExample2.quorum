@@ -20,6 +20,8 @@ chart:SetTitleFontSize(20)
 // label the x axis, y axis, and hide the outliers
 chart:SetXAxisTitle("")
 chart:SetYAxisTitle("Amount spent")
+// add subtitle for more description
+chart:SetSubtitle("Shows how expensive Christmas shopping is over the years")
 chart:HideOutliers()
 
 // customization features

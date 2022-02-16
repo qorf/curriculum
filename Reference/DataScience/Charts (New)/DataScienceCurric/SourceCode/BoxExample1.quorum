@@ -20,6 +20,8 @@ chart:SetTitleFontSize(20)
 // label the x axis, y axis, and the legend title
 chart:SetXAxisTitle("Sex")
 chart:SetYAxisTitle("Height (cm)")
+// add subtitle for more description
+chart:SetSubtitle("How tall or short men and women are")
 chart:HideOutliers()
 
 // customization features

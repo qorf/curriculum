@@ -27,6 +27,8 @@ chart:SetTitleFontSize(20)
 chart:SetXAxisTitle("Price")
 chart:SetYAxisTitle("Count")
 chart:SetLegendTitle("Cost a Night")
+// add subtitle for more description
+chart:SetSubtitle("How expensive does staying in NYC cost")
 
 // customization features
 // sets this to warm tones

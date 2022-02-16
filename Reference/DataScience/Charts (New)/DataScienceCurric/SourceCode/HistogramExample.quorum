@@ -27,6 +27,8 @@ chart:SetTitleFontSize(20)
 chart:SetXAxisTitle("Age (in Years)")
 chart:SetYAxisTitle("Total")
 chart:SetLegendTitle("How long dogs live")
+// add subtitle for more description
+chart:SetSubtitle("Age ranges of Dog Breeds")
 
 // customization features
 chart:SetColorPaletteToTrustworthy()
