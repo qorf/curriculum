@@ -5,9 +5,15 @@ use Libraries.Compute.Statistics.DataFrame
 //more information about the data that is being loaded.
 DataFrame frame
 
-//This loads the project relative to the project, so the Population.csv file in the Data folder
+//This loads data relative to the project, so put the Population.csv file in the Data folder
 //If we deploy our program, this path is relative to the binary.
 frame:Load("Data/Population.csv")
+
+// If you want to specify an absolute path instead, comment out the above lines and
+// uncomment the lines below and update the path to your file
+//File file
+//file:SetAbsolutePath("/Volume/absolute/path/example/Population.csv")
+//frame:Load(file)
 
 //The system loaded the file, but can also output it a text value, or the console, if we want that.
 output frame:ToText()
