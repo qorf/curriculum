@@ -1,6 +1,5 @@
 //We need the DataFrame class to load in files for Data Science operations.
 use Libraries.Compute.Statistics.DataFrame
-//use Libraries.System.File   // Only uncomment/needed if specifying an absolute path
 
 //Create a DataFrame, which is essentially a table that understands 
 //more information about the data that is being loaded.
@@ -9,12 +8,6 @@ DataFrame frame
 //This loads data relative to the project, so put the Population.csv file in the Data folder
 //If we deploy our program, this path is relative to the binary.
 frame:Load("Data/Population.csv")
-
-// If you want to specify an absolute path instead, comment out line 11,
-// uncomment the three lines below, uncommet line 3, and update the path to your file
-//File file
-//file:SetAbsolutePath("/Volume/absolute/path/example/Population.csv")
-//frame:Load(file)
 
 //The system loaded the file, but can also output it a text value, or the console, if we want that.
 output frame:ToText()
