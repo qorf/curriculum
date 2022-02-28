@@ -1,0 +1,49 @@
+//We need the DataFrame class to load in files for Data Science operations.
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Compute.Statistics.Tests.CompareGroups
+use Libraries.Compute.Statistics.Columns.TextColumn
+use Libraries.Compute.Statistics.Columns.NumberColumn
+use Libraries.Compute.Statistics.Columns.IntegerColumn
+
+//Create a DataFrame, which is essentially a table that understands 
+//more information about the data that is being loaded.
+DataFrame frame
+
+TextColumn nameColumn
+nameColumn:SetHeader("Name")
+nameColumn:Add("Kylo")
+nameColumn:Add("Vader")
+nameColumn:Add("Maul")
+nameColumn:Add("Sidious")
+nameColumn:Add("Plagueis")
+frame:AddColumn(nameColumn)
+
+NumberColumn ageColumn
+ageColumn:SetHeader("Age")
+ageColumn:Add(5)
+ageColumn:Add(-41)
+ageColumn:Add(-55)
+ageColumn:Add(-84)
+ageColumn:Add(-147)
+frame:AddColumn(ageColumn)
+
+TextColumn groupColumn
+groupColumn:SetHeader("Group")
+groupColumn:Add("Emo")
+groupColumn:Add("Sith")
+groupColumn:Add("Emo")
+groupColumn:Add("Sith")
+groupColumn:Add("Sith")
+frame:AddColumn(groupColumn)
+
+// use DateTimeColumn if this is actual Date/Time format
+IntegerColumn timeColumn
+timeColumn:SetHeader("Time")
+timeColumn:Add(174)
+timeColumn:Add(92)
+timeColumn:Add(165)
+timeColumn:Add(86)
+timeColumn:Add(98)
+frame:AddColumn(timeColumn)
+
+output frame:ToText()
