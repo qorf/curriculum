@@ -21,15 +21,15 @@ chart:SetTitleFontSize(20)
 chart:SetXAxisTitle("Sex")
 chart:SetYAxisTitle("Height (cm)")
 // add subtitle for more description
-chart:SetSubtitle("How tall or short men and women are")
+chart:SetSubtitle("What is the average height of the population by sex?")
 chart:HideOutliers()
 
 // customization features
 chart:SetColorPaletteToTrustworthy()
 // define a clear interval, we separate each interval by 2
-chart:SetYTickInterval(50)
+chart:SetYTickInterval(10)
 // let's start our chart at 100 to examine a curve as a whole
-chart:SetYAxisMinimum(100)
+chart:SetYAxisMinimum(150)
 
 
 // display the histogram
