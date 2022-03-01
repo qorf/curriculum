@@ -31,7 +31,7 @@ chart:SetYAxisTitle("Weight (g)")
 chart:SetLegendTitle("Weight by sex")
 chart:SetLegendLocation("bottom")
 // add subtitle for more description
-chart:SetSubtitle("How big are chicken weights")
+chart:SetSubtitle("How much do chicks weight?")
 
 
 // customization features
