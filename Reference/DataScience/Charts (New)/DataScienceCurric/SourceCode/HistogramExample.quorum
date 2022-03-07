@@ -41,3 +41,6 @@ chart:FlipOrientation()
 
 // display the histogram
 chart:Display()
+
+// save chart type
+chart:Save("histogram1.svg")

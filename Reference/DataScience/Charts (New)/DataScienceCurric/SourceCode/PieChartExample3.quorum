@@ -9,29 +9,29 @@ use Libraries.Interface.Controls.Charts.PieChart
 
 // create dataframe to read in data
 DataFrame frame
-frame:Load("../Data/Spotify Charts/Top 100 most Streamed.csv")
+frame:Load("../Data/Miscellaneous/wineReviews.csv")
 
 // pull out selected data, for this we will be categorizing by genre
-frame:AddSelectedFactors("top genre")
+frame:AddSelectedFactors("variety")
 
 // using the data frame, format data by creating a pie chart component
 PieChart chart = frame:PieChart()
 
 // create title to describe graph
-chart:SetTitle("Genres of the Most Streamed Songs on Spotify")
+chart:SetTitle("Top Wine Reviews Based on Type")
 
 // label your legend to show users what is being categorized
-chart:SetLegendTitle("Genres")
+chart:SetLegendTitle("Variety")
 // set the legend location, choices are left, right, top and bottom
 chart:SetLegendLocation("bottom")
 // add subtitle for more description
-chart:SetSubtitle("Most Popular Music Genres in Spotify")
+chart:SetSubtitle("Praised wine categorized by type")
 
 // creates a hole in the middle of the pie chart (optional feature)
-chart:SetDonutHolePercent(0.8)
+chart:SetDonutHolePercent(0.1)
 
 // adjust font size by preference, here we set it to 20 pt
-chart:SetFontSize(15)
+chart:SetFontSize(20)
 
 /* change color palette if needed, this color palette is set to 
    Colorgorical which helps give our graphs aesthetic and discriminable color palettes
@@ -41,10 +41,10 @@ chart:SetFontSize(15)
 //chart:SetColorPaletteToCalm()
 //chart:SetColorPaletteToMagma()
 //chart:SetColorPaletteToColorgorical()
-chart:SetColorPaletteToCoolScale()
+chart:SetColorPaletteToPlayful()
 
 // display chart
 chart:Display()
 
 // save chart image
-chart:Save("piechart1.svg")
+chart:Save("piechart3.svg")

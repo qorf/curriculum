@@ -54,3 +54,6 @@ chart:SetSubtitle("Various nightly activities cost in different countries")
 
 // display chart
 chart:Display()
+
+// save chart type
+chart:Save("barchart1.svg")
