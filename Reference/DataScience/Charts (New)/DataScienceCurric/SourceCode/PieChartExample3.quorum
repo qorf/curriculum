@@ -3,8 +3,7 @@ use Libraries.Interface.Controls.Charts.PieChart
 
 /*
     This is an example of a simple pie chart in quorum.
-    This collects the top 100 most streamed songs on Spotify where we will be examining
-    what are the most popular genres of these songs
+    This collects top wine reviews
 */
 
 // create dataframe to read in data
