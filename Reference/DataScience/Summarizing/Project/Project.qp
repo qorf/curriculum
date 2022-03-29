@@ -1,11 +1,13 @@
 {
     "DevelopmentEnvironmentVersion" : "Quorum Studio 2.0",
     "ExecutableName" : "Default",
+    "IOS_BUNDLE" : "org.quorumlanguage",
+    "IOS_DEVICE" : "iPhone 12 Simulator",
     "ImageSheetEnabled" : false,
     "ImageSheetRebuildOnCompile" : false,
-    "Main" : "/SourceCode/CalculateInterquartile.quorum",
+    "Main" : "/SourceCode/CalculateStandardDeviationsFromMean.quorum",
     "MobileAssets" : "/media",
     "ProjectName" : "Summarizing",
     "ProjectType" : "JavaType",
-    "iosVersion" : "ios14.1"
+    "iosVersion" : "15.0"
 }
