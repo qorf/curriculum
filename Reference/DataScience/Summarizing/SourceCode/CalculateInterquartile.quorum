@@ -1,7 +1,7 @@
 //We need the DataFrame class to load in files for Data Science operations.
 use Libraries.Compute.Statistics.DataFrame
 //This is the calculation for the arithmetic mean
-use Libraries.Compute.Calculations.InterQuartileRange
+use Libraries.Compute.Statistics.Calculations.InterQuartileRange
 
 //Create a DataFrame, which is essentially a table that understands 
 //more information about the data that is being loaded.
