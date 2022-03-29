@@ -10,7 +10,7 @@ use Libraries.Compute.Statistics.Columns.NumberColumn
 //more information about the data that is being loaded.
 //Using the default loader is enough for our purposes
 DataFrame frame
-frame:Load("Data/Echocardiogram.csv")
+frame:Load("/Data/DryBeans.csv")
 
 //Get the column we want, in this case "survival"
 DataFrameColumn col = frame:GetColumn(0)
