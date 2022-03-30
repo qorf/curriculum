@@ -1,0 +1,16 @@
+//We need the DataFrame class to load in files for Data Science operations.
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Compute.Statistics.Columns.AudioColumn
+
+//Create a DataFrame, which is essentially a table that understands 
+//more information about the data that is being loaded.
+DataFrame frame
+
+//This creates an AudioColumn, which allows us to add audio files onto our dataset
+AudioColumn audioColumn
+audioColumn:SetHeader("Audio Column")
+audioColumn:Add("..\krist\Downloads\sweep.wav")
+
+//This will add the data we added into a formal column
+//Adding more columns will create the comma separation similar to a CSV
+frame:AddColumn(audioColumn)

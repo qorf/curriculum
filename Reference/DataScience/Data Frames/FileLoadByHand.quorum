@@ -1,0 +1,62 @@
+//We need the DataFrame class to load in files for Data Science operations.
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Compute.Statistics.Columns.NumberColumn
+use Libraries.Containers.Array
+use Libraries.Compute.Statistics.DataFrameColumn
+use Libraries.Compute.Statistics.Columns.TextColumn
+use Libraries.Compute.Statistics.Columns.BooleanColumn
+use Libraries.Compute.Statistics.Columns.IntegerColumn
+
+//Create a DataFrame, which is essentially a table that understands 
+//more information about the data that is being loaded.
+DataFrame frame
+
+//This creates a NumberColumn, which contains numbers
+NumberColumn column
+column:SetHeader("Number Column")
+column:Add(1)
+column:Add(2)
+column:Add(3)
+column:Add(4)
+column:Add(5.5)
+column:Add(6)
+
+//This creates a TextColumn, which contains strings/text
+TextColumn txtColumn
+txtColumn:SetHeader("Text Column")
+txtColumn:Add("Hello")
+txtColumn:Add("World")
+txtColumn:Add("From")
+txtColumn:Add("Outer")
+txtColumn:Add("Space")
+txtColumn:Add("Bloop!")
+
+//This creates a BooleanColumn, which adds T/F values
+BooleanColumn boolColumn
+boolColumn:SetHeader("Boolean Column")
+boolColumn:Add(false)
+boolColumn:Add(true)
+boolColumn:Add(false)
+boolColumn:Add(true)
+boolColumn:Add(false)
+boolColumn:Add(true)
+
+IntegerColumn intColumn
+intColumn:SetHeader("Integer Column")
+intColumn:Add(1)
+intColumn:Add(2)
+intColumn:Add(3)
+intColumn:Add(4)
+intColumn:Add(5)
+intColumn:Add(6)
+
+
+//This will add the data we added into a formal column
+//Adding more columns will create the comma separation similar to a CSV
+frame:AddColumn(column)
+frame:AddColumn(txtColumn)
+frame:AddColumn(boolColumn)
+frame:AddColumn(intColumn)
+
+//The system loaded the file, but can also output it a text value, or the console, if we want that.
+output frame:ToText()
