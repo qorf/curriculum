@@ -3,7 +3,7 @@
     "ExecutableName" : "Default",
     "IOS_BUNDLE" : "org.quorumlanguage",
     "IOS_DEVICE" : "iPhone 12 Simulator",
-    "Main" : "\SourceCode\PieChartExample3.quorum",
+    "Main" : "\SourceCode\HistogramExample2.quorum",
     "MobileAssets" : "media",
     "ProjectName" : "DataScienceCurric",
     "ProjectType" : "JavaType",
