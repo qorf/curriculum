@@ -1,0 +1,52 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.PieChart
+
+/*
+    This is an example of a simple pie chart in quorum.
+    This collects the top 100 most streamed songs on Spotify where we will be examining
+    what are the most popular genres of these songs
+*/
+
+// create dataframe to read in data
+DataFrame frame
+frame:Load("../Data/Spotify Charts/Top 5 most Streamed.csv")
+
+// pull out selected data, for this we will be categorizing by genre
+frame:AddSelectedFactors("top genre")
+frame:AddSelectedColumns("energy")
+frame:AddSelectedColumns("danceability")
+// using the data frame, format data by creating a pie chart component
+PieChart chart = frame:PieChart()
+
+// create title to describe graph
+chart:SetTitle("Genres of the Most Streamed Songs on Spotify")
+
+// label your legend to show users what is being categorized
+chart:SetLegendTitle("Genres")
+// set the legend location, choices are left, right, top and bottom
+chart:SetLegendLocation("bottom")
+// add subtitle for more description
+chart:SetSubtitle("Most Popular Music Genres in Spotify")
+
+// creates a hole in the middle of the pie chart (optional feature)
+chart:SetDonutHolePercent(0.8)
+chart:SeparateByFactor(3)
+
+// adjust font size by preference, here we set it to 20 pt
+chart:SetFontSize(15)
+
+/* change color palette if needed, this color palette is set to 
+   Colorgorical which helps give our graphs aesthetic and discriminable color palettes
+*/
+
+//chart:SetColorPaletteToNegative()
+//chart:SetColorPaletteToCalm()
+//chart:SetColorPaletteToMagma()
+//chart:SetColorPaletteToColorgorical()
+chart:SetColorPaletteToCoolScale()
+
+// display chart
+chart:Display()
+
+// save chart image
+chart:Save("piechart1.svg")

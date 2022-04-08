@@ -1,0 +1,47 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.Histogram
+
+/*
+    This is an example of a Histogram built in quorum.
+    The dataset we will be working with compares life spans of various dog breeds
+*/
+
+// create frame component
+DataFrame frame
+// read in data from dog csv
+frame:Load("../Data/Animals/Dogs.csv")
+
+// pull out specified columns from csv that we are comparing
+// note: histograms do not support factors
+frame:AddSelectedColumns("Minimum Life Span")
+frame:AddSelectedColumns("Maximum Life Span")
+
+// create histogram object
+// this will create two separate data charts to compare
+Histogram chart = frame:Histogram()
+chart:SetTitle("Minimum and Maximum Life Expectancy for Various Dog Breeds")
+// let's adjust the font size so it appears nicely on the screen
+chart:SetTitleFontSize(20)
+
+// label the x axis, y axis, and the legend title
+chart:SetXAxisTitle("Age (in Years)")
+chart:SetYAxisTitle("Total")
+chart:SetLegendTitle("How long dogs live")
+// add subtitle for more description
+chart:SetSubtitle("Age ranges of Dog Breeds")
+
+// customization features
+chart:SetColorPaletteToTrustworthy()
+// define a clear interval, we separate each interval by 2
+chart:SetXTickInterval(2)
+// let's start our chart at 0 to examine a curve as a whole
+chart:SetXAxisMinimum(0)
+// used so years is on y axis and total is on x axis (optional)
+chart:FlipOrientation()
+chart:SeparateBySeries(2)
+
+// display the histogram
+chart:Display()
+
+// save chart type
+chart:Save("histogram1.svg")
