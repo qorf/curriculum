@@ -13,12 +13,17 @@ frame:Load("../Data/Miscellaneous/random.csv")
 // save the original frame
 copy = frame:Copy()
 
+//This loads data relative to the project, so put the AskAManager.csv file in the Data/Miscellaneous folder
+frame:Load("../Data/Miscellaneous/random.csv")
+
 //This action filters any rows less than 6 in specifically the y column. 
-frame:Filter("c < 35")
+frame:AddColumn("new", "a + b + c")
+
+frame:CalculateColumn("b")
 
 output "original frame"
 output copy:ToText()
 
-//We can save the frame or output it to the console, like we are doing here.
 output "modified frame"
+//We can save the frame or output it to the console, like we are doing here.
 output frame:ToText()
