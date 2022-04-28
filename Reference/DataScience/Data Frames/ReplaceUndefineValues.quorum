@@ -1,0 +1,16 @@
+use Libraries.Compute.Statistics.DataFrame
+
+
+DataFrame frame
+frame:Load("../Data/Miscellaneous/AskAManager.csv")
+        
+//Add the first column in the set to the list of selected columns
+frame:AddSelectedColumn(6)
+
+//perhaps this replaces an undefined in an IntegerColumn or a TextColumn
+frame:ReplaceUndefinedFromSelectedColumns("0")
+output frame:ToText()
+        
+
+    
+  
