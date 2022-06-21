@@ -7,7 +7,7 @@ use Libraries.Compute.Statistics.Calculations.InterQuartileRange
 //more information about the data that is being loaded.
 //Using the default loader is enough for our purposes
 DataFrame frame
-frame:Load("Data/Echocardiogram.csv")
+frame:Load("data/DryBeans.csv")
 
 //Tell the frame we want the first column selected
 frame:AddSelectedColumn(0)

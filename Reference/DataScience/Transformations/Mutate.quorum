@@ -7,14 +7,12 @@ use Libraries.Compute.Statistics.Transforms.RemoveUndefinedRowsTransform
 DataFrame frame
 DataFrame copy
 
-//This loads data relative to the project, so put the AskAManager.csv file in the Data/Miscellaneous folder
+//This loads data relative to the project, so put the random.csv file in the Data/Miscellaneous folder
 frame:Load("../Data/Miscellaneous/random.csv")
 
 // save the original frame
 copy = frame:Copy()
 
-//This loads data relative to the project, so put the AskAManager.csv file in the Data/Miscellaneous folder
-frame:Load("../Data/Miscellaneous/random.csv")
 
 //This creates a new column based on adding the a + b + c columns
 frame:AddColumn("new", "a + b + c")
