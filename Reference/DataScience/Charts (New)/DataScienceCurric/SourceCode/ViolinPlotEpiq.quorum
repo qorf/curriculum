@@ -1,0 +1,49 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.ViolinPlot
+
+// create frame component
+DataFrame frame
+// read in data from chick weights csv
+frame:Load("../Data/Science/Daily Weather.csv")
+
+// pull out specified columns from csv that we are comparing
+frame:AddSelectedFactors("Main Condition")
+frame:AddSelectedColumns("Low Temperature")
+frame:AddSelectedColumns("High Temperature")
+frame:AddSelectedColumns("Humidity Percentage")
+frame:AddSelectedColumns("Wind MPH")
+
+// create violin object
+// this will create two separate data charts to compare
+ViolinPlot chart = frame:ViolinPlot()
+chart:SetTitle("Weather Conditions in the US")
+// let's adjust the font size so it appears nicely on the screen
+chart:SetTitleFontSize(20)
+
+//Bandwidth is a scale option that will make violin chart larger
+//Note that it is 0 by default
+chart:SetBandWidth(2)
+
+// label the x axis, y axis, and the legend title
+chart:SetXAxisTitle("Main Condition")
+chart:SetYAxisTitle("Temperature")
+chart:SetLegendTitle("Temperature Factors")
+chart:SetLegendLocation("bottom")
+// add subtitle for more description
+chart:SetSubtitle("In this graph, we can see a mixture of high and low dispersion to showcase the graph density.")
+
+
+// customization features
+chart:SetColorPaletteToDisturbing()
+// define a clear interval, we separate each interval by 50
+chart:SetYTickInterval(20)
+chart:SetXTickInterval(10)
+// let's start our chart at 6 to examine a curve as a whole
+chart:SetYAxisMinimum(-5)
+
+
+// display the violin plot
+chart:Display()
+
+// Save the chart image
+chart:Save("ViolinPlotEpiq.svg")
