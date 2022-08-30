@@ -43,7 +43,7 @@ chart:SetLegendTitle("Theme Parks")
 chart:SetColorPaletteToExciting()
 
 // stacks bars on top of each other
-chart:IsStacked(true)
+//chart:IsStacked(true)
 
 // this sorts the bar chart from biggest to smallest
 chart:SortByBarSize()

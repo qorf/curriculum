@@ -49,4 +49,4 @@ chart:SetColorPaletteToCoolScale()
 chart:Display()
 
 // save chart image
-chart:Save("piechart1.svg")
+chart:Save("piechart4.svg")

@@ -23,7 +23,7 @@ chart:SetTitleFontSize(20)
 chart:SetBandWidth(0)
 
 //IsISplit splits the groups of the violing plots. Needs two violin charts in a group
-chart:IsSplit(true)
+//chart:IsSplit(true)
 
 // label the x axis, y axis, and the legend title
 chart:SetXAxisTitle("Feed")
@@ -41,9 +41,8 @@ chart:SetYTickInterval(50)
 // let's start our chart at 6 to examine a curve as a whole
 chart:SetYAxisMinimum(6)
 
-
 // display the violin plot
-chart:Display()
+chart:Display(1000,1000)
 
 // Save the chart image
 chart:Save("ViolinExample2.svg")

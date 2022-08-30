@@ -1,0 +1,12 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Compute.Statistics.Tests.Regression
+
+DataFrame frame
+frame:Load("data/GoogleTrendsIceCreamSharks.csv")
+
+frame:AddSelectedColumns("shark attacks")
+frame:AddSelectedFactors("ice cream")
+frame:AddSelectedFactors("pools")
+
+output frame:ToText()

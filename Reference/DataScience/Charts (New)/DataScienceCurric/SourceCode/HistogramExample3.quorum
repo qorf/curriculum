@@ -44,4 +44,4 @@ chart:SeparateBySeries(2)
 chart:Display()
 
 // save chart type
-chart:Save("histogram1.svg")
+chart:Save("histogram3.svg")

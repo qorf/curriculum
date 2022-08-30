@@ -58,4 +58,4 @@ chart:SeparateByFactor(7)
 chart:Display()
 
 // save chart type
-chart:Save("barchart1.svg")
+chart:Save("barchart4.svg")

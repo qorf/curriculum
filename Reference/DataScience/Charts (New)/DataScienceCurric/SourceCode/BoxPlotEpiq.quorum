@@ -34,7 +34,7 @@ chart:SetYAxisMinimum(700)
 chart:FlipOrientation()
 
 // display the histogram
-chart:Display()
+chart:Display(1000,1000)
 
 // Save the chart image
 chart:Save("BoxEpiq.svg")
