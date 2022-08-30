@@ -3,7 +3,7 @@
     "ExecutableName" : "Default",
     "IOS_BUNDLE" : "org.quorumlanguage",
     "IOS_DEVICE" : "iPhone 12 Simulator",
-    "Main" : "\SourceCode\ViolinPlotEpiq.quorum",
+    "Main" : "\SourceCode\BarChartExample.quorum",
     "MobileAssets" : "media",
     "ProjectName" : "DataScienceCurric",
     "ProjectType" : "JavaType",

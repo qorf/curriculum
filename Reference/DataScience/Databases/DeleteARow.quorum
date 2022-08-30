@@ -1,0 +1,14 @@
+use Libraries.Data.Database.Database
+use Libraries.Data.Database.Insert
+ use Libraries.Data.Database.Delete
+
+Database database
+database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+  Delete delete
+  delete:SetTable("grocery_list") 
+  delete:Filter("foodId = 1")
+  integer rowsAffected = database:Delete(delete)
+  output delete:ToText()
+
+  output "Deleted " + rowsAffected + " row(s)"

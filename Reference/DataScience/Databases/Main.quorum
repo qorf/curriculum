@@ -1,0 +1,20 @@
+use Libraries.Data.Database.Database
+use Libraries.Data.Database.Find
+use Libraries.Data.Database.QueryResult
+use Libraries.Data.Database.CreateView
+
+Database database
+database:Connect("localhost", "quorumdatabase", "root", "Danhowell662160")
+
+Find query
+query:SetTable("pet")
+query:AddColumn("name")
+query:AddColumn("owner")
+
+QueryResult results = database:Find(query)
+
+CreateView view
+view:SetQuery(query)
+view:SetName("pet_view")
+
+database:CreateView(view)

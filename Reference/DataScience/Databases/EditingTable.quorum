@@ -1,0 +1,28 @@
+/* equivalant to alter table*/
+/* changing table labels */
+/* changing the datatypes */
+
+    use Libraries.Data.Database.Database
+    use Libraries.Data.Database.EditTable
+    use Libraries.Data.Database.CreateTable
+
+    Database database
+    database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+   // uncomment this out if table has not been created -- possibly in a separate file
+   // CreateTable newTable
+   // newTable:SetTable("newtable")
+   // newTable:AddIntegerColumn("tableID")
+   // newTable:AddIntegerColumn("tableText")
+   // newTable:AddIntegerColumn("tableText2")
+   // database:CreateTable(newTable)
+    
+
+    EditTable edit
+    edit:SetTable("newtable")
+    edit:AlterAutoIncrement(1)
+    edit:RenameTable("superNewTable")
+    edit:ModifyColumn("tableText","string")
+    edit:AddColumn("newColumn","integer")
+    edit:DropColumn("tableText2")
+    database:EditTable(edit)

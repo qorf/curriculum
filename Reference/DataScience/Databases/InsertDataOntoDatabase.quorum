@@ -1,0 +1,57 @@
+use Libraries.Data.Database.Database
+use Libraries.Data.Database.Insert
+
+Database database
+database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+  Insert insert
+  insert:SetTable("grocery_list")
+ // keep a running sum on how many rows we add 
+ integer rowsAffected = 0
+   
+  // add first entry
+  insert:Add("foodID", 1)
+  insert:Add("foodName", "Chicken Breast")
+  insert:Add("foodCost", 2.99)
+  insert:Add("foodCalories", 120)
+  insert:Add("foodQuantity", 2)
+ // will only insert 1 query at a time
+  database:Insert(insert)
+  rowsAffected = rowsAffected + 1
+
+/* clears out info from previous insert
+   we need to call this because it only inserts one
+   at a time, we can insert multiple queries at 
+   the same time with this method
+*/
+  insert:Empty()
+  insert:Add("foodID", 2)
+  insert:Add("foodName", "Italian Sausage")
+  insert:Add("foodCost", 3.99)
+  insert:Add("foodCalories", 250)
+  insert:Add("foodQuantity", 5)
+  database:Insert(insert)
+
+   rowsAffected = rowsAffected + 1
+
+  insert:Empty()
+  insert:Add("foodID", 3)
+  insert:Add("foodName", "Mango")
+  insert:Add("foodCost", 0.99)
+  insert:Add("foodCalories", 60)
+  insert:Add("foodQuantity", 2)
+  database:Insert(insert)
+
+  rowsAffected = rowsAffected + 1
+
+  insert:Empty()
+  insert:Add("foodID", 4)
+  insert:Add("foodName", "Orange Cutie")
+  insert:Add("foodCost", 0.45)
+  insert:Add("foodCalories", 40)
+  insert:Add("foodQuantity", 5)
+
+  database:Insert(insert)
+  rowsAffected = rowsAffected + 1
+
+  output "Inserted " + rowsAffected + " row(s)"

@@ -1,0 +1,17 @@
+use Libraries.Data.Database.Database
+use Libraries.Data.Database.Find
+use Libraries.Data.Database.QueryResult
+use Libraries.Data.Database.QueryMetaData
+
+    
+Database database
+database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+   
+
+QueryResult result = database:Find("grocery_list")
+
+QueryMetaData meta = result:GetQueryMetaData()
+integer size = meta:GetSize()
+output "Number of Columns Returned: " + size
+
+    
