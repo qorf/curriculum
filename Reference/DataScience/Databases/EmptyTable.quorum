@@ -1,0 +1,7 @@
+use Libraries.Data.Database.Database
+
+Database database
+
+database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+database:EmptyTable("grocery_list")

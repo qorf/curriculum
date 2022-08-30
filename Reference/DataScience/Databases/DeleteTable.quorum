@@ -1,0 +1,10 @@
+use Libraries.Data.Database.Database
+use Libraries.Data.Database.DropTable
+
+Database database
+database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+DropTable drop
+drop:SetTable("newtable")
+drop:SetEmptyOnly(true)
+database:DropTable(drop)

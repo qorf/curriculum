@@ -23,7 +23,7 @@ chart:SetTitleFontSize(20)
 chart:SetBandWidth(0)
 
 //IsISplit splits the groups of the violing plots. Needs two violin charts in a group
-chart:IsSplit(true)
+//chart:IsSplit(true)
 
 // label the x axis, y axis, and the legend title
 chart:SetXAxisTitle("Feed")

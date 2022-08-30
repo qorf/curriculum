@@ -1,0 +1,16 @@
+use Libraries.Data.Database.Database
+    use Libraries.Data.Database.CreateTable
+
+
+    Database database
+    database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+    CreateTable newTable
+    newTable:SetTable("artSupply_list")
+    newTable:AddIntegerColumn("ArtID")
+    newTable:AddDateTimeColumn("TimeOfPurchase")
+    newTable:AddTextColumn("SupplyName", 10)
+    newTable:AddIntegerColumn("SupplyCost")
+    database:CreateTable(newTable)
+
+ 
