@@ -1,0 +1,18 @@
+use Libraries.Data.Database.Database
+    use Libraries.Data.Database.Find
+use Libraries.Data.Database.CreateView
+
+    Database database
+    database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+    Find find
+    find:SetTable("likes")
+    find:AddColumn("id")
+    find:AddColumn("likes")
+
+    CreateView view
+    view:SetQuery(find)
+    view:SetName("likes_query")
+
+    database:CreateView(view)
+

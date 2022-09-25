@@ -6,14 +6,29 @@ use Libraries.Data.Database.QueryMetaData
     
     Database database
     database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
-   
 
-    // use find query for multiple
-    QueryResult result = database:Find("grocery_list")
+    Find query
+    query:SetTable("grocery_list")
 
-    repeat while result:HasNext()
-        result:Next()
-        output result:GetText("foodName")
-        output result:GetText("foodCalories")
+    query:AddColumn("foodName")
+    query:AddColumn("foodID")
+    query:AddColumn("foodCalories")
+    query:AddColumn("foodQuantity")
+    query:AddColumnFromTable("foodCost", "grocery_list")
+
+    query:AddSum("foodQuantity")
+
+    query:AddCount("foodID")
+
+    query:AddMaximum("foodCalories")
+
+    QueryResult results = database:Find(query)
+
+    repeat while results:HasNext()
+     results:Next()
+     output "foodID: " + results:GetNumber("foodID")
+     output "foodName: " + results:GetText("foodName")
+     output "foodCost: " + results:GetInteger("foodCost")
+     output "foodCalories: " + results:GetNumber("foodCalories")
+     output "foodQuantity: " + results:GetNumber("foodQuantity")
     end
-    

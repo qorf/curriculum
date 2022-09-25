@@ -18,6 +18,7 @@ database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
  // will only insert 1 query at a time
   database:Insert(insert)
   rowsAffected = rowsAffected + 1
+    output insert:ToText()
 
 /* clears out info from previous insert
    we need to call this because it only inserts one
@@ -31,6 +32,7 @@ database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
   insert:Add("foodCalories", 250)
   insert:Add("foodQuantity", 5)
   database:Insert(insert)
+  output insert:ToText()
 
    rowsAffected = rowsAffected + 1
 
@@ -41,6 +43,7 @@ database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
   insert:Add("foodCalories", 60)
   insert:Add("foodQuantity", 2)
   database:Insert(insert)
+output insert:ToText()
 
   rowsAffected = rowsAffected + 1
 
@@ -53,5 +56,17 @@ database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
 
   database:Insert(insert)
   rowsAffected = rowsAffected + 1
+output insert:ToText()
+
+insert:Empty()
+  insert:Add("foodID", 5)
+  insert:Add("foodName", "Banana")
+  insert:Add("foodCost", 0.30)
+  insert:Add("foodCalories", 110)
+  insert:Add("foodQuantity", 7)
+
+  database:Insert(insert)
+  rowsAffected = rowsAffected + 1
+output insert:ToText()
 
   output "Inserted " + rowsAffected + " row(s)"

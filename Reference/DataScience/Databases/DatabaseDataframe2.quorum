@@ -8,7 +8,7 @@ database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
 output database:IsConnected()
 
  Find find
- find:SetTable("grocery_list")
+ find:SetTable("customer_list")
 
 DataFrame frame
 

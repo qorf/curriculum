@@ -1,7 +1,14 @@
 use Libraries.Data.Database.Database
+use Libraries.Compute.Statistics.DataFrame
 
 Database database
 
 database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
 
-database:EmptyTable("grocery_list")
+database:EmptyTable("amazon_wishlist")
+
+DataFrame frame
+
+frame = database:FindAsDataFrame("amazon_wishlist")
+
+output frame:ToText()

@@ -5,6 +5,6 @@ Database database
 database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
 
 DropTable drop
-drop:SetTable("newtable")
+drop:SetTable("customer_list")
 drop:SetEmptyOnly(true)
 database:DropTable(drop)
