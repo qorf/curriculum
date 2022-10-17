@@ -2,16 +2,16 @@ use Libraries.Data.Database.Database
 use Libraries.Data.Database.Update
 
  Database database
-database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+database:Connect("localhost", "myfirstdatabase", "root", "password")
 
 Update query
-query:SetTable("grocery_list")
-query:Filter("foodCost > 3.00")
+query:SetTable("grocerylist")
+query:Filter("FoodCost > 3.00")
 
 boolean filtering = query:UsingFilter()
 output "If it is using filter correctly value should be true: " +  filtering
-query:Add("foodCost", 3.50)
-query:Add("foodName", "Italian Sausage (Hot)")
+query:Add("FoodCost", 3.50)
+query:Add("FoodName", "Italian Sausage (Hot)")
 
 database:Update(query)
 

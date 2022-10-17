@@ -8,10 +8,10 @@ Database database
 database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
    
 
-QueryResult result = database:Find("grocery_list")
+QueryResult result = database:Find("grocerylist")
 
 repeat while result:HasNext()
     result:Next()
-    output result:GetInteger("foodCalories")
+    output result:GetInteger("FoodCalories")
 end
     

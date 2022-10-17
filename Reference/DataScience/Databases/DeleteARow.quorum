@@ -6,8 +6,8 @@ Database database
 database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
 
   Delete delete
-  delete:SetTable("grocery_list") 
-  delete:Filter("foodID = 1")
+  delete:SetTable("grocerylist") 
+  delete:Filter("FoodID = 1")
   integer rowsAffected = database:Delete(delete)
   output delete:ToText()
 

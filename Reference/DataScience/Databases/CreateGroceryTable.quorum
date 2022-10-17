@@ -1,0 +1,16 @@
+use Libraries.Data.Database.Database
+    use Libraries.Data.Database.CreateTable
+
+
+    Database database
+    database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
+
+    CreateTable newTable
+    newTable:SetTable("GroceryList")
+    newTable:AddIntegerColumn("FoodID")
+    newTable:AddTextColumn("FoodName", 100)
+    newTable:AddNumberColumn("FoodCost")
+    newTable:AddIntegerColumn("FoodCalories")
+    newTable:AddIntegerColumn("FoodQuantity")
+
+    database:CreateTable(newTable)

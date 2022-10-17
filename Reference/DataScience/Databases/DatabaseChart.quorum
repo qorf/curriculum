@@ -13,8 +13,8 @@ frame = database:FindAsDataFrame("grocery_list")
 
 output frame:ToText()
 
-frame:AddSelectedFactors("foodName")
-frame:AddSelectedColumns("foodCost")
+frame:AddSelectedFactors("FoodName")
+frame:AddSelectedColumns("FoodCost")
 
 // Using the frame, create a BarChart object.
 BarChart chart = frame:BarChart()

@@ -8,6 +8,6 @@ output database:IsConnected()
 
 DataFrame frame
 
-frame = database:ConvertResultToDataFrame(database:Find("grocery_list"))
+frame = database:ConvertResultToDataFrame(database:Find("grocerylist"))
 
 output frame:ToText()

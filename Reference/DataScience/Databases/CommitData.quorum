@@ -8,9 +8,9 @@ database:SetAutoCommit(false)
 output "Status of Auto-Commit:" + database:GetAutoCommit()
 
  Update update
- update:SetTable("grocery_list")
- update:Filter("foodQuantity = 7")
- update:Add("foodQuantity", 1)
+ update:SetTable("grocerylist")
+ update:Filter("FoodQuantity = 7")
+ update:Add("FoodQuantity", 1)
 
 integer rows = database:Update(update)
 

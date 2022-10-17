@@ -12,5 +12,5 @@ output database:IsConnected()
 
 DataFrame frame
 
-frame = database:FindAsDataFrame("grocery_list", "foodCalories = 50")
+frame = database:FindAsDataFrame("grocerylist", "FoodCalories = 50")
 output frame:ToText()

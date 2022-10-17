@@ -8,9 +8,9 @@ use Libraries.Data.Database.QueryMetaData
     database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
    
 
-    QueryResult result = database:Find("grocery_list")
+    QueryResult result = database:Find("grocerylist")
 
     repeat while result:HasNext()
         result:Next()
-        output result:GetText("foodName")
+        output result:GetText("FoodName")
     end

@@ -4,7 +4,14 @@ use Libraries.Data.Database.DropTable
 Database database
 database:Connect("localhost", "myfirstdatabase", "root", "Danhowell662160")
 
+/*
 DropTable drop
 drop:SetTable("customer_list")
+drop:SetEmptyOnly(true)
+database:DropTable(drop)
+*/
+
+DropTable drop
+drop:SetTable("grocerylist")
 drop:SetEmptyOnly(true)
 database:DropTable(drop)

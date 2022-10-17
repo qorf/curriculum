@@ -8,7 +8,7 @@ output database:IsConnected()
 
 DataFrame frame
 
-frame = database:FindAsDataFrame("grocery_list")
+frame = database:FindAsDataFrame("grocerylist")
 
 output frame:ToText()
 
