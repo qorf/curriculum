@@ -24,13 +24,13 @@ chart:SetBandWidth(0)
 chart:SetXAxisTitle("Type of extrema")
 chart:SetYAxisTitle("Age")
 chart:SetLegendTitle("Life Span")
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 // add subtitle for more description
 chart:SetSubtitle("How long do cats live")
 
 
 // customization features
-chart:SetColorPaletteToDisturbing()
+//chart:SetColorPaletteToDisturbing()
 // define a clear interval, we separate each interval by 2
 chart:SetYTickInterval(2)
 // let's start our chart at 6 to examine a curve as a whole
@@ -41,4 +41,4 @@ chart:SetYAxisMinimum(6)
 chart:Display()
 
 // Save the chart image
-chart:Save("ViolionExample1.svg")
+chart:Save("ViolinExample1.svg")

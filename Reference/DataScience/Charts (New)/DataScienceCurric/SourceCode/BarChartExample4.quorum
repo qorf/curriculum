@@ -25,7 +25,7 @@ BarChart chart = frame:BarChart()
 chart:SetFontSize(30)
 
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 
 /* you are free to set the Y axis to a certain height, 
    notice that this charts highest value is a little above 500, so we will set max to 600
@@ -52,7 +52,8 @@ chart:SetYAxisTitle("Cost (in USD $)")
 // add subtitle for more description
 chart:SetSubtitle("Various nightly activities cost in different countries")
 
-chart:SeparateByFactor(7)
+chart:SeparateByFactor(6)
+chart:SetCornerRadius(5)
 
 // display chart
 chart:Display()

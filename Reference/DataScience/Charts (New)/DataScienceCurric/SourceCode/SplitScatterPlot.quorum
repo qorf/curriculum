@@ -31,13 +31,13 @@ chart:SetTitle("Charges of Insurance Based Off of BMI and Age")
 chart:SetFontSize(30)
 
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("top")
+chart:SetLegendLocationToTop()
 
 // color palette contains yellows, oranges, browns, and greens
 chart:SetColorPaletteToMagma()
 
 // change point size
-chart:SetPointDensity(15)
+chart:SetPointDensity(8)
 
 //split into multiple scatter plots
 chart:SeparateBySeries(10)

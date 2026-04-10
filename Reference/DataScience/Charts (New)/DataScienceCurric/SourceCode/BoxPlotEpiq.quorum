@@ -15,26 +15,26 @@ frame:AddSelectedColumns("Christmas spend in UK")
 BoxPlot chart = frame:BoxPlot()
 chart:SetTitle("Christmas Spending from 1999 - 2021")
 // let's adjust the font size so it appears nicely on the screen
-chart:SetTitleFontSize(20)
+//chart:SetTitleFontSize(20)
 
 // label the x axis, y axis, and hide the outliers
-chart:SetXAxisTitle("")
-chart:SetYAxisTitle("Amount spent")
-chart:SetLegendTitle("countries")
+//chart:SetXAxisTitle("")
+//chart:SetYAxisTitle("Amount spent")
+//chart:SetLegendTitle("Country")
 // add subtitle for more description
-chart:SetSubtitle("Shows how expensive Christmas shopping is over the years. We can use a box plot to easily calculate the IQR. Note that IQR = Q3 - Q1")
-chart:HideOutliers()
+//chart:SetSubtitle("Shows how expensive Christmas shopping is over the years. We can use a box plot to easily calculate the IQR. Note that IQR = Q3 - Q1")
+//chart:HideOutliers()
 
 // customization features
-chart:SetColorPaletteToTrustworthy()
+//chart:SetColorPaletteToTrustworthy()
 // define a clear interval, we separate each interval by 50
-chart:SetYTickInterval(50)
+//chart:SetYTickInterval(50)
 // let's start our chart at 700 to examine a curve as a whole
-chart:SetYAxisMinimum(700)
+//chart:SetYAxisMinimum(700)
 chart:FlipOrientation()
 
 // display the histogram
-chart:Display(1000,1000)
+chart:Display()
 
 // Save the chart image
 chart:Save("BoxEpiq.svg")

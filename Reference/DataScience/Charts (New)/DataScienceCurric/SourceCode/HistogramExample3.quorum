@@ -31,7 +31,7 @@ chart:SetLegendTitle("How long dogs live")
 chart:SetSubtitle("Age ranges of Dog Breeds")
 
 // customization features
-chart:SetColorPaletteToTrustworthy()
+//chart:SetColorPaletteToTrustworthy()
 // define a clear interval, we separate each interval by 2
 chart:SetXTickInterval(2)
 // let's start our chart at 0 to examine a curve as a whole

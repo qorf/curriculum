@@ -1,10 +1,12 @@
 {
+    "AndroidAssets" : "media",
     "DevelopmentEnvironmentVersion" : "Quorum Studio 4.0.0",
     "ExecutableName" : "Default",
+    "IOSAssets" : "media",
     "IOS_BUNDLE" : "org.quorumlanguage",
     "IOS_DEVICE" : "iPhone 12 Simulator",
-    "Main" : "\SourceCode\BarChartExample.quorum",
-    "MobileAssets" : "media",
+    "Main" : "/SourceCode/HistogramExample3.quorum",
+    "Project Version" : "1.0",
     "ProjectName" : "DataScienceCurric",
     "ProjectType" : "JavaType",
     "iosVersion" : "15.0"

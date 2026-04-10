@@ -45,7 +45,7 @@ chart:SetXAxisTitle("Date")
 chart:SetYAxisTitle("People Vaccinated (per hundred)")
 // labels the legend
 chart:SetLegendTitle("Vaccination Ratios")
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 
 // displays chart in a specified window size
 chart:Display()

@@ -24,16 +24,16 @@ chart:SetTitle("Genres of the Most Streamed Songs on Spotify")
 // label your legend to show users what is being categorized
 chart:SetLegendTitle("Genres")
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 // add subtitle for more description
 chart:SetSubtitle("Most Popular Music Genres in Spotify")
 
 // creates a hole in the middle of the pie chart (optional feature)
-chart:SetDonutHolePercent(0.8)
+chart:SetDonutHolePercent(0.5)
 chart:SeparateByFactor(3)
 
 // adjust font size by preference, here we set it to 20 pt
-chart:SetFontSize(15)
+//chart:SetFontSize(15)
 
 /* change color palette if needed, this color palette is set to 
    Colorgorical which helps give our graphs aesthetic and discriminable color palettes

@@ -23,7 +23,7 @@ BarChart chart = frame:BarChart()
 chart:SetFontSize(30)
 
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 
 /* you are free to set the Y axis to a certain height, 
    notice that this charts highest value is a little above 500, so we will set max to 600

@@ -22,7 +22,7 @@ chart:SetTitle("Top Wine Reviews Based on Type")
 // label your legend to show users what is being categorized
 chart:SetLegendTitle("Variety")
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("bottom")
+//chart:SetLegendLocationToBottom()
 // add subtitle for more description
 chart:SetSubtitle("Praised wine categorized by type")
 
@@ -30,7 +30,7 @@ chart:SetSubtitle("Praised wine categorized by type")
 chart:SetDonutHolePercent(0.1)
 
 // adjust font size by preference, here we set it to 20 pt
-chart:SetFontSize(20)
+//chart:SetFontSize(20)
 
 /* change color palette if needed, this color palette is set to 
    Colorgorical which helps give our graphs aesthetic and discriminable color palettes
@@ -40,7 +40,7 @@ chart:SetFontSize(20)
 //chart:SetColorPaletteToCalm()
 //chart:SetColorPaletteToMagma()
 //chart:SetColorPaletteToColorgorical()
-chart:SetColorPaletteToPlayful()
+//chart:SetColorPaletteToPlayful()
 
 // display chart
 chart:Display()

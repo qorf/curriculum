@@ -1,0 +1,43 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.BoxPlot
+
+// create frame component
+DataFrame frame
+// read in data from height of male and female by country 2022 csv
+frame:Load("../Data/APILatency.csv")
+
+// pull out specified columns from csv that we are comparing
+frame:AddSelectedColumns("ResponseTimeMs")
+frame:AddSelectedFactor(0)
+frame:AddSelectedFactor(1)
+
+// create histogram object
+// this will create two separate data charts to compare
+BoxPlot chart = frame:BoxPlot()
+chart:SetTitle("API Response Time")
+// let's adjust the font size so it appears nicely on the screen
+//chart:SetTitleFontSize(20)
+
+// label the x axis, y axis, and the legend title
+//chart:SetXAxisTitle("Sex")
+//chart:SetYAxisTitle("Height (cm)")
+// add subtitle for more description
+//chart:SetSubtitle("What is the average height of the population by sex?")
+//chart:HideOutliers()
+
+// customization features
+chart:SetColorPaletteToTrustworthy()
+// define a clear interval, we separate each interval by 2
+//chart:SetYTickInterval(10)
+// let's start our chart at 100 to examine a curve as a whole
+chart:SetOrientationToHorizontal()
+
+chart:SetXAxisMaximum(340)
+
+
+// display the box plot
+chart:Display()
+
+// Save the chart image
+chart:Save("BoxExample3.svg")
+

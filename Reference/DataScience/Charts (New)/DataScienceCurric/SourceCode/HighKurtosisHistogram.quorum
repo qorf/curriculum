@@ -26,10 +26,10 @@ chart:SetXAxisTitle("Sepal Width (CM)")
 chart:SetYAxisTitle("Number of Irises")
 chart:SetLegendTitle("Measurments of Iris")
 // add subtitle for more description
-chart:SetSubtitle("Age ranges of Dog Breeds")
+chart:SetSubtitle("Sepal Width of Dog Breeds")
 
 // customization features
-chart:SetColorPaletteToTrustworthy()
+//chart:SetColorPaletteToWarmScale()
 // define a clear interval, we separate each interval by 2
 chart:SetXTickInterval(0.2)
 // let's start our chart at 0 to examine a curve as a whole
@@ -38,3 +38,5 @@ chart:SetXAxisMaximum(6)
 
 // display the histogram
 chart:Display()
+
+chart:Save("HighKurtosisHistogram.svg")

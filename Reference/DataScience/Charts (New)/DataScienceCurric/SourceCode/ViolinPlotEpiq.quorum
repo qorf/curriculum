@@ -28,13 +28,13 @@ chart:SetBandWidth(2)
 chart:SetXAxisTitle("Main Condition")
 chart:SetYAxisTitle("Temperature")
 chart:SetLegendTitle("Temperature Factors")
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 // add subtitle for more description
 chart:SetSubtitle("In this graph, we can see a mixture of high and low dispersion to showcase the graph density.")
 
 
 // customization features
-chart:SetColorPaletteToDisturbing()
+//chart:SetColorPaletteToDisturbing()
 // define a clear interval, we separate each interval by 50
 chart:SetYTickInterval(20)
 chart:SetXTickInterval(10)

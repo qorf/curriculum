@@ -1,0 +1,56 @@
+use Libraries.Compute.Statistics.DataFrame
+use Libraries.Interface.Controls.Charts.ScatterPlot
+
+/*
+    This is an example of a simple scatter plot in quorum.
+*/
+
+// Create a dataframe to hold the data.
+DataFrame frame
+
+// Load your data file into the frame.
+frame:Load("../Data/studyTime.csv")
+
+// Select data from the frame that you wish to use in your scatter plot. 
+// Note: In Scatter Plots, you must select at least two columns.
+//      The first column will be the x-axis independent variable.
+//      The second column or more will be the y-axis dependent variable.
+
+frame:AddSelectedColumns("StudyHours")
+frame:AddSelectedColumns("TestScore")
+
+// Using the frame, create a ScatterPlot object.
+ScatterPlot chart = frame:ScatterPlot()
+chart:ShowLegend(false)
+
+// Give the chart a descriptive title.
+chart:SetTitle("Study Time and Test Scores")
+
+// Add a subtitle for further description.
+//chart:SetSubtitle("Does weight correlate to life span for dogs?")
+
+// Give the x axis a descriptive title.
+chart:SetXAxisTitle("Study Hours")
+
+// Give the y axis a descriptive title.
+chart:SetYAxisTitle("Test Score")
+
+// Give the legend a descriptive title.
+//chart:SetLegendTitle("Breed Group")
+
+// You can show linear regression line trends.
+//chart:ShowLinearRegression(true) 
+
+// You can switch the x-axis and the y-axis.
+//chart:FlipOrientation()
+
+// If needed, you can change the color palette to a predefined palette or create a custom one.
+// Disturbing color palette contains yellows, oranges, browns, and greens
+//chart:SetColorPaletteToDisturbing()
+
+// Display your scatter plot.
+chart:Display()
+
+// save chart image
+chart:Save("scatterplot1.svg")
+

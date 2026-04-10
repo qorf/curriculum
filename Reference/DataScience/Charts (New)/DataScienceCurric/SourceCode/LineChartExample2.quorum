@@ -45,7 +45,7 @@ chart:SetXAxisTitle("Date")
 chart:SetYAxisTitle("People Vaccinated (per hundred)")
 // labels the legend
 chart:SetLegendTitle("Vaccination Ratios")
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 // add subtitle for more description
 chart:SetSubtitle("How Well COVID-19 Distribution Was In NV")
 

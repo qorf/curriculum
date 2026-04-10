@@ -32,7 +32,7 @@ chart:SetSubtitle("How expensive does staying in NYC cost")
 
 // customization features
 // sets this to warm tones
-chart:SetColorPaletteToWarmScale()
+//chart:SetColorPaletteToWarmScale()
 // define a clear interval, we separate each interval by 50
 chart:SetXTickInterval(50)
 // let's start our chart at 0 to examine a curve as a whole

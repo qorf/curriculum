@@ -25,7 +25,7 @@ chart:SetSubtitle("Shows how expensive Christmas shopping is over the years")
 chart:HideOutliers()
 
 // customization features
-chart:SetColorPaletteToTrustworthy()
+//chart:SetColorPaletteToTrustworthy()
 // define a clear interval, we separate each interval by 50
 chart:SetYTickInterval(50)
 // let's start our chart at 700 to examine a curve as a whole

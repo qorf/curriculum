@@ -23,7 +23,7 @@ BarChart chart = frame:BarChart()
 chart:SetFontSize(30)
 
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 
 /* you are free to set the Y axis to a certain height, 
    notice that this charts highest value is a little above 500, so we will set max to 600
@@ -43,7 +43,7 @@ chart:SetLegendTitle("Theme Parks")
 chart:SetColorPaletteToExciting()
 
 // stacks bars on top of each other
-chart:IsStacked(true)
+chart:StackBars(true)
 
 // create title to describe graph
 chart:SetTitle("Cost of Theme Park Tickets Over the Years")

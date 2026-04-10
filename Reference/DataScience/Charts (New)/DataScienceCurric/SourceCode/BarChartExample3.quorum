@@ -8,7 +8,7 @@ use Libraries.Interface.Controls.Charts.BarChart
 
 // create dataframe to read in data
 DataFrame frame
-frame:Load("../Data/Other/ThemeParks.csv")
+frame:Load("../Data/Other/ThemeParks2.csv")
 
 // pull out selected data, for this we will be catagorizing by year and theme parks
 frame:AddSelectedFactors("Year")
@@ -20,15 +20,15 @@ frame:AddSelectedColumns("Universal Studios Hollywood")
 BarChart chart = frame:BarChart()
 
 // adjust font size by preference, here we set it to 30 pt
-chart:SetFontSize(30)
+//chart:SetFontSize(30)
 
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 
 /* you are free to set the Y axis to a certain height, 
    notice that this charts highest value is a little above 500, so we will set max to 600
 */
-chart:SetYAxisMaximum(300)
+//chart:SetYAxisMaximum(200)
 chart:SetYAxisMinimum(0)
 
 // label your legend to show users what is being categorized
@@ -40,7 +40,7 @@ chart:SetLegendTitle("Theme Parks")
 //chart:SetColorPaletteToNegative()
 //chart:SetColorPaletteToCalm()
 //chart:SetColorPaletteToMagma()
-chart:SetColorPaletteToExciting()
+//chart:SetColorPaletteToExciting()
 
 // stacks bars on top of each other
 //chart:IsStacked(true)

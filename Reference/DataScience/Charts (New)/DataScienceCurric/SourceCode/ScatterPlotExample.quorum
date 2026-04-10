@@ -9,7 +9,7 @@ use Libraries.Interface.Controls.Charts.ScatterPlot
 DataFrame frame
 
 // Load your data file into the frame.
-frame:Load("data/Dogs.csv")
+frame:Load("../Data/Animals/Dogs.csv")
 
 // Select data from the frame that you wish to use in your scatter plot. 
 // Note: In Scatter Plots, you must select at least two columns.
@@ -39,14 +39,17 @@ chart:SetYAxisTitle("Maximum Weight (pounds)")
 chart:SetLegendTitle("Breed Group")
 
 // You can show linear regression line trends.
-chart:ShowLinearRegression(true) 
+//chart:ShowLinearRegression(true) 
 
 // You can switch the x-axis and the y-axis.
 chart:FlipOrientation()
 
 // If needed, you can change the color palette to a predefined palette or create a custom one.
 // Disturbing color palette contains yellows, oranges, browns, and greens
-chart:SetColorPaletteToDisturbing()
+//chart:SetColorPaletteToDisturbing()
 
 // Display your scatter plot.
 chart:Display()
+
+// save chart image
+chart:Save("scatterplot1.svg")

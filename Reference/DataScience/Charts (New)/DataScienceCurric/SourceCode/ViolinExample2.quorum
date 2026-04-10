@@ -29,13 +29,13 @@ chart:SetBandWidth(0)
 chart:SetXAxisTitle("Feed")
 chart:SetYAxisTitle("Weight (g)")
 chart:SetLegendTitle("Weight by sex")
-chart:SetLegendLocation("bottom")
+chart:SetLegendLocationToBottom()
 // add subtitle for more description
-chart:SetSubtitle("How much do chicks weight?")
+chart:SetSubtitle("How much do chicks weigh?")
 
 
 // customization features
-chart:SetColorPaletteToDisturbing()
+//chart:SetColorPaletteToDisturbing()
 // define a clear interval, we separate each interval by 50
 chart:SetYTickInterval(50)
 // let's start our chart at 6 to examine a curve as a whole

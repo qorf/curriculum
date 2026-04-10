@@ -31,7 +31,7 @@ chart:SetFontSize(20)
 // creates a thicker line for graph
 chart:SetLineDensity(4)
 // changes the color palette
-chart:SetColorPaletteToCalm()
+//chart:SetColorPaletteToCalm()
 
 
 // sets title for chart at the top, this should give the chart meaning

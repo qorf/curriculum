@@ -37,3 +37,4 @@ chart:FlipOrientation()
 // display the box plot
 chart:Display()
 
+chart:Save("HighDispersionViolin.svg")

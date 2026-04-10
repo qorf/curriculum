@@ -33,12 +33,12 @@ chart:SetSubtitle("The faster the car is, it reduces the total trip time")
 chart:SetPointDensity(5)
 
 // show regression line trends
-chart:ShowLinearRegression(true) 
+//chart:ShowLinearRegression(true) 
 // adjust the line thickness
-chart: SetRegressionLineDensity(3)
+//chart: SetRegressionLineDensity(3)
 
 // sets color palette
-chart:SetColorPaletteToMagma()
+//chart:SetColorPaletteToMagma()
 
 // adjust font size
 chart:SetFontSize(20)

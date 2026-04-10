@@ -8,41 +8,42 @@ use Libraries.Interface.Controls.Charts.PieChart
 
 // create dataframe to read in data
 DataFrame frame
-frame:Load("../Data/Culture and Entertainment/movies.csv")
+frame:Load("../Data/moviesByGenre.csv")
 
 // pull out selected data, for this we will be categorizing by country and cost
-frame:AddSelectedFactors("genre")
+frame:AddSelectedFactors("Genre")
+frame:AddSelectedColumn(1)
 
 // using the data frame, format data by creating a bar chart component
 PieChart chart = frame:PieChart()
 
 // create title to describe graph
-chart:SetTitle("Movie Genres with the Most Revenue")
+chart:SetTitle("Movie Distribution by Genre")
 // add subtitle for more description
 chart:SetSubtitle("Most Popular Movie Genres")
 
 // label your legend to show users what is being categorized
 chart:SetLegendTitle("Genres")
 // set the legend location, choices are left, right, top and bottom
-chart:SetLegendLocation("right")
+//chart:SetLegendLocationToRight()
 
 // creates a hole in the middle of the pie chart (optional feature)
-chart:SetDonutHolePercent(0.50)
+chart:SetDonutHolePercent(0.2)
 
 // adjust font size by preference, here we set it to 20 pt
-chart:SetFontSize(20)
+//chart:SetFontSize(20)
 
 /* change color palette if needed, this color palette is set to 
    Colorgorical which helps give our graphs aesthetic and discriminable color palettes
 */
-chart:SetColorPaletteToNegative()
+//chart:SetColorPaletteToNegative()
 //chart:SetColorPaletteToCalm()
 //chart:SetColorPaletteToMagma()
 //chart:SetColorPaletteToColorgorical()
 //chart:SetColorPaletteToPositive()
 
 // display chart
-chart:Display()
+chart:Display(1000,1000)
 
 // save chart image
 chart:Save("piechart2.svg")

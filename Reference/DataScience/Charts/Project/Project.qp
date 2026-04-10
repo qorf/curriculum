@@ -1,10 +1,12 @@
 {
+    "AndroidAssets" : "media",
     "DevelopmentEnvironmentVersion" : "Quorum Studio 4.0.3",
     "ExecutableName" : "Default",
+    "IOSAssets" : "media",
     "IOS_BUNDLE" : "org.quorumlanguage",
     "IOS_DEVICE" : "iPhone 12",
-    "Main" : "/SourceCode/Lines.quorum",
-    "MobileAssets" : "media",
+    "Main" : "/SourceCode/BarChartExample.quorum",
+    "Project Version" : "1.0",
     "ProjectName" : "Charts",
     "ProjectType" : "JavaType",
     "iosVersion" : "14.1"
